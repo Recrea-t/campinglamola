@@ -1,0 +1,33 @@
+{
+  "home": "Inici",
+
+  "latestPosts": "Darrers posts",
+  "category": "Categoria",
+  "allPosts": "Tots els Posts",
+  "toRead": "de lectura",
+
+  "next": "Seguent",
+  "prev": "Anterior",
+  "of": "de",
+
+  "moreButton": "Saber-ne més",
+
+  "callUs": "Truca'ns",
+  "writeUs": "Escriu-nos",
+
+  "name": "Nom i cognoms",
+  "email": "Correu electrònic",
+  "message": "Missatge",
+  "conditionsPart1": "He llegit i accepto la ",
+  "conditionsPart2": " i accepto el tractament de les meves dades personals per a l'enviament d'informació que respongui a la consulta que he plantejat.",
+
+  "followUs": "Segueix-nos",
+  "legalNote": "Avís legal",
+  "privacyPolicy": "Protecció de dades",
+
+  "submit": "Enviar",
+  "submitting": "Enviant",
+  "errorConditions": "Has d'acceptar la política de privacitat.",
+  "messageSuccessfulTitle": "Missatge enviat",
+  "messageSuccessfulDescription": "Aviat et respondrem"
+}

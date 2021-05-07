@@ -1,0 +1,6 @@
+{
+  "menuItems": [
+    { "name": "Quiénes somos", "link": "/quienes-somos" },
+    { "name": "Contacto", "link": "/contacto" }
+  ]
+}

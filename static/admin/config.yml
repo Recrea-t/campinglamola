@@ -1,0 +1,43 @@
+backend:
+  name: git-gateway # Prod
+  repo: recrea-t/gatsby-recreat-i18n-starter
+  branch: main
+
+local_backend: true
+
+media_folder: static/images
+public_folder: /images
+
+site_url: https://recreat-i18n.netlify.app
+display_url: https://recreat-18n.netlify.app
+logo_url: https://recreat-i18n.netlify.app/images/logo.svg
+
+show_preview_links: false
+
+locale: "ca"
+i18n:
+  # Required and can be one of multiple_folders, multiple_files or single_file
+  # multiple_folders - persists files in `<folder>/<locale>/<slug>.<extension>`
+  # multiple_files - persists files in `<folder>/<slug>.<locale>.<extension>`
+  # single_file - persists a single file in `<folder>/<slug>.<extension>`
+  structure: multiple_files
+  locales: [ca, es, en]
+  default_locale: ca
+
+collections:
+    #Pages
+    - name: 'seo' # Used in routes, e.g., /admin/collections/blog
+      label: 'SEO' # Used in the UI
+      description: 'Modifica els camps importants per al SEO de cadascuna de les pàgines del lloc web.'
+      summary: '{{name}}'
+      folder: 'src/pages'
+      extension: 'md'
+      format: frontmatter
+      create: false
+      delete: false
+      editor:
+        preview: false
+      i18n: true
+      fields: # The fields for each document, usually in front matter
+        - { label: 'Títol (SEO)', name: 'title', widget: 'string', i18n: true}
+        - { label: 'Descripció (SEO)', name: 'description', widget: 'text', i18n: true }

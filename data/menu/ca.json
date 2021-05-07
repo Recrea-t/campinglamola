@@ -1,0 +1,7 @@
+{
+  "menuItems": [
+    { "name": "Qui som", "link": "/qui-som" },
+    { "name": "Blog", "link": "/blog" },
+    { "name": "Contacta", "link": "/contacte" }
+  ]
+}

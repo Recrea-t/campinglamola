@@ -1,0 +1,33 @@
+{
+  "home": "Inicio",
+
+  "latestPosts": "Últimos posts",
+  "category": "Categoria",
+  "allPosts": "Todos los Posts",
+  "toRead": "de lectura",
+
+  "next": "Siguiente",
+  "prev": "Anterior",
+  "of": "de",
+
+  "moreButton": "Saber más",
+
+  "callUs": "Llámanos",
+  "writeUs": "Envíanos un correo",
+
+  "name": "Nombre y apellidos",
+  "email": "Correo electrónico",
+  "message": "Mensaje",
+  "conditionsPart1": "He leído y accepto la ",
+  "conditionsPart2": " y accepto el tractamiento de mis datos personales para el envío de información que responda a la consulta que he planteado.",
+
+  "followUs": "Siguenos",
+  "legalNote": "Aviso legal",
+  "privacyPolicy": "Protección de datos",
+
+  "submit": "Enviar",
+  "submitting": "Enviando",
+  "errorConditions": "Debes acceptar la política de privacidad.",
+  "messageSuccessfulTitle": "Mensaje enviado",
+  "messageSuccessfulDescription": "Pronto te responderemos"
+}
