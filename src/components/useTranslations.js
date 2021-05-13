@@ -32,11 +32,7 @@ const query = graphql`
           name
           translations: childTranslationsJson {
             home
-
-            latestPosts
-            category
-            allPosts
-            toRead
+            menuTitle
 
             next
             prev

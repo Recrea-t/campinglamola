@@ -7,10 +7,10 @@ import shadows from "./foundations/shadows"
 import typography from "./foundations/typography"
 
 // Component style overrides
-import FormLabel from "./components/form-label"
 import Container from "./components/container"
 import Heading from "./components/heading"
 import Button from "./components/button"
+import Drawer from "./components/drawer"
 import Link from "./components/link"
 
 const overrides = {
@@ -22,9 +22,9 @@ const overrides = {
     Container,
     Heading,
     Button,
+    Drawer,
     CloseButton: { ...Button },
     Link,
-    FormLabel,
   },
 }
 

@@ -4,7 +4,6 @@ import PropTypes from "prop-types"
 import { Container } from "@chakra-ui/react"
 
 import SEO from "../components/SEO/seo"
-import Hero from "../components/sections/Hero"
 
 const IndexPage = props => {
   const { frontmatter } = props.data.markdownRemark
@@ -12,8 +11,7 @@ const IndexPage = props => {
   return (
     <>
       <SEO title={frontmatter.title} description={frontmatter.description} />
-      <Hero {...props} />
-      <Container mb={8}></Container>
+      <Container mb={8} minH="100vh"></Container>
     </>
   )
 }
@@ -37,6 +35,15 @@ export const query = graphql`
       frontmatter {
         title
         description
+        images {
+          childImageSharp {
+            gatsbyImageData(
+              layout: FULL_WIDTH
+              placeholder: BLURRED
+              formats: [AUTO, WEBP, AVIF]
+            )
+          }
+        }
       }
     }
   }

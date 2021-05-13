@@ -5,7 +5,7 @@ import locales from "../../../data/i18n"
 import { useLocale } from "../../hooks/locale"
 import useLanguageMapping from "../useLanguageMapping"
 
-import { HStack, Link } from "@chakra-ui/react"
+import { Center, HStack, Link, StackDivider } from "@chakra-ui/react"
 
 const Languages = () => {
   // Grab the locale (passed through context) from the Locale Provider
@@ -54,47 +54,70 @@ const Languages = () => {
   }
 
   return (
-    <HStack spacing={4}>
-      <Link
-        to="/"
-        title="Català"
-        as={GatsbyLink}
-        variant="nav-link"
-        onClick={e => {
-          e.preventDefault()
-          handleClickLanguage("ca")
-        }}
-        className={locale === "ca" ? "is-active" : ""}
-      >
-        CAT
-      </Link>
-      <Link
-        to="/"
-        title="Español"
-        as={GatsbyLink}
-        variant="nav-link"
-        onClick={e => {
-          e.preventDefault()
-          handleClickLanguage("es")
-        }}
-        className={locale === "es" ? "is-active" : ""}
-      >
-        ES
-      </Link>
-      <Link
-        to="/"
-        title="English"
-        as={GatsbyLink}
-        variant="nav-link"
-        onClick={e => {
-          e.preventDefault()
-          handleClickLanguage("en")
-        }}
-        className={locale === "en" ? "is-active" : ""}
-      >
-        ENG
-      </Link>
-    </HStack>
+    <Center w="full">
+      <HStack spacing={2} divider={<StackDivider my="8px !important" />}>
+        <Link
+          to="/"
+          title="Català"
+          as={GatsbyLink}
+          variant={locale === "ca" ? "nav-link" : "nav-sublink"}
+          onClick={e => {
+            e.preventDefault()
+            handleClickLanguage("ca")
+          }}
+        >
+          CAT
+        </Link>
+        <Link
+          to="/"
+          title="Español"
+          as={GatsbyLink}
+          variant={locale === "es" ? "nav-link" : "nav-sublink"}
+          onClick={e => {
+            e.preventDefault()
+            handleClickLanguage("es")
+          }}
+        >
+          ES
+        </Link>
+        <Link
+          to="/"
+          title="English"
+          as={GatsbyLink}
+          variant={locale === "en" ? "nav-link" : "nav-sublink"}
+          onClick={e => {
+            e.preventDefault()
+            handleClickLanguage("en")
+          }}
+        >
+          ENG
+        </Link>
+        <Link
+          to="/"
+          title="Français"
+          as={GatsbyLink}
+          variant={locale === "fr" ? "nav-link" : "nav-sublink"}
+          onClick={e => {
+            e.preventDefault()
+            handleClickLanguage("fr")
+          }}
+        >
+          FR
+        </Link>
+        <Link
+          to="/"
+          title="Nederlands"
+          as={GatsbyLink}
+          variant={locale === "nl" ? "nav-link" : "nav-sublink"}
+          onClick={e => {
+            e.preventDefault()
+            handleClickLanguage("nl")
+          }}
+        >
+          NL
+        </Link>
+      </HStack>
+    </Center>
   )
 }
 

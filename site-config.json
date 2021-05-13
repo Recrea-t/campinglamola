@@ -1,8 +1,8 @@
 {
-  "title": "Recrea't",
-  "titleTemplate": "%s · Recrea't",
-  "description": "Disseny gràfic i comunicació",
-  "siteUrl": "https://recreat-i18n.netlify.com",
+  "title": "Càmping La Mola",
+  "titleTemplate": "%s · Càmping La Mola",
+  "description": "Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i espaiosos bungalows.",
+  "siteUrl": "https://www.campinglamola.com",
   "image": "/images/Logo.svg",
   "color": "#E8864B",
   "author": {
@@ -11,31 +11,27 @@
     "url": "https://www.recreat.cat/"
   },
   "organization": {
-    "name": "Recrea't",
-    "url": "https://recreat.cat",
+    "name": "Càmping La Mola",
+    "url": "https://www.campinglamola.com",
     "logo": "/images/icon.png",
-    "email": "marta@recreat.cat",
-    "phone": {
-      "number": 34646429298,
-      "title": "646 429 298"
-    },
-    "address": "Carrer Major</br>25580 Esterri d'Àneu"
+    "email": "info@campinglamola.com",
+    "phones": [
+      {
+        "number": 34660979199,
+        "title": "973 62 40 24"
+      },
+      {
+        "number": 34651034527,
+        "title": "651 034 527"
+      }
+    ],
+    "address": "Ctra. d'Espot LV-5004 Km.5<br/>25597 Espot"
   },
   "social": {
-    "instagram": {
-      "username": "Recreat_Disseny_Comunicacio",
-      "title": "Instagram",
-      "baseUrl": "https://www.instagram.com/"
-    },
     "facebook": {
-      "username": "RecreatDissenyComunicacio",
+      "username": "campinglamola",
       "title": "Facebook",
       "baseUrl": "https://www.facebook.com/"
-    },
-    "linkedin": {
-      "username": "marta-bruna-b5847733",
-      "title": "Twitter",
-      "baseUrl": "https://www.linkedin.com/in/"
     }
   }
 }

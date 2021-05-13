@@ -1,18 +1,23 @@
 export default {
   baseStyle: {
-    mb: "2rem",
-    textAlign: "center",
-    fontSize: "2xl",
-    fontWeight: "semibold",
-    textTransform: "uppercase",
+    textAlign: "left",
+    fontSize: "6xl",
+    color: "deepGreen.500",
   },
   variants: {
-    "in-index": {
-      fontSize: "4xl",
-      fontWeight: "normal",
+    "in-card": {
+      color: "paleGrey.500",
+      textAlign: "center",
     },
-    "no-margin": {
-      mb: "0",
+    "in-box": {
+      color: "dullBrown.500",
+      fontSize: "md",
+      fontWeight: "semibold",
+    },
+    "in-markdown": {
+      color: "darkIndigo.500",
+      fontSize: "md",
+      fontWeight: "semibold",
     },
   },
 }

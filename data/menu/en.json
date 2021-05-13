@@ -1,7 +1,11 @@
 {
   "menuItems": [
-    { "name": "About", "link": "/about" },
-    { "name": "Blog", "link": "/blog" },
-    { "name": "Contact", "link": "/contact" }
+    { "name": "Plots", "link": "/plots", "variant": "nav-sublink" },
+    { "name": "Gaials", "link": "/gaials", "variant": "nav-sublink" },
+    { "name": "Bungalows", "link": "/bungalows", "variant": "nav-sublink" },
+    { "name": "Facilities", "link": "/facilities", "variant": "nav-sublink" },
+    { "name": "Activities", "link": "/activities", "variant": "nav-link" },
+    { "name": "Environment", "link": "/environment", "variant": "nav-link" },
+    { "name": "Contact", "link": "/contact", "variant": "nav-link" }
   ]
 }

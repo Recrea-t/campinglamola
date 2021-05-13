@@ -35,6 +35,7 @@ const query = graphql`
             menuItems {
               link
               name
+              variant
             }
           }
         }

@@ -1,6 +1,11 @@
 {
   "menuItems": [
-    { "name": "Quiénes somos", "link": "/quienes-somos" },
-    { "name": "Contacto", "link": "/contacto" }
+    { "name": "Parcelas", "link": "/parcelas", "variant": "nav-sublink" },
+    { "name": "Gaials", "link": "/gaials", "variant": "nav-sublink" },
+    { "name": "Bungalows", "link": "/bungalows", "variant": "nav-sublink" },
+    { "name": "Servicios", "link": "/servicios", "variant": "nav-sublink" },
+    { "name": "Actividades", "link": "/actividades", "variant": "nav-link" },
+    { "name": "Entorno", "link": "/entorno", "variant": "nav-link" },
+    { "name": "Contacto", "link": "/contacto", "variant": "nav-link" }
   ]
 }

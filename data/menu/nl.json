@@ -1,0 +1,19 @@
+{
+  "menuItems": [
+    {
+      "name": "Kampeerplaatsen",
+      "link": "/kampeerplaatsen",
+      "variant": "nav-sublink"
+    },
+    { "name": "Gaials", "link": "/gaials", "variant": "nav-sublink" },
+    { "name": "Bungalows", "link": "/bungalows", "variant": "nav-sublink" },
+    {
+      "name": "Voorzieningen",
+      "link": "/voorzieningen",
+      "variant": "nav-sublink"
+    },
+    { "name": "Activiteiten", "link": "/activiteiten", "variant": "nav-link" },
+    { "name": "Omgeving", "link": "/omgeving", "variant": "nav-link" },
+    { "name": "Contact", "link": "/contact", "variant": "nav-link" }
+  ]
+}

@@ -7,26 +7,23 @@ const {
   findKey,
   removeTrailingSlash,
 } = require(`./src/utils/gatsby-node-helpers`)
-const { createFilePath } = require("gatsby-source-filesystem")
 
-exports.onCreateWebpackConfig = ({ actions }) => {
-  actions.setWebpackConfig({
-    plugins: [
-      new webpack.IgnorePlugin({
-        resourceRegExp: /^netlify-identity-widget$/,
-      }),
-    ],
-  })
-}
+//exports.onCreateWebpackConfig = ({ actions }) => {
+//actions.setWebpackConfig({
+//plugins: [
+//new webpack.IgnorePlugin({
+//resourceRegExp: /^netlify-identity-widget$/,
+//}),
+//],
+//})
+//}
 
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions
 
   return graphql(`
     {
-      files: allMarkdownRemark(
-        sort: { fields: [frontmatter___date], order: DESC }
-      ) {
+      files: allMarkdownRemark {
         edges {
           node {
             id
@@ -52,13 +49,6 @@ exports.createPages = ({ actions, graphql }) => {
     // Posts and Pages created by markdown
     const contentMarkdown = result.data.files.edges
 
-    // Total of posts (only posts, no pages) per locale
-    // It will be increase by the next loop
-    let postsTotal = {}
-    Object.keys(locales).forEach(item => {
-      postsTotal[item] = 0
-    })
-
     contentMarkdown.forEach(edge => {
       const id = edge.node.id
       // Getting Slug and Title
@@ -69,15 +59,8 @@ exports.createPages = ({ actions, graphql }) => {
       const locale = edge.node.fields.locale
       const isDefault = edge.node.fields.isDefault
 
-      const isPage = edge.node.frontmatter.templateKey !== "post-page"
-
-      // Count posts
-      postsTotal[locale] = isPage
-        ? postsTotal[locale] + 0
-        : postsTotal[locale] + 1
-
       createPage({
-        path: localizedSlug({ isDefault, locale, slug, isPage }),
+        path: localizedSlug({ isDefault, locale, slug }),
         tags: edge.node.frontmatter.tags,
         component: path.resolve(
           `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
@@ -89,62 +72,6 @@ exports.createPages = ({ actions, graphql }) => {
           locale,
           title,
         },
-      })
-    })
-
-    // Tag pages
-    //let tags = []
-
-    // Iterate through each post, putting all found tags into `tags`
-    //contentMarkdown.forEach(edge => {
-    //if (_.get(edge, `node.frontmatter.tags`)) {
-    //tags = tags.concat(edge.node.frontmatter.tags)
-    //}
-    //})
-
-    // Eliminate duplicate tags
-    //tags = _.uniq(tags)
-
-    // Make tag pages
-    //tags.forEach(tag => {
-    //const tagPath = `/tags/${_.kebabCase(tag)}/`
-    //createPage({
-    //path: tagPath,
-    //component: path.resolve(`src/templates/tags-page.js`),
-    //context: {
-    //tag,
-    //},
-    //})
-    //})
-
-    // Creating Posts List and its Pagination
-    const postsPerPage = 4
-    const postsListTemplate = path.resolve(`./src/templates/posts-list-page.js`)
-
-    Object.keys(locales).map(lang => {
-      const numPages = Math.ceil(postsTotal[lang] / postsPerPage)
-
-      // Use the values defined in "locales" to construct the path
-      const localizedPath = locales[lang].default
-        ? "/blog"
-        : `${locales[lang].path}/blog`
-
-      return Array.from({ length: numPages }).forEach((_, index) => {
-        createPage({
-          path:
-            index === 0
-              ? `${localizedPath}`
-              : `${localizedPath}/page/${index + 1}`,
-          component: postsListTemplate,
-          context: {
-            limit: postsPerPage,
-            skip: index * postsPerPage,
-            numPages,
-            currentPage: index + 1,
-            locale: lang,
-            dateFormat: locales[lang].dateFormat,
-          },
-        })
       })
     })
   })

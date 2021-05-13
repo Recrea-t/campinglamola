@@ -1,7 +1,11 @@
 {
   "menuItems": [
-    { "name": "Qui som", "link": "/qui-som" },
-    { "name": "Blog", "link": "/blog" },
-    { "name": "Contacta", "link": "/contacte" }
+    { "name": "Parcel·les", "link": "/parceles", "variant": "nav-sublink" },
+    { "name": "Gaials", "link": "/gaials", "variant": "nav-sublink" },
+    { "name": "Bungalous", "link": "/bungalous", "variant": "nav-sublink" },
+    { "name": "Serveis", "link": "/serveis", "variant": "nav-sublink" },
+    { "name": "Activitats", "link": "/activitats", "variant": "nav-link" },
+    { "name": "Entorn", "link": "/entorn", "variant": "nav-link" },
+    { "name": "Contacte", "link": "/contacte", "variant": "nav-link" }
   ]
 }

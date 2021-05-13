@@ -1,6 +1,6 @@
 backend:
   name: git-gateway # Prod
-  repo: recrea-t/gatsby-recreat-i18n-starter
+  repo: recrea-t/campinglamola
   branch: main
 
 local_backend: true
@@ -8,36 +8,318 @@ local_backend: true
 media_folder: static/images
 public_folder: /images
 
-site_url: https://recreat-i18n.netlify.app
-display_url: https://recreat-18n.netlify.app
-logo_url: https://recreat-i18n.netlify.app/images/logo.svg
+site_url: https://www.campinglamola.com
+display_url: https://campinglamola.com
+logo_url: https://www.campinglamola.com/images/logo.svg
 
 show_preview_links: false
 
 locale: "ca"
-i18n:
-  # Required and can be one of multiple_folders, multiple_files or single_file
-  # multiple_folders - persists files in `<folder>/<locale>/<slug>.<extension>`
-  # multiple_files - persists files in `<folder>/<slug>.<locale>.<extension>`
-  # single_file - persists a single file in `<folder>/<slug>.<extension>`
-  structure: multiple_files
-  locales: [ca, es, en]
-  default_locale: ca
 
 collections:
     #Pages
-    - name: 'seo' # Used in routes, e.g., /admin/collections/blog
-      label: 'SEO' # Used in the UI
-      description: 'Modifica els camps importants per al SEO de cadascuna de les pàgines del lloc web.'
-      summary: '{{name}}'
-      folder: 'src/pages'
-      extension: 'md'
+    - name: 'pages-ca'
+      label: 'Pàgines (Català)'
       format: frontmatter
       create: false
       delete: false
       editor:
         preview: false
-      i18n: true
-      fields: # The fields for each document, usually in front matter
-        - { label: 'Títol (SEO)', name: 'title', widget: 'string', i18n: true}
-        - { label: 'Descripció (SEO)', name: 'description', widget: 'text', i18n: true }
+      files:
+        - name: 'inici-ca'
+          label: Inici
+          file: 'src/pages/index.ca.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Imatges
+              name: images
+              widget: list
+              minimize_collapsed: true
+              label_singular: imatge
+              field: { label: Imatge, name: image, widget: image }
+            - label: Descripció
+              name: summary
+              widget: markdown
+        - name: 'parceles-ca'
+          label: 'Parcel·les'
+          file: 'src/pages/parceles.ca.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Imatges
+              name: images
+              widget: list
+              minimize_collapsed: true
+              label_singular: imatge
+              field: { label: Imatge, name: image, widget: image }
+            - label: Descripció
+              name: summary
+              widget: markdown
+            - label: Preus
+              name: pricing
+              widget: list
+              fields:
+                - label: Nom
+                  name: title
+                  widget: string
+                - label: Resum
+                  name: description
+                  widget: text
+                  required: false
+                - label: Preu
+                  name: price
+                  widget: number
+                  value_type: float
+                  min: 0
+            - label: Normativa
+              name: regulation
+              widget: markdown
+            - label: Condicions
+              name: conditions
+              widget: markdown
+        - name: 'bungalous-ca'
+          label: 'Bungalous'
+          file: 'src/pages/bungalous.ca.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Imatges
+              name: images
+              widget: list
+              minimize_collapsed: true
+              label_singular: imatge
+              field: { label: Imatge, name: image, widget: image }
+            - label: Descripció
+              name: summary
+              widget: markdown
+            - label: Preus
+              name: pricing
+              widget: list
+              fields:
+                - label: Nom
+                  name: title
+                  widget: string
+                - label: Resum
+                  name: description
+                  widget: text
+                  required: false
+                - label: Preu temporada alta
+                  name: highSeason
+                  widget: number
+                  value_type: float
+                  min: 0
+                - label: Preu temporada baixa
+                  name: lowSeason
+                  widget: number
+                  value_type: float
+                  min: 0
+            - label: Normativa
+              name: regulation
+              widget: markdown
+            - label: Condicions
+              name: conditions
+              widget: markdown
+        - name: 'gaials-ca'
+          label: 'Gaials'
+          file: 'src/pages/gaials.ca.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Imatges
+              name: images
+              widget: list
+              minimize_collapsed: true
+              label_singular: imatge
+              field: { label: Imatge, name: image, widget: image }
+            - label: Descripció
+              name: summary
+              widget: markdown
+            - label: Preus
+              name: pricing
+              widget: list
+              fields:
+                - label: Nom
+                  name: title
+                  widget: string
+                - label: Resum
+                  name: description
+                  widget: text
+                  required: false
+                - label: Preu temporada alta
+                  name: highSeason
+                  widget: number
+                  value_type: float
+                  min: 0
+                - label: Preu temporada baixa
+                  name: lowSeason
+                  widget: number
+                  value_type: float
+                  min: 0
+            - label: Normativa
+              name: regulation
+              widget: markdown
+            - label: Condicions
+              name: conditions
+              widget: markdown
+        - name: 'services-ca'
+          label: 'Serveis'
+          file: 'src/pages/serveis.ca.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Imatges
+              name: images
+              widget: list
+              minimize_collapsed: true
+              label_singular: imatge
+              field: { label: Imatge, name: image, widget: image }
+            - name: services
+              label: Serveis
+              widget: list
+              summary: "{{fields.title}}"
+              fields:
+                - label: Títol
+                  name: title
+                  widget: string
+                - label: Descripció
+                  name: description
+                  widget: markdown
+                  required: false
+                - label: Icona
+                  name: image
+                  widget: image
+                  allow_multiple: false
+        - name: 'activities-ca'
+          label: 'Activitats'
+          file: 'src/pages/activitats.ca.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Imatges
+              name: images
+              widget: list
+              minimize_collapsed: true
+              label_singular: imatge
+              field: { label: Imatge, name: image, widget: image }
+            - name: activities
+              label: Activitats
+              widget: list
+              summary: "{{fields.title}}"
+              fields:
+                - label: Títol
+                  name: title
+                  widget: string
+                - label: Descripció
+                  name: description
+                  widget: markdown
+        - name: 'environment-ca'
+          label: Entorn
+          file: 'src/pages/entorn.ca.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Imatges
+              name: images
+              widget: list
+              minimize_collapsed: true
+              label_singular: imatge
+              field: { label: Imatge, name: image, widget: image }
+            - label: Descripció
+              name: summary
+              widget: markdown
+            - name: options
+              label: Opcions
+              widget: list
+              summary: "{{fields.title}}"
+              fields:
+                - label: Títol
+                  name: title
+                  widget: string
+                - label: Descripció
+                  name: description
+                  widget: markdown
+                - label: URL
+                  name: url
+                  widget: string
+                  required: false
+        - name: 'contact-ca'
+          label: 'Contacte'
+          file: 'src/pages/contacte.ca.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Text
+              name: summary
+              widget: markdown
+        - name: 'legal-notice-ca'
+          label: 'Avís legal'
+          file: 'src/pages/avis-legal.ca.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Cos
+              name: body
+              widget: markdown
+        - name: 'privacy-policy-ca'
+          label: 'Protecció de dades'
+          file: 'src/pages/proteccio-de-dades.ca.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Cos
+              name: body
+              widget: markdown
+        - name: '404-ca'
+          label: '404'
+          file: 'src/pages/404.ca.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Cos
+              name: body
+              widget: markdown

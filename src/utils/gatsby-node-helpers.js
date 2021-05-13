@@ -2,14 +2,11 @@
 exports.removeTrailingSlash = path =>
   path === `/` ? path : path.replace(/\/$/, ``)
 
-exports.localizedSlug = ({ isDefault, locale, slug, isPage }) => {
-  if (isPage) {
-    if (slug === "index") {
-      return isDefault ? `/` : `/${locale}/`
-    }
-    return isDefault ? `/${slug}/` : `/${locale}/${slug}/`
+exports.localizedSlug = ({ isDefault, locale, slug }) => {
+  if (slug === "index") {
+    return isDefault ? `/` : `/${locale}/`
   }
-  return isDefault ? `/blog/${slug}/` : `/${locale}/blog/${slug}/`
+  return isDefault ? `/${slug}/` : `/${locale}/${slug}/`
 }
 
 // From lodash:

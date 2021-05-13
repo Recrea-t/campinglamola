@@ -12,6 +12,14 @@
       "en": {
         "title": "Home",
         "link": "/"
+      },
+      "fr": {
+        "title": "Home",
+        "link": "/"
+      },
+      "nl": {
+        "title": "Home",
+        "link": "/"
       }
     },
     {
@@ -26,34 +34,146 @@
       "en": {
         "title": "404",
         "link": "/404"
+      },
+      "fr": {
+        "title": "404",
+        "link": "/404"
+      },
+      "nl": {
+        "title": "404",
+        "link": "/404"
       }
     },
     {
       "ca": {
-        "title": "Qui som?",
-        "link": "/qui-som"
+        "title": "Gaials",
+        "link": "/gaials"
       },
       "es": {
-        "title": "Quiénes somos?",
-        "link": "/quienes-somos"
+        "title": "Gaials",
+        "link": "/gaials"
       },
       "en": {
-        "title": "About us",
-        "link": "/about"
+        "title": "Gaials",
+        "link": "/gaials"
+      },
+      "fr": {
+        "title": "Gaials",
+        "link": "/gaials"
+      },
+      "nl": {
+        "title": "Gaials",
+        "link": "/gaials"
       }
     },
     {
       "ca": {
-        "title": "Blog",
-        "link": "/blog"
+        "title": "Bungalous",
+        "link": "/bungalous"
       },
       "es": {
-        "title": "Blog",
-        "link": "/blog"
+        "title": "Bungalows",
+        "link": "/bungalows"
       },
       "en": {
-        "title": "Blog",
-        "link": "/blog"
+        "title": "Bungalows",
+        "link": "/bungalows"
+      },
+      "fr": {
+        "title": "Bungalows",
+        "link": "/bungalows"
+      },
+      "nl": {
+        "title": "Bungalows",
+        "link": "/bungalows"
+      }
+    },
+    {
+      "ca": {
+        "title": "Parcel·les",
+        "link": "/parceles"
+      },
+      "es": {
+        "title": "Parcelas",
+        "link": "/parcelas"
+      },
+      "en": {
+        "title": "Plots",
+        "link": "/plots"
+      },
+      "fr": {
+        "title": "Parcelles",
+        "link": "/parcelles"
+      },
+      "nl": {
+        "title": "Kampeerplaatsen",
+        "link": "/kampeerplaatsen"
+      }
+    },
+    {
+      "ca": {
+        "title": "Serveis",
+        "link": "/serveis"
+      },
+      "es": {
+        "title": "Servicios",
+        "link": "/servicios"
+      },
+      "en": {
+        "title": "Facilities",
+        "link": "/facilities"
+      },
+      "fr": {
+        "title": "Équipements",
+        "link": "/equipements"
+      },
+      "nl": {
+        "title": "Voorzieningen",
+        "link": "/voorzieningen"
+      }
+    },
+    {
+      "ca": {
+        "title": "Activitats",
+        "link": "/activitats"
+      },
+      "es": {
+        "title": "Actividades",
+        "link": "/actividades"
+      },
+      "en": {
+        "title": "Activities",
+        "link": "/activities"
+      },
+      "fr": {
+        "title": "Activités",
+        "link": "/activites"
+      },
+      "nl": {
+        "title": "Activiteiten",
+        "link": "/activiteiten"
+      }
+    },
+    {
+      "ca": {
+        "title": "Entorn",
+        "link": "/entorn"
+      },
+      "es": {
+        "title": "Entorno",
+        "link": "/entorno"
+      },
+      "en": {
+        "title": "Environment",
+        "link": "/environment"
+      },
+      "fr": {
+        "title": "Environnement",
+        "link": "/environnement"
+      },
+      "nl": {
+        "title": "Omgeving",
+        "link": "/omgeving"
       }
     },
     {
@@ -68,6 +188,14 @@
       "en": {
         "title": "Contact us",
         "link": "/contact"
+      },
+      "fr": {
+        "title": "Contactez-nous",
+        "link": "/contact"
+      },
+      "nl": {
+        "title": "Contacteer ons",
+        "link": "/contact"
       }
     },
     {
@@ -80,6 +208,14 @@
         "link": "/aviso-legal"
       },
       "en": {
+        "title": "Legal Note",
+        "link": "/legal-note"
+      },
+      "fr": {
+        "title": "Legal Note",
+        "link": "/legal-note"
+      },
+      "nl": {
         "title": "Legal Note",
         "link": "/legal-note"
       }
@@ -96,16 +232,14 @@
       "en": {
         "title": "Privacy Policy",
         "link": "/privacy-policy"
-      }
-    },
-    {
-      "ca": {
-        "title": "Desenvolupament web modern",
-        "link": "/blog/desenvolupament-web-modern"
       },
-      "en": {
-        "title": "Modern Web Development",
-        "link": "/blog/modern-web-development"
+      "fr": {
+        "title": "Privacy Policy",
+        "link": "/privacy-policy"
+      },
+      "nl": {
+        "title": "Privacy Policy",
+        "link": "/privacy-policy"
       }
     }
   ]

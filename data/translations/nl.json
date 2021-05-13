@@ -1,0 +1,29 @@
+{
+  "home": "Home",
+  "menuTitle": "The Camping",
+
+  "next": "Next",
+  "prev": "Prev",
+  "of": "of",
+
+  "moreButton": "More",
+
+  "callUs": "Call us",
+  "writeUs": "Write us",
+
+  "name": "Naam",
+  "email": "Email",
+  "message": "Bericht",
+  "conditionsPart1": "I have read and I accept the ",
+  "conditionsPart2": " , then I accept the use of my personal data in order to give an answer to the message I amb about to send.",
+
+  "followUs": "Follow us",
+  "legalNote": "Legal Note",
+  "privacyPolicy": "Privacy Policy",
+
+  "submit": "Verzenden",
+  "submitting": "Sending",
+  "errorConditions": "You must accept the conditions.",
+  "messageSuccessfulTitle": "Message sent",
+  "messageSuccessfulDescription": "We will contact you back soon"
+}

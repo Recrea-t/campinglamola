@@ -1,10 +1,10 @@
-import { mode } from "@chakra-ui/theme-tools";
+import { mode } from "@chakra-ui/theme-tools"
 
 function variantCustomLink(props) {
-  const { colorScheme: c } = props;
-  const color = mode(`${c}.500`, `${c}.200`)(props);
-  const hoverColor = mode(`${c}.700`, `${c}.200`)(props);
-  const activeColor = mode(`${c}.700`, `${c}.400`)(props);
+  const { colorScheme: c } = props
+  const color = mode(`${c}.500`, `${c}.200`)(props)
+  const hoverColor = mode(`${c}.700`, `${c}.200`)(props)
+  const activeColor = mode(`${c}.700`, `${c}.400`)(props)
 
   return {
     padding: 0,
@@ -27,15 +27,15 @@ function variantCustomLink(props) {
     _active: {
       color: activeColor,
     },
-  };
+  }
 }
 
 export default {
   baseStyle: {
-    fontWeight: "bold",
+    fontWeight: "semibold",
     textTransform: "uppercase",
   },
   variants: {
     "custom-link": variantCustomLink,
   },
-};
+}

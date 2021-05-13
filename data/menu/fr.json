@@ -1,0 +1,15 @@
+{
+  "menuItems": [
+    { "name": "Parcelles", "link": "/parcelles", "variant": "nav-sublink" },
+    { "name": "Gaials", "link": "/gaials", "variant": "nav-sublink" },
+    { "name": "Bungalows", "link": "/bungalows", "variant": "nav-sublink" },
+    { "name": "Équipements", "link": "/equipements", "variant": "nav-sublink" },
+    { "name": "Activités", "link": "/activites", "variant": "nav-link" },
+    {
+      "name": "Environnement",
+      "link": "/environnement",
+      "variant": "nav-link"
+    },
+    { "name": "Contact", "link": "/contact", "variant": "nav-link" }
+  ]
+}

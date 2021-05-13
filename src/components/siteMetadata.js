@@ -22,24 +22,14 @@ const useSiteMetadata = () => {
               url
               logo
               email
-              phone {
+              phones {
                 number
                 title
               }
               address
             }
             social {
-              linkedin {
-                username
-                title
-                baseUrl
-              }
               facebook {
-                username
-                title
-                baseUrl
-              }
-              instagram {
                 username
                 title
                 baseUrl

@@ -1,10 +1,6 @@
 {
   "home": "Inici",
-
-  "latestPosts": "Darrers posts",
-  "category": "Categoria",
-  "allPosts": "Tots els Posts",
-  "toRead": "de lectura",
+  "menuTitle": "El Càmping",
 
   "next": "Seguent",
   "prev": "Anterior",

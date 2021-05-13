@@ -1,47 +1,77 @@
 import React from "react"
-import { Box, Flex, Collapse } from "@chakra-ui/react"
-import { HamburgerIcon, CloseIcon } from "@chakra-ui/icons"
+import {
+  Box,
+  Text,
+  Drawer,
+  DrawerContent,
+  DrawerCloseButton,
+  DrawerBody,
+  HStack,
+  Center,
+  Link,
+} from "@chakra-ui/react"
+import { HamburgerIcon, PhoneIcon, EmailIcon } from "@chakra-ui/icons"
 
-//import { MenuButton } from "./MenuButton"
-//import { EASINGS } from "../../theme/utils"
+import useTranslations from "../useTranslations"
+import Languages from "../ui/Languages"
+
+import useSiteMetadata from "../siteMetadata"
 
 const ToggleMenu = props => {
-  const { show, toggleMenu, children } = props
+  const { isOpen, onOpen, onClose, children } = props
+  const btnRef = React.useRef()
+
+  const { menuTitle, callUs, writeUs } = useTranslations()
+  const { organization } = useSiteMetadata()
 
   return (
     <>
-      {/*
-			<Box
-        display={{ base: "block", md: "none" }}
-        aria-label="Toggle navigation"
-        as={MenuButton}
-        width={31}
-        strokeWidth={3}
-        color="nightRider.500"
-        transition={{
-          ease: EASINGS.easeInOutCubic,
-          duration: 0.2,
-        }}
-        isOpen={show}
-        onClick={toggleMenu}
-      />
-			*/}
-
-      <Box
-        display={{ base: "block", md: "none" }}
-        onClick={toggleMenu}
-        aria-label="Toggle navigation"
+      <Box onClick={onOpen} ref={btnRef}>
+        <HamburgerIcon w={8} h={8} color="dullBrown.500" />
+      </Box>
+      <Drawer
+        isOpen={isOpen}
+        onClose={onClose}
+        finalFocusRef={btnRef}
+        size="full"
+        isFullheight={true}
+        motionPreset="scale"
       >
-        {show ? <CloseIcon w={8} h={8} /> : <HamburgerIcon w={8} h={8} />}
-      </Box>
-
-      <Box display={show ? "block" : "none"} flexBasis="100%">
-        <Collapse in={show} unmountOnExit>
-          <Flex align="center" justify="center" direction="column" pt={4}>
-            {children}
-          </Flex>
-        </Collapse>
-      </Box>
+        <DrawerContent>
+          <Center pos="relative" p={4} h="full">
+            <DrawerCloseButton />
+            <DrawerBody>
+              <Text
+                fontWeight="semibold"
+                fontSize="2rem"
+                textTransform="uppercase"
+              >
+                {menuTitle}
+              </Text>
+              {children}
+              <Center w="full" my={4}>
+                <HStack spacing={[12, null, 16]}>
+                  <Link
+                    href={`tel:${organization.phones[1].number}`}
+                    title={callUs}
+                    color="paleGrey.500"
+                  >
+                    <PhoneIcon h={12} w={12} />
+                  </Link>
+                  <Link
+                    href={`mailto:${organization.email}`}
+                    title={writeUs}
+                    color="paleGrey.500"
+                  >
+                    <EmailIcon h={14} w={14} />
+                  </Link>
+                </HStack>
+              </Center>
+              <Languages />
+            </DrawerBody>
+          </Center>
+        </DrawerContent>
+      </Drawer>
     </>
   )
 }

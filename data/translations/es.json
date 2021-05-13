@@ -1,10 +1,6 @@
 {
   "home": "Inicio",
-
-  "latestPosts": "Últimos posts",
-  "category": "Categoria",
-  "allPosts": "Todos los Posts",
-  "toRead": "de lectura",
+  "menuTitle": "El Camping",
 
   "next": "Siguiente",
   "prev": "Anterior",
