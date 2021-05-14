@@ -45,6 +45,36 @@ collections:
             - label: Descripció
               name: summary
               widget: markdown
+            - name: camping
+              label: Allotjaments
+              widget: list
+              summary: "{{fields.title}}"
+              allow_add: false
+              min: 3
+              max: 3
+              fields:
+                - label: Títol
+                  name: title
+                  widget: string
+                - label: Imatge
+                  name: image
+                  widget: image
+                  allow_multiple: false
+            - name: environment
+              label: Entorn
+              widget: list
+              summary: "{{fields.title}}"
+              allow_add: false
+              min: 3
+              max: 3
+              fields:
+                - label: Títol
+                  name: title
+                  widget: string
+                - label: Imatge
+                  name: image
+                  widget: image
+                  allow_multiple: false
         - name: 'parceles-ca'
           label: 'Parcel·les'
           file: 'src/pages/parceles.ca.md'
@@ -260,6 +290,7 @@ collections:
               label: Opcions
               widget: list
               summary: "{{fields.title}}"
+              min: 3
               fields:
                 - label: Títol
                   name: title

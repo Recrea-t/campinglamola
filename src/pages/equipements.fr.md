@@ -1,6 +1,6 @@
 ---
-templateKey: index-page
-title: Serveis
+templateKey: services-page
+title: Équipements
 description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
   de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats
   paisatges. Oferim àmplies parcel·les amb gespa i ombra, així com còmodes i

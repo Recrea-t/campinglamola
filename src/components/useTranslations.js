@@ -33,6 +33,8 @@ const query = graphql`
           translations: childTranslationsJson {
             home
             menuTitle
+            services
+            environment
 
             next
             prev

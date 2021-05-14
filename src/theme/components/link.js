@@ -76,6 +76,14 @@ export default {
         textDecoration: "underline",
       },
     },
+    "in-card": {
+      fontSize: "4xl",
+      color: "paleGrey.500",
+      textDecoration: "none",
+      _hover: {
+        textDecoration: "underline",
+      },
+    },
     "in-footer-dark": {
       color: "paleGrey.500",
     },

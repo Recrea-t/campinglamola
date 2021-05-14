@@ -1,5 +1,5 @@
 ---
-templateKey: index-page
+templateKey: services-page
 title: Serveis
 description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
   de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats
@@ -37,7 +37,7 @@ services:
   - title: Parc infantil
     description: Una zona pels més petits i una altra per nens de 6 a 12 anys.
     image: /images/07Pic_infantil.svg
-  - title: Teni i ping-pong
+  - title: Tenis i ping-pong
     description: Possiblitat de llogar raquetes.
     image: /images/08Pic_Tenis.svg
   - title: Piscina

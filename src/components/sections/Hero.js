@@ -25,7 +25,7 @@ const Hero = props => {
       swipe: true,
     }
     return (
-      <Box pos="relative" w="full" h="calc(100vh - 100px)" ref={revealRef}>
+      <Box pos="relative" w="full" h="calc(100vh - 5rem)" ref={revealRef}>
         <Slider {...settings}>
           {images.map((image, index) => (
             <Image
@@ -55,7 +55,7 @@ const Hero = props => {
   }
 
   return (
-    <Box pos="relative" w="full" h="calc(100vh - 100px)" ref={revealRef}>
+    <Box pos="relative" w="full" h="calc(100vh - 5rem)" ref={revealRef}>
       <Image
         _before={{
           content: "''",

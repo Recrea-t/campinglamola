@@ -3,8 +3,8 @@ export default {
     maxW: "1200px",
   },
   variants: {
-    "with-top-padding": {
-      py: "2rem",
+    "with-vertical-padding": {
+      py: "1rem",
     },
   },
-};
+}

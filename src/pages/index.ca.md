@@ -8,8 +8,32 @@ images:
 summary: >-
   En l'immillorable entorn natural del Parc Nacional d'Aigüestortes i Estany de Sant Maurici, al nord del Pallars Sobirà, l'enclavament ideal per relaxar-se i gaudir de privilegiats paisatges, el Càmping la Mola, un càmping petit i familiar, els ofereix àmplies parcel·les amb gespa i ombra, espaiosos i confortables bungalous i acollidors gaials (petits allotjaments familiars), un lloc perfecte per a gaudir de les  vacances al Pirineu de Lleida.
 
-  Recomanat a qualsevol persona que estima la natura, l'esport i la tranquil·litat.
+  Recomanat a qualsevol persona que estima la natura, l'esport li la tranquil·litat.
 
   Sempre treballant per millorar. Els nostres clients repeteixen i ens recomanen.
+camping:
+  - title: Parcel·les
+    image: /images/01.jpg
+    url: /parceles
+  - title: Gaials
+    image: /images/02.jpg
+    url: /gaials
+  - title: Bungalous
+    image: /images/01.jpg
+    url: /bungalous
+servicesSummary: >-
+  Sempre treballant per millorar. Els nostres clients repeteixen i ens recomanen.
+environmentSummary: >-
+  Recomanat a qualsevol persona que estima la natura, l'esport i la tranquil·litat.
+environment:
+  - title: Parc Nacional d'Aigüestortes i Estany de Sant Maurici
+    image: /images/01.jpg
+    url: /entorn
+  - title: Parc Natural de l'Alt Pirineu
+    image: /images/02.jpg
+    url: /entorn
+  - title: Les Valls d'Àneu
+    image: /images/01.jpg
+    url: /entorn
 
 ---

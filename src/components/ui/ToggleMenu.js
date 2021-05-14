@@ -8,7 +8,6 @@ import {
   DrawerBody,
   HStack,
   Center,
-  Link,
 } from "@chakra-ui/react"
 import { HamburgerIcon, PhoneIcon, EmailIcon } from "@chakra-ui/icons"
 
@@ -16,6 +15,8 @@ import useTranslations from "../useTranslations"
 import Languages from "../ui/Languages"
 
 import useSiteMetadata from "../siteMetadata"
+
+import { MotionLink } from "../../theme/utils"
 
 const ToggleMenu = props => {
   const { isOpen, onOpen, onClose, children } = props
@@ -33,12 +34,19 @@ const ToggleMenu = props => {
         isOpen={isOpen}
         onClose={onClose}
         finalFocusRef={btnRef}
+        placement="top"
         size="full"
         isFullheight={true}
-        motionPreset="scale"
       >
         <DrawerContent>
-          <Center pos="relative" p={4} h="full">
+          <Center
+            pos="relative"
+            p={4}
+            h="full"
+            maxWidth="1200px"
+            w="full"
+            mx="auto"
+          >
             <DrawerCloseButton />
             <DrawerBody>
               <Text
@@ -51,20 +59,24 @@ const ToggleMenu = props => {
               {children}
               <Center w="full" my={4}>
                 <HStack spacing={[12, null, 16]}>
-                  <Link
+                  <MotionLink
                     href={`tel:${organization.phones[1].number}`}
                     title={callUs}
                     color="paleGrey.500"
+                    whileHover={{ scale: 1.05 }}
+                    whileTap={{ scale: 0.95 }}
                   >
                     <PhoneIcon h={12} w={12} />
-                  </Link>
-                  <Link
+                  </MotionLink>
+                  <MotionLink
                     href={`mailto:${organization.email}`}
                     title={writeUs}
                     color="paleGrey.500"
+                    whileHover={{ scale: 1.05 }}
+                    whileTap={{ scale: 0.95 }}
                   >
                     <EmailIcon h={14} w={14} />
-                  </Link>
+                  </MotionLink>
                 </HStack>
               </Center>
               <Languages />

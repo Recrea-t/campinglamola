@@ -146,5 +146,10 @@ exports.onCreateNode = ({ node, actions }) => {
     createNodeField({ node, name: `slug`, value: slug })
     createNodeField({ node, name: `locale`, value: lang })
     createNodeField({ node, name: `isDefault`, value: isDefault })
+    createNodeField({
+      node,
+      name: `templateKey`,
+      value: node.frontmatter.templateKey,
+    })
   }
 }
