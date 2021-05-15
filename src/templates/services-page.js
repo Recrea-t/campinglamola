@@ -1,29 +1,31 @@
 import React from "react"
 import { graphql } from "gatsby"
 import PropTypes from "prop-types"
-import { Box, Container, Heading, SimpleGrid, Text } from "@chakra-ui/react"
+import { Box, Container, Heading, SimpleGrid } from "@chakra-ui/react"
 
 import SEO from "../components/SEO/seo"
-import Card from "../components/ui/Card"
-
-import useTranslations from "../components/useTranslations"
-
-import ReactMarkdown from "react-markdown"
-import ChakraUIRenderer from "../utils/ChakraUIRenderer"
+import ServiceCard from "../components/ui/ServiceCard"
 
 const ServicesPage = props => {
   const { frontmatter } = props.data.markdownRemark
-  const { menuTitle, services, environment } = useTranslations()
 
   return (
     <>
       <SEO title={frontmatter.title} description={frontmatter.description} />
-      <Box bg="paleGrey.500">
-        <Container py={[4, null, 8]}>
-          <Heading mb={4}>{frontmatter.title}</Heading>
-          <SimpleGrid></SimpleGrid>
-        </Container>
-      </Box>
+      <Container py={[4, null, 8]}>
+        <Heading mb={4}>{frontmatter.title}</Heading>
+        {/*<SimpleGrid
+          className="grid"
+          columns={[1, null, 2, 3]}
+          spacing={8}
+          autoRows="calc(100px + 2rem)"
+				>*/}
+        <Box w="full" sx={{ columnCount: [1, null, 2, 3], columnGap: "32px" }}>
+          {frontmatter.services.map((service, index) => (
+            <ServiceCard key={index} index={index} {...service} />
+          ))}
+        </Box>
+      </Container>
     </>
   )
 }
@@ -51,13 +53,7 @@ export const query = graphql`
           title
           description
           image {
-            childImageSharp {
-              gatsbyImageData(
-                width: 100
-                placeholder: TRACED_SVG
-                formats: [AUTO, WEBP, AVIF]
-              )
-            }
+            publicURL
           }
         }
         images {
