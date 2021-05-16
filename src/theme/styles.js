@@ -15,6 +15,11 @@ const styles = {
       color: "#63656A !important",
       textDecoration: "none",
     },
+    ".chakra-tabs__tablist": {
+      button: {
+        textAlign: "left !important",
+      },
+    },
     ".is-slider": {
       position: "relative",
       width: "100%",

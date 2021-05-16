@@ -1,5 +1,5 @@
 ---
-templateKey: index-page
+templateKey: environment-page
 title: Entorn
 description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
   de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats

@@ -12,7 +12,7 @@ import {
 const ServiceCard = props => {
   const isSmallDevice = useBreakpointValue({ base: true, md: false })
 
-  const isEven = isSmallDevice && props.index % 2 == 0
+  const isEven = isSmallDevice && props.index % 2 === 0
 
   return (
     <VStack

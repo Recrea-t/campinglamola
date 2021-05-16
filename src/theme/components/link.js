@@ -28,6 +28,11 @@ function variantButton(props) {
   const background = mode(bg, `${c}.200`)(props)
 
   return {
+    h: 10,
+    minW: 10,
+    py: 1,
+    px: 4,
+    fontWeight: "semibold",
     textDecoration: "none",
     bg: background,
     color: mode(color, `gray.800`)(props),
