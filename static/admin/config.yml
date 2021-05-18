@@ -142,10 +142,6 @@ collections:
                 - label: Nom
                   name: title
                   widget: string
-                - label: Resum
-                  name: description
-                  widget: text
-                  required: false
                 - label: Preu temporada alta
                   name: highSeason
                   widget: number
@@ -188,10 +184,6 @@ collections:
                 - label: Nom
                   name: title
                   widget: string
-                - label: Resum
-                  name: description
-                  widget: text
-                  required: false
                 - label: Preu temporada alta
                   name: highSeason
                   widget: number

@@ -1,5 +1,5 @@
 ---
-templateKey: index-page
+templateKey: bungalows-page
 title: Bungalous
 description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
   de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats
@@ -35,7 +35,6 @@ summary: >-
   * No s'hi admeten animals de companyia.
 pricing:
   - title: 4 pax
-    description: null
     highSeason: 150
     lowSeason: 110
   - highSeason: 175

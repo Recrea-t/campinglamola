@@ -35,6 +35,9 @@ const query = graphql`
             menuTitle
             services
             environment
+            pricing
+            regulation
+            conditions
 
             next
             prev
