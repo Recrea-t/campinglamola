@@ -5,9 +5,6 @@ description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estan
   de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats
   paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i
   espaiosos bungalows
-images:
-  - ../../static/images/01.jpg
-  - ../../static/images/02.jpg
 summary: L'encant dels preciosos paisatges de les Valls d'Àneu, riuets, fonts,
   barrancs, salts d'aigua i l'autenticitat de la seva gent fan d'aquest entorn
   un bell paratge que no deixa ningú indiferent.

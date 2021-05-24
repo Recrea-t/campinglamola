@@ -6,8 +6,11 @@ description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estan
   paisatges. Oferim àmplies parcel·les amb gespa i ombra, així com còmodes i
   espaiosos bungalows.
 images:
-  - /images/01.jpg
-  - /images/02.jpg
+  - /images/serveis1.jpg
+  - /images/serveis2.jpg
+  - /images/serveis3.jpg
+  - /images/serveis4.jpg
+  - /images/serveis5.jpg
 services:
   - title: Bar cafeteria
     description: |-

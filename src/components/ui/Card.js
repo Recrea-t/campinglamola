@@ -49,6 +49,7 @@ const Card = ({ index, title, url, image }) => {
           bottom: 0,
           zIndex: 1,
           opacity: 0.5,
+          borderRadius: "var(--chakra-radii-xl)",
           background: "dullBrown.500",
         }}
       >

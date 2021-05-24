@@ -45,36 +45,30 @@ collections:
             - label: Descripció
               name: summary
               widget: markdown
-            - name: camping
-              label: Allotjaments
-              widget: list
-              summary: "{{fields.title}}"
-              allow_add: false
-              min: 3
-              max: 3
-              fields:
-                - label: Títol
-                  name: title
-                  widget: string
-                - label: Imatge
-                  name: image
-                  widget: image
-                  allow_multiple: false
-            - name: environment
-              label: Entorn
-              widget: list
-              summary: "{{fields.title}}"
-              allow_add: false
-              min: 3
-              max: 3
-              fields:
-                - label: Títol
-                  name: title
-                  widget: string
-                - label: Imatge
-                  name: image
-                  widget: image
-                  allow_multiple: false
+            - label: Imatge Parcel·les
+              name: plotsImage
+              widget: image
+              allow_multiple: false
+            - label: Imatge Gaials
+              name: gaialsImage
+              widget: image
+              allow_multiple: false
+            - label: Imatge Bungalous
+              name: bungalowsImage
+              widget: image
+              allow_multiple: false
+            - label: Imatge Parc Nacional
+              name: parcNacionalImage
+              widget: image
+              allow_multiple: false
+            - label: Imatge Parc Natural
+              name: parcNaturalImage
+              widget: image
+              allow_multiple: false
+            - label: Imatge Àneu
+              name: aneuImage
+              widget: image
+              allow_multiple: false
         - name: 'parceles-ca'
           label: 'Parcel·les'
           file: 'src/pages/parceles.ca.md'
@@ -101,15 +95,15 @@ collections:
                 - label: Nom
                   name: title
                   widget: string
-                - label: Resum
-                  name: description
-                  widget: text
-                  required: false
                 - label: Preu
                   name: price
                   widget: number
                   value_type: float
                   min: 0
+            - label: Notes sobre els preus
+              name: pricingNotes
+              widget: markdown
+              required: false
             - label: Normativa
               name: regulation
               widget: markdown
@@ -152,6 +146,10 @@ collections:
                   widget: number
                   value_type: float
                   min: 0
+            - label: Notes sobre els preus
+              name: pricingNotes
+              widget: markdown
+              required: false
             - label: Normativa
               name: regulation
               widget: markdown
@@ -194,6 +192,10 @@ collections:
                   widget: number
                   value_type: float
                   min: 0
+            - label: Notes sobre els preus
+              name: pricingNotes
+              widget: markdown
+              required: false
             - label: Normativa
               name: regulation
               widget: markdown

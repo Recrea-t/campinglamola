@@ -57,7 +57,7 @@ const Header = ({ inView }) => {
         <MotionBox animate={controls} initial="visible" variants={variants}>
           <LocalizedLink to="/" title={home} as={GatsbyLink}>
             <StaticImage
-              src="../../images/LogoRecreat.png"
+              src="../../images/Logo.svg"
               alt="Recrea't"
               loading="eager"
               layout="fixed"

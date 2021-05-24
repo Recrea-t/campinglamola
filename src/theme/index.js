@@ -12,6 +12,10 @@ import Accordion from "./components/accordion"
 import Heading from "./components/heading"
 import Button from "./components/button"
 import Drawer from "./components/drawer"
+import Input from "./components/input"
+import Textarea from "./components/textarea"
+import NumberInput from "./components/number-input"
+import Select from "./components/select"
 import Tabs from "./components/tabs"
 import Link from "./components/link"
 
@@ -26,6 +30,10 @@ const overrides = {
     Heading,
     Button,
     Drawer,
+    Input,
+    Textarea,
+    NumberInput,
+    Select,
     CloseButton: { ...Button },
     Tabs,
     Link,

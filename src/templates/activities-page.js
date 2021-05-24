@@ -1,65 +1,32 @@
 import React from "react"
 import { graphql } from "gatsby"
 import PropTypes from "prop-types"
-import {
-  Box,
-  Container,
-  Heading,
-  Icon,
-  Text,
-  Accordion,
-  AccordionItem,
-  AccordionButton,
-  AccordionPanel,
-} from "@chakra-ui/react"
+import { Container, Heading, Icon, Text, Accordion } from "@chakra-ui/react"
 import { Tabs, TabList, TabPanels, Tab, TabPanel } from "@chakra-ui/react"
-import { TriangleUpIcon, TriangleDownIcon } from "@chakra-ui/icons"
+import { TriangleDownIcon } from "@chakra-ui/icons"
 
 import SEO from "../components/SEO/seo"
-import { MotionLink } from "../theme/utils"
+import CustomAccordionItem from "../components/ui/CustomAccordionItem"
 
 import ReactMarkdown from "react-markdown"
 import ChakraUIRenderer from "../utils/ChakraUIRenderer"
 
-const Content = ({ option }) => (
-  <ReactMarkdown
-    components={ChakraUIRenderer()}
-    children={option.description}
-  />
-)
-
-const CustomAccordionItem = ({ option }) => (
-  <AccordionItem mb={1}>
-    {({ isExpanded }) => (
-      <>
-        <AccordionButton
-          _expanded={{
-            bg: "paleGrey.500",
-            color: "dullBrown.500",
-            _hover: {
-              bg: "paleGrey.600",
-            },
-          }}
-        >
-          <Box as="h3" flex="1" textAlign="left">
-            {option.title}
-          </Box>
-          {isExpanded ? (
-            <Icon as={TriangleUpIcon} />
-          ) : (
-            <Icon as={TriangleDownIcon} />
-          )}
-        </AccordionButton>
-        <AccordionPanel pb={4}>
-          <Content option={option} />
-        </AccordionPanel>
-      </>
+const Content = ({ option, withTitle = false }) => (
+  <>
+    {withTitle && (
+      <Heading variant="in-box" textTransform="uppercase" mb={4}>
+        {option.title}
+      </Heading>
     )}
-  </AccordionItem>
+    <ReactMarkdown
+      components={ChakraUIRenderer()}
+      children={option.description}
+    />
+  </>
 )
 
 const ActivitiesPage = props => {
-  const { frontmatter } = props.data.markdownRemark
+  const { frontmatter } = props.data.default
 
   return (
     <>
@@ -69,7 +36,11 @@ const ActivitiesPage = props => {
 
         <Accordion display={["inherit", null, "none"]} allowToggle>
           {frontmatter.activities.map((option, index) => (
-            <CustomAccordionItem key={index} option={option} />
+            <CustomAccordionItem
+              key={index}
+              title={option.title}
+              content={<Content option={option} />}
+            />
           ))}
         </Accordion>
 
@@ -79,9 +50,9 @@ const ActivitiesPage = props => {
           variant="enclosed-colored"
           colorScheme="paleGrey"
         >
-          <TabList>
+          <TabList w="40%">
             {frontmatter.activities.map((option, index) => (
-              <Tab key={index} justifyContent="space-between">
+              <Tab key={index} justifyContent="space-between" mb={1}>
                 <Text textAlign="left">{option.title}</Text>
                 <Icon
                   as={TriangleDownIcon}
@@ -95,7 +66,7 @@ const ActivitiesPage = props => {
           <TabPanels bg="paleGrey.500" ml={8}>
             {frontmatter.activities.map((option, index) => (
               <TabPanel key={index}>
-                <Content option={option} />
+                <Content option={option} withTitle />
               </TabPanel>
             ))}
           </TabPanels>
@@ -118,7 +89,7 @@ export default ActivitiesPage
 
 export const query = graphql`
   query ActivitiesPageTemplateQuery($id: String) {
-    markdownRemark(id: { eq: $id }) {
+    default: markdownRemark(id: { eq: $id }) {
       id
       html
       frontmatter {
@@ -128,6 +99,12 @@ export const query = graphql`
           title
           description
         }
+      }
+    }
+    images: markdownRemark(
+      fields: { locale: { eq: "ca" }, templateKey: { eq: "activities-page" } }
+    ) {
+      frontmatter {
         images {
           childImageSharp {
             gatsbyImageData(

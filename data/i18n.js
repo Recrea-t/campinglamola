@@ -5,7 +5,7 @@ module.exports = {
     default: true,
     path: `ca`,
     locale: `ca-ES`,
-    dateFormat: `DD/MM/YYYY`,
+    dateFormat: `dd/MM/yyyy`,
     siteLanguage: `ca`,
     ogLanguage: `ca_ES`,
     defaultTitle: "Càmping La Mola",
@@ -15,7 +15,7 @@ module.exports = {
   es: {
     path: `es`,
     locale: `es-ES`,
-    dateFormat: `DD/MM/YYYY`,
+    dateFormat: `dd/MM/yyyy`,
     siteLanguage: `es`,
     ogLanguage: `es_ES`,
     defaultTitle: "Camping La Mola",
@@ -24,10 +24,10 @@ module.exports = {
   },
   en: {
     path: `en`,
-    locale: `en-US`,
-    dateFormat: `MM/DD/YYYY`,
+    locale: `en-GB`,
+    dateFormat: `MM/dd/yyyy`,
     siteLanguage: `en`,
-    ogLanguage: `en_US`,
+    ogLanguage: `en_GB`,
     defaultTitle: "Camping La Mola",
     defaultDescription:
       "Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i espaiosos bungalows.",
@@ -35,7 +35,7 @@ module.exports = {
   fr: {
     path: `fr`,
     locale: `fr-FR`,
-    dateFormat: `DD/MM/YYYY`,
+    dateFormat: `dd/MM/yyyy`,
     siteLanguage: `fr`,
     ogLanguage: `fr_FR`,
     defaultTitle: "Camping La Mola",
@@ -45,7 +45,7 @@ module.exports = {
   nl: {
     path: `nl`,
     locale: `nl-NL`,
-    dateFormat: `DD/MM/YYYY`,
+    dateFormat: `dd/MM/yyyy`,
     siteLanguage: `nl`,
     ogLanguage: `nl_NL`,
     defaultTitle: "Camping La Mola",

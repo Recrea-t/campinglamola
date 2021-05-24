@@ -2,82 +2,73 @@ import React from "react"
 import { graphql } from "gatsby"
 import PropTypes from "prop-types"
 import {
-  Box,
   Container,
   Heading,
   Icon,
   Text,
   Accordion,
-  AccordionItem,
-  AccordionButton,
-  AccordionPanel,
+  Tabs,
+  TabList,
+  TabPanels,
+  Tab,
+  TabPanel,
 } from "@chakra-ui/react"
-import { Tabs, TabList, TabPanels, Tab, TabPanel } from "@chakra-ui/react"
-import { TriangleUpIcon, TriangleDownIcon } from "@chakra-ui/icons"
+import { TriangleDownIcon } from "@chakra-ui/icons"
 
 import SEO from "../components/SEO/seo"
+import CustomAccordionItem from "../components/ui/CustomAccordionItem"
+import SeasonsPricingItem from "../components/ui/SeasonsPricingItem"
+import BungalowsForm from "../components/ui/BungalowsForm"
 
 import useTranslations from "../components/useTranslations"
 
 import ReactMarkdown from "react-markdown"
 import ChakraUIRenderer from "../utils/ChakraUIRenderer"
 
-const Content = ({ content }) => (
-  <ReactMarkdown components={ChakraUIRenderer()} children={content} />
-)
-
-const CustomAccordionItem = ({ title, content }) => (
-  <AccordionItem mb={1}>
-    {({ isExpanded }) => (
-      <>
-        <AccordionButton
-          _expanded={{
-            bg: "paleGrey.500",
-            color: "dullBrown.500",
-            _hover: {
-              bg: "paleGrey.600",
-            },
-          }}
-        >
-          <Box as="h3" flex="1" textAlign="left">
-            {title}
-          </Box>
-          {isExpanded ? (
-            <Icon as={TriangleUpIcon} />
-          ) : (
-            <Icon as={TriangleDownIcon} />
-          )}
-        </AccordionButton>
-        <AccordionPanel pb={4}>
-          <Content content={content} />
-        </AccordionPanel>
-      </>
+const Content = ({ title, content }) => (
+  <>
+    {title && (
+      <Heading variant="in-box" mb={4} textTransform="uppercase">
+        {title}
+      </Heading>
     )}
-  </AccordionItem>
+    <ReactMarkdown components={ChakraUIRenderer()} children={content} />
+  </>
 )
 
 const BungalowsPage = props => {
-  const { frontmatter } = props.data.markdownRemark
-  const { pricing, regulation, conditions } = useTranslations()
+  const { frontmatter } = props.data.default
+  const { summary, pricing, regulation, conditions, reservations } =
+    useTranslations()
 
   return (
     <>
       <SEO title={frontmatter.title} description={frontmatter.description} />
       <Container py={[4, null, 8]}>
         <Heading mb={4}>{frontmatter.title}</Heading>
-        <ReactMarkdown
-          components={ChakraUIRenderer()}
-          children={frontmatter.summary}
-        />
 
         <Accordion display={["inherit", null, "none"]} allowToggle>
           <CustomAccordionItem
+            title={summary}
+            content={<Content content={frontmatter.summary} />}
+          />
+          <CustomAccordionItem
+            title={pricing}
+            content={
+              <SeasonsPricingItem
+                size="sm"
+                details={frontmatter.pricing}
+                notes={frontmatter.pricingNotes}
+              />
+            }
+          />
+          <CustomAccordionItem
             title={regulation}
-            content={frontmatter.regulation}
+            content={<Content content={frontmatter.regulation} />}
           />
           <CustomAccordionItem
             title={conditions}
-            content={frontmatter.conditions}
+            content={<Content content={frontmatter.conditions} />}
           />
         </Accordion>
 
@@ -87,9 +78,9 @@ const BungalowsPage = props => {
           variant="enclosed-colored"
           colorScheme="paleGrey"
         >
-          <TabList>
-            {[regulation, conditions].map((option, index) => (
-              <Tab key={index} justifyContent="space-between">
+          <TabList w="40%">
+            {[summary, pricing, regulation, conditions].map((option, index) => (
+              <Tab key={index} justifyContent="space-between" mb={1}>
                 <Text>{option}</Text>
                 <Icon
                   as={TriangleDownIcon}
@@ -101,15 +92,28 @@ const BungalowsPage = props => {
             ))}
           </TabList>
           <TabPanels bg="paleGrey.500" ml={8}>
-            {[frontmatter.regulation, frontmatter.conditions].map(
-              (option, index) => (
-                <TabPanel key={index}>
-                  <Content content={option} />
-                </TabPanel>
-              )
-            )}
+            <TabPanel>
+              <Content title={summary} content={frontmatter.summary} />
+            </TabPanel>
+            <TabPanel>
+              <SeasonsPricingItem
+                title={pricing}
+                details={frontmatter.pricing}
+                notes={frontmatter.pricingNotes}
+              />
+            </TabPanel>
+            <TabPanel>
+              <Content title={regulation} content={frontmatter.regulation} />
+            </TabPanel>
+            <TabPanel>
+              <Content title={conditions} content={frontmatter.conditions} />
+            </TabPanel>
           </TabPanels>
         </Tabs>
+
+        <Heading my={[4, null, 8]}>{reservations}</Heading>
+
+        <BungalowsForm name={frontmatter.title} />
       </Container>
     </>
   )
@@ -128,7 +132,7 @@ export default BungalowsPage
 
 export const query = graphql`
   query BungalowsPageTemplateQuery($id: String) {
-    markdownRemark(id: { eq: $id }) {
+    default: markdownRemark(id: { eq: $id }) {
       id
       html
       frontmatter {
@@ -140,8 +144,15 @@ export const query = graphql`
           highSeason
           lowSeason
         }
+        pricingNotes
         regulation
         conditions
+      }
+    }
+    images: markdownRemark(
+      fields: { locale: { eq: "ca" }, templateKey: { eq: "bungalows-page" } }
+    ) {
+      frontmatter {
         images {
           childImageSharp {
             gatsbyImageData(

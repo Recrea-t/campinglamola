@@ -6,8 +6,9 @@ description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estan
   paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i
   espaiosos bungalows
 images:
-  - ../../static/images/01.jpg
-  - ../../static/images/02.jpg
+  - /images/activitats1.jpg
+  - /images/activitats2.jpg
+  - /images/activitats3.jpg
 activities:
   - title: Muntanya
     description: >-

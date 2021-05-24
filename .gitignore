@@ -3,4 +3,5 @@ node_modules/
 public/
 static/admin/*.bundle.*
 .swp
+.env
 .env.*

@@ -27,6 +27,7 @@ export default {
       },
       tablist: {
         border: "0",
+        w: "40%",
       },
     },
   },

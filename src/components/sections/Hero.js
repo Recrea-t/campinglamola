@@ -8,13 +8,31 @@ import "slick-carousel/slick/slick.css"
 import "slick-carousel/slick/slick-theme.css"
 
 const Hero = props => {
-  const { images, title, revealRef } = props
+  const { images, title, revealRef, language } = props
+
+  if (!images || images.length === 0) {
+    return (
+      <Box pos="relative" w="full" h="calc(100vh - 5rem)" ref={revealRef}>
+        <iframe
+          width="100%"
+          height="100%"
+          title="Google Map · Càmping La Mola"
+          alt="Google Map · Càmping La Mola"
+          src={`https://www.google.com/maps/embed/v1/place?key=${process.env.GATSBY_GOOGLE_API_KEY}&language=${language}&q=campinglamola&zoom=12`}
+          aria-hidden="false"
+          loading="lazy"
+          frameborder="0"
+          style={{ border: 0 }}
+          allowFullScreen
+        />
+      </Box>
+    )
+  }
 
   if (images.length > 1) {
     const settings = {
       className: "is-slider",
       dots: true,
-      arrows: false,
       infinite: true,
       fade: true,
       autoplay: true,
@@ -66,7 +84,7 @@ const Hero = props => {
           bottom: 0,
           zIndex: 1,
           background:
-            "linear-gradient(0deg, rgba(236, 249, 246, 0) 80%, #ecf9f6 99%)",
+            "linear-gradient(0deg, rgba(236, 249, 246, 0) 42%, #ecf9f6 100%)",
         }}
         as={GatsbyImage}
         loading="eager"

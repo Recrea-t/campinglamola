@@ -10,7 +10,7 @@ import ChakraUIRenderer from "../utils/ChakraUIRenderer"
 import SEO from "../components/SEO/seo"
 
 const GeneralPage = ({ data }) => {
-  const { frontmatter, rawMarkdownBody } = data.markdownRemark
+  const { frontmatter, rawMarkdownBody } = data.default
 
   return (
     <>
@@ -39,7 +39,7 @@ export default GeneralPage
 
 export const query = graphql`
   query GeneralPageTemplateQuery($id: String) {
-    markdownRemark(id: { eq: $id }) {
+    default: markdownRemark(id: { eq: $id }) {
       id
       rawMarkdownBody
       frontmatter {

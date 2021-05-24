@@ -16,7 +16,6 @@ const ServiceSmallCard = props => {
     }
   }, [controls, inView])
 
-  console.log(props.image)
   return (
     <MotionVStack
       ref={ref}

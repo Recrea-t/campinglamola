@@ -14,12 +14,13 @@ import Hero from ".//sections/Hero"
 import { useInView } from "react-intersection-observer"
 
 const TemplateWrapper = ({ data, children, pageContext: { locale } }) => {
-  const { frontmatter } = data.markdownRemark
+  let frontmatter = data && data.default ? data.default.frontmatter : {}
+  let images = data && data.images ? data.images.frontmatter.images : []
   const { defaultTitle } = useSiteMetadata()
   const { changeLocale } = useLocale()
   changeLocale(locale)
 
-  const [ref, inView] = useInView()
+  const [ref, inView] = useInView({ threshold: 0.4 })
 
   return (
     <Flex
@@ -32,11 +33,14 @@ const TemplateWrapper = ({ data, children, pageContext: { locale } }) => {
     >
       <Header inView={inView} />
       <Flex as="main" pos="relative" w="full" direction="column">
-        <Hero
-          title={frontmatter.title}
-          images={frontmatter.images}
-          revealRef={ref}
-        />
+        {frontmatter && (
+          <Hero
+            title={frontmatter.title}
+            images={images}
+            revealRef={ref}
+            language={locale}
+          />
+        )}
         {children}
       </Flex>
       <Footer title={defaultTitle} />

@@ -46,7 +46,7 @@ const Footer = props => {
               rel="noopener"
             >
               <StaticImage
-                src="../../images/logosExterns/acsi-logo.gif"
+                src="../../images/logosExterns/acsi-logo.jpg"
                 alt="ACSI logo"
                 height={64}
               />

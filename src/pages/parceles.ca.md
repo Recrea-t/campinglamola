@@ -1,13 +1,14 @@
 ---
-templateKey: index-page
+templateKey: plots-page
 title: Parcel·les
 description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
   de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats
   paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i
   espaiosos bungalows
 images:
-  - ../../static/images/01.jpg
-  - ../../static/images/02.jpg
+  - /images/parceles1.jpg
+  - /images/parceles2.jpg
+  - /images/parceles3.jpg
 summary: >-
   * De 70 a 120m2.
 
@@ -24,10 +25,37 @@ summary: >-
   * S'admeten animals domèstics, a excepció dels gossos considerats com potencialment perillosos·
 pricing:
   - title: Adult
-    description: null
     price: 6.4
   - title: Nens de 5 a 11 anys
     price: 5.8
+  - title: De pas (1 persona a peu)
+    price: 10
+  - title: Parcel.la Standard 60/70 m2 (màx. 6 persones i 1 vehicle)
+    price: 14.5
+  - title: Parcel.la XL 120 m2 (màx. 6 persones i 1 vehicle)
+    price: 21.5
+  - title: Cotxe extra
+    price: 6.4
+  - title: Electricitat
+    price: 6
+  - title: Mascota (gos)
+    price: 3
+  - title: Visita (màxim 4 hores)
+    price: 3
+pricingNotes: >-
+  Preus per nit. IVA inclòs.
+
+
+  Impost sobre les estades en establiments turístics no inclòs : 0,60€ .Tarifa per persona (+ 16 anys ) i dia, amb un màxim de 7 dies.
+
+
+  • Ocupació màxima: 6 persones.\
+
+  • El preu de la parcel·la inclou la unitat d'acampada (tenda, caravana, autocaravana...) i un vehicle, que s'aparca a la parcel·la.\
+
+  • Es poden afegir tendes auxiliars (tipus iglú) sense cap cost, a condició que estiguin dins dels límits de la parcel·la.\
+
+  • Es pot afegir màxim un segon cotxe a la parcel·la, però s'ha de registrar i abonar segons la tarifa vigent, i haurà d'estacionar-se dins dels límits de la parcel·la. En el cas que s'aparqui en una altra parcel·la s'haurà de pagar la tarifa de la parcel·la extra que estigui ocupant.
 regulation: >-
   * Ocupació màxima: 6 persones.
 

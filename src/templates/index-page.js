@@ -6,7 +6,6 @@ import {
   Container,
   Heading,
   SimpleGrid,
-  Text,
   useBreakpointValue,
 } from "@chakra-ui/react"
 
@@ -20,10 +19,28 @@ import ReactMarkdown from "react-markdown"
 import ChakraUIRenderer from "../utils/ChakraUIRenderer"
 
 const IndexPage = props => {
-  const { frontmatter } = props.data.markdownRemark
-  const servicesFrontmatter = props.data.services.frontmatter
+  const { frontmatter } = props.data.default
+  const servicesF = props.data.services.frontmatter.services
+  const {
+    plotsImage,
+    gaialsImage,
+    bungalowsImage,
+    parcNacionalImage,
+    parcNaturalImage,
+    aneuImage,
+  } = props.data.images.frontmatter
 
-  const { menuTitle, services, environment } = useTranslations()
+  const {
+    menuTitle,
+    services,
+    environment,
+    plots,
+    gaials,
+    bungalows,
+    parcNacional,
+    parcNatural,
+    aneu,
+  } = useTranslations()
 
   const limit = useBreakpointValue({ base: 8, md: 10, lg: 14 })
 
@@ -47,9 +64,14 @@ const IndexPage = props => {
           spacing={4}
           justifyContent="space-between"
         >
-          {frontmatter.camping.map((item, index) => (
-            <Card key={index} index={index} {...item} />
-          ))}
+          <Card index={0} title={plots} url="/parceles" image={plotsImage} />
+          <Card index={1} title={gaials} url="/gaials" image={gaialsImage} />
+          <Card
+            index={2}
+            title={bungalows}
+            url="/bungalous"
+            image={bungalowsImage}
+          />
         </SimpleGrid>
       </Container>
       <Box bg="paleGrey.500">
@@ -68,11 +90,9 @@ const IndexPage = props => {
             alignItems="baseline"
             justifyContent="space-between"
           >
-            {servicesFrontmatter.services
-              .slice(0, limit)
-              .map((service, index) => (
-                <ServiceSmallCard key={index} index={index} {...service} />
-              ))}
+            {servicesF.slice(0, limit).map((service, index) => (
+              <ServiceSmallCard key={index} index={index} {...service} />
+            ))}
           </SimpleGrid>
         </Container>
       </Box>
@@ -90,9 +110,19 @@ const IndexPage = props => {
           mt={8}
           justifyContent="space-between"
         >
-          {frontmatter.environment.map((item, index) => (
-            <Card key={index} index={index} {...item} />
-          ))}
+          <Card
+            index={0}
+            title={parcNacional}
+            url="/entorn"
+            image={parcNaturalImage}
+          />
+          <Card
+            index={1}
+            title={parcNatural}
+            url="/entorn"
+            image={parcNacionalImage}
+          />
+          <Card index={2} title={aneu} url="/entorn" image={aneuImage} />
         </SimpleGrid>
       </Container>
     </>
@@ -112,14 +142,30 @@ export default IndexPage
 
 export const query = graphql`
   query IndexPageTemplateQuery($id: String, $locale: String) {
-    markdownRemark(id: { eq: $id }) {
+    default: markdownRemark(id: { eq: $id }) {
       id
-      html
       frontmatter {
         title
         description
         summary
+        servicesSummary
+        environmentSummary
+      }
+    }
+    images: markdownRemark(
+      fields: { locale: { eq: "ca" }, templateKey: { eq: "index-page" } }
+    ) {
+      frontmatter {
         images {
+          childImageSharp {
+            gatsbyImageData(
+              layout: FULL_WIDTH
+              placeholder: BLURRED
+              formats: [AUTO, WEBP, AVIF]
+            )
+          }
+        }
+        plotsImage {
           childImageSharp {
             gatsbyImageData(
               width: 400
@@ -128,32 +174,49 @@ export const query = graphql`
             )
           }
         }
-        camping {
-          title
-          url
-          image {
-            childImageSharp {
-              gatsbyImageData(
-                width: 400
-                aspectRatio: 1.33
-                formats: [AUTO, WEBP, AVIF]
-              )
-            }
+        gaialsImage {
+          childImageSharp {
+            gatsbyImageData(
+              width: 400
+              aspectRatio: 1.33
+              formats: [AUTO, WEBP, AVIF]
+            )
           }
         }
-        servicesSummary
-        environmentSummary
-        environment {
-          title
-          url
-          image {
-            childImageSharp {
-              gatsbyImageData(
-                layout: FULL_WIDTH
-                placeholder: BLURRED
-                formats: [AUTO, WEBP, AVIF]
-              )
-            }
+        bungalowsImage {
+          childImageSharp {
+            gatsbyImageData(
+              width: 400
+              aspectRatio: 1.33
+              formats: [AUTO, WEBP, AVIF]
+            )
+          }
+        }
+        parcNacionalImage {
+          childImageSharp {
+            gatsbyImageData(
+              width: 400
+              aspectRatio: 1.33
+              formats: [AUTO, WEBP, AVIF]
+            )
+          }
+        }
+        parcNaturalImage {
+          childImageSharp {
+            gatsbyImageData(
+              width: 400
+              aspectRatio: 1.33
+              formats: [AUTO, WEBP, AVIF]
+            )
+          }
+        }
+        aneuImage {
+          childImageSharp {
+            gatsbyImageData(
+              width: 400
+              aspectRatio: 1.33
+              formats: [AUTO, WEBP, AVIF]
+            )
           }
         }
       }

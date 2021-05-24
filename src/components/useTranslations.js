@@ -33,9 +33,18 @@ const query = graphql`
           translations: childTranslationsJson {
             home
             menuTitle
+            plots
+            gaials
+            bungalows
+            parcNacional
+            parcNatural
+            aneu
             services
             environment
+            summary
             pricing
+            highSeason
+            lowSeason
             regulation
             conditions
 
@@ -48,8 +57,21 @@ const query = graphql`
             callUs
             writeUs
 
+            reservations
             name
             email
+            phone
+            country
+            startDate
+            endDate
+            numberPeople
+            numberAdults
+            numberChildren
+            plotType
+            powerSupply
+            yes
+            no
+            comments
             message
             conditionsPart1
             conditionsPart2
@@ -60,6 +82,7 @@ const query = graphql`
 
             submit
             submitting
+            errorDates
             errorConditions
             messageSuccessfulTitle
             messageSuccessfulDescription
