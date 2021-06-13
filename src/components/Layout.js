@@ -1,5 +1,6 @@
 import "@fontsource/poppins"
 import "@fontsource/poppins/600.css" // Semi-bold
+import "@fontsource/poppins/800.css" // extrabold
 
 import React from "react"
 import useSiteMetadata from "./siteMetadata"
@@ -20,7 +21,7 @@ const TemplateWrapper = ({ data, children, pageContext: { locale } }) => {
   const { changeLocale } = useLocale()
   changeLocale(locale)
 
-  const [ref, inView] = useInView({ threshold: 0.4 })
+  const [ref, inView] = useInView({ threshold: 0.9 })
 
   return (
     <Flex
@@ -35,9 +36,9 @@ const TemplateWrapper = ({ data, children, pageContext: { locale } }) => {
       <Flex as="main" pos="relative" w="full" direction="column">
         {frontmatter && (
           <Hero
+            revealRef={ref}
             title={frontmatter.title}
             images={images}
-            revealRef={ref}
             language={locale}
           />
         )}

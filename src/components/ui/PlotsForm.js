@@ -55,7 +55,7 @@ const PlotsForm = () => {
         dataSortida: null,
         numeroAdults: 0,
         numeroNens: 0,
-        tipusParcela: null,
+        tipusParcela: "",
         electricitat: false,
         comentaris: "",
         condicions: false,

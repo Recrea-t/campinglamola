@@ -29,7 +29,7 @@ module.exports = {
         lang: `ca`,
         start_url: `/`,
         background_color: `#fff`,
-        theme_color: `#E8864B`,
+        theme_color: "#00ab59",
         display: `minimal-ui`,
         icon: "static/images/icon.png",
         icon_options: {

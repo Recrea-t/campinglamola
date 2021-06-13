@@ -1,5 +1,6 @@
 ---
 templateKey: bungalows-page
+formName: "bungalows-form"
 title: Bungalows
 description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
   de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats

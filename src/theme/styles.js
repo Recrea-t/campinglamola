@@ -15,6 +15,11 @@ const styles = {
       color: "#63656A !important",
       textDecoration: "none",
     },
+    ".chakra-table": {
+      td: {
+        py: ".5rem",
+      },
+    },
     ".chakra-tabs__tablist": {
       button: {
         textAlign: "left !important",
@@ -40,7 +45,7 @@ const styles = {
           bottom: 0,
           zIndex: 1,
           background:
-            "linear-gradient(0deg, rgba(236, 249, 246, 0) 80%, #ecf9f6 99%)",
+            "linear-gradient(0deg, rgba(236, 249, 246, 0) 42%, #ecf9f6 100%)",
         },
       },
       ".slick-list": {
@@ -63,9 +68,13 @@ const styles = {
         position: "absolute",
         bottom: "1rem",
 
+        li: {
+          margin: "0",
+        },
+
         button: {
           _before: {
-            fontSize: "10px",
+            fontSize: ".75rem",
             color: "#ecf9f6",
             opacity: 0.75,
 
@@ -78,6 +87,7 @@ const styles = {
         ".slick-active": {
           button: {
             _before: {
+              fontSize: "1rem",
               color: "#005321",
               textShadow:
                 "-1px 0 #ecf9f6, 0 1px #ecf9f6, 1px 0 #ecf9f6, 0 -1px #ecf9f6",
@@ -123,6 +133,10 @@ const styles = {
         height: "100%",
         outline: 0,
         bg: "transparent",
+
+        _placeholder: {
+          color: "#0a2840",
+        },
       },
     },
     ".react-datepicker__triangle": {

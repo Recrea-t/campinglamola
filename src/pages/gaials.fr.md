@@ -1,10 +1,20 @@
 ---
-templateKey: bungalows-page
+templateKey: gaials-page
+formName: "gaials-form"
 title: Gaials
 description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
   de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats
   paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i
   espaiosos bungalows
+images:
+  - /images/gaials1.jpg
+  - /images/gaials2.jpg
+  - /images/gaials3.jpg
+  - /images/gaials4.jpg
+  - /images/gaials5.jpg
+  - /images/gaials6.jpg
+  - /images/gaials7.jpg
+  - /images/gaials8.jpg
 summary: >-
   Els gaials són uns petits i funcionals allotjaments de dues plantes ubicats a
   la part superior de l'edifici principal del càmping. No estan a peu de carrer,

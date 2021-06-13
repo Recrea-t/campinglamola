@@ -11,7 +11,7 @@ import ToggleMenu from "../ui/ToggleMenu"
 import LocalizedLink from "../ui/LocalizedLink"
 
 import { useAnimation } from "framer-motion"
-import MotionBox from "../../theme/utils"
+import MotionBox, { EASINGS } from "../../theme/utils"
 
 const Header = ({ inView }) => {
   const menuItems = useMenu()
@@ -19,6 +19,7 @@ const Header = ({ inView }) => {
   const { isOpen, onOpen, onClose } = useDisclosure()
 
   const controls = useAnimation()
+
   useEffect(() => {
     if (inView) {
       controls.start("visible")
@@ -30,6 +31,17 @@ const Header = ({ inView }) => {
   const variants = {
     visible: { opacity: 1, transition: { duration: 0.1 } },
     hidden: { opacity: 0 },
+  }
+
+  const menuVariants = {
+    visible: {
+      opacity: 1,
+      z: 0,
+    },
+    hidden: {
+      opacity: 0,
+      z: "-10vh",
+    },
   }
 
   return (
@@ -68,16 +80,34 @@ const Header = ({ inView }) => {
         </MotionBox>
 
         <ToggleMenu isOpen={isOpen} onOpen={onOpen} onClose={onClose}>
-          {menuItems.map((menu, index) => (
-            <NavLink
-              key={index}
-              to={menu.link}
-              variant={menu.variant}
-              onClick={onClose}
-            >
-              {menu.name}
-            </NavLink>
-          ))}
+          {menuItems.map((menu, index) => {
+            const idelay = (6 - index) / 10 + 0.23
+            return (
+              <NavLink
+                key={index}
+                to={menu.link}
+                variant={menu.variant}
+                onClick={onClose}
+                variants={menuVariants}
+                initial={"hidden"}
+                animate={isOpen ? "visible" : "hidden"}
+                transition={{
+                  z: {
+                    ease: [0.165, 0.84, 0.44, 1],
+                    duration: 0.91,
+                    delay: idelay,
+                  },
+                  opacity: {
+                    duration: 0.91,
+                    ease: EASINGS.ease,
+                    delay: idelay + 0.05,
+                  },
+                }}
+              >
+                {menu.name}
+              </NavLink>
+            )
+          })}
         </ToggleMenu>
       </Flex>
     </Box>

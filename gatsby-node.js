@@ -54,6 +54,7 @@ exports.createPages = ({ actions, graphql }) => {
       // Getting Slug and Title
       const slug = edge.node.fields.slug
       const title = edge.node.frontmatter.title
+      const templateKey = edge.node.frontmatter.templateKey
 
       // Use the fields created in exports.onCreateNode
       const locale = edge.node.fields.locale
@@ -62,15 +63,14 @@ exports.createPages = ({ actions, graphql }) => {
       createPage({
         path: localizedSlug({ isDefault, locale, slug }),
         tags: edge.node.frontmatter.tags,
-        component: path.resolve(
-          `src/templates/${String(edge.node.frontmatter.templateKey)}.js`
-        ),
+        component: path.resolve(`src/templates/${String(templateKey)}.js`),
         // additional data can be passed via context
         matchPath: !isDefault && slug === "404" ? `/${locale}/*` : null,
         context: {
           id,
           locale,
           title,
+          templateKey,
         },
       })
     })

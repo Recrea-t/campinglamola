@@ -26,7 +26,7 @@ const PricingItem = ({ title, details, notes, size = "md" }) => {
           {details.map((row, index) => (
             <Tr key={index}>
               <Td>{row.title}</Td>
-              <Td isNumeri>{getPrice(row.price)}</Td>
+              <Td isNumeric>{getPrice(row.price)}</Td>
             </Tr>
           ))}
         </Tbody>

@@ -11,7 +11,7 @@ export default {
           boxShadow: "none",
         },
         _hover: {
-          bg: "dullBrown.600",
+          bg: "dullBrown.500",
         },
         _notLast: {
           marginRight: "0",
@@ -21,7 +21,7 @@ export default {
           bg: "paleGrey.500",
           color: "dullBrown.500",
           _hover: {
-            bg: "paleGrey.600",
+            bg: "paleGrey.500",
           },
         },
       },

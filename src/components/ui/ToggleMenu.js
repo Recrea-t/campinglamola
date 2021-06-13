@@ -16,7 +16,7 @@ import Languages from "../ui/Languages"
 
 import useSiteMetadata from "../siteMetadata"
 
-import { MotionLink } from "../../theme/utils"
+import { MotionLink, MotionText, EASINGS } from "../../theme/utils"
 
 const ToggleMenu = props => {
   const { isOpen, onOpen, onClose, children } = props
@@ -49,13 +49,37 @@ const ToggleMenu = props => {
           >
             <DrawerCloseButton />
             <DrawerBody>
-              <Text
+              <MotionText
                 fontWeight="semibold"
                 fontSize="2rem"
                 textTransform="uppercase"
+                variants={{
+                  visible: {
+                    opacity: 1,
+                    y: 0,
+                  },
+                  hidden: {
+                    opacity: 0,
+                    y: "-40vh",
+                  },
+                }}
+                initial={"hidden"}
+                animate={isOpen ? "visible" : "hidden"}
+                transition={{
+                  y: {
+                    ease: [0.165, 0.84, 0.44, 1],
+                    duration: 1.31,
+                    delay: 0.23,
+                  },
+                  opacity: {
+                    duration: 1.31,
+                    ease: EASINGS.ease,
+                    delay: 0.23,
+                  },
+                }}
               >
                 {menuTitle}
-              </Text>
+              </MotionText>
               {children}
               <Center w="full" my={4}>
                 <HStack spacing={[12, null, 16]}>

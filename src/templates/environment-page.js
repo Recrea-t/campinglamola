@@ -33,6 +33,7 @@ const Content = ({ option, withTitle }) => {
       <ReactMarkdown
         components={ChakraUIRenderer()}
         children={option.description}
+        linkTarget="_blank"
       />
       {option.url && (
         <Box w="full" my={4} textAlign="center">

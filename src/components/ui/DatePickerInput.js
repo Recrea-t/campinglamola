@@ -55,7 +55,6 @@ const DatePickerInput = ({
 }) => {
   const { setFieldValue } = useFormikContext()
 
-  console.log(form.errors[id])
   return (
     <FormControl isRequired isInvalid={form.errors[id] && form.touched[id]}>
       <DatePicker

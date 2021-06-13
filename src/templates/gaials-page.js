@@ -16,9 +16,9 @@ import {
 import { TriangleDownIcon } from "@chakra-ui/icons"
 
 import SEO from "../components/SEO/seo"
-import PricingItem from "../components/ui/PricingItem"
-import PlotsForm from "../components/ui/PlotsForm"
 import CustomAccordionItem from "../components/ui/CustomAccordionItem"
+import SeasonsPricingItem from "../components/ui/SeasonsPricingItem"
+import BungalowsForm from "../components/ui/BungalowsForm"
 
 import useTranslations from "../components/useTranslations"
 
@@ -40,7 +40,7 @@ const Content = ({ title, content }) => (
   </>
 )
 
-const PlotsPage = props => {
+const GaialsPage = props => {
   const { frontmatter } = props.data.default
   const { summary, pricing, regulation, conditions, reservations } =
     useTranslations()
@@ -59,7 +59,7 @@ const PlotsPage = props => {
           <CustomAccordionItem
             title={pricing}
             content={
-              <PricingItem
+              <SeasonsPricingItem
                 size="sm"
                 details={frontmatter.pricing}
                 notes={frontmatter.pricingNotes}
@@ -96,33 +96,34 @@ const PlotsPage = props => {
             ))}
           </TabList>
           <TabPanels bg="paleGrey.500" ml={8}>
-            <TabPanel key={0}>
+            <TabPanel>
               <Content title={summary} content={frontmatter.summary} />
             </TabPanel>
-            <TabPanel key={1}>
-              <PricingItem
+            <TabPanel>
+              <SeasonsPricingItem
                 title={pricing}
                 details={frontmatter.pricing}
                 notes={frontmatter.pricingNotes}
               />
             </TabPanel>
-            <TabPanel key={2}>
+            <TabPanel>
               <Content title={regulation} content={frontmatter.regulation} />
             </TabPanel>
-            <TabPanel key={3}>
+            <TabPanel>
               <Content title={conditions} content={frontmatter.conditions} />
             </TabPanel>
           </TabPanels>
         </Tabs>
+
         <Heading my={[4, null, 8]}>{reservations}</Heading>
 
-        <PlotsForm name={frontmatter.title} />
+        <BungalowsForm name={frontmatter.formName} />
       </Container>
     </>
   )
 }
 
-PlotsPage.propTypes = {
+GaialsPage.propTypes = {
   data: PropTypes.shape({
     html: PropTypes.object,
     markdownRemark: PropTypes.shape({
@@ -131,20 +132,22 @@ PlotsPage.propTypes = {
   }),
 }
 
-export default PlotsPage
+export default GaialsPage
 
 export const query = graphql`
-  query PlotsPageTemplateQuery($id: String) {
+  query GaialsPageTemplateQuery($id: String, $templateKey: String) {
     default: markdownRemark(id: { eq: $id }) {
       id
       html
       frontmatter {
+        formName
         title
         description
         summary
         pricing {
           title
-          price
+          highSeason
+          lowSeason
         }
         pricingNotes
         regulation
@@ -152,7 +155,7 @@ export const query = graphql`
       }
     }
     images: markdownRemark(
-      fields: { locale: { eq: "ca" }, templateKey: { eq: "plots-page" } }
+      fields: { locale: { eq: "ca" }, templateKey: { eq: $templateKey } }
     ) {
       frontmatter {
         images {

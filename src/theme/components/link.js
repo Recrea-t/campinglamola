@@ -37,7 +37,8 @@ function variantButton(props) {
     bg: background,
     color: mode(color, `gray.800`)(props),
     _hover: {
-      bg: mode(hoverBg, `${c}.300`)(props),
+      textDecoration: "underline",
+      color: mode(color, `gray.800`)(props),
       _disabled: {
         bg: background,
       },

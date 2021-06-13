@@ -32,7 +32,11 @@ const Content = ({ title, content }) => (
         {title}
       </Heading>
     )}
-    <ReactMarkdown components={ChakraUIRenderer()} children={content} />
+    <ReactMarkdown
+      components={ChakraUIRenderer()}
+      children={content}
+      linkTarget="_blank"
+    />
   </>
 )
 
@@ -113,7 +117,7 @@ const BungalowsPage = props => {
 
         <Heading my={[4, null, 8]}>{reservations}</Heading>
 
-        <BungalowsForm name={frontmatter.title} />
+        <BungalowsForm name={frontmatter.formName} />
       </Container>
     </>
   )
@@ -131,11 +135,12 @@ BungalowsPage.propTypes = {
 export default BungalowsPage
 
 export const query = graphql`
-  query BungalowsPageTemplateQuery($id: String) {
+  query BungalowsPageTemplateQuery($id: String, $templateKey: String) {
     default: markdownRemark(id: { eq: $id }) {
       id
       html
       frontmatter {
+        formName
         title
         description
         summary
@@ -150,7 +155,7 @@ export const query = graphql`
       }
     }
     images: markdownRemark(
-      fields: { locale: { eq: "ca" }, templateKey: { eq: "bungalows-page" } }
+      fields: { locale: { eq: "ca" }, templateKey: { eq: $templateKey } }
     ) {
       frontmatter {
         images {

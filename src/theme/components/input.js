@@ -6,7 +6,7 @@ export default {
         borderColor: "transparent",
         bg: "paleGrey.500",
         _hover: {
-          bg: "paleGrey.600",
+          bg: "paleGrey.500",
         },
         _readOnly: {
           boxShadow: "none !important",
@@ -21,7 +21,7 @@ export default {
         },
         _focus: {
           bg: "paleGrey.500",
-          borderColor: "paleGrey.700",
+          borderColor: "dullBrown.500",
         },
       },
       addon: {

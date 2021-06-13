@@ -47,6 +47,7 @@ const query = graphql`
             lowSeason
             regulation
             conditions
+            offer
 
             next
             prev

@@ -11,6 +11,7 @@ import {
 
 import SEO from "../components/SEO/seo"
 import Card from "../components/ui/Card"
+import OfferModal from "../components/ui/OfferModal"
 import ServiceSmallCard from "../components/ui/ServiceSmallCard"
 
 import useTranslations from "../components/useTranslations"
@@ -42,7 +43,10 @@ const IndexPage = props => {
     aneu,
   } = useTranslations()
 
+  const isSmallDevice = useBreakpointValue({ base: true, md: false })
   const limit = useBreakpointValue({ base: 8, md: 10, lg: 14 })
+
+  console.log(frontmatter.offer)
 
   return (
     <>
@@ -65,9 +69,14 @@ const IndexPage = props => {
           justifyContent="space-between"
         >
           <Card index={0} title={plots} url="/parceles" image={plotsImage} />
-          <Card index={1} title={gaials} url="/gaials" image={gaialsImage} />
           <Card
-            index={2}
+            index={isSmallDevice ? 0 : 1}
+            title={gaials}
+            url="/gaials"
+            image={gaialsImage}
+          />
+          <Card
+            index={isSmallDevice ? 0 : 2}
             title={bungalows}
             url="/bungalous"
             image={bungalowsImage}
@@ -91,7 +100,7 @@ const IndexPage = props => {
             justifyContent="space-between"
           >
             {servicesF.slice(0, limit).map((service, index) => (
-              <ServiceSmallCard key={index} index={index} {...service} />
+              <ServiceSmallCard key={index} index={0} {...service} />
             ))}
           </SimpleGrid>
         </Container>
@@ -117,14 +126,23 @@ const IndexPage = props => {
             image={parcNaturalImage}
           />
           <Card
-            index={1}
+            index={isSmallDevice ? 0 : 1}
             title={parcNatural}
             url="/entorn"
             image={parcNacionalImage}
           />
-          <Card index={2} title={aneu} url="/entorn" image={aneuImage} />
+          <Card
+            index={isSmallDevice ? 0 : 2}
+            title={aneu}
+            url="/entorn"
+            image={aneuImage}
+          />
         </SimpleGrid>
       </Container>
+
+      {frontmatter.offer && frontmatter.offer.active && (
+        <OfferModal {...frontmatter.offer} />
+      )}
     </>
   )
 }
@@ -150,6 +168,12 @@ export const query = graphql`
         summary
         servicesSummary
         environmentSummary
+        offer {
+          active
+          title
+          subtitle
+          description
+        }
       }
     }
     images: markdownRemark(

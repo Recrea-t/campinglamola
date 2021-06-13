@@ -21,6 +21,7 @@ const Content = ({ option, withTitle = false }) => (
     <ReactMarkdown
       components={ChakraUIRenderer()}
       children={option.description}
+      linkTarget="_blank"
     />
   </>
 )

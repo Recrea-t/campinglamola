@@ -31,5 +31,11 @@ images:
 parcNacionalImage: /images/Entorn01.jpg
 parcNaturalImage: /images/Entorn02.jpg
 aneuImage: /images/Entorn03.jpg
+offer:
+  active: true
+  title: Títol de l'oferta
+  subtitle: 2x1
+  description: >-
+    Descripció de l'oferta, característiques, data de caducitat, etc...
 
 ---

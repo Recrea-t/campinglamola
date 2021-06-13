@@ -12,8 +12,8 @@ function variantCustomLink(props) {
     lineHeight: "normal",
     color: color,
     _hover: {
-      textDecoration: "none",
-      color: hoverColor,
+      textDecoration: "underline",
+      color: color,
       bg: "transparent",
       _disabled: {
         color: color,
@@ -34,6 +34,10 @@ export default {
   baseStyle: {
     fontWeight: "semibold",
     textTransform: "uppercase",
+    _hover: {
+      textDecoration: "underline",
+      bg: "dullBrown.500",
+    },
   },
   variants: {
     "custom-link": variantCustomLink,

@@ -13,7 +13,7 @@ export default {
         boxShadow: "none",
       },
       _hover: {
-        bg: "dullBrown.600",
+        bg: "dullBrown.500",
       },
     },
   },

@@ -21,7 +21,6 @@ const ServiceCard = props => {
       p={4}
       spacing={4}
       mb={8}
-      color="dullBrown.500"
       bg="paleGrey.500"
       display="inline-block"
       whiteSpace="pre-wrap"
@@ -34,7 +33,7 @@ const ServiceCard = props => {
         justify="start"
       >
         <Image alt={props.title} src={props.image.publicURL} />
-        <Heading variant="in-box" textAlign="center">
+        <Heading variant="in-box" textAlign="center" color="dullBrown.500">
           {props.title}
         </Heading>
       </Stack>
