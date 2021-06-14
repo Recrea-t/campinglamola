@@ -76,7 +76,7 @@ regulation: >-
   * No desplaçar-se per dins del càmping amb el vehicle si no és estrictament necessari.
 
 
-  #### **Animals de companyia**
+  ##### **Animals de companyia**
 
 
   * Si ve amb animals, comuniqui-ho a recepció. Tots els gossos hauran d'estar registrats en el moment del check-in, i la seva estada resta subjecta al pagament de la tarifa corresponent.

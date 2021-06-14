@@ -27,6 +27,7 @@ const SeasonsPricingItem = ({ title, details, notes, size = "md" }) => {
 
       <Heading
         variant="in-markdown"
+        size="md"
         textTransform="uppercase"
         w="full"
         textAlign="center"
@@ -47,6 +48,7 @@ const SeasonsPricingItem = ({ title, details, notes, size = "md" }) => {
 
       <Heading
         variant="in-markdown"
+        size="md"
         textTransform="uppercase"
         w="full"
         textAlign="center"

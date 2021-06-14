@@ -1,7 +1,7 @@
 import React from "react"
 import {
   Box,
-  Text,
+  IconButton,
   Drawer,
   DrawerContent,
   DrawerCloseButton,
@@ -9,7 +9,10 @@ import {
   HStack,
   Center,
 } from "@chakra-ui/react"
-import { HamburgerIcon, PhoneIcon, EmailIcon } from "@chakra-ui/icons"
+import { PhoneIcon, EmailIcon } from "@chakra-ui/icons"
+
+import HamburgerIcon from "../../images/HamburgerIcon.svg"
+import CloseIcon from "../../images/CloseIcon.svg"
 
 import useTranslations from "../useTranslations"
 import Languages from "../ui/Languages"
@@ -28,7 +31,17 @@ const ToggleMenu = props => {
   return (
     <>
       <Box onClick={onOpen} ref={btnRef}>
-        <HamburgerIcon w={8} h={8} color="dullBrown.500" />
+        <IconButton
+          colorScheme="paleGrey"
+          icon={<img src={HamburgerIcon} alt="Toggle navigation" />}
+          _focus={{
+            outline: "none",
+            bg: "paleGrey.500",
+          }}
+          _active={{
+            bg: "paleGrey.500",
+          }}
+        />
       </Box>
       <Drawer
         isOpen={isOpen}

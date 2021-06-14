@@ -19,5 +19,10 @@ export default {
       fontSize: "md",
       fontWeight: "semibold",
     },
+    "in-markdown": {
+      color: "darkIndigo.500",
+      //fontSize: "md",
+      fontWeight: "semibold",
+    },
   },
 }

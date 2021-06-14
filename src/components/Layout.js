@@ -14,7 +14,11 @@ import Hero from ".//sections/Hero"
 
 import { useInView } from "react-intersection-observer"
 
-const TemplateWrapper = ({ data, children, pageContext: { locale } }) => {
+const TemplateWrapper = ({
+  data,
+  children,
+  pageContext: { locale, templateKey },
+}) => {
   let frontmatter = data && data.default ? data.default.frontmatter : {}
   let images = data && data.images ? data.images.frontmatter.images : []
   const { defaultTitle } = useSiteMetadata()
@@ -40,6 +44,7 @@ const TemplateWrapper = ({ data, children, pageContext: { locale } }) => {
             title={frontmatter.title}
             images={images}
             language={locale}
+            isEmpty={templateKey === "general-page"}
           />
         )}
         {children}

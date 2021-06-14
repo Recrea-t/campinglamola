@@ -99,13 +99,13 @@ export const defaults = {
   },
   heading: props => {
     const { level, children } = props
-    //const sizes = ["2xl", "xl", "lg", "md", "sm", "xs"]
+    const sizes = ["2xl", "xl", "lg", "md", "sm", "xs"]
     return (
       <Heading
         //my={4}
         as={`h${level}`}
         variant="in-markdown"
-        //size={sizes[`${level - 1}`]}
+        size={sizes[`${level - 1}`]}
         {...getCoreProps(props)}
       >
         {children}

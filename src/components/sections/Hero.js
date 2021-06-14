@@ -8,7 +8,11 @@ import "slick-carousel/slick/slick.css"
 import "slick-carousel/slick/slick-theme.css"
 
 const Hero = props => {
-  const { images, title, revealRef, language } = props
+  const { images, title, revealRef, language, isEmpty } = props
+
+  if (isEmpty) {
+    return <Box pos="relative" w="full" h="150px" ref={revealRef}></Box>
+  }
 
   if (!images || images.length === 0) {
     return (

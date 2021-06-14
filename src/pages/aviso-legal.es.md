@@ -1,6 +1,6 @@
 ---
 templateKey: general-page
-title: Avís legal
+title: Aviso legal
 description:
 ---
 ## Avís legal

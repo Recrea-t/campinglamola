@@ -142,7 +142,7 @@ const Footer = props => {
             <VStack spacing={1} mb={[8, null, null, 0]}>
               <HStack w="full" justify="center" spacing={1}>
                 {organization.phones.map((phone, index) => (
-                  <Box key={index}>
+                  <>
                     <Text>{index === 0 ? "(+34)" : ""}</Text>
                     <Link
                       key={index}
@@ -153,7 +153,7 @@ const Footer = props => {
                       {phone.title}
                     </Link>
                     <Text key="space">{index === 0 ? "/" : ""}</Text>
-                  </Box>
+                  </>
                 ))}
               </HStack>
               <Text>

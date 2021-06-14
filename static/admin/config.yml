@@ -348,3 +348,1059 @@ collections:
             - label: Cos
               name: body
               widget: markdown
+    - name: 'pages-es'
+      label: 'Pàgines (Castellà)'
+      format: frontmatter
+      create: false
+      delete: false
+      editor:
+        preview: false
+      files:
+        - name: 'inici-es'
+          label: Inici
+          file: 'src/pages/index.es.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Descripció
+              name: summary
+              widget: markdown
+        - name: 'parceles-es'
+          label: 'Parcel·les'
+          file: 'src/pages/parcelas.es.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Descripció
+              name: summary
+              widget: markdown
+            - label: Preus
+              name: pricing
+              widget: list
+              fields:
+                - label: Nom
+                  name: title
+                  widget: string
+                - label: Preu
+                  name: price
+                  widget: number
+                  value_type: float
+                  min: 0
+            - label: Notes sobre els preus
+              name: pricingNotes
+              widget: markdown
+              required: false
+            - label: Normativa
+              name: regulation
+              widget: markdown
+            - label: Condicions
+              name: conditions
+              widget: markdown
+        - name: 'bungalous-es'
+          label: 'Bungalous'
+          file: 'src/pages/bungalows.es.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Descripció
+              name: summary
+              widget: markdown
+            - label: Preus
+              name: pricing
+              widget: list
+              fields:
+                - label: Nom
+                  name: title
+                  widget: string
+                - label: Preu temporada alta
+                  name: highSeason
+                  widget: number
+                  value_type: float
+                  min: 0
+                - label: Preu temporada baixa
+                  name: lowSeason
+                  widget: number
+                  value_type: float
+                  min: 0
+            - label: Notes sobre els preus
+              name: pricingNotes
+              widget: markdown
+              required: false
+            - label: Normativa
+              name: regulation
+              widget: markdown
+            - label: Condicions
+              name: conditions
+              widget: markdown
+        - name: 'gaials-es'
+          label: 'Gaials'
+          file: 'src/pages/gaials.es.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Descripció
+              name: summary
+              widget: markdown
+            - label: Preus
+              name: pricing
+              widget: list
+              fields:
+                - label: Nom
+                  name: title
+                  widget: string
+                - label: Preu temporada alta
+                  name: highSeason
+                  widget: number
+                  value_type: float
+                  min: 0
+                - label: Preu temporada baixa
+                  name: lowSeason
+                  widget: number
+                  value_type: float
+                  min: 0
+            - label: Notes sobre els preus
+              name: pricingNotes
+              widget: markdown
+              required: false
+            - label: Normativa
+              name: regulation
+              widget: markdown
+            - label: Condicions
+              name: conditions
+              widget: markdown
+        - name: 'services-es'
+          label: 'Serveis'
+          file: 'src/pages/servicios.es.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - name: services
+              label: Serveis
+              widget: list
+              summary: "{{fields.title}}"
+              fields:
+                - label: Títol
+                  name: title
+                  widget: string
+                - label: Descripció
+                  name: description
+                  widget: markdown
+                  required: false
+                - label: Icona
+                  name: image
+                  widget: image
+                  allow_multiple: false
+        - name: 'activities-es'
+          label: 'Activitats'
+          file: 'src/pages/actividades.es.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - name: activities
+              label: Activitats
+              widget: list
+              summary: "{{fields.title}}"
+              fields:
+                - label: Títol
+                  name: title
+                  widget: string
+                - label: Descripció
+                  name: description
+                  widget: markdown
+        - name: 'environment-es'
+          label: Entorn
+          file: 'src/pages/entorno.es.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Descripció
+              name: summary
+              widget: markdown
+            - name: options
+              label: Opcions
+              widget: list
+              summary: "{{fields.title}}"
+              min: 3
+              fields:
+                - label: Títol
+                  name: title
+                  widget: string
+                - label: Descripció
+                  name: description
+                  widget: markdown
+                - label: URL
+                  name: url
+                  widget: string
+                  required: false
+        - name: 'contact-es'
+          label: 'Contacte'
+          file: 'src/pages/contacto.es.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Text
+              name: summary
+              widget: markdown
+        - name: 'legal-notice-es'
+          label: 'Avís legal'
+          file: 'src/pages/aviso-legal.es.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Cos
+              name: body
+              widget: markdown
+        - name: 'privacy-policy-es'
+          label: 'Protecció de dades'
+          file: 'src/pages/proteccion-de-datos.es.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Cos
+              name: body
+              widget: markdown
+        - name: '404-es'
+          label: '404'
+          file: 'src/pages/404.es.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Cos
+              name: body
+              widget: markdown
+    - name: 'pages-en'
+      label: 'Pàgines (Anglès)'
+      format: frontmatter
+      create: false
+      delete: false
+      editor:
+        preview: false
+      files:
+        - name: 'inici-en'
+          label: Inici
+          file: 'src/pages/index.en.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Descripció
+              name: summary
+              widget: markdown
+        - name: 'parceles-en'
+          label: 'Parcel·les'
+          file: 'src/pages/plots.en.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Descripció
+              name: summary
+              widget: markdown
+            - label: Preus
+              name: pricing
+              widget: list
+              fields:
+                - label: Nom
+                  name: title
+                  widget: string
+                - label: Preu
+                  name: price
+                  widget: number
+                  value_type: float
+                  min: 0
+            - label: Notes sobre els preus
+              name: pricingNotes
+              widget: markdown
+              required: false
+            - label: Normativa
+              name: regulation
+              widget: markdown
+            - label: Condicions
+              name: conditions
+              widget: markdown
+        - name: 'bungalous-en'
+          label: 'Bungalous'
+          file: 'src/pages/bungalows.en.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Descripció
+              name: summary
+              widget: markdown
+            - label: Preus
+              name: pricing
+              widget: list
+              fields:
+                - label: Nom
+                  name: title
+                  widget: string
+                - label: Preu temporada alta
+                  name: highSeason
+                  widget: number
+                  value_type: float
+                  min: 0
+                - label: Preu temporada baixa
+                  name: lowSeason
+                  widget: number
+                  value_type: float
+                  min: 0
+            - label: Notes sobre els preus
+              name: pricingNotes
+              widget: markdown
+              required: false
+            - label: Normativa
+              name: regulation
+              widget: markdown
+            - label: Condicions
+              name: conditions
+              widget: markdown
+        - name: 'gaials-en'
+          label: 'Gaials'
+          file: 'src/pages/gaials.en.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Descripció
+              name: summary
+              widget: markdown
+            - label: Preus
+              name: pricing
+              widget: list
+              fields:
+                - label: Nom
+                  name: title
+                  widget: string
+                - label: Preu temporada alta
+                  name: highSeason
+                  widget: number
+                  value_type: float
+                  min: 0
+                - label: Preu temporada baixa
+                  name: lowSeason
+                  widget: number
+                  value_type: float
+                  min: 0
+            - label: Notes sobre els preus
+              name: pricingNotes
+              widget: markdown
+              required: false
+            - label: Normativa
+              name: regulation
+              widget: markdown
+            - label: Condicions
+              name: conditions
+              widget: markdown
+        - name: 'services-en'
+          label: 'Serveis'
+          file: 'src/pages/facilities.en.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - name: services
+              label: Serveis
+              widget: list
+              summary: "{{fields.title}}"
+              fields:
+                - label: Títol
+                  name: title
+                  widget: string
+                - label: Descripció
+                  name: description
+                  widget: markdown
+                  required: false
+                - label: Icona
+                  name: image
+                  widget: image
+                  allow_multiple: false
+        - name: 'activities-en'
+          label: 'Activitats'
+          file: 'src/pages/activities.en.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - name: activities
+              label: Activitats
+              widget: list
+              summary: "{{fields.title}}"
+              fields:
+                - label: Títol
+                  name: title
+                  widget: string
+                - label: Descripció
+                  name: description
+                  widget: markdown
+        - name: 'environment-en'
+          label: Entorn
+          file: 'src/pages/environment.en.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Descripció
+              name: summary
+              widget: markdown
+            - name: options
+              label: Opcions
+              widget: list
+              summary: "{{fields.title}}"
+              min: 3
+              fields:
+                - label: Títol
+                  name: title
+                  widget: string
+                - label: Descripció
+                  name: description
+                  widget: markdown
+                - label: URL
+                  name: url
+                  widget: string
+                  required: false
+        - name: 'contact-en'
+          label: 'Contacte'
+          file: 'src/pages/contact.en.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Text
+              name: summary
+              widget: markdown
+        - name: 'legal-notice-en'
+          label: 'Avís legal'
+          file: 'src/pages/legal-note.en.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Cos
+              name: body
+              widget: markdown
+        - name: 'privacy-policy-en'
+          label: 'Protecció de dades'
+          file: 'src/pages/privacy-policy.en.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Cos
+              name: body
+              widget: markdown
+        - name: '404-en'
+          label: '404'
+          file: 'src/pages/404.en.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Cos
+              name: body
+              widget: markdown
+    - name: 'pages-fr'
+      label: 'Pàgines (Francès)'
+      format: frontmatter
+      create: false
+      delete: false
+      editor:
+        preview: false
+      files:
+        - name: 'inici-fr'
+          label: Inici
+          file: 'src/pages/index.fr.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Descripció
+              name: summary
+              widget: markdown
+        - name: 'parceles-fr'
+          label: 'Parcel·les'
+          file: 'src/pages/parcelles.fr.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Descripció
+              name: summary
+              widget: markdown
+            - label: Preus
+              name: pricing
+              widget: list
+              fields:
+                - label: Nom
+                  name: title
+                  widget: string
+                - label: Preu
+                  name: price
+                  widget: number
+                  value_type: float
+                  min: 0
+            - label: Notes sobre els preus
+              name: pricingNotes
+              widget: markdown
+              required: false
+            - label: Normativa
+              name: regulation
+              widget: markdown
+            - label: Condicions
+              name: conditions
+              widget: markdown
+        - name: 'bungalous-fr'
+          label: 'Bungalous'
+          file: 'src/pages/bungalows.fr.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Descripció
+              name: summary
+              widget: markdown
+            - label: Preus
+              name: pricing
+              widget: list
+              fields:
+                - label: Nom
+                  name: title
+                  widget: string
+                - label: Preu temporada alta
+                  name: highSeason
+                  widget: number
+                  value_type: float
+                  min: 0
+                - label: Preu temporada baixa
+                  name: lowSeason
+                  widget: number
+                  value_type: float
+                  min: 0
+            - label: Notes sobre els preus
+              name: pricingNotes
+              widget: markdown
+              required: false
+            - label: Normativa
+              name: regulation
+              widget: markdown
+            - label: Condicions
+              name: conditions
+              widget: markdown
+        - name: 'gaials-fr'
+          label: 'Gaials'
+          file: 'src/pages/gaials.fr.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Descripció
+              name: summary
+              widget: markdown
+            - label: Preus
+              name: pricing
+              widget: list
+              fields:
+                - label: Nom
+                  name: title
+                  widget: string
+                - label: Preu temporada alta
+                  name: highSeason
+                  widget: number
+                  value_type: float
+                  min: 0
+                - label: Preu temporada baixa
+                  name: lowSeason
+                  widget: number
+                  value_type: float
+                  min: 0
+            - label: Notes sobre els preus
+              name: pricingNotes
+              widget: markdown
+              required: false
+            - label: Normativa
+              name: regulation
+              widget: markdown
+            - label: Condicions
+              name: conditions
+              widget: markdown
+        - name: 'services-fr'
+          label: 'Serveis'
+          file: 'src/pages/equipements.fr.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - name: services
+              label: Serveis
+              widget: list
+              summary: "{{fields.title}}"
+              fields:
+                - label: Títol
+                  name: title
+                  widget: string
+                - label: Descripció
+                  name: description
+                  widget: markdown
+                  required: false
+                - label: Icona
+                  name: image
+                  widget: image
+                  allow_multiple: false
+        - name: 'activities-fr'
+          label: 'Activitats'
+          file: 'src/pages/activites.fr.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - name: activities
+              label: Activitats
+              widget: list
+              summary: "{{fields.title}}"
+              fields:
+                - label: Títol
+                  name: title
+                  widget: string
+                - label: Descripció
+                  name: description
+                  widget: markdown
+        - name: 'environment-fr'
+          label: Entorn
+          file: 'src/pages/environnement.fr.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Descripció
+              name: summary
+              widget: markdown
+            - name: options
+              label: Opcions
+              widget: list
+              summary: "{{fields.title}}"
+              min: 3
+              fields:
+                - label: Títol
+                  name: title
+                  widget: string
+                - label: Descripció
+                  name: description
+                  widget: markdown
+                - label: URL
+                  name: url
+                  widget: string
+                  required: false
+        - name: 'contact-fr'
+          label: 'Contacte'
+          file: 'src/pages/contact.fr.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Text
+              name: summary
+              widget: markdown
+        - name: 'legal-notice-fr'
+          label: 'Avís legal'
+          file: 'src/pages/legal-note.fr.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Cos
+              name: body
+              widget: markdown
+        - name: 'privacy-policy-fr'
+          label: 'Protecció de dades'
+          file: 'src/pages/privacy-policy.fr.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Cos
+              name: body
+              widget: markdown
+        - name: '404-fr'
+          label: '404'
+          file: 'src/pages/404.fr.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Cos
+              name: body
+              widget: markdown
+    - name: 'pages-nl'
+      label: 'Pàgines (Nerlandès)'
+      format: frontmatter
+      create: false
+      delete: false
+      editor:
+        preview: false
+      files:
+        - name: 'inici-nl'
+          label: Inici
+          file: 'src/pages/index.nl.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Descripció
+              name: summary
+              widget: markdown
+        - name: 'parceles-nl'
+          label: 'Parcel·les'
+          file: 'src/pages/kampeerplaatsen.nl.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Descripció
+              name: summary
+              widget: markdown
+            - label: Preus
+              name: pricing
+              widget: list
+              fields:
+                - label: Nom
+                  name: title
+                  widget: string
+                - label: Preu
+                  name: price
+                  widget: number
+                  value_type: float
+                  min: 0
+            - label: Notes sobre els preus
+              name: pricingNotes
+              widget: markdown
+              required: false
+            - label: Normativa
+              name: regulation
+              widget: markdown
+            - label: Condicions
+              name: conditions
+              widget: markdown
+        - name: 'bungalous-nl'
+          label: 'Bungalous'
+          file: 'src/pages/bungalows.nl.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Descripció
+              name: summary
+              widget: markdown
+            - label: Preus
+              name: pricing
+              widget: list
+              fields:
+                - label: Nom
+                  name: title
+                  widget: string
+                - label: Preu temporada alta
+                  name: highSeason
+                  widget: number
+                  value_type: float
+                  min: 0
+                - label: Preu temporada baixa
+                  name: lowSeason
+                  widget: number
+                  value_type: float
+                  min: 0
+            - label: Notes sobre els preus
+              name: pricingNotes
+              widget: markdown
+              required: false
+            - label: Normativa
+              name: regulation
+              widget: markdown
+            - label: Condicions
+              name: conditions
+              widget: markdown
+        - name: 'gaials-nl'
+          label: 'Gaials'
+          file: 'src/pages/gaials.nl.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Descripció
+              name: summary
+              widget: markdown
+            - label: Preus
+              name: pricing
+              widget: list
+              fields:
+                - label: Nom
+                  name: title
+                  widget: string
+                - label: Preu temporada alta
+                  name: highSeason
+                  widget: number
+                  value_type: float
+                  min: 0
+                - label: Preu temporada baixa
+                  name: lowSeason
+                  widget: number
+                  value_type: float
+                  min: 0
+            - label: Notes sobre els preus
+              name: pricingNotes
+              widget: markdown
+              required: false
+            - label: Normativa
+              name: regulation
+              widget: markdown
+            - label: Condicions
+              name: conditions
+              widget: markdown
+        - name: 'services-nl'
+          label: 'Serveis'
+          file: 'src/pages/voorzieningen.nl.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - name: services
+              label: Serveis
+              widget: list
+              summary: "{{fields.title}}"
+              fields:
+                - label: Títol
+                  name: title
+                  widget: string
+                - label: Descripció
+                  name: description
+                  widget: markdown
+                  required: false
+                - label: Icona
+                  name: image
+                  widget: image
+                  allow_multiple: false
+        - name: 'activities-nl'
+          label: 'Activitats'
+          file: 'src/pages/activiteiten.nl.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - name: activities
+              label: Activitats
+              widget: list
+              summary: "{{fields.title}}"
+              fields:
+                - label: Títol
+                  name: title
+                  widget: string
+                - label: Descripció
+                  name: description
+                  widget: markdown
+        - name: 'environment-nl'
+          label: Entorn
+          file: 'src/pages/omgeving.nl.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Descripció
+              name: summary
+              widget: markdown
+            - name: options
+              label: Opcions
+              widget: list
+              summary: "{{fields.title}}"
+              min: 3
+              fields:
+                - label: Títol
+                  name: title
+                  widget: string
+                - label: Descripció
+                  name: description
+                  widget: markdown
+                - label: URL
+                  name: url
+                  widget: string
+                  required: false
+        - name: 'contact-nl'
+          label: 'Contacte'
+          file: 'src/pages/contact.nl.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Text
+              name: summary
+              widget: markdown
+        - name: 'legal-notice-nl'
+          label: 'Avís legal'
+          file: 'src/pages/legal-note.nl.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Cos
+              name: body
+              widget: markdown
+        - name: 'privacy-policy-nl'
+          label: 'Protecció de dades'
+          file: 'src/pages/privacy-policy.nl.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Cos
+              name: body
+              widget: markdown
+        - name: '404-nl'
+          label: '404'
+          file: 'src/pages/404.nl.md'
+          fields:
+            - label: Títol (SEO)
+              name: title
+              widget: string
+            - label: Descripció (SEO)
+              name: description
+              widget: text
+            - label: Cos
+              name: body
+              widget: markdown
