@@ -41,6 +41,9 @@ const ToggleMenu = props => {
           _active={{
             bg: "paleGrey.500",
           }}
+          _hover={{
+            bg: "paleGrey.500",
+          }}
         />
       </Box>
       <Drawer

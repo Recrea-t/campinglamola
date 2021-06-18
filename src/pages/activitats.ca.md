@@ -27,7 +27,7 @@ activities:
       Excursions en 4x4 al cor del Parc Nacional d'Aigüestortes i Estany de Sant Maurici. *[Més informació](https://www.taxisespot.com/excursions)*
   - title: Aventura
     description: >-
-
+      
 
       Per qui vulgui sentir una forta descàrrega d'adrenalina i connectar amb la naturalesa al mateix temps.
 
@@ -65,7 +65,7 @@ activities:
       5 minuts del càmping.
   - title: Patrimoni cultural
     description: >-
-      * **Romànic**
+      **Romànic**
 
 
       El Pallars Sobirà, i molt especialment les Valls d'Àneu, és terra d'esglésies, ermites i monestirs, amb alts campanars coronats amb lloses de pissarra que destaquen per damunt dels poblets i petites ermites que s'amaguen entre els turons i les muntanyes.
@@ -89,7 +89,8 @@ activities:
 
       * ***[Curtàneu](https://www.curtaneu.cat/)*,** Mostra Internacional de curtmetratges a les Valls d'Àneu, al Pallars Sobirà. La mostra forma part de Catalunya Film Festivals, la coordinadora de festivals de Catalunya
 
-      * **Museus i centres d'interpretació**
+
+      **Museus i centres d'interpretació**
 
 
       Una cultura ben viva i sorprenent que podeu conèixer gràcies a la divulgació i protecció del nostre patrimoni històric.
@@ -109,7 +110,8 @@ activities:
 
       * ***[Centre d'Interpretació de Tavascan](https://tavascan.wixsite.com/tavascan)*, La força de l'aigua**
 
-      * **Gastrononia**
+
+      **Gastrononia**
 
 
       La millor manera d'assaborir el Pallars Sobirà és tastar els productes elaborats al territori. No deixi de visitar els nostres productors locals, que li oferiran els seus millors productes de proximitat, i li explicaran com els elaboren: Formatges, iogurts, embotits…

@@ -69,6 +69,26 @@ collections:
               name: aneuImage
               widget: image
               allow_multiple: false
+            - label: Oferta
+              name: offer
+              widget: object
+              summary: '{{fields.title}}'
+              fields:
+                - label: Activa
+                  name: active
+                  widget: boolean
+                  default: false
+                - label: Títol
+                  name: title
+                  widget: string
+                - label: Subtítol
+                  name: subtitle
+                  widget: string
+                  required: false
+                - label: Descripció
+                  name: description
+                  widget: markdown
+                  required: false
         - name: 'parceles-ca'
           label: 'Parcel·les'
           file: 'src/pages/parceles.ca.md'
@@ -369,6 +389,26 @@ collections:
             - label: Descripció
               name: summary
               widget: markdown
+            - label: Oferta
+              name: offer
+              widget: object
+              summary: '{{fields.title}}'
+              fields:
+                - label: Activa
+                  name: active
+                  widget: boolean
+                  default: false
+                - label: Títol
+                  name: title
+                  widget: string
+                - label: Subtítol
+                  name: subtitle
+                  widget: string
+                  required: false
+                - label: Descripció
+                  name: description
+                  widget: markdown
+                  required: false
         - name: 'parceles-es'
           label: 'Parcel·les'
           file: 'src/pages/parcelas.es.md'
@@ -633,6 +673,26 @@ collections:
             - label: Descripció
               name: summary
               widget: markdown
+            - label: Oferta
+              name: offer
+              widget: object
+              summary: '{{fields.title}}'
+              fields:
+                - label: Activa
+                  name: active
+                  widget: boolean
+                  default: false
+                - label: Títol
+                  name: title
+                  widget: string
+                - label: Subtítol
+                  name: subtitle
+                  widget: string
+                  required: false
+                - label: Descripció
+                  name: description
+                  widget: markdown
+                  required: false
         - name: 'parceles-en'
           label: 'Parcel·les'
           file: 'src/pages/plots.en.md'
@@ -897,6 +957,26 @@ collections:
             - label: Descripció
               name: summary
               widget: markdown
+            - label: Oferta
+              name: offer
+              widget: object
+              summary: '{{fields.title}}'
+              fields:
+                - label: Activa
+                  name: active
+                  widget: boolean
+                  default: false
+                - label: Títol
+                  name: title
+                  widget: string
+                - label: Subtítol
+                  name: subtitle
+                  widget: string
+                  required: false
+                - label: Descripció
+                  name: description
+                  widget: markdown
+                  required: false
         - name: 'parceles-fr'
           label: 'Parcel·les'
           file: 'src/pages/parcelles.fr.md'
@@ -1161,6 +1241,26 @@ collections:
             - label: Descripció
               name: summary
               widget: markdown
+            - label: Oferta
+              name: offer
+              widget: object
+              summary: '{{fields.title}}'
+              fields:
+                - label: Activa
+                  name: active
+                  widget: boolean
+                  default: false
+                - label: Títol
+                  name: title
+                  widget: string
+                - label: Subtítol
+                  name: subtitle
+                  widget: string
+                  required: false
+                - label: Descripció
+                  name: description
+                  widget: markdown
+                  required: false
         - name: 'parceles-nl'
           label: 'Parcel·les'
           file: 'src/pages/kampeerplaatsen.nl.md'

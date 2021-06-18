@@ -1,8 +1,16 @@
 ---
-plotsImage: /images/parceles1.jpg
 gaialsImage: /images/gaials1.jpg
-bungalowsImage: /images/bungalows1.jpg
 templateKey: index-page
+description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
+  de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats
+  paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i
+  espaiosos bungalows
+images:
+  - /images/Inici01.jpg
+  - /images/Inici02.jpg
+  - /images/Inici03.jpg
+  - /images/Inici04.jpg
+  - /images/Inici05.jpg
 summary: >-
   En l'immillorable entorn natural del Parc Nacional d'Aigüestortes i Estany de
   Sant Maurici, al nord del Pallars Sobirà, l'enclavament ideal per relaxar-se i
@@ -14,20 +22,12 @@ summary: >-
   Recomanat a qualsevol persona que estima la natura, l'esport li la tranquil·litat.
 
   Sempre treballant per millorar. Els nostres clients repeteixen i ens recomanen.
+bungalowsImage: /images/bungalows1.jpg
 servicesSummary: Sempre treballant per millorar. Els nostres clients repeteixen i ens recomanen.
+plotsImage: /images/parceles1.jpg
 environmentSummary: Recomanat a qualsevol persona que estima la natura, l'esport
   i la tranquil·litat.
 title: Càmping a Espot
-description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
-  de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats
-  paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i
-  espaiosos bungalows
-images:
-  - /images/Inici01.jpg
-  - /images/Inici02.jpg
-  - /images/Inici03.jpg
-  - /images/Inici04.jpg
-  - /images/Inici05.jpg
 parcNacionalImage: /images/Entorn01.jpg
 parcNaturalImage: /images/Entorn02.jpg
 aneuImage: /images/Entorn03.jpg
@@ -35,7 +35,5 @@ offer:
   active: true
   title: Títol de l'oferta
   subtitle: 2x1
-  description: >-
-    Descripció de l'oferta, característiques, data de caducitat, etc...
-
+  description: Descripció de l'oferta, característiques, data de caducitat, etc...1
 ---

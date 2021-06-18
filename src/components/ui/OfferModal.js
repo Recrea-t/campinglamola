@@ -14,7 +14,10 @@ import {
   HStack,
   Heading,
   Button,
+  Image,
 } from "@chakra-ui/react"
+
+import logo from "../../images/Logo.svg"
 
 import { MotionLink } from "../../theme/utils"
 
@@ -54,9 +57,11 @@ const OfferModal = ({ title, subtitle, description }) => {
         isOpen={isOpen}
         onClose={onClose}
         isCentered
+        size="full"
+        blockScrollOnMount
       >
         <ModalOverlay />
-        <ModalContent bg="paleGrey.500">
+        <ModalContent bg="paleGrey.500" borderRadius={0}>
           <ModalHeader
             color="white"
             textTransform="uppercase"
@@ -98,28 +103,24 @@ const OfferModal = ({ title, subtitle, description }) => {
             >
               {subtitle}
             </Heading>
-            <ReactMarkdown
-              components={ChakraUIRenderer()}
-              children={description}
-            />
+            <Box textAlign="center">
+              <ReactMarkdown
+                components={ChakraUIRenderer()}
+                children={description}
+              />
+            </Box>
           </ModalBody>
 
           <ModalFooter>
             <HStack w="full" justify="space-between">
-              <StaticImage
-                src="../../images/Logo.svg"
-                alt="Recrea't"
-                loading="eager"
-                layout="fixed"
-                placeholder="tracedSVG"
-                width={200}
-              />
+              <Image src={logo} alt="Recrea't" w={["50%", null, "200px"]} />
               <MotionLink
                 as={GatsbyLink}
                 to="/contacte"
                 title={moreButton}
                 variant="button"
                 colorScheme="dullBrown"
+                fontSize={["xs", null, "md"]}
                 alignSelf="flex-end"
                 textTransform="uppercase"
                 py={2}

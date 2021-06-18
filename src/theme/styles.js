@@ -111,7 +111,7 @@ const styles = {
       borderColor: "transparent",
       bg: "#ecf9f6",
       _hover: {
-        bg: "#c7ede5",
+        bg: "#ecf9f6",
       },
       _readOnly: {
         boxShadow: "none !important",

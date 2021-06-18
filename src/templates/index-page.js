@@ -46,8 +46,6 @@ const IndexPage = props => {
   const isSmallDevice = useBreakpointValue({ base: true, md: false })
   const limit = useBreakpointValue({ base: 8, md: 10, lg: 14 })
 
-  console.log(frontmatter.offer)
-
   return (
     <>
       <SEO title={frontmatter.title} description={frontmatter.description} />

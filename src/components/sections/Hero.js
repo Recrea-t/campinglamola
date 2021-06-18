@@ -16,7 +16,13 @@ const Hero = props => {
 
   if (!images || images.length === 0) {
     return (
-      <Box pos="relative" w="full" h="calc(100vh - 5rem)" ref={revealRef}>
+      <Box
+        pos="relative"
+        w="full"
+        h="calc(100vh - 5rem)"
+        ref={revealRef}
+        mt={100}
+      >
         <iframe
           width="100%"
           height="100%"
