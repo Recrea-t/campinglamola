@@ -79,7 +79,12 @@ const Header = ({ inView }) => {
           </LocalizedLink>
         </MotionBox>
 
-        <ToggleMenu isOpen={isOpen} onOpen={onOpen} onClose={onClose}>
+        <ToggleMenu
+          isOpen={isOpen}
+          onOpen={onOpen}
+          onClose={onClose}
+          controls={controls}
+        >
           {menuItems.map((menu, index) => {
             const idelay = (6 - index) / 10 + 0.23
             return (

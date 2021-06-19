@@ -10,6 +10,7 @@ import {
   Image,
   Text,
   Link,
+  IconButton,
 } from "@chakra-ui/react"
 
 export const EASINGS = {
@@ -106,6 +107,16 @@ export const MotionButton = motion(
       Object.entries(props).filter(([key]) => !isValidMotionProp(key))
     )
     return <Button ref={ref} {...chakraProps} />
+  })
+)
+
+export const MotionIconButton = motion(
+  forwardRef((props, ref) => {
+    const chakraProps = Object.fromEntries(
+      // do not pass framer props to DOM element
+      Object.entries(props).filter(([key]) => !isValidMotionProp(key))
+    )
+    return <IconButton ref={ref} {...chakraProps} />
   })
 )
 

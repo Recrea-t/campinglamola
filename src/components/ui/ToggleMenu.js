@@ -1,7 +1,7 @@
 import React from "react"
 import {
-  Box,
   IconButton,
+  Box,
   Drawer,
   DrawerContent,
   DrawerCloseButton,
@@ -19,19 +19,56 @@ import Languages from "../ui/Languages"
 
 import useSiteMetadata from "../siteMetadata"
 
-import { MotionLink, MotionText, EASINGS } from "../../theme/utils"
+import {
+  MotionIconButton,
+  MotionLink,
+  MotionText,
+  EASINGS,
+} from "../../theme/utils"
 
 const ToggleMenu = props => {
-  const { isOpen, onOpen, onClose, children } = props
+  const { isOpen, onOpen, onClose, children, controls } = props
   const btnRef = React.useRef()
 
   const { menuTitle, callUs, writeUs } = useTranslations()
   const { organization } = useSiteMetadata()
 
+  const toggleVariants = {
+    visible: {
+      background: "transparent",
+      _focus: {
+        outline: "none",
+        bg: "transparent",
+      },
+      _active: {
+        bg: "transparent",
+      },
+      _hover: {
+        bg: "transparent",
+      },
+    },
+    hidden: {
+      background: "#ecf9f6",
+      _focus: {
+        outline: "none",
+        bg: "paleGrey.500",
+      },
+      _active: {
+        bg: "paleGrey.500",
+      },
+      _hover: {
+        bg: "paleGrey.500",
+      },
+    },
+  }
+
   return (
     <>
       <Box onClick={onOpen} ref={btnRef}>
-        <IconButton
+        <MotionIconButton
+          animate={controls}
+          variants={toggleVariants}
+          initial="visible"
           colorScheme="paleGrey"
           icon={<img src={HamburgerIcon} alt="Toggle navigation" />}
           _focus={{
@@ -62,8 +99,32 @@ const ToggleMenu = props => {
             maxWidth="1200px"
             w="full"
             mx="auto"
+            mb={[4, null, 0]}
           >
-            <DrawerCloseButton />
+            <DrawerCloseButton
+              _focus={{
+                outline: "none",
+                bg: "transparent",
+              }}
+              _active={{
+                bg: "transparent",
+              }}
+            >
+              <IconButton
+                colorScheme="dullBrown"
+                icon={<img src={CloseIcon} alt="Toggle navigation" />}
+                _focus={{
+                  outline: "none",
+                  bg: "dullBrown.500",
+                }}
+                _hover={{
+                  bg: "dullBrown.500",
+                }}
+                _active={{
+                  bg: "dullBrown.500",
+                }}
+              />
+            </DrawerCloseButton>
             <DrawerBody>
               <MotionText
                 fontWeight="semibold"
