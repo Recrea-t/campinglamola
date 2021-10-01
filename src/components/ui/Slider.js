@@ -43,8 +43,6 @@ const BackgroundSlider = ({
               right: 0,
               bottom: 0,
               zIndex: 1,
-              background:
-                "linear-gradient(0deg, rgba(255, 255, 255, 0) 10%, #fff 90%)",
             }}
             as={GatsbyImage}
             loading="eager"

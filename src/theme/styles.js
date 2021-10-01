@@ -44,8 +44,6 @@ const styles = {
           right: 0,
           bottom: 0,
           zIndex: 1,
-          background:
-            "linear-gradient(0deg, rgba(236, 249, 246, 0) 42%, #ecf9f6 100%)",
         },
       },
       ".slick-list": {
