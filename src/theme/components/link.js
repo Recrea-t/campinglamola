@@ -62,6 +62,19 @@ export default {
   },
   variants: {
     button: variantButton,
+    "nav-link-lg": {
+      color: "dullBrown.500",
+      fontSize: "md",
+      textDecoration: "none",
+      fontWeight: "semibold",
+      textTransform: "uppercase",
+      textAlign: "center",
+      _hover: {
+        textDecoration: "underline",
+      },
+      pr: { base: 2, lg: 8 },
+      pl: { base: 2, lg: 8 },
+    },
     "nav-link": {
       color: "paleGrey.500",
       fontSize: "2rem",

@@ -12,8 +12,6 @@ import Header from "./sections/Header"
 import Footer from "./sections/Footer"
 import Hero from ".//sections/Hero"
 
-import { useInView } from "react-intersection-observer"
-
 const TemplateWrapper = ({
   data,
   children,
@@ -25,8 +23,6 @@ const TemplateWrapper = ({
   const { changeLocale } = useLocale()
   changeLocale(locale)
 
-  const [ref, inView] = useInView({ threshold: 0.9 })
-
   return (
     <Flex
       direction="column"
@@ -36,11 +32,10 @@ const TemplateWrapper = ({
       minH="100vh"
       pos="relative"
     >
-      <Header inView={inView} />
+      <Header />
       <Flex as="main" pos="relative" w="full" direction="column">
         {frontmatter && (
           <Hero
-            revealRef={ref}
             title={frontmatter.title}
             images={images}
             language={locale}

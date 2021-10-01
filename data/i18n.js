@@ -4,6 +4,7 @@ module.exports = {
   ca: {
     default: true,
     path: `ca`,
+    title: `CAT`,
     locale: `ca-ES`,
     dateFormat: `dd/MM/yyyy`,
     siteLanguage: `ca`,
@@ -14,6 +15,7 @@ module.exports = {
   },
   es: {
     path: `es`,
+    title: `ES`,
     locale: `es-ES`,
     dateFormat: `dd/MM/yyyy`,
     siteLanguage: `es`,
@@ -24,6 +26,7 @@ module.exports = {
   },
   en: {
     path: `en`,
+    title: `ENG`,
     locale: `en-GB`,
     dateFormat: `MM/dd/yyyy`,
     siteLanguage: `en`,
@@ -34,6 +37,7 @@ module.exports = {
   },
   fr: {
     path: `fr`,
+    title: `FR`,
     locale: `fr-FR`,
     dateFormat: `dd/MM/yyyy`,
     siteLanguage: `fr`,
@@ -44,6 +48,7 @@ module.exports = {
   },
   nl: {
     path: `nl`,
+    title: `NL`,
     locale: `nl-NL`,
     dateFormat: `dd/MM/yyyy`,
     siteLanguage: `nl`,

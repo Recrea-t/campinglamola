@@ -8,21 +8,15 @@ import "slick-carousel/slick/slick.css"
 import "slick-carousel/slick/slick-theme.css"
 
 const Hero = props => {
-  const { images, title, revealRef, language, isEmpty } = props
+  const { images, title, language, isEmpty } = props
 
   if (isEmpty) {
-    return <Box pos="relative" w="full" h="150px" ref={revealRef}></Box>
+    return <Box pos="relative" w="full" h="150px"></Box>
   }
 
   if (!images || images.length === 0) {
     return (
-      <Box
-        pos="relative"
-        w="full"
-        h="calc(100vh - 5rem)"
-        ref={revealRef}
-        mt={100}
-      >
+      <Box pos="relative" w="full" h="calc(100vh - 5rem)" mt={100}>
         <iframe
           width="100%"
           height="100%"
@@ -53,7 +47,7 @@ const Hero = props => {
       swipe: true,
     }
     return (
-      <Box pos="relative" w="full" h="calc(100vh - 5rem)" ref={revealRef}>
+      <Box pos="relative" w="full" h="calc(100vh - 5rem)">
         <Slider {...settings}>
           {images.map((image, index) => (
             <Image
@@ -83,7 +77,7 @@ const Hero = props => {
   }
 
   return (
-    <Box pos="relative" w="full" h="calc(100vh - 5rem)" ref={revealRef}>
+    <Box pos="relative" w="full" h="calc(100vh - 5rem)">
       <Image
         _before={{
           content: "''",

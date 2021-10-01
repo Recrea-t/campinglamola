@@ -6,10 +6,8 @@ import {
   DrawerContent,
   DrawerCloseButton,
   DrawerBody,
-  HStack,
   Center,
 } from "@chakra-ui/react"
-import { PhoneIcon, EmailIcon } from "@chakra-ui/icons"
 
 import HamburgerIcon from "../../images/HamburgerIcon.svg"
 import CloseIcon from "../../images/CloseIcon.svg"
@@ -17,21 +15,13 @@ import CloseIcon from "../../images/CloseIcon.svg"
 import useTranslations from "../useTranslations"
 import Languages from "../ui/Languages"
 
-import useSiteMetadata from "../siteMetadata"
-
-import {
-  MotionIconButton,
-  MotionLink,
-  MotionText,
-  EASINGS,
-} from "../../theme/utils"
+import { MotionIconButton, MotionText, EASINGS } from "../../theme/utils"
 
 const ToggleMenu = props => {
   const { isOpen, onOpen, onClose, children, controls } = props
   const btnRef = React.useRef()
 
-  const { menuTitle, callUs, writeUs } = useTranslations()
-  const { organization } = useSiteMetadata()
+  const { menuTitle } = useTranslations()
 
   const toggleVariants = {
     visible: {
@@ -64,7 +54,11 @@ const ToggleMenu = props => {
 
   return (
     <>
-      <Box onClick={onOpen} ref={btnRef}>
+      <Box
+        display={{ base: "block", md: "none" }}
+        onClick={onOpen}
+        ref={btnRef}
+      >
         <MotionIconButton
           animate={controls}
           variants={toggleVariants}
@@ -125,6 +119,7 @@ const ToggleMenu = props => {
                 }}
               />
             </DrawerCloseButton>
+
             <DrawerBody>
               <MotionText
                 fontWeight="semibold"
@@ -157,29 +152,9 @@ const ToggleMenu = props => {
               >
                 {menuTitle}
               </MotionText>
+
               {children}
-              <Center w="full" my={4}>
-                <HStack spacing={[12, null, 16]}>
-                  <MotionLink
-                    href={`tel:${organization.phones[1].number}`}
-                    title={callUs}
-                    color="paleGrey.500"
-                    whileHover={{ scale: 1.05 }}
-                    whileTap={{ scale: 0.95 }}
-                  >
-                    <PhoneIcon h={12} w={12} />
-                  </MotionLink>
-                  <MotionLink
-                    href={`mailto:${organization.email}`}
-                    title={writeUs}
-                    color="paleGrey.500"
-                    whileHover={{ scale: 1.05 }}
-                    whileTap={{ scale: 0.95 }}
-                  >
-                    <EmailIcon h={14} w={14} />
-                  </MotionLink>
-                </HStack>
-              </Center>
+
               <Languages />
             </DrawerBody>
           </Center>

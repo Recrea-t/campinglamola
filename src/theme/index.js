@@ -11,6 +11,7 @@ import Container from "./components/container"
 import Accordion from "./components/accordion"
 import Heading from "./components/heading"
 import Button from "./components/button"
+import Menu from "./components/menu"
 import Drawer from "./components/drawer"
 import Input from "./components/input"
 import Textarea from "./components/textarea"
@@ -30,6 +31,7 @@ const overrides = {
     Heading,
     Button,
     Drawer,
+    Menu,
     Input,
     Textarea,
     NumberInput,
