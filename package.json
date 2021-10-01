@@ -24,7 +24,7 @@
     "cross-env": "^7.0.3",
     "formik": "^2.2.9",
     "framer-motion": "^4.1.17",
-    "gatsby": "^3.14.1",
+    "gatsby": "^3.13.1",
     "gatsby-core-utils": "^2.14.0",
     "gatsby-plugin-image": "^1.14.0",
     "gatsby-plugin-manifest": "^3.14.0",
