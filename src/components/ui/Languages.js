@@ -57,13 +57,14 @@ const Languages = () => {
 
   return (
     <>
-      <Menu display={{ base: "none", md: "block" }} matchWidth={true}>
-        <MenuButton
-          as={Link}
-          variant="nav-link-lg"
-          rightIcon={<TriangleDownIcon />}
-        >
+      <Menu
+        display={{ base: "none", md: "block" }}
+        matchWidth={true}
+        offset={0}
+      >
+        <MenuButton as={Link} variant="nav-link-lg">
           {locales[locale].title}
+          <TriangleDownIcon pl={1} />
         </MenuButton>
         <MenuList>
           <MenuItem>

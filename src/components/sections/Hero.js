@@ -16,7 +16,7 @@ const Hero = props => {
 
   if (!images || images.length === 0) {
     return (
-      <Box pos="relative" w="full" h="calc(100vh - 5rem)" mt={100}>
+      <Box pos="relative" w="full" h="calc(100vh - 100px)" mt={100}>
         <iframe
           width="100%"
           height="100%"
@@ -47,7 +47,7 @@ const Hero = props => {
       swipe: true,
     }
     return (
-      <Box pos="relative" w="full" h="calc(100vh - 5rem)">
+      <Box pos="relative" w="full" h="calc(100vh - 100px)" mt={100}>
         <Slider {...settings}>
           {images.map((image, index) => (
             <Image
@@ -77,7 +77,7 @@ const Hero = props => {
   }
 
   return (
-    <Box pos="relative" w="full" h="calc(100vh - 5rem)">
+    <Box pos="relative" w="full" h="calc(100vh - 100px)" mt={100}>
       <Image
         _before={{
           content: "''",

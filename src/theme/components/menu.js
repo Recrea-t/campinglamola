@@ -2,23 +2,23 @@ export default {
   baseStyle: {
     list: {
       bg: "paleGrey.500",
-      boxShadow: "sm",
+      boxShadow: "none",
       color: "inherit",
       minW: "none",
-      py: "2",
+      py: "0",
       zIndex: 1,
-      borderRadius: "md",
-      borderWidth: "1px",
+      borderRadius: "none",
+      borderWidth: "none",
     },
     item: {
       _focus: {
-        bg: "paleGrey.600",
+        bg: "paleGrey.500",
       },
       _active: {
-        bg: "paleGrey.600",
+        bg: "paleGrey.500",
       },
       _expanded: {
-        bg: "paleGrey.600",
+        bg: "paleGrey.500",
       },
     },
   },

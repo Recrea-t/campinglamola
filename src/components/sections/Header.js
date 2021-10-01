@@ -102,13 +102,10 @@ const Header = () => {
           direction="row"
           justify="space-between"
         >
-          <Menu>
-            <MenuButton
-              as={Link}
-              variant="nav-link-lg"
-              rightIcon={<TriangleDownIcon />}
-            >
+          <Menu matchWidth={true} offset={0}>
+            <MenuButton as={Link} variant="nav-link-lg">
               {menuTitle}
+              <TriangleDownIcon pl={1} />
             </MenuButton>
             <MenuList>
               {menuItems.map((menu, index) => {
