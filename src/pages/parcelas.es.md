@@ -27,7 +27,7 @@ pricing:
   - title: De paso (1 persona a pie)
     price: 10
   - title: Parcela Standard 60/70 m2 (máx. 6 personas y 1 vehículo)
-    price: 15
+    price: 15.7
   - title: Parcel.la XL 120 m2 (máx. 6 personas y 1 vehículo)
     price: 24
   - title: Cotxe extra
