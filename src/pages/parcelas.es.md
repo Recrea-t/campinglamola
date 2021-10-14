@@ -39,18 +39,12 @@ pricing:
   - title: Visita (máxim 4 horas)
     price: 3
 pricingNotes: >-
-  Preus per nit. IVA inclòs.
-
-
-  Impost sobre les estades en establiments turístics no inclòs : 0,60€ .Tarifa per persona (+ 16 anys ) i dia, amb un màxim de 7 dies.
-
-
   Precios por noche. IVA incluido.
 
-  Impuesto sobre las estancias en establecimientos turísticos no incluido: 0,60 €. Tarifa por persona (+16 años) y día, con un máximo de 7 días.
+  Impuesto sobre las estancias en establecimientos turísticos no incluido: 0,66 €. Tarifa por persona (+16 años) y día, con un máximo de 7 días.
 
 
-  *  Ocupación máxima: 6 personas. 
+  * Ocupación máxima: 6 personas. 
 
   * El precio de la parcela incluye la unidad de acampada (tienda, caravana, autocaravana ...) y un vehículo,      que se aparca en la parcela.
 
