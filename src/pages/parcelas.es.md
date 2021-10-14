@@ -8,17 +8,17 @@ description: Cámping situado en la zona del Parque Nacional de Aiguestortes i
 summary: >-
   * De 70 a 120m2.
 
-  * Totes amb ombra i sòl herbós.
+  * Todas con sombra y suelo herboso.
 
-  * Fonts d'aigua potable prop de cada parcel·la.
+  * Fuentes de agua potable cerca de cada parcela.
 
-  * Possibilitat d'escollir la parcel·la que més li agradi.
+  * Posibilidad de escoger la parcela que más le guste.
 
-  * Zona separada per grups.
+  * Zona separada para grupos.
 
-  * Opció de parcel·la per tot l'estiu (consulti'ns)
+  * Opción de parcela para todo el verano (consúltenos).
 
-  * S'admeten animals domèstics, a excepció dels gossos considerats com potencialment perillosos·
+  * Se admiten animales domésticos, a excepción de los perros considerados como potencialmente peligrosos.
 pricing:
   - title: Adult
     price: 6.4
