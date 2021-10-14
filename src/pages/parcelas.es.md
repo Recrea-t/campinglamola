@@ -85,7 +85,7 @@ regulation: >-
 
   * Se deben llevar a hacer sus necesidades fuera del recinto del cámping. En todo caso, los propietarios deberán recoger los excrementos de sus animales y depositarlos dentro de una bolsa en el contenedor de los restos.
 
-  * El propietario del animal será responsable de los daños que éste pueda ocasionar tanto al resto de los campistas y sus bienes como en las instalaciones del Camping.
+  * El propietario del animal será responsable de los daños que éste pueda ocasionar tanto al resto de los campistas y sus bienes como en las instalaciones del cámping.
 conditions: >-
   Si fan la reserva d'una parcel·la directament amb nosaltres mitjançant el web
   o per telèfon, no cal fer cap pagament avançat. Només necessitem saber el dia
