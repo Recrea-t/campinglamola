@@ -45,13 +45,18 @@ pricingNotes: >-
   Impost sobre les estades en establiments turístics no inclòs : 0,60€ .Tarifa per persona (+ 16 anys ) i dia, amb un màxim de 7 dies.
 
 
-  • Ocupació màxima: 6 persones.\
+  Precios por noche. IVA incluido.
 
-  • El preu de la parcel·la inclou la unitat d'acampada (tenda, caravana, autocaravana...) i un vehicle, que s'aparca a la parcel·la.\
+  Impuesto sobre las estancias en establecimientos turísticos no incluido: 0,60 €. Tarifa por persona (+16 años) y día, con un máximo de 7 días.
 
-  • Es poden afegir tendes auxiliars (tipus iglú) sense cap cost, a condició que estiguin dins dels límits de la parcel·la.\
 
-  • Es pot afegir màxim un segon cotxe a la parcel·la, però s'ha de registrar i abonar segons la tarifa vigent, i haurà d'estacionar-se dins dels límits de la parcel·la. En el cas que s'aparqui en una altra parcel·la s'haurà de pagar la tarifa de la parcel·la extra que estigui ocupant.
+  *  Ocupación máxima: 6 personas. 
+
+  * El precio de la parcela incluye la unidad de acampada (tienda, caravana, autocaravana ...) y un vehículo,      que se aparca en la parcela.
+
+  * Se pueden añadir tiendas auxiliares (tipo iglú) sin coste, a condición de que estén dentro de los límites de la parcela.
+
+  * Se puede añadir máximo un segundo coche en la parcela, pero tiene que registrarse y abonar según la  tarifa vigente, y deberá estacionarse dentro de los límites de la parcela. En caso de que se aparque en otra    deberá pagar la tarifa de la parcela extra que esté ocupando.
 regulation: >-
   * Ocupació màxima: 6 persones.
 
