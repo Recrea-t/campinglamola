@@ -16,10 +16,10 @@ servicesSummary: Sempre treballant per millorar. Els nostres clients repeteixen 
 environmentSummary: Recomanat a qualsevol persona que estima la natura, l'esport
   i la tranquil·litat.
 title: Camping en Espot
-description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
-  de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats
-  paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i
-  espaiosos bungalows
+description: Cámping situado en la zona del Parque Nacional de Aiguestortes i
+  Estany de Sant Maurici, el enclave ideal para relajarse y disfrutar de
+  privilegiados paisajes. Ofrecemos amplias parcelas con césped y sombra, así
+  como cómodos y espaciosos bungalows.
 offer:
   title: Oferta
   active: false
