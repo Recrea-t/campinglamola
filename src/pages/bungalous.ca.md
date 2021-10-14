@@ -1,24 +1,5 @@
 ---
 templateKey: bungalows-page
-formName: "bungalows-form"
-title: Bungalous
-description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
-  de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats
-  paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i
-  espaiosos bungalows
-images:
-  - /images/bungalows1.jpg
-  - /images/bungalows2.jpg
-  - /images/bungalows4.jpg
-  - /images/bungalows5.jpg
-  - /images/bungalows6.jpg
-  - /images/bungalows7.jpg
-  - /images/bungalows8.jpg
-  - /images/bungalows9.jpg
-  - /images/bungalows10.jpg
-  - /images/bungalows11.jpg
-  - /images/bungalows12.jpg
-  - /images/bungalows13.jpg
 summary: >-
   Un concepte diferent del tradicional bungalou, amb grans finestrals, bona llum
   natural, molt d’ espai interior i una ampla terrassa amb porxo .
@@ -51,11 +32,6 @@ pricing:
   - highSeason: 175
     title: 6 pax
     lowSeason: 130
-pricingNotes: >-
-  Preus per nit. IVA inclòs.
-
-
-  Impost sobre les estades en establiments turístics no inclòs : 0,60€ .Tarifa per persona (+ 16 anys ) i dia, amb un màxim de 7 dies.
 regulation: >-
   * És **OBLIGATÒRIA** la presentació de DNI o passaport de tots els ocupants
   majors de 14 anys a l’ arribada al Càmping i registrar tots els vehicles,
@@ -68,6 +44,30 @@ regulation: >-
   * Hora d'entrada: Entre les 16:00 i les 21:00 (consultar altres opcions).
 
   * Hora de sortida: Abans de les 11:00
+formName: bungalows-form
+title: Bungalous
+description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
+  de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats
+  paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i
+  espaiosos bungalows
+images:
+  - /images/bungalows1.jpg
+  - /images/bungalows2.jpg
+  - /images/bungalows4.jpg
+  - /images/bungalows5.jpg
+  - /images/bungalows6.jpg
+  - /images/bungalows7.jpg
+  - /images/bungalows8.jpg
+  - /images/bungalows9.jpg
+  - /images/bungalows10.jpg
+  - /images/bungalows11.jpg
+  - /images/bungalows12.jpg
+  - /images/bungalows13.jpg
+pricingNotes: >-
+  Preus per nit. IVA inclòs.
+
+
+  Impost sobre les estades en establiments turístics no inclòs : 0,66€ .Tarifa per persona (+ 16 anys ) i dia, amb un màxim de 7 dies.
 conditions: >-
   #### Pagaments
 
