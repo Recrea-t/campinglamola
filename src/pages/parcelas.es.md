@@ -20,23 +20,23 @@ summary: >-
 
   * Se admiten animales domésticos, a excepción de los perros considerados como potencialmente peligrosos.
 pricing:
-  - title: Adult
-    price: 6.4
-  - title: Nens de 5 a 11 anys
-    price: 5.8
-  - title: De pas (1 persona a peu)
+  - title: Adulto
+    price: 6.55
+  - title: Niños de 5 a 11 años
+    price: 6
+  - title: De paso (1 persona a pie)
     price: 10
-  - title: Parcel.la Standard 60/70 m2 (màx. 6 persones i 1 vehicle)
-    price: 14.5
-  - title: Parcel.la XL 120 m2 (màx. 6 persones i 1 vehicle)
-    price: 21.5
+  - title: Parcela Standard 60/70 m2 (máx. 6 personas y 1 vehículo)
+    price: 15
+  - title: Parcel.la XL 120 m2 (máx. 6 personas y 1 vehículo)
+    price: 24
   - title: Cotxe extra
     price: 6.4
-  - title: Electricitat
-    price: 6
-  - title: Mascota (gos)
+  - title: Electricidad (6 ampers)
+    price: 7
+  - title: Mascota (perro)
     price: 3
-  - title: Visita (màxim 4 hores)
+  - title: Visita (máxim 4 horas)
     price: 3
 pricingNotes: >-
   Preus per nit. IVA inclòs.
