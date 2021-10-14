@@ -81,7 +81,7 @@ regulation: >-
 
   * El cliente se compromete a que su perro esté vacunado y cumpla con las condiciones fitosanitarias establecidas por ley.
 
-  * Queda prohibido el acceso del perro en el interior de los edificios, alojamientos y piscina.
+  * Queda prohibido el acceso del perro en el interior de los edificios, alojamientos, parque infantil y piscina.
 
   * Se deben llevar a hacer sus necesidades fuera del recinto del cámping. En todo caso, los propietarios deberán recoger los excrementos de sus animales y depositarlos dentro de una bolsa en el contenedor de los restos.
 
