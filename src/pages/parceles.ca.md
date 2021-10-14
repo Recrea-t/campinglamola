@@ -3,7 +3,7 @@ templateKey: plots-page
 title: Parcel·les
 description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
   de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats
-  paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i
+  paisatges. Oferim àmplies parcel·les amb gespa i ombra, així com còmodes i
   espaiosos bungalows
 images:
   - /images/parceles1.jpg
@@ -27,17 +27,17 @@ pricing:
   - title: Adult
     price: 5
   - title: Nens de 5 a 11 anys
-    price: 5.8
+    price: 5
   - title: De pas (1 persona a peu)
-    price: 9
+    price: 10
   - title: Parcel.la Standard 60/70 m2 (màx. 6 persones i 1 vehicle)
-    price: 14.5
+    price: 15.7
   - title: Parcel.la XL 120 m2 (màx. 6 persones i 1 vehicle)
-    price: 21.5
+    price: 24
   - title: Cotxe extra
     price: 6.4
-  - title: Electricitat
-    price: 6
+  - title: Electricitat (6 ampers)
+    price: 5
   - title: Mascota (gos)
     price: 3
   - title: Visita (màxim 4 hores)
@@ -46,7 +46,7 @@ pricingNotes: >-
   Preus per nit. IVA inclòs.
 
 
-  Impost sobre les estades en establiments turístics no inclòs : 0,60€ .Tarifa per persona (+ 16 anys ) i dia, amb un màxim de 7 dies.
+  Impost sobre les estades en establiments turístics no inclòs : 0,66€ .Tarifa per persona (+16 anys) i dia, amb un màxim de 7 dies.
 
 
   • Ocupació màxima: 6 persones.\
@@ -80,11 +80,11 @@ regulation: >-
 
   * El client es compromet a què el seu gos estigui vacunat i compleixi amb les condicions fitosanitàries establertes per llei.
 
-  * Queda prohibit l'accés del gos a l’ interior dels edificis, allotjaments ,piscina i parc infantil.
+  * Queda prohibit l'accés del gos a l’ interior dels edificis, allotjaments, piscina i parc infantil.
 
   * S'han de portar a fer les seves necessitats fora del recinte del càmping. En tot cas, els propietaris hauran de recollir els excrements dels seus animals i dipositar-los dins d'una bossa al contenidor del rebuig.
 
-  * El propietari de l'animal serà responsable dels danys que aquest pugui ocasionar tant a la resta dels campistes i als seus béns com a les instal·lacions del Càmping.
+  * El propietari de l'animal serà responsable dels danys que aquest pugui ocasionar tant a la resta dels campistes i als seus béns com a les instal·lacions del càmping.
 conditions: >-
   Si fan la reserva d'una parcel·la directament amb nosaltres mitjançant el web
   o per telèfon, no cal fer cap pagament avançat. Només necessitem saber el dia
