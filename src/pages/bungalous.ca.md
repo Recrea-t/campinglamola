@@ -20,9 +20,9 @@ summary: >-
 
   * Cuina equipada amb vitroceràmica, microones, nevera, renta-vaixelles, cafetera *Nespreso*, torradora, espremedor, batedora, parament i vaixella.
 
-  * Bany complet amb dutxa.
+  * Bany complet amb dutxa i assecador.
 
-  * Calefacció .
+  * Calefacció.
 
   * No s'hi admeten animals de companyia.
 pricing:
@@ -67,7 +67,7 @@ pricingNotes: >-
   Preus per nit. IVA inclòs.
 
 
-  Impost sobre les estades en establiments turístics no inclòs : 0,66€ .Tarifa per persona (+ 16 anys ) i dia, amb un màxim de 7 dies.
+  Impost sobre les estades en establiments turístics no inclòs : 0,66€ .Tarifa per persona (+16 anys) i dia, amb un màxim de 7 dies.
 conditions: >-
   #### Pagaments
 
@@ -92,9 +92,9 @@ conditions: >-
 
   * Si s'anul·la amb menys de 7 dies no es retorna la fiança.
 
-  * Si els clients, sense previ avís, no arriben al càmping abans de les 22.00 h. del dia d'arribada, s'entendrà cancel·lada la reserva.
+  * Si els clients, sense previ avís, no arriben al càmping abans de les 21:00 h. del dia d'arribada, s'entendrà cancel·lada la reserva.
 
-  * Si la reserva es veu afectada per les restriccions de mobilitat imposades pel Govern en relació al Covid-19, es reemborsarà del 100% del dipòsit entregat. 
+  * Si la reserva es veu afectada per les restriccions de mobilitat imposades pel Govern en relació al Covid-19, es reemborsarà el 100% del dipòsit entregat. 
 
-  * Per a qualsevol cancel·lació per conveniència personal, s'aplicaran les nostres Condicions Generals d'anul·lació.
+  * Per a qualsevol altre motiu de cancel·lació, s'aplicaran les nostres Condicions Generals d'anul·lació.
 ---
