@@ -25,9 +25,9 @@ summary: >-
   * S'admeten animals domèstics, a excepció dels gossos considerats com potencialment perillosos·
 pricing:
   - title: Adult
-    price: 5
+    price: 6.55
   - title: Nens de 5 a 11 anys
-    price: 5
+    price: 6
   - title: De pas (1 persona a peu)
     price: 10
   - title: Parcel.la Standard 60/70 m2 (màx. 6 persones i 1 vehicle)
