@@ -27,9 +27,8 @@ activities:
       Excursions en 4x4 al cor del Parc Nacional d'Aigüestortes i Estany de Sant Maurici. *[Més informació](https://www.taxisespot.com/excursions)*
   - title: Aventura
     description: >-
-      
-
-      Per qui vulgui sentir una forta descàrrega d'adrenalina i connectar amb la naturalesa al mateix temps.
+      Per qui vulgui sentir una forta descàrrega d'adrenalina i connectar amb la
+      naturalesa al mateix temps.
 
 
       A la zona hi ha una ampla oferta d’ empreses especialitzades que ofereixen esports d’ aventura de forma segura, proporcionant l’equipament necessari i un guia o monitor qualificat.
@@ -51,8 +50,8 @@ activities:
       * Cicuits d'aventura als arbres
 
       * BTT
-        * *[Rutes del Centre BTT de les Valls d’Àneu.](http://www.vallsdaneu.org/btt-cicloturisme/)* 211 Km de rutes senyalitzades de diferents nivells. (aquest enllaç no funciona perque estan refent la página)
 
+        * *[Rutes del Centre BTT de les Valls d’Àneu.](http://www.vallsdaneu.org/btt-cicloturisme/)* 211 Km de rutes senyalitzades de diferents nivells. 
         * *[Rutes Bike & Run de Camping la Mola](https://ca.wikiloc.com/wikiloc/map.do?sw=-89.9993295%2C-179.999&ne=89.999%2C179.999&loop=1&q=C%C3%A0mping%20la%20Mola&place=C%C3%A0mping%20la%20Mola&fitMapToTrails=1&uid=1782701&page=1)*. Totes surten i arriben al càmping.
   - title: Activitats d'hivern
     description: L'esquí alpí, nòrdic i de muntanya, juntament amb les raquetes de
@@ -87,7 +86,7 @@ activities:
 
       * ***[Festival Esbaiola't](https://festivalesbaiolat.cat/)*,** a Esterri d'Àneu, arts escèniques al carrer i per a tots els públics***.***
 
-      * ***[Curtàneu](https://www.curtaneu.cat/)*,** Mostra Internacional de curtmetratges a les Valls d'Àneu, al Pallars Sobirà. La mostra forma part de Catalunya Film Festivals, la coordinadora de festivals de Catalunya
+      * ***[Curtàneu](https://www.curtaneu.cat/)*,** Mostra Internacional de curtmetratges a les Valls d'Àneu, al Pallars Sobirà. La mostra forma part de Catalunya Film Festivals, la coordinadora de festivals de Catalunya.
 
 
       **Museus i centres d'interpretació**
