@@ -37,7 +37,7 @@ pricing:
   - title: Cotxe extra
     price: 6.4
   - title: Electricitat (6 ampers)
-    price: 5
+    price: 7
   - title: Mascota (gos)
     price: 3
   - title: Visita (màxim 4 hores)
