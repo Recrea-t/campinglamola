@@ -70,22 +70,22 @@ regulation: >-
   * Horario de silencio: de 23:00 a 7:00. Prohibida la circulación de vehículos: de 23:00 a 7:00.
 
 
-  #### **Animals de companyia**
+  #### **Animales de compañía**
 
 
-  * Si ve amb animals, comuniqui-ho a recepció. Tots els gossos hauran d'estar registrats en el moment del check-in, i la seva estada resta subjecta al pagament de la tarifa corresponent.
+  * Si viene con animales, comuníquelo en recepción. Todos los perros deberán estar registrados en el momento del check-in y su estancia está sujeta al pago de la tarifa correspondiente.
 
-  * Dins del càmping, els gossos han d'estar lligats i controlats en tot moment i mai podran ocupar o passar per una parcel·la que no correspongui al seu amo.
+  * Dentro del camping, los perros deben estar atados y controlados en todo momento y nunca podrán ocupar o pasar por una parcela que no corresponda a su dueño.
 
-  * S'ha d'evitar que la mascota emeti lladrucs injustificats a qualsevol hora i menys en les hores de descans.
+  * Hay que evitar que la mascota emita ladridos injustificados a cualquier hora y menos en las horas de descanso.
 
-  * El client es compromet a què el seu gos estigui vacunat i compleixi amb les condicions fitosanitàries establertes per llei.
+  * El cliente se compromete a que su perro esté vacunado y cumpla con las condiciones fitosanitarias establecidas por ley.
 
-  * Queda prohibit l'accés del gos a l’ interior dels edificis, allotjaments i piscina.
+  * Queda prohibido el acceso del perro en el interior de los edificios, alojamientos y piscina.
 
-  * S'han de portar a fer les seves necessitats fora del recinte del càmping. En tot cas, els propietaris hauran de recollir els excrements dels seus animals i dipositar-los dins d'una bossa al contenidor del rebuig.
+  * Se deben llevar a hacer sus necesidades fuera del recinto del cámping. En todo caso, los propietarios deberán recoger los excrementos de sus animales y depositarlos dentro de una bolsa en el contenedor de los restos.
 
-  * El propietari de l'animal serà responsable dels danys que aquest pugui ocasionar tant a la resta dels campistes i als seus béns com a les instal·lacions del Càmping.
+  * El propietario del animal será responsable de los daños que éste pueda ocasionar tanto al resto de los campistas y sus bienes como en las instalaciones del Camping.
 conditions: >-
   Si fan la reserva d'una parcel·la directament amb nosaltres mitjançant el web
   o per telèfon, no cal fer cap pagament avançat. Només necessitem saber el dia
