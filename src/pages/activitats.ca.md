@@ -3,7 +3,7 @@ templateKey: activities-page
 title: Activitats
 description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
   de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats
-  paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i
+  paisatges. Oferim àmplies parcel·les amb gespa i ombra, així com còmodes i
   espaiosos bungalows
 images:
   - /images/activitats1.jpg
@@ -116,5 +116,5 @@ activities:
       La millor manera d'assaborir el Pallars Sobirà és tastar els productes elaborats al territori. No deixi de visitar els nostres productors locals, que li oferiran els seus millors productes de proximitat, i li explicaran com els elaboren: Formatges, iogurts, embotits…
 
 
-      Als restaurants de la comarca podrà tastar tot el sabor dels Pirineus damunt la taula: Bolets, carn de caça, carns a la brasa, vianda o escudella, girella…
+      Als restaurants de la comarca podrà tastar tot el sabor dels Pirineus damunt la taula: Bolets, carn de caça, carns a la brasa, vianda o escudella, trinxat pallarés, girella…
 ---
