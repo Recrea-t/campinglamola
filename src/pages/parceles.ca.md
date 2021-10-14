@@ -25,11 +25,11 @@ summary: >-
   * S'admeten animals domèstics, a excepció dels gossos considerats com potencialment perillosos·
 pricing:
   - title: Adult
-    price: 6.4
+    price: 5
   - title: Nens de 5 a 11 anys
     price: 5.8
   - title: De pas (1 persona a peu)
-    price: 10
+    price: 9
   - title: Parcel.la Standard 60/70 m2 (màx. 6 persones i 1 vehicle)
     price: 14.5
   - title: Parcel.la XL 120 m2 (màx. 6 persones i 1 vehicle)
@@ -57,23 +57,16 @@ pricingNotes: >-
 
   • Es pot afegir màxim un segon cotxe a la parcel·la, però s'ha de registrar i abonar segons la tarifa vigent, i haurà d'estacionar-se dins dels límits de la parcel·la. En el cas que s'aparqui en una altra parcel·la s'haurà de pagar la tarifa de la parcel·la extra que estigui ocupant.
 regulation: >-
-  * Ocupació màxima: 6 persones.
-
-  * El preu de la parcel·la inclou la unitat d'acampada (tenda, caravana, auto-caravana...) i un vehicle, que s'aparca a la parcel·la.
-
-  * Es poden afegir tendes auxiliars (tipus iglú) sense cap cost, a condició que estiguin dins dels límits de la parcel·la.
-
-  * Es pot afegir màxim un segon cotxe a la parcel·la, però s'ha de registrar i abonar segons la tarifa vigent, i haurà d'estacionar-se dins dels límits de la parcel·la. En el cas que s'aparqui en una altra parcel·la s'haurà de pagar la tarifa de la parcel·la extra que estigui ocupant.
-
-  * És **OBLIGATÒRIA** la presentació de DNI o passaport de tots els viatgers majors de 14 anys a l'entrada al Càmping.
+  * És **OBLIGATÒRIA** la presentació de DNI o passaport de tots els viatgers
+  majors de 14 anys a l'entrada al Càmping.
 
   * Hora d'entrada: de 11:00 a 21:30 (consultar altres opcions).
 
   * Hora de sortida: abans de les 13:00. La sortida posterior sense prèvia comunicació a recepció, comporta el cost d'una nit addicional.
 
-  * Horari de silenci: de 23:00 a 7:00. Prohibida la circulació de vehicles: de 23:00 a 7:00.
-
   * No desplaçar-se per dins del càmping amb el vehicle si no és estrictament necessari.
+
+  * Horari de silenci: de 23:00 a 7:00. Prohibida la circulació de vehicles: de 23:00 a 7:00.
 
 
   ##### **Animals de companyia**
@@ -87,7 +80,7 @@ regulation: >-
 
   * El client es compromet a què el seu gos estigui vacunat i compleixi amb les condicions fitosanitàries establertes per llei.
 
-  * Queda prohibit l'accés del gos a l’ interior dels edificis, allotjaments i piscina.
+  * Queda prohibit l'accés del gos a l’ interior dels edificis, allotjaments ,piscina i parc infantil.
 
   * S'han de portar a fer les seves necessitats fora del recinte del càmping. En tot cas, els propietaris hauran de recollir els excrements dels seus animals i dipositar-los dins d'una bossa al contenidor del rebuig.
 
