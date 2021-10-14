@@ -58,23 +58,16 @@ pricingNotes: >-
 
   * Se puede añadir máximo un segundo coche en la parcela, pero tiene que registrarse y abonar según la  tarifa vigente, y deberá estacionarse dentro de los límites de la parcela. En caso de que se aparque en otra    deberá pagar la tarifa de la parcela extra que esté ocupando.
 regulation: >-
-  * Ocupació màxima: 6 persones.
+  * Es **OBLIGATORIA** la presentación de DNI o pasaporte de todos los viajeros
+  mayores de 14 años a la entrada al Camping.
 
-  * El preu de la parcel·la inclou la unitat d'acampada (tenda, caravana, auto-caravana...) i un vehicle, que s'aparca a la parcel·la.
+  * Hora de entrada: de 11:00 a 21:30 (consultar otras opciones).
 
-  * Es poden afegir tendes auxiliars (tipus iglú) sense cap cost, a condició que estiguin dins dels límits de la parcel·la.
+  * Hora de salida: antes de las 13:00. La salida posterior sin previa comunicación a recepción, conlleva el coste de una noche adicional.
 
-  * Es pot afegir màxim un segon cotxe a la parcel·la, però s'ha de registrar i abonar segons la tarifa vigent, i haurà d'estacionar-se dins dels límits de la parcel·la. En el cas que s'aparqui en una altra parcel·la s'haurà de pagar la tarifa de la parcel·la extra que estigui ocupant.
+  * No desplazarse por dentro del camping con el vehículo si no es estrictamente necesario.
 
-  * És **OBLIGATÒRIA** la presentació de DNI o passaport de tots els viatgers majors de 14 anys a l'entrada al Càmping.
-
-  * Hora d'entrada: de 11:00 a 21:30 (consultar altres opcions).
-
-  * Hora de sortida: abans de les 13:00. La sortida posterior sense prèvia comunicació a recepció, comporta el cost d'una nit addicional.
-
-  * Horari de silenci: de 23:00 a 7:00. Prohibida la circulació de vehicles: de 23:00 a 7:00.
-
-  * No desplaçar-se per dins del càmping amb el vehicle si no és estrictament necessari.
+  * Horario de silencio: de 23:00 a 7:00. Prohibida la circulación de vehículos: de 23:00 a 7:00.
 
 
   #### **Animals de companyia**
