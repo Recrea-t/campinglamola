@@ -63,6 +63,6 @@ services:
     description: ""
     image: /images/13Pic_Mantes.svg
   - title: Lloguer de neveres
-    description: Neveres elèctriques de 85 l. (amb reserva previa).
+    description: Neveres elèctriques de 85 l. (amb reserva prèvia).
     image: /images/14Pic_Neveres.svg
 ---
