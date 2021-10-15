@@ -9,6 +9,7 @@ images:
   - /images/serveis1.jpg
   - /images/serveis2.jpg
   - /images/serveis3.jpg
+  - /images/taburets-wifi.jpg
   - /images/serveis4.jpg
   - /images/serveis5.jpg
 services:
