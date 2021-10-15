@@ -1,36 +1,34 @@
 ---
 templateKey: bungalows-page
-formName: "bungalows-form"
-title: Bungalows
-description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
-  de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats
-  paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i
-  espaiosos bungalows
+description: Camping situado en la zona del Parque Nacional de Aiguestortes i
+  Estany de Sant Maurici, el enclave ideal para relajarse y disfrutar de
+  privilegiados paisajes. Ofrecemos amplias parcelas con césped y sombra, así
+  como cómodos y espaciosos bungalows
 summary: >-
-  Un concepte diferent del tradicional bungalou, amb grans finestrals, bona llum
-  natural, molt d’ espai interior i una ampla terrassa amb porxo .
+  Un concepto diferente del tradicional bungalow, con grandes ventanales, buena
+  luz natural, mucho espacio interior y una amplia terraza con porche.
 
 
-  Per a 4 i 6 persones. Els de 6 persones tenen un altell amb una habitació més.
+  Para 4 y 6 personas. Los de 6 personas tienen un altillo con una habitación más.
 
 
-  * Dormitori de matrimoni amb un llit de 1,50 x 2,00m.
+  * Dormitorio de matrimonio con una cama de 1,50m x 2,00m.
 
-  * Dormitori amb dos llits individuals de 0,90 x 2,00m.
+  * Dormitorio con dos camas individuales de 0,90m x 2,00m.
 
-  * Edredons nòrdics i fundes .
+  * Edredones nórdicos y fundas.
 
-  * Tovalloles.
+  * Toallas.
 
-  * Menjador amb TV de 33’.
+  * Comedor con TV de 33".
 
-  * Cuina equipada amb vitroceràmica, microones, nevera, renta-vaixelles, cafetera *Nespreso*, torradora, espremedor, batedora, parament i vaixella.
+  * Cocina equipada con vitrocerámica, microondas, nevera, lavavajillas, cafetera Nespreso, tostadora, exprimidor, batidora, menaje y vajilla.
 
-  * Bany complet amb dutxa.
+  * Baño completo con ducha y secador de cabello.
 
-  * Calefacció .
+  * Calefacción.
 
-  * No s'hi admeten animals de companyia.
+  * No se admiten mascotas.
 pricing:
   - title: 4 pax
     highSeason: 150
@@ -55,6 +53,8 @@ regulation: >-
   * Hora d'entrada: Entre les 16:00 i les 21:00 (consultar altres opcions).
 
   * Hora de sortida: Abans de les 11:00
+formName: bungalows-form
+title: Bungalows, cabañas
 conditions: >-
   #### Pagaments
 
