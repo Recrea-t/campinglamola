@@ -42,7 +42,7 @@ pricingNotes: >-
   Impuesto sobre las estancias en establecimientos turísticos no incluido: 0,66 €. Tarifa por persona (+16 años) y día, con un máximo de 7 días.
 regulation: >-
   * Es **OBLIGATORIA** la presentación de DNI o pasaporte de todos los ocupantes
-  mayores de 14 años a la llegada al Cámping y registrar todos los vehículos,
+  mayores de 14 años a la llegada al cámping y registrar todos los vehículos,
   indicando la matrícula y el modelo.
 
   * La capacidad máxima indicada para cada alojamiento no podrá ser nunca superada sin autorización.
