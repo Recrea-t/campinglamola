@@ -41,19 +41,9 @@ pricingNotes: >-
 
   Impuesto sobre las estancias en establecimientos turísticos no incluido: 0,66 €. Tarifa por persona (+16 años) y día, con un máximo de 7 días.
 regulation: >-
-  * És **OBLIGATÒRIA** la presentació de DNI o passaport de tots els ocupants
-  majors de 14 anys a l’ arribada al Càmping i registrar tots els vehicles,
-  indicant la matrícula i el model.
-
-  * La capacitat màxima indicada per a cada allotjament no podrà ser mai superada sense autorització.
-
-  * S'admet un vehicle per allotjament de 4 persones i 2 vehicles per allotjament de 6 persones inclosos en el preu. Tot vehicle suplementari haurà de ser registrat i abonat segons tarifa en vigor.
-
-  * Hora d'entrada: Entre les 16:00 i les 21:00 (consultar altres opcions).
-
-  * Hora de sortida: Abans de les 11:00
-
-  * Es **OBLIGATORIA** la presentación de DNI o pasaporte de todos los ocupantes mayores de 14 años a la llegada al Cámping y registrar todos los vehículos, indicando la matrícula y el modelo.
+  * Es **OBLIGATORIA** la presentación de DNI o pasaporte de todos los ocupantes
+  mayores de 14 años a la llegada al Cámping y registrar todos los vehículos,
+  indicando la matrícula y el modelo.
 
   * La capacidad máxima indicada para cada alojamiento no podrá ser nunca superada sin autorización.
 
