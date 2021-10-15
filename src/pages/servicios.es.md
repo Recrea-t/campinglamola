@@ -32,7 +32,7 @@ services:
     description: Acogedora sala de estar con mesa para teletrabajar, TV i wifi.
     image: /images/06Pic_Saleta.svg
   - title: Parque infantil
-    description: Una zona para los más pequeños y otra para niños de 6 a 12 años.
+    description: Una zona para los más peques y otra para niños de 6 a 12 años.
     image: /images/07Pic_infantil.svg
   - title: Tenis i ping-pong
     description: Posibilidad de alquilar raquetas
