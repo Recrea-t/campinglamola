@@ -6,30 +6,30 @@ description: Camping situado en la zona del Parque Nacional de Aiguestortes i
   privilegiados paisajes. Ofrecemos amplias parcelas con césped y sombra, así
   como cómodos y espaciosos bungalows
 services:
-  - title: Bar cafeteria
+  - title: Bar cafetería
     description: |-
-      Esmorzars, entrepans, pizzes, hamburgueses…Terrassa.
-
-      Obert els mesos d'estiu i Setmana Santa.
+      Desayunos, bocadillos, pizzas, hamburguesas... Terraza.
+      Abierto sólo los meses de verano y Semana Santa.
     image: /images/01Pic_Bar_Cafeteria.svg
   - title: Zona WIFI
     description: ""
     image: /images/02Pic_Wifi.svg
-  - title: Supermercat
-    description: Alimentació en general. Servei diari de pa i brioixeria. Càmping
-      Gas. Venda de gel. Congelació d’ acumuladors. Obert els mesos d’estiu.
+  - title: Supermercado
+    description: Alimentación en general. Servicio diario de pan y bollería. Camping
+      Gas. Venta de hielo. Congelación de acumuladores. Abierto sólo los meses
+      de verano.
     image: /images/03Pic_supermercat.svg
   - title: Sanitaris
-    description: Dos edificis de serveis amb lavabos, dutxes, aigüers i safaretjos.
-      WC Químic. Bany adaptat per a minusvàlids. Banyera per a nadons. Bany
-      privat amb dutxa, lavabo i wc, ideal per a nens, sempre acompanyats d’ un
-      adult (cal demanar la clau a recepció).
+    description: Dos edificios de servicios con aseos, duchas, fregaderos y
+      lavaderos. WC Químico. Baño adaptado para discapacitados. Bañera para
+      bebés. Baño privado con ducha, lavabo y wc, ideal para niños, siempre
+      acompañados de un adulto (hay que pedir la llave en recepción).
     image: /images/04Pic_Sanitaris.svg
-  - title: Sala de jocs
-    description: Billar, futbolí, jocs de taula.
+  - title: Sala de juegos
+    description: Billar, futbolín, juegos de mesa.
     image: /images/05Pic_SalaJocs.svg
-  - title: Sala d'estar
-    description: Acollidora sala d’ estar amb TV i wifi.
+  - title: Sala de estar
+    description: Acogedora sala de estar con TV i wifi
     image: /images/06Pic_Saleta.svg
   - title: Parc infantil
     description: Una zona pels més petits i una altra per nens de 6 a 12 anys.
