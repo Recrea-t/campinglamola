@@ -35,7 +35,7 @@ services:
     description: Una zona para los más pequeños y otra para niños de 6 a 12 años.
     image: /images/07Pic_infantil.svg
   - title: Tenis i ping-pong
-    description: Possiblitat de llogar raquetes.
+    description: Posibilidad de alquilar raquetas
     image: /images/08Pic_Tenis.svg
   - title: Piscina
     description: Piscina exterior de 18m x 10m, para poder disfrutar de un buen baño
