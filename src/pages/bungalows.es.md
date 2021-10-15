@@ -37,10 +37,9 @@ pricing:
     title: 6 pax
     lowSeason: 130
 pricingNotes: >-
-  Preus per nit. IVA inclòs.
+  Precios por noche. IVA incluido.
 
-
-  Impost sobre les estades en establiments turístics no inclòs : 0,60€ .Tarifa per persona (+ 16 anys ) i dia, amb un màxim de 7 dies.
+  Impuesto sobre las estancias en establecimientos turísticos no incluido: 0,66 €. Tarifa por persona (+16 años) y día, con un máximo de 7 días.
 regulation: >-
   * És **OBLIGATÒRIA** la presentació de DNI o passaport de tots els ocupants
   majors de 14 anys a l’ arribada al Càmping i registrar tots els vehicles,
