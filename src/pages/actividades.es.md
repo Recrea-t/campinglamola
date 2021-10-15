@@ -1,10 +1,10 @@
 ---
 templateKey: activities-page
 title: Actividades
-description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
-  de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats
-  paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i
-  espaiosos bungalows
+description: Camping situado en la zona del Parque Nacional de Aiguestortes i
+  Estany de Sant Maurici, el enclave ideal para relajarse y disfrutar de
+  privilegiados paisajes. Ofrecemos amplias parcelas con césped y sombra, así
+  como cómodos y espaciosos bungalows
 activities:
   - title: Muntanya
     description: >-
@@ -23,7 +23,7 @@ activities:
       Excursions en 4x4 al cor del Parc Nacional d'Aigüestortes i Estany de Sant Maurici. *[Més informació](https://www.taxisespot.com/excursions)*
   - title: Aventura
     description: >-
-
+      
 
       Per qui vulgui sentir una forta descàrrega d'adrenalina i connectar amb la naturalesa al mateix temps.
 
