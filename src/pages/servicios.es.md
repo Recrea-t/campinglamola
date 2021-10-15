@@ -19,7 +19,7 @@ services:
       Gas. Venta de hielo. Congelación de acumuladores. Abierto sólo los meses
       de verano.
     image: /images/03Pic_supermercat.svg
-  - title: Sanitaris
+  - title: Sanitarios
     description: Dos edificios de servicios con aseos, duchas, fregaderos y
       lavaderos. WC Químico. Baño adaptado para discapacitados. Bañera para
       bebés. Baño privado con ducha, lavabo y wc, ideal para niños, siempre
