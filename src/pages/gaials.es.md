@@ -1,43 +1,26 @@
 ---
 templateKey: gaials-page
-formName: "gaials-form"
-title: Gaials
-description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
-  de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats
-  paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i
-  espaiosos bungalows
-images:
-  - /images/gaials1.jpg
-  - /images/gaials2.jpg
-  - /images/gaials3.jpg
-  - /images/gaials4.jpg
-  - /images/gaials5.jpg
-  - /images/gaials6.jpg
-  - /images/gaials7.jpg
-  - /images/gaials8.jpg
 summary: >-
-  Els gaials són uns petits i funcionals allotjaments de dues plantes ubicats a
-  la part superior de l'edifici principal del càmping. No estan a peu de carrer,
-  però compten amb una terrassa moblada que només es comparteix amb altres
-  gaials i cada gaial té la seva pròpia taula i cadires.
+  Para 4 o 6 personas
+
+  Los gaials son unos pequeños y funcionales alojamientos de dos plantas ubicados en la parte superior del edificio principal del camping. No están a pie de calle, pero cuentan con una terraza amueblada que sólo se comparte con otros gaials y cada gaial tiene su propia mesa y sillas.
+
+  Todos tienen la cocina-comedor y el baño en la planta inferior y la distribución de las habitaciones varía según el gaial. Las habitaciones son abuhardilladas; los de 4 personas tienen dos habitaciones y los de 6 personas tienen 3.
 
 
-  Tots tenen la cuina-menjador i el bany a la planta inferior i la distribució de les habitacions varia segons el gaial. Les habitacions són sota teulada; els de 4 persones tenen dues habitacions i els de 6 persones en tenen 3.
-
-
-  * Cuina equipada (placa vitroceràmica, forn, microones, nevera, cafetera, parament, vaixella...)
+  * Cocina equipada (placa vitrocerámica, horno, microondas, nevera, cafetera, menaje, vajilla ...)
 
   * TV.
 
-  * Aigua calenta i calefacció.
+  * Agua caliente y calefacción.
 
-  * Bany complet.
+  * Baño completo y secador de cabello.
 
-  * Mantes i coixins.
+  * Mantas y almohadas.
 
-  * No inclouen llençols ni tovalloles. Es poden llogar a recepció.
+  * No incluyen sábanas ni toallas. Se pueden alquilar en recepción.
 
-  * No s'hi admeten animals de companyia.
+  * **No se admiten mascotas.**
 pricing:
   - title: 4 pax
     description: null
@@ -46,14 +29,6 @@ pricing:
   - highSeason: 110
     title: 6 pax
     lowSeason: 85
-pricingNotes: >-
-  Preus per nit. IVA inclòs.
-
-
-  Impost sobre les estades en establiments turístics no inclòs : 0,60€ .Tarifa per persona (+ 16 anys ) i dia, amb un màxim de 7 dies.
-
-
-  * Llençols i tovalloles no inclosos. Lloguer opcional 6€ per persona i estada.
 regulation: >-
   * És **OBLIGATÒRIA** la presentació de DNI o passaport de tots els ocupants
   majors de 14 anys a l’ arribada al Càmping i registrar tots els vehicles,
@@ -66,6 +41,27 @@ regulation: >-
   * Hora d'entrada: Entre les 16:00 i les 21:00 (consultar altres opcions).
 
   * Hora de sortida: Abans de les 11:00
+formName: gaials-form
+title: Gaials, apartamentos
+images:
+  - /images/gaials1.jpg
+  - /images/gaials2.jpg
+  - /images/gaials3.jpg
+  - /images/gaials4.jpg
+  - /images/gaials5.jpg
+  - /images/gaials6.jpg
+  - /images/gaials7.jpg
+  - /images/gaials8.jpg
+description: Camping situado en la zona del Parque Nacional de Aiguestortes i
+  Estany de Sant Maurici, el enclave ideal para relajarse y disfrutar de
+  privilegiados paisajes. Ofrecemos amplias parcelas con césped y sombra, así
+  como cómodos y espaciosos bungalows
+pricingNotes: >-
+  Precios por noche. IVA incluido.
+
+  Impuesto sobre las estancias en establecimientos turísticos no incluido: 0,66 €. Tarifa por persona (+16 años) y día, con un máximo de 7 días.
+
+  • Sábanas y toallas no incluidos. Alquiler opcional 6 € por persona y estancia.
 conditions: >-
   #### Pagaments
 
