@@ -8,8 +8,8 @@ description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estan
 images:
   - /images/Inici03.jpg
   - /images/Inici01.jpg
-  - /images/Inici02.jpg
   - /images/Inici04.jpg
+  - /images/Inici02.jpg
   - /images/Inici05.jpg
 summary: >-
   En l'immillorable entorn natural del Parc Nacional d'Aigüestortes i Estany de
