@@ -29,34 +29,34 @@ services:
     description: Billar, futbolín, juegos de mesa.
     image: /images/05Pic_SalaJocs.svg
   - title: Sala de estar
-    description: Acogedora sala de estar con TV i wifi
+    description: Acogedora sala de estar con mesa para teletrabajar, TV i wifi.
     image: /images/06Pic_Saleta.svg
-  - title: Parc infantil
-    description: Una zona pels més petits i una altra per nens de 6 a 12 anys.
+  - title: Parque infantil
+    description: Una zona para los más pequeños y otra para niños de 6 a 12 años.
     image: /images/07Pic_infantil.svg
   - title: Tenis i ping-pong
     description: Possiblitat de llogar raquetes.
     image: /images/08Pic_Tenis.svg
   - title: Piscina
-    description: Piscina exterior  de 18m x 10m,  per poder gaudir d’un bon bany
-      durant la seva estada. Els nens hauran d’ accedir sempre acompanyats d’ un
-      adult responsable.
+    description: Piscina exterior de 18m x 10m, para poder disfrutar de un buen baño
+      durante su estancia. Los niños deberán acceder siempre acompañados de un
+      adulto.
     image: /images/09Pic_Piscina.svg
-  - title: Bugaderia
-    description: Rentadora i secadora. Per utilitzar-les cal comprar una fitxa a
-      recepció. Servei disponible cada dia.
+  - title: Lavandería
+    description: Autoservicio de lavadora y secadora. Para utilizarlas es necesario
+      comprar una ficha en recepción.
     image: /images/10Pic_Bugaderia.svg
-  - title: Zona coberta amb taules de pic-nic
-    description: Perfecte pels dies de pluja.
+  - title: Zona cubierta con mesas de pícnic
+    description: Perfecto para los días de lluvia.
     image: /images/11Pic_PicNic.svg
-  - title: Barbacoes
-    description: Obligatori l'ús de carbó. Està permesa la barbacoa a la
-      parcel·la.  Està prohibit fer foc al terra.
+  - title: Barbacoas
+    description: Obligatorio el uso de carbón. Está permitida la barbacoa en la
+      parcela. Está prohibido hacer fuego en el suelo.
     image: /images/12Pic_Barbacoa.svg
-  - title: Lloguer de mantes
+  - title: Alquiler de mantas
     description: ""
     image: /images/13Pic_Mantes.svg
-  - title: Lloguer de neveres
-    description: Neveres elèctriques de 85 l. (amb reserva previa).
+  - title: Alquiler de neveras
+    description: Neveras eléctricas de 85 litros. (Con reserva previa).
     image: /images/14Pic_Neveres.svg
 ---
