@@ -52,35 +52,43 @@ regulation: >-
   * Hora d'entrada: Entre les 16:00 i les 21:00 (consultar altres opcions).
 
   * Hora de sortida: Abans de les 11:00
+
+  * Es **OBLIGATORIA** la presentación de DNI o pasaporte de todos los ocupantes mayores de 14 años a la llegada al Cámping y registrar todos los vehículos, indicando la matrícula y el modelo.
+
+  * La capacidad máxima indicada para cada alojamiento no podrá ser nunca superada sin autorización.
+
+  * Se admite un vehículo para alojamiento de 4 personas y 2 vehículos para alojamiento de 6 personas incluidos en el precio. Todo vehículo suplementario deberá ser registrado y abonado según tarifa en vigor.
+
+  * Hora de entrada: Entre las 16:00 y las 21:00 (consultar otras opciones).
+
+  * Hora de salida: Antes de las 11:00.
 formName: bungalows-form
 title: Bungalows, cabañas
 conditions: >-
-  #### Pagaments
+  #### Pagos
 
 
-  * Per efectuar una reserva, el càmping li demanarà una paga i senyal que, depenent de la temporada, pot arribar a ser del 40% sobre el total de l'estada.
+  * Para efectuar una reserva, el camping le pedirá una paga y señal que, dependiendo de la temporada, puede llegar a ser del 40% sobre el total de la estancia.
 
-  * Els imports han de ser abonats en un termini no superior a 3 dies a comptar de la data de la sol·licitud i es realitzaran mitjançant transferència al compte que es comunicarà en el moment de formalitzar la reserva. La quantitat restant es liquidarà a l'arribada al càmping.
+  * Los importes serán abonados en un plazo no superior a 3 días a contar de la fecha de la solicitud y se realizarán mediante transferencia a la cuenta que se comunicará en el momento de formalizar la reserva. La cantidad restante se liquidará a la llegada al cámping.
 
-  * No hi haurà cap reemborsament en cas d'endarrerir el dia d'arribada o anticipar el dia de sortida.
+  * No habrá ningún reembolso en caso de retrasar el día de llegada o anticipar el día de salida.
 
-  * S'accepta efectiu. Només disposem del servei de pagament amb targeta durant els mesos de Juliol i Agost. Existeix també la possibilitat de realitzar una transferència bancària .
-
-
-  #### Anul·lacions
+  * Se acepta efectivo. Sólo disponemos del servicio de pago con tarjeta durante los meses de Julio y Agosto. Existe también la posibilidad de realizar una transferencia bancaria.
 
 
-  * La cancel·lació de la seva reserva s'haurà de sol·licitar per escrit mitjançant correu electrònic a *[info@campinglamola.com](mailto:info@campinglamola.com)*
+  #### Anulaciones
 
-  * Si s'anul·la amb més de 15 dies d'anticipació de l'arribada del client, es retorna el 90% de la fiança.
 
-  * Si s'anul·la entre 7 i 15 dies abans de l'arribada, es retorna el 50% de la fiança.
+  * La cancelación de su reserva deberá solicitar por escrito mediante correo electrónico a *[info@campinglamola.com](mailto:info@campinglamola.com)*
 
-  * Si s'anul·la amb menys de 7 dies no es retorna la fiança.
+  * Si se anula con más de 15 días de anticipación de la fecha de llegada, se devuelve el 90% de la fianza.
 
-  * Si els clients, sense previ avís, no arriben al càmping abans de les 22.00 h. del dia d'arribada, s'entendrà cancel·lada la reserva.
+  * Si se anula entre 7 y 15 días antes de la llegada, se devuelve el 50% de la fianza.
 
-  * Si la reserva es veu afectada per les restriccions de mobilitat imposades pel Govern en relació al Covid-19, es reemborsarà del 100% del dipòsit entregat. 
+  * Si se anula con menos de 7 días no se devuelve la fianza.
 
-  * Per a qualsevol cancel·lació per conveniència personal, s'aplicaran les nostres Condicions Generals d'anul·lació.
+  * Si los clientes, sin previo aviso, no llegan al camping antes de las 21.00h. del día de llegada, se entenderá cancelada la reserva.
+
+  * **Sólo** si la reserva se ve afectada por las **restricciones de movilidad impuestas por el Gobierno** en relación al Covid-19, se reembolsará el 100% del depósito entregado. Por otros motivos se aplicarán nuestras Condiciones Generales de anulación.
 ---
