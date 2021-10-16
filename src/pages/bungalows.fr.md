@@ -43,17 +43,17 @@ pricingNotes: >-
 
   Impost sobre les estades en establiments turístics no inclòs : 0,60€ .Tarifa per persona (+ 16 anys ) i dia, amb un màxim de 7 dies.
 regulation: >-
-  * És **OBLIGATÒRIA** la presentació de DNI o passaport de tots els ocupants
-  majors de 14 anys a l’ arribada al Càmping i registrar tots els vehicles,
-  indicant la matrícula i el model.
+  * Il est **OBLIGATOIRE** de présenter la Carte d’identité ou le passeport de
+  tous les voyageurs de plus de 14 ans à l'entrée du camping et d'enregistrer
+  tous les véhicules, en indiquant le numéro d'immatriculation et le modèle.	
 
-  * La capacitat màxima indicada per a cada allotjament no podrà ser mai superada sense autorització.
+  * Le nombre de personnes prévu pour chaque logement ne peut jamais être dépassé sans autorisation.
 
-  * S'admet un vehicle per allotjament de 4 persones i 2 vehicles per allotjament de 6 persones inclosos en el preu. Tot vehicle suplementari haurà de ser registrat i abonat segons tarifa en vigor.
+  * Une voiture par logement de 4 personnes et deux voitures par logement de 6 personnes sont admises et inclues dans le prix. Chaque voiture supplémentaire doit être enregistrée et on payera le parking selon le tarif en vigueur.
 
-  * Hora d'entrada: Entre les 16:00 i les 21:00 (consultar altres opcions).
+  * Heure d’arrivée: entre 16:00h et 21:00h (voir autres options)
 
-  * Hora de sortida: Abans de les 11:00
+  * Heure de départ: avant 11:00h
 formName: bungalows-form
 title: Bungalows
 conditions: >-
