@@ -27,7 +27,8 @@ servicesSummary: Sempre treballant per millorar. Els nostres clients repeteixen 
 plotsImage: /images/parceles1.jpg
 environmentSummary: Recomanat a qualsevol persona que estima la natura, l'esport
   i la tranquil·litat.
-title: Càmping a Espot
+title: Càmping a Espot càmping a Aiguestortes camping Pallars Sobirà camping
+  Valls d'Àneu
 parcNacionalImage: /images/Entorn01.jpg
 parcNaturalImage: /images/Entorn02.jpg
 aneuImage: /images/Entorn03.jpg
