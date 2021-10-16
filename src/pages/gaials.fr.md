@@ -1,28 +1,26 @@
 ---
 templateKey: gaials-page
 summary: >-
-  Els gaials són uns petits i funcionals allotjaments de dues plantes ubicats a
-  la part superior de l'edifici principal del càmping. No estan a peu de carrer,
-  però compten amb una terrassa moblada que només es comparteix amb altres
-  gaials i cada gaial té la seva pròpia taula i cadires.
+  Pour 4 ou 6 personnes
+
+  Les Gaials sont de petits logements fonctionnels de deux étages situés au sommet du bâtiment principal du camping. Ils ne sont pas au niveau de la rue, mais ils ont une terrasse meublée qui n'est partagée qu'avec d'autres gaials et chaque gaial a sa propre table et ses chaises.
+
+  Tous ont la cuisine-salle à manger et la salle de bain à l'étage inférieur et la répartition des pièces varie selon les gaial. Les chambres sont mansardées; ceux de 4 personnes ont deux chambres et ceux de 6 personnes en ont 3.
 
 
-  Tots tenen la cuina-menjador i el bany a la planta inferior i la distribució de les habitacions varia segons el gaial. Les habitacions són sota teulada; els de 4 persones tenen dues habitacions i els de 6 persones en tenen 3.
-
-
-  * Cuina equipada (placa vitroceràmica, forn, microones, nevera, cafetera, parament, vaixella...)
+  *  Cuisine équipée (plaque vitrocéramique, four, micro-ondes, réfrigérateur, cafetière, ustensiles  de cuisine, vaisselle...)
 
   * TV.
 
-  * Aigua calenta i calefacció.
+  * Eau chaude et chauffage.
 
-  * Bany complet.
+  * Salle de bain complète.
 
-  * Mantes i coixins.
+  * Couvertures et oreillers.
 
-  * No inclouen llençols ni tovalloles. Es poden llogar a recepció.
+  * Couvertures et serviettes non inclus. Ils peuvent être loués à la réception.
 
-  * No s'hi admeten animals de companyia.
+  * Les animaux ne sont pas autorisés.
 pricing:
   - title: 4 pax
     description: null
@@ -32,17 +30,17 @@ pricing:
     title: 6 pax
     lowSeason: 85
 regulation: >-
-  * És **OBLIGATÒRIA** la presentació de DNI o passaport de tots els ocupants
-  majors de 14 anys a l’ arribada al Càmping i registrar tots els vehicles,
-  indicant la matrícula i el model.
+  * Il est OBLIGATOIRE de présenter la Carte d’identité ou le passeport de tous
+  les voyageurs de plus de 14 ans à l'entrée du camping et d'enregistrer tous
+  les véhicules, en indiquant le numéro d'immatriculation et le modèle.	
 
-  * La capacitat màxima indicada per a cada allotjament no podrà ser mai superada sense autorització.
+  * Le nombre de personnes prévu pour chaque logement ne peut jamais être dépassé sans autorisation.
 
-  * S'admet un vehicle per allotjament de 4 persones i 2 vehicles per allotjament de 6 persones inclosos en el preu. Tot vehicle suplementari haurà de ser registrat i abonat segons tarifa en vigor.
+  * Une voiture par logement de 4 personnes et deux voitures par logement de 6 personnes sont admises et inclues dans le prix. Chaque voiture supplémentaire doit être enregistrée et on payera le parking selon le tarif en vigueur.
 
-  * Hora d'entrada: Entre les 16:00 i les 21:00 (consultar altres opcions).
+  * Heure d’arrivée: entre 16:00h et 21:00h (voir autres options)
 
-  * Hora de sortida: Abans de les 11:00
+  * Heure de départ: avant 11:00h
 formName: gaials-form
 title: Gaials
 images:
@@ -59,40 +57,39 @@ description: Camping situé dans l'environnement naturel du Parc National
   des paysages favoris  vous offre des emplacements spacieux, herbeux et ombreux
   , des  petits appartements familiaux confortables et spacieux et de  bungalows
 pricingNotes: >-
-  Preus per nit. IVA inclòs.
+  Prix y compris TVA
+
+  Taxe de séjour pas comprise: 0,66 € par personne (+16 ans) et par jour, avec un maximum de 7 jours.
 
 
-  Impost sobre les estades en establiments turístics no inclòs : 0,60€ .Tarifa per persona (+ 16 anys ) i dia, amb un màxim de 7 dies.
+  Draps et serviettes ne sont pas inclus.
 
-
-  * Llençols i tovalloles no inclosos. Lloguer opcional 6€ per persona i estada.
+  Location facultative: 6 € par personne et par séjour.
 conditions: >-
-  #### Pagaments
+  #### Paiements
 
 
-  * Per efectuar una reserva, el càmping li demanarà una paga i senyal que, depenent de la temporada, pot arribar a ser del 40% sobre el total de l'estada.
+  * Les réservations ne sont effectives qu´à partir de la réception d´un acompte équivalent à 40% de la somme total du séjour. Les paiements seront effectués par virement sur le numéro du compte bancaire qui vous sera communiqué au moment de la réservation officielle.
 
-  * Els imports han de ser abonats en un termini no superior a 3 dies a comptar de la data de la sol·licitud i es realitzaran mitjançant transferència al compte que es comunicarà en el moment de formalitzar la reserva. La quantitat restant es liquidarà a l'arribada al càmping.
+  * Le paiement intégral du séjour doit être effectué à l´arrivée.
 
-  * No hi haurà cap reemborsament en cas d'endarrerir el dia d'arribada o anticipar el dia de sortida.
+  * Il n'y aura aucun remboursement si le jour d'arrivée est retardé ou si le jour du départ est anticipé.
 
-  * S'accepta efectiu. Només disposem del servei de pagament amb targeta durant els mesos de Juliol i Agost. Existeix també la possibilitat de realitzar una transferència bancària .
-
-
-  #### Anul·lacions
+  * Paiements avec carte de paiement bancaire seulement possible pendant les mois de juillet et août. Il y a aussi la possibilité de faire un virement bancaire.
 
 
-  * La cancel·lació de la seva reserva s'haurà de sol·licitar per escrit mitjançant correu electrònic a *[info@campinglamola.com](mailto:info@campinglamola.com)*
+  **Annulations**
 
-  * Si s'anul·la amb més de 15 dies d'anticipació de l'arribada del client, es retorna el 90% de la fiança.
 
-  * Si s'anul·la entre 7 i 15 dies abans de l'arribada, es retorna el 50% de la fiança.
+  * L'annulation de votre réservation doit être demandée par écrit par email à info@campinglamola.com
 
-  * Si s'anul·la amb menys de 7 dies no es retorna la fiança.
+  * Pour une annulation de plus de 15 jours avant votre arrivée 90% de l’acompte sera remboursé.
 
-  * Si els clients, sense previ avís, no arriben al càmping abans de les 22.00 h. del dia d'arribada, s'entendrà cancel·lada la reserva.
+  * Pour une annulation entre 7 et 15 jours avant votre arrivée 50% de l’acompte sera remboursé.
 
-  * Si la reserva es veu afectada per les restriccions de mobilitat imposades pel Govern en relació al Covid-19, es reemborsarà del 100% del dipòsit entregat. 
+  * Pour une annulation de moins de 7 jours avant votre arrivée il n’y a pas de remboursement.
 
-  * Per a qualsevol cancel·lació per conveniència personal, s'aplicaran les nostres Condicions Generals d'anul·lació.
+  * Si les clients, sans préavis, n'arrivent pas au camping avant 21h le jour de l'arrivée, la réservation sera considérée comme annulée.
+
+  * Seulement en cas d'annulation forcée due à des restrictions de mobilité imposées par les gouvernements, causées par Covid-19, le dépôt total sera remboursé.
 ---
