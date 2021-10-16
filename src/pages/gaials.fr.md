@@ -30,9 +30,9 @@ pricing:
     title: 6 pax
     lowSeason: 85
 regulation: >-
-  * Il est OBLIGATOIRE de présenter la Carte d’identité ou le passeport de tous
-  les voyageurs de plus de 14 ans à l'entrée du camping et d'enregistrer tous
-  les véhicules, en indiquant le numéro d'immatriculation et le modèle.	
+  * Il est **OBLIGATOIRE** de présenter la Carte d’identité ou le passeport de
+  tous les voyageurs de plus de 14 ans à l'entrée du camping et d'enregistrer
+  tous les véhicules, en indiquant le numéro d'immatriculation et le modèle.	
 
   * Le nombre de personnes prévu pour chaque logement ne peut jamais être dépassé sans autorisation.
 
