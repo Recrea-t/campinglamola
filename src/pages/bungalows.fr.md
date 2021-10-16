@@ -1,11 +1,9 @@
 ---
 templateKey: bungalows-page
-formName: "bungalows-form"
-title: Bungalows
-description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
-  de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats
-  paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i
-  espaiosos bungalows
+description: Camping situé dans l'environnement naturel du Parc National
+  d'Aigüestortes et le lac de Sant Maurici, , lieu idéal pour se détendre, jouir
+  des paysages favoris  vous offre des emplacements spacieux, herbeux et ombreux
+  , des  petits appartements familiaux confortables et spacieux et de  bungalows
 summary: >-
   Un concepte diferent del tradicional bungalou, amb grans finestrals, bona llum
   natural, molt d’ espai interior i una ampla terrassa amb porxo .
@@ -56,6 +54,8 @@ regulation: >-
   * Hora d'entrada: Entre les 16:00 i les 21:00 (consultar altres opcions).
 
   * Hora de sortida: Abans de les 11:00
+formName: bungalows-form
+title: Bungalows
 conditions: >-
   #### Pagaments
 
