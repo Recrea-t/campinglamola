@@ -1,23 +1,27 @@
 ---
 templateKey: index-page
 summary: >-
-  En l'immillorable entorn natural del Parc Nacional d'Aigüestortes i Estany de
-  Sant Maurici, al nord del Pallars Sobirà, l'enclavament ideal per relaxar-se i
-  gaudir de privilegiats paisatges, el Càmping la Mola, un càmping petit i
-  familiar, els ofereix àmplies parcel·les amb gespa i ombra, espaiosos i
-  confortables bungalous i acollidors gaials (petits allotjaments familiars), un
-  lloc perfecte per a gaudir de les  vacances al Pirineu de Lleida.
+  Dans l'environnement naturel imbattable du Parc National d'Aigüestortes et le
+  lac de Sant Maurici, au nord du Pallars Sobirà, lieu idéal pour se détendre,
+  jouir des paysages favoris et réaliser des activités et excursions qui sont
+  typiques pour un paysage de montagnes, Camping la Mola, petit camping
+  familial, vous offre des emplacements spacieux, herbeux et ombreux ,
+  des  gaials (petits appartements familiaux confortables et spacieux) et
+  de  bungalows, tous équipés pour 4 ou 6 personnes, un endroit parfait pour
+  profiter des vacances dans les Pyrénées de Lleida.
 
-  Recomanat a qualsevol persona que estima la natura, l'esport li la tranquil·litat.
+  Recommandé pour tous ceux qui aiment la nature, le sport et le silence. 
 
-  Sempre treballant per millorar. Els nostres clients repeteixen i ens recomanen.
+  Recommandé par nos fidèles clients.
 servicesSummary: Sempre treballant per millorar. Els nostres clients repeteixen i ens recomanen.
 environmentSummary: Recomanat a qualsevol persona que estima la natura, l'esport
   i la tranquil·litat.
-title: Camping in Espot
-description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
-  de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats
-  paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i
-  espaiosos bungalows
-
+title: Camping  Espot
+description: Camping situé dans l'environnement naturel du Parc National
+  d'Aigüestortes et le lac de Sant Maurici, , lieu idéal pour se détendre, jouir
+  des paysages favoris  vous offre des emplacements spacieux, herbeux et ombreux
+  , des  petits appartements familiaux confortables et spacieux et de  bungalows
+offer:
+  active: false
+  title: offre
 ---
