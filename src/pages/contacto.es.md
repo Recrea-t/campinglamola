@@ -1,9 +1,13 @@
 ---
 templateKey: contact-page
 title: Contacto
-description: >-
-  Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i espaiosos bungalows
-summary: >-
-  Ens trobem en l'àrea d'influència del Parc Nacional d'Aigüestortes i Estany de Sant Maurici, (Pirineus Catalans), al marge esquerre del riu Escrita a 1,8 km abans d'arribar al poble d'Espot, un dels més emblemàtics paratges de les Valls d'Àneu dins de la comarca del Pallars Sobirà a la província de Lleida.
-
+description: Camping situado en la zona del Parque Nacional de Aiguestortes i
+  Estany de Sant Maurici, el enclave ideal para relajarse y disfrutar de
+  privilegiados paisajes. Ofrecemos amplias parcelas con césped y sombra, así
+  como cómodos y espaciosos bungalows
+summary: Nos encontramos en el área de influencia del Parque Nacional de
+  Aigüestortes y Lago de San Maurici, (Pirineos Catalanes), en el margen
+  izquierdo del río Escrita a 1'8 km antes de llegar al pueblo de Espot, uno de
+  los más emblemáticos parajes de los Valles de Àneu dentro de la comarca del
+  Pallars Sobirá en la provincia de Lleida.
 ---
