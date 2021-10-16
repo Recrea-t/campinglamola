@@ -1,10 +1,10 @@
 ---
 templateKey: environment-page
 title: Environnement
-description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
-  de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats
-  paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i
-  espaiosos bungalows
+description: Camping situé dans l'environnement naturel du Parc National
+  d'Aigüestortes et le lac de Sant Maurici, , lieu idéal pour se détendre, jouir
+  des paysages favoris  vous offre des emplacements spacieux, herbeux et ombreux
+  , des  petits appartements familiaux confortables et spacieux et de  bungalows
 summary: L'encant dels preciosos paisatges de les Valls d'Àneu, riuets, fonts,
   barrancs, salts d'aigua i l'autenticitat de la seva gent fan d'aquest entorn
   un bell paratge que no deixa ningú indiferent.
