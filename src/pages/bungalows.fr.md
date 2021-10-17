@@ -5,30 +5,31 @@ description: Camping situé dans l'environnement naturel du Parc National
   des paysages favoris  vous offre des emplacements spacieux, herbeux et ombreux
   , des  petits appartements familiaux confortables et spacieux et de  bungalows
 summary: >-
-  Un concepte diferent del tradicional bungalou, amb grans finestrals, bona llum
-  natural, molt d’ espai interior i una ampla terrassa amb porxo .
+  
 
 
-  Per a 4 i 6 persones. Els de 6 persones tenen un altell amb una habitació més.
+  Un concept qui diffère du bungalow traditionnel, avec beaucoup d’espace intérieur et une grande terrasse couverte.
+
+  Pour 4 et 6 personnes. Ceux de 6 personnes ont une chambre supplémentaire dans le granier.
 
 
-  * Dormitori de matrimoni amb un llit de 1,50 x 2,00m.
+  * Chambre à coucher avec un lit à deux places de 1,50 m x 2,00 m.
 
-  * Dormitori amb dos llits individuals de 0,90 x 2,00m.
+  * Chambre à coucher avec 2 lits à une personne de 0,90 m x 2,00 m.   
 
-  * Edredons nòrdics i fundes .
+  * Draps de lit  et édredons couette
 
-  * Tovalloles.
+  * Serviettes
 
-  * Menjador amb TV de 33’.
+  * Une grande salle de séjou avec 33’ télé
 
-  * Cuina equipada amb vitroceràmica, microones, nevera, renta-vaixelles, cafetera *Nespreso*, torradora, espremedor, batedora, parament i vaixella.
+  * Cuisine équippée de: plaque de cuisson céramique, micro-onde, réfrigérateur, lave-vaisselle, cafétière électrique Nespreso, grille-pain, centrifugeuse, mixer, équipements ménagers, vaiselle
 
-  * Bany complet amb dutxa.
+  * Bain avec douche et sèche-cheveux
 
-  * Calefacció .
+  * Chauffage
 
-  * No s'hi admeten animals de companyia.
+  * Animaux pas admis
 pricing:
   - title: 4 pax
     description: null
