@@ -47,6 +47,7 @@ options:
 
 
       Per accedir a l'interior de l'espai s'ha de recórrer carreteres de muntanya o pistes forestals no pavimentades, per a la qual cosa cal utilitzar vehicle privat (preferentment de xassís alt) o, si es prefereix el transport públic, taxis tot-terreny locals. Alternativament, es recomana accedir al Parc a peu o en bicicleta de muntanya, utilitzant l'extensa xarxa de camins existent que, sovint, té el seu inici en els pobles de l'entorn.
+    url: https://www.catalunya.com/parc-natural-de-lalt-pirineu-17-17001-573523?language=es
   - title: Les Valls d'Àneu
     description: "Les valls d'Àneu és una subcomarca natural situada al nord-oest
       del Pallars Sobirà, un territori d'alta muntanya encisador, ubicat al nord
