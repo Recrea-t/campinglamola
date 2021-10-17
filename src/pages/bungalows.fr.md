@@ -5,10 +5,8 @@ description: Camping situé dans l'environnement naturel du Parc National
   des paysages favoris  vous offre des emplacements spacieux, herbeux et ombreux
   , des  petits appartements familiaux confortables et spacieux et de  bungalows
 summary: >-
-  
-
-
-  Un concept qui diffère du bungalow traditionnel, avec beaucoup d’espace intérieur et une grande terrasse couverte.
+  Un concept qui diffère du bungalow traditionnel, avec beaucoup d’espace
+  intérieur et une grande terrasse couverte.
 
   Pour 4 et 6 personnes. Ceux de 6 personnes ont une chambre supplémentaire dans le granier.
 
@@ -29,7 +27,7 @@ summary: >-
 
   * Chauffage
 
-  * Animaux pas admis
+  * Les animaux ne sont pas autorisés.
 pricing:
   - title: 4 pax
     description: null
