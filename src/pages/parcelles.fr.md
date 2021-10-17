@@ -32,18 +32,18 @@ pricing:
   - title: Visite (max 4 h.)
     price: 3
 pricingNotes: >-
-  Prix par nuit. Compris TVA
+  Prix par nuit. TVA incluse.
 
-  Taxe de séjour pas comprise: 0,66 € par personne (+16 ans) et par jour, avec un maximum de 7 jours. 
+  Taxe de séjour pas comprise: 0,66 € par personne (+16 ans) et par jour, avec un maximum de 7 jours.
 
 
-  • Capacité maximum: 6 personnes.
+  * Capacité maximum: 6 personnes.
 
-  • Le prix de la parcelle comprend l'unité de camping (tente, caravane, camping-car ...) et un véhicule, qui est garé sur la parcelle.
+  * Le prix de la parcelle comprend l'unité de camping (tente, caravane, camping-car ...) et un véhicule, qui est garé sur la parcelle.
 
-  • Des tentes auxiliaires (type igloo) peuvent être ajoutées gratuitement, à condition qu'elles soient dans les limites de la parcelle.
+  * Des tentes auxiliaires (type igloo) peuvent être ajoutées gratuitement, à condition qu'elles soient dans les limites de la parcelle.
 
-  • Un maximum d'une seconde voiture peut être ajouté à la parcelle, mais elle doit être enregistrée et payée selon le tarif en vigueur, et elle doit être garée dans les limites de la parcelle. Si vous garez la voiture sur une autre emplacement, vous devez payer les frais de la parcelle supplémentaire que vous occupez.
+  * Un maximum d'une seconde voiture peut être ajouté à la parcelle, mais elle doit être enregistrée et payée selon le tarif en vigueur, et elle doit être garée dans les limites de la parcelle. Si vous garez la voiture sur une autre emplacement, vous devez payer les frais de la parcelle supplémentaire que vous occupez.
 regulation: >-
   * Il est **OBLIGATOIRE** de présenter la Carte d’identité ou le passeport de
   tous les voyageurs de plus de 14 ans à l'entrée du camping et d'enregistrer
