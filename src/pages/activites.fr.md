@@ -21,9 +21,17 @@ activities:
 
 
       Excursions en 4x4 au cœur du Parc National d'Aigüestortes et du lac de San Maurici.*[ Plus d'informations](https://www.taxisespot.com/)*
-  - title: Aventura
+  - title: Aventure
     description: >-
-      
+      Pour ceux qui veulent ressentir une forte poussée d'adrénaline et se
+      connecter avec la nature en même temps.
+
+      Dans la région, il existe un large éventail d'entreprises spécialisées qui proposent des sports d'aventure en toute sécurité, en fournissant l'équipement nécessaire et un guide ou un moniteur qualifié.
+
+      Remises exclusives importantes pour nos clients dans de nombreuses activités d'aventure. A la réception nous vous informerons.
+
+
+
 
       Per qui vulgui sentir una forta descàrrega d'adrenalina i connectar amb la naturalesa al mateix temps.
 
@@ -36,20 +44,20 @@ activities:
 
       * Ràfting
 
-      * Descens de barrancs
+      * Descente des ravins (canyoning)
 
-      * Caiac
+      * Kayak
 
-      * Hípica
+      * Equitation
 
-      * Puenting
+      * Puenting (sauts d’un pont – saut à l’élastique)
 
-      * Cicuits d'aventura als arbres
+      * Circuits aventure dans les arbres
 
       * BTT
-        * *[Rutes del Centre BTT de les Valls d’Àneu.](http://www.vallsdaneu.org/btt-cicloturisme/)* 211 Km de rutes senyalitzades de diferents nivells. (aquest enllaç no funciona perque estan refent la página)
 
-        * *[Rutes Bike & Run de Camping la Mola](https://ca.wikiloc.com/wikiloc/map.do?sw=-89.9993295%2C-179.999&ne=89.999%2C179.999&loop=1&q=C%C3%A0mping%20la%20Mola&place=C%C3%A0mping%20la%20Mola&fitMapToTrails=1&uid=1782701&page=1)*. Totes surten i arriben al càmping.
+        * Itinéraires du Centre BTT des Valles d ’Àneu. 211 km d'itinéraires balisés de différents niveaux.
+        * Itinéraires Bike & Run du Camping la Mola. Ils partent tous et arrivent au camping.
   - title: Activitats d'hivern
     description: L'esquí alpí, nòrdic i de muntanya, juntament amb les raquetes de
       neu, són una de les millors maneres de gaudir dels paisatges del Parc
