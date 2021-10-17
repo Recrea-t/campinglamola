@@ -56,21 +56,21 @@ activities:
 
         * *[Itinéraires du Centre BTT des Valles d ’Àneu](http://www.vallsdaneu.org/uploads/c852dace954a2ea09760c45a463b1908.pdf)*. 211 km d'itinéraires balisés de différents niveaux.
         * *[Itinéraires Bike & Run du Camping la Mola](https://ca.wikiloc.com/wikiloc/map.do?sw=-89.9993295%2C-179.999&ne=89.999%2C179.999&loop=1&q=C%C3%A0mping%20la%20Mola&place=C%C3%A0mping%20la%20Mola&fitMapToTrails=1&uid=1782701&page=1).* Ils partent tous et arrivent au camping.
-  - title: Activitats d'hivern
-    description: L'esquí alpí, nòrdic i de muntanya, juntament amb les raquetes de
-      neu, són una de les millors maneres de gaudir dels paisatges del Parc
-      Natural de l'Alt Pirineu i el Parc Nacional d'Aigüestortes i Estany de
-      Sant Maurici. Un total de 5 estacions d'esquí (Espot Esquí, Portainé,
-      Tavasacan, Virós-Vall Farrera i Baqueira-Bonaigua) ofereixen una gran
-      quantitat d'opcions per viure la neu al màxim, sent l'estació d'Espot
-      l'única situada al costat d'un Parc Nacional i la més propera, a tan sols
-      5 minuts del càmping.
-  - title: Patrimoni cultural
+  - title: Activités d’hiver
+    description: Le ski alpin, nordique et de montagne, ainsi que les randonnée en
+      raquettes, sont l'un des meilleurs moyens de profiter des paysages du Parc
+      Naturel de l'Alt Pirineu et du Parc National Aigüestortes i Estany de Sant
+      Maurici. Un total de 5 stations de ski (Espot Esquí, Portainé, Tavasacan,
+      Virós-Vall Farrera et Baqueira-Bonaigua) offrent un grand nombre d'options
+      pour profiter pleinement de la neige, la station d'Espot, la seule à côté
+      d'un parc national et la plus proche, est à seulement 5 minutes du
+      camping.
+  - title: Héritage culturel
     description: >-
-      * **Romànic**
+      * **Romain**
 
 
-      El Pallars Sobirà, i molt especialment les Valls d'Àneu, és terra d'esglésies, ermites i monestirs, amb alts campanars coronats amb lloses de pissarra que destaquen per damunt dels poblets i petites ermites que s'amaguen entre els turons i les muntanyes.
+      Le Pallars Sobirà, et en particulier les Vallées d'Àneu, est une terre d'églises, d'ermitages et de monastères, avec de hauts clochers couronnés de dalles d'ardoise qui dépassent au-dessus des villages et de petits ermitages qui se cachent entre collines et montagnes.
 
 
       * Santa Maria d'Àneu, a Escalarre
@@ -81,15 +81,15 @@ activities:
 
       * Sant Pere del Burgal, a Escaló
 
-      * **Festes i tradicions**
+      * **Fêtes et traditions**
 
-      * ***[Falles d'Isil](http://www.fallesisil.cat/)*,** Festa declarada d'Interès Nacional el juny de 2010 i Patrimoni Immaterial de la Humanitat per la UNESCO, el 2015.
+      * ***[Falles d'Isil](http://www.fallesisil.cat/)*,** Fête déclaré d’intérêt national en juin 2010 et patrimoine immatériel de l’humanité par l’UNESCO, en 2015.
 
       * **Setmana Santa**, Viacrucis i la Passió a Esterri d'Àneu.
 
-      * ***[Festival Esbaiola't](https://festivalesbaiolat.cat/)*,** a Esterri d'Àneu, arts escèniques al carrer i per a tots els públics***.***
+      * ***[Festival Esbaiola't](https://festivalesbaiolat.cat/)*,** à Esterri d’Aneu, arts du spectacle de rue et pour tous les publics.
 
-      * ***[Curtàneu](https://www.curtaneu.cat/)*,** Mostra Internacional de curtmetratges a les Valls d'Àneu, al Pallars Sobirà. La mostra forma part de Catalunya Film Festivals, la coordinadora de festivals de Catalunya
+      * ***[Curtàneu](https://www.curtaneu.cat/)*,** Festival international du court-métrage dans les Valls d’Àneu, dans le Pallars Sobirà. Le spectacle fait partie de Catalunya Film Festivals, le coordinateur des festivals en Catalogne.
 
       * **Museus i centres d'interpretació**
 
