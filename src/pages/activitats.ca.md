@@ -64,7 +64,7 @@ activities:
       5 minuts del càmping.
   - title: Patrimoni cultural
     description: >-
-      **Romànic**
+      **ROMANIC**
 
 
       El Pallars Sobirà, i molt especialment les Valls d'Àneu, és terra d'esglésies, ermites i monestirs, amb alts campanars coronats amb lloses de pissarra que destaquen per damunt dels poblets i petites ermites que s'amaguen entre els turons i les muntanyes.
@@ -78,7 +78,9 @@ activities:
 
       * Sant Pere del Burgal, a Escaló
 
-      * **Festes i tradicions**
+
+      **FESTES I TRADICIONS**
+
 
       * ***[Falles d'Isil](http://www.fallesisil.cat/)*,** Festa declarada d'Interès Nacional el juny de 2010 i Patrimoni Immaterial de la Humanitat per la UNESCO, el 2015.
 
@@ -89,7 +91,7 @@ activities:
       * ***[Curtàneu](https://www.curtaneu.cat/)*,** Mostra Internacional de curtmetratges a les Valls d'Àneu, al Pallars Sobirà. La mostra forma part de Catalunya Film Festivals, la coordinadora de festivals de Catalunya.
 
 
-      **Museus i centres d'interpretació**
+      **MUSEUS I CENTRES D'INTERPRETACIÓ**
 
 
       Una cultura ben viva i sorprenent que podeu conèixer gràcies a la divulgació i protecció del nostre patrimoni històric.
@@ -110,7 +112,7 @@ activities:
       * ***[Centre d'Interpretació de Tavascan](https://tavascan.wixsite.com/tavascan)*, La força de l'aigua**
 
 
-      **Gastrononia**
+      **GASTRONOMIA**
 
 
       La millor manera d'assaborir el Pallars Sobirà és tastar els productes elaborats al territori. No deixi de visitar els nostres productors locals, que li oferiran els seus millors productes de proximitat, i li explicaran com els elaboren: Formatges, iogurts, embotits…
