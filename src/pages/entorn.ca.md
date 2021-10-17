@@ -61,4 +61,5 @@ options:
       d'Isil, la vall d'Unarre i la vall de la Bonaigua. A la població d'Espot
       trobem una de les entrades al Parc Nacional d'Aigüestortes i Estany de
       Sant Maurici ."
+    url: https://viajaresdescubrir.com/valls-aneu/
 ---
