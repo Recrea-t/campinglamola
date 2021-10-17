@@ -31,8 +31,6 @@ activities:
       Remises exclusives importantes pour nos clients dans de nombreuses activités d'aventure. A la réception nous vous informerons.
 
 
-
-
       Per qui vulgui sentir una forta descàrrega d'adrenalina i connectar amb la naturalesa al mateix temps.
 
 
@@ -56,7 +54,7 @@ activities:
 
       * BTT
 
-        * Itinéraires du Centre BTT des Valles d ’Àneu. 211 km d'itinéraires balisés de différents niveaux.
+        * *[Itinéraires du Centre BTT des Valles d ’Àneu](http://www.vallsdaneu.org/uploads/c852dace954a2ea09760c45a463b1908.pdf)*. 211 km d'itinéraires balisés de différents niveaux.
         * Itinéraires Bike & Run du Camping la Mola. Ils partent tous et arrivent au camping.
   - title: Activitats d'hivern
     description: L'esquí alpí, nòrdic i de muntanya, juntament amb les raquetes de
