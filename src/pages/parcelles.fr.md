@@ -45,41 +45,38 @@ pricingNotes: >-
 
   • Un maximum d'une seconde voiture peut être ajouté à la parcelle, mais elle doit être enregistrée et payée selon le tarif en vigueur, et elle doit être garée dans les limites de la parcelle. Si vous garez la voiture sur une autre emplacement, vous devez payer les frais de la parcelle supplémentaire que vous occupez.
 regulation: >-
-  * Ocupació màxima: 6 persones.
+  * Il est **OBLIGATOIRE** de présenter la Carte d’identité ou le passeport de
+  tous les voyageurs de plus de 14 ans à l'entrée du camping et d'enregistrer
+  tous les véhicules, en indiquant le numéro d'immatriculation et le modèle.
 
-  * El preu de la parcel·la inclou la unitat d'acampada (tenda, caravana, auto-caravana...) i un vehicle, que s'aparca a la parcel·la.
+  * Heure d'arrivée: de 11:00h à 21:30h (voir autres options).
 
-  * Es poden afegir tendes auxiliars (tipus iglú) sense cap cost, a condició que estiguin dins dels límits de la parcel·la.
+  * Heure de départ: avant 13:00h, à partir de ces heures on comptera un séjour de plus.
 
-  * Es pot afegir màxim un segon cotxe a la parcel·la, però s'ha de registrar i abonar segons la tarifa vigent, i haurà d'estacionar-se dins dels límits de la parcel·la. En el cas que s'aparqui en una altra parcel·la s'haurà de pagar la tarifa de la parcel·la extra que estigui ocupant.
+  * Il est recommandé d’utiliser son véhicule le moins possible dans le camping et de ne jamais rouler à plus de 10km/h.                                                                 
 
-  * És **OBLIGATÒRIA** la presentació de DNI o passaport de tots els viatgers majors de 14 anys a l'entrada al Càmping.
-
-  * Hora d'entrada: de 11:00 a 21:30 (consultar altres opcions).
-
-  * Hora de sortida: abans de les 13:00. La sortida posterior sense prèvia comunicació a recepció, comporta el cost d'una nit addicional.
-
-  * Horari de silenci: de 23:00 a 7:00. Prohibida la circulació de vehicles: de 23:00 a 7:00.
-
-  * No desplaçar-se per dins del càmping amb el vehicle si no és estrictament necessari.
+  * Heures de silence et circulation interdite de 23:00h à 7:00h.
 
 
-  #### **Animals de companyia**
+  **Animaux domestiques**
 
 
-  * Si ve amb animals, comuniqui-ho a recepció. Tots els gossos hauran d'estar registrats en el moment del check-in, i la seva estada resta subjecta al pagament de la tarifa corresponent.
+  Vous devez passer par la réception du Camping pour prévenir de l'entrée de votre animal.
 
-  * Dins del càmping, els gossos han d'estar lligats i controlats en tot moment i mai podran ocupar o passar per una parcel·la que no correspongui al seu amo.
 
-  * S'ha d'evitar que la mascota emeti lladrucs injustificats a qualsevol hora i menys en les hores de descans.
+  * Tous les chiens doivent être enregistrés et leur séjour est soumis au paiement des frais correspondants.
 
-  * El client es compromet a què el seu gos estigui vacunat i compleixi amb les condicions fitosanitàries establertes per llei.
+  * Dans le camping, les chiens doivent être attachés et contrôlés à tout moment et ne peuvent jamais occuper ou traverser une parcelle n'appartenant pas à leur propriétaire.
 
-  * Queda prohibit l'accés del gos a l’ interior dels edificis, allotjaments i piscina.
+  * Il est nécessaire d'empêcher l'animal d'aboyer de manière injustifiée pendant les heures de repos.
 
-  * S'han de portar a fer les seves necessitats fora del recinte del càmping. En tot cas, els propietaris hauran de recollir els excrements dels seus animals i dipositar-los dins d'una bossa al contenidor del rebuig.
+  *  Le client accepte que son chien soit vacciné et respecte les conditions phytosanitaires établies par la loi.
 
-  * El propietari de l'animal serà responsable dels danys que aquest pugui ocasionar tant a la resta dels campistes i als seus béns com a les instal·lacions del Càmping.
+  * Les chiens ne sont pas autorisés à l'intérieur des bâtiments, des hébergements, de l' aire de jeux et de la piscine.
+
+  * Les animaux doivent faire leurs besoins à l'extérieur du camping. Dans tous les cas, les propriétaires doivent collecter les excréments de leurs animaux et les déposer dans un sac à la poubelle.
+
+  *  Le propriétaire de l'animal sera responsable de tout dommage qu'il pourrait causer au reste des campeurs et à leur propriété ainsi qu'aux installations du camping.
 conditions: >-
   Si fan la reserva d'una parcel·la directament amb nosaltres mitjançant el web
   o per telèfon, no cal fer cap pagament avançat. Només necessitem saber el dia
