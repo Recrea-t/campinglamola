@@ -55,7 +55,7 @@ activities:
       * BTT
 
         * *[Itinéraires du Centre BTT des Valles d ’Àneu](http://www.vallsdaneu.org/uploads/c852dace954a2ea09760c45a463b1908.pdf)*. 211 km d'itinéraires balisés de différents niveaux.
-        * Itinéraires Bike & Run du Camping la Mola. Ils partent tous et arrivent au camping.
+        * *[Itinéraires Bike & Run du Camping la Mola](https://ca.wikiloc.com/wikiloc/map.do?sw=-89.9993295%2C-179.999&ne=89.999%2C179.999&loop=1&q=C%C3%A0mping%20la%20Mola&place=C%C3%A0mping%20la%20Mola&fitMapToTrails=1&uid=1782701&page=1).* Ils partent tous et arrivent au camping.
   - title: Activitats d'hivern
     description: L'esquí alpí, nòrdic i de muntanya, juntament amb les raquetes de
       neu, són una de les millors maneres de gaudir dels paisatges del Parc
