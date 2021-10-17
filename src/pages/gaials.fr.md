@@ -8,7 +8,7 @@ summary: >-
   Tous ont la cuisine-salle à manger et la salle de bain à l'étage inférieur et la répartition des pièces varie selon les gaial. Les chambres sont mansardées; ceux de 4 personnes ont deux chambres et ceux de 6 personnes en ont 3.
 
 
-  *  Cuisine équipée (plaque vitrocéramique, four, micro-ondes, réfrigérateur, cafetière, ustensiles  de cuisine, vaisselle...)
+  * Cuisine équipée (plaque vitrocéramique, four, micro-ondes, réfrigérateur, cafetière, ustensiles  de cuisine, vaisselle...)
 
   * TV.
 
@@ -18,7 +18,7 @@ summary: >-
 
   * Couvertures et oreillers.
 
-  * Couvertures et serviettes non inclus. Ils peuvent être loués à la réception.
+  * Draps de lit et serviettes non inclus. Ils peuvent être loués à la réception.
 
   * Les animaux ne sont pas autorisés.
 pricing:
