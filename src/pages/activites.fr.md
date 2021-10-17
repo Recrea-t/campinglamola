@@ -6,21 +6,21 @@ description: Camping situé dans l'environnement naturel du Parc National
   des paysages favoris  vous offre des emplacements spacieux, herbeux et ombreux
   , des  petits appartements familiaux confortables et spacieux et de  bungalows
 activities:
-  - title: Muntanya
+  - title: Montagnes
     description: >-
-      * **Senderisme** 
+      * **Randonnées**
 
 
-      Tant dins del Parc Nacional d'Aigüestortes i Estany de Sant Maurici com en la zona perifèrica, sempre trobarà un sender a la seva mida: des de petits recorreguts familiars fins a llargues travesses d'alta muntanya.
+      Tant dans le Parc National d'Aigüestortes et du Lac de Sant Maurici que dans la zone périphérique, vous trouverez toujours un chemin qui vous convient: des petites sorties en famille aux longues traversées en haute montagne.
 
 
-      Consulti el *[Plànol guia](http://parcsnaturals.gencat.cat/web/.content/Xarxa-de-parcs/aiguestortes/El-parc/mapa-del-parc/PNASM_planol_guia_LRv4.pdf)* i el *[Fullet d'itineraris recomanats](http://parcsnaturals.gencat.cat/web/.content/Xarxa-de-parcs/aiguestortes/gaudeix-del-parc/guia-de-visita/Propostes-itineraris-per-dies/Pdf/itineraris_valls_aneu_cat11.pdf)*
+      Consultez [*La Carte-Guide* ](http://parcsnaturals.gencat.cat/web/.content/Xarxa-de-parcs/aiguestortes/Inici/PDF/PNASM_planol_guia_LRv4_ENG_FRE.pdf)et  *[La brochure des itinéraires recommandés](http://parcsnaturals.gencat.cat/web/.content/Xarxa-de-parcs/aiguestortes/gaudeix-del-parc/guia-de-visita/Propostes-itineraris-per-dies/Pdf/ITI_Valls_d_Aneu_FRE.pdf)* 
 
 
-      * **Excursions 4x4**
+      * **Excursions 4×4**
 
 
-      Excursions en 4x4 al cor del Parc Nacional d'Aigüestortes i Estany de Sant Maurici. *[Més informació](https://www.taxisespot.com/excursions)*
+      Excursions en 4x4 au cœur du Parc National d'Aigüestortes et du lac de San Maurici.*[ Plus d'informations](https://www.taxisespot.com/)*
   - title: Aventura
     description: >-
       
