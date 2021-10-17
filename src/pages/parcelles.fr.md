@@ -78,13 +78,12 @@ regulation: >-
 
   *  Le propriétaire de l'animal sera responsable de tout dommage qu'il pourrait causer au reste des campeurs et à leur propriété ainsi qu'aux installations du camping.
 conditions: >-
-  Si fan la reserva d'una parcel·la directament amb nosaltres mitjançant el web
-  o per telèfon, no cal fer cap pagament avançat. Només necessitem saber el dia
-  d'arribada, el nombre de persones, parcel·les i durada aproximada de l'estada.
+  Si vous réservez une parcelle directement avec nous via web ou par e-mail,
+  aucun paiement anticipé n'est requis. Il suffit de connaître le jour
+  d'arrivée, le nombre de personnes, les emplacements et la durée approximative
+  du séjour.
 
+  Nous ne réservons aucune parcelle spécifique. La réservation est uniquement pour garantir que vous trouverez une place au cas où le camping est complet.
 
-  No reservem cap parcel·la en concret. La reserva només li assegura tenir lloc en el cas que el càmping estigués complet.
-
-
-  Tots els clients poden escollir la parcel·la del tipus reservat que més els hi agradi entre totes les disponibles, únicament en el moment de la seva arribada.
+  Tous les clients peuvent choisir la parcelle du type réservé qui leur plaît le plus parmi toutes les disponibles, uniquement au moment de l’arrivée.
 ---
