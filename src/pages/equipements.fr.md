@@ -6,57 +6,63 @@ description: Camping situé dans l'environnement naturel du Parc National
   des paysages favoris  vous offre des emplacements spacieux, herbeux et ombreux
   , des  petits appartements familiaux confortables et spacieux et de  bungalows
 services:
-  - title: Bar cafeteria
+  - title: Bar cafétéria
     description: |-
-      Esmorzars, entrepans, pizzes, hamburgueses…Terrassa.
-
-      Obert els mesos d'estiu i Setmana Santa.
+      Petit déjeuner, sandwiches, pizzas, hamburgers ….
+      Terrasse: ouverte pendant les mois d’été et dans les vacances de Pâques.
     image: /images/01Pic_Bar_Cafeteria.svg
-  - title: Zona WIFI
+  - title: Zone WIFI
     description: ""
     image: /images/02Pic_Wifi.svg
-  - title: Supermercat
-    description: Alimentació en general. Servei diari de pa i brioixeria. Càmping
-      Gas. Venda de gel. Congelació d’ acumuladors. Obert els mesos d’estiu.
+  - title: Magasin
+    description: Nourriture en général. Service quotidien de pain et viennoiseries.
+      Camping Gas. Vente de glace. Gel de l'accumulateur. Ouvert pendant les
+      mois d'été.
     image: /images/03Pic_supermercat.svg
-  - title: Sanitaris
-    description: Dos edificis de serveis amb lavabos, dutxes, aigüers i safaretjos.
-      WC Químic. Bany adaptat per a minusvàlids. Banyera per a nadons. Bany
-      privat amb dutxa, lavabo i wc, ideal per a nens, sempre acompanyats d’ un
-      adult (cal demanar la clau a recepció).
+  - title: Sanitaires
+    description: Deux bâtiments de service avec toilettes et douches. WC chimique.
+      Bain adapté aux personnes handicapées. Baignoire pour bébés. Bain privé
+      avec douche, lavabo et toilette, idéal pour les enfants, toujours
+      accompagnés d’un adulte. (Aussi bien pour utiliser le bain pour handicapés
+      que pour le bain privé il faut demander la clef à la réception).
     image: /images/04Pic_Sanitaris.svg
-  - title: Sala de jocs
-    description: Billar, futbolí, jocs de taula.
+  - title: Salle de jeu
+    description: Billard, football de table, jeux de société.
     image: /images/05Pic_SalaJocs.svg
-  - title: Sala d'estar
-    description: Acollidora sala d’ estar amb TV i wifi.
+  - title: Le salon
+    description: Salon confortable avec TV et wifi.
     image: /images/06Pic_Saleta.svg
-  - title: Parc infantil
-    description: Una zona pels més petits i una altra per nens de 6 a 12 anys.
+  - title: Aire de jeux
+    description: Un espace pour les plus petits et un autre pour les enfants de 6 à 12 ans.
     image: /images/07Pic_infantil.svg
-  - title: Tenis i ping-pong
-    description: Possiblitat de llogar raquetes.
+  - title: Tennis et tennis de table
+    description: Possibilité de location de raquettes.
     image: /images/08Pic_Tenis.svg
-  - title: Piscina
-    description: Piscina exterior  de 18m x 10m,  per poder gaudir d’un bon bany
-      durant la seva estada. Els nens hauran d’ accedir sempre acompanyats d’ un
-      adult responsable.
+  - title: Piscine
+    description: >-
+      Piscine extérieure de 18m x 10m. Magnifique piscine pour se rafraîchir
+      après une activité aventureuse. 
+
+      Les enfants doivent toujours y accéder accompagnés d'un adulte.
     image: /images/09Pic_Piscina.svg
-  - title: Bugaderia
-    description: Rentadora i secadora. Per utilitzar-les cal comprar una fitxa a
-      recepció. Servei disponible cada dia.
+  - title: Laverie
+    description: Machine à laver et sèche-linge en libre-service. Fonctionnent avec
+      des jetons en vente dans le magasin et à la réception.
     image: /images/10Pic_Bugaderia.svg
-  - title: Zona coberta amb taules de pic-nic
-    description: Perfecte pels dies de pluja.
+  - title: Aire couverte avec tables de pique-nique.
+    description: Parfait pour les jours de pluie.
     image: /images/11Pic_PicNic.svg
-  - title: Barbacoes
-    description: Obligatori l'ús de carbó. Està permesa la barbacoa a la
-      parcel·la.  Està prohibit fer foc al terra.
+  - title: Barbecues
+    description: >-
+      L’usage de charbon de bois est obligatoire.
+
+
+      Le barbecue est autorisé sur la parcelle. Il est interdit d’allumer un feu sur le sol.
     image: /images/12Pic_Barbacoa.svg
-  - title: Lloguer de mantes
+  - title: Location de couvertures
     description: ""
     image: /images/13Pic_Mantes.svg
-  - title: Lloguer de neveres
-    description: Neveres elèctriques de 85 l. (amb reserva previa).
+  - title: Location de réfrigérateurs
+    description: Réfrigérateurs électriques 85 l. (Sur réservation)
     image: /images/14Pic_Neveres.svg
 ---
