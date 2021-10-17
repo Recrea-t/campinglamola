@@ -5,53 +5,45 @@ description: Camping situé dans l'environnement naturel du Parc National
   d'Aigüestortes et le lac de Sant Maurici, , lieu idéal pour se détendre, jouir
   des paysages favoris  vous offre des emplacements spacieux, herbeux et ombreux
   , des  petits appartements familiaux confortables et spacieux et de  bungalows
-summary: >-
-  * De 70 a 120m2.
-
-  * Totes amb ombra i sòl herbós.
-
-  * Fonts d'aigua potable prop de cada parcel·la.
-
-  * Possibilitat d'escollir la parcel·la que més li agradi.
-
-  * Zona separada per grups.
-
-  * Opció de parcel·la per tot l'estiu (consulti'ns)
-
-  * S'admeten animals domèstics, a excepció dels gossos considerats com potencialment perillosos·
+summary: |-
+  * Dimensions: 70 à 120 m2
+  * Toutes les parcelles ombragées et sur un sol herbeux.
+  * Points d’eau potable près de chaque parcelle.
+  * Choisissez la parcelle qui vous plaît le mieux.
+  * Parcelles séparées pour groupes
+  * Les animaux domestiques tenus en laisse sont admis.
 pricing:
-  - title: Adult
+  - title: Adulte
     price: 6.4
-  - title: Nens de 5 a 11 anys
+  - title: Enfant (de 5 à 11 ans)
     price: 5.8
-  - title: De pas (1 persona a peu)
+  - title: À pied (1 personne)
     price: 10
-  - title: Parcel.la Standard 60/70 m2 (màx. 6 persones i 1 vehicle)
+  - title: Emplacement Standard 60/70m2 (max 6 personnes et 1 voiture)
     price: 14.5
-  - title: Parcel.la XL 120 m2 (màx. 6 persones i 1 vehicle)
+  - title: Emplacement XL 120m2 (max 6 personnes et 1 voiture)
     price: 21.5
-  - title: Cotxe extra
+  - title: Voiture supplémentaire
     price: 6.4
-  - title: Electricitat
+  - title: "Connection électricité "
     price: 6
-  - title: Mascota (gos)
+  - title: Animal domestique (chien)
     price: 3
-  - title: Visita (màxim 4 hores)
+  - title: Visite (max 4 h.)
     price: 3
 pricingNotes: >-
-  Preus per nit. IVA inclòs.
+  Prix par nuit. Compris TVA
+
+  Taxe de séjour pas comprise: 0,66 € par personne (+16 ans) et par jour, avec un maximum de 7 jours. 
 
 
-  Impost sobre les estades en establiments turístics no inclòs : 0,60€ .Tarifa per persona (+ 16 anys ) i dia, amb un màxim de 7 dies.
+  • Capacité maximum: 6 personnes.
 
+  • Le prix de la parcelle comprend l'unité de camping (tente, caravane, camping-car ...) et un véhicule, qui est garé sur la parcelle.
 
-  • Ocupació màxima: 6 persones.\
+  • Des tentes auxiliaires (type igloo) peuvent être ajoutées gratuitement, à condition qu'elles soient dans les limites de la parcelle.
 
-  • El preu de la parcel·la inclou la unitat d'acampada (tenda, caravana, autocaravana...) i un vehicle, que s'aparca a la parcel·la.\
-
-  • Es poden afegir tendes auxiliars (tipus iglú) sense cap cost, a condició que estiguin dins dels límits de la parcel·la.\
-
-  • Es pot afegir màxim un segon cotxe a la parcel·la, però s'ha de registrar i abonar segons la tarifa vigent, i haurà d'estacionar-se dins dels límits de la parcel·la. En el cas que s'aparqui en una altra parcel·la s'haurà de pagar la tarifa de la parcel·la extra que estigui ocupant.
+  • Un maximum d'une seconde voiture peut être ajouté à la parcelle, mais elle doit être enregistrée et payée selon le tarif en vigueur, et elle doit être garée dans les limites de la parcelle. Si vous garez la voiture sur une autre emplacement, vous devez payer les frais de la parcelle supplémentaire que vous occupez.
 regulation: >-
   * Ocupació màxima: 6 persones.
 
