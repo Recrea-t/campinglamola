@@ -39,6 +39,7 @@ options:
       Le Parc Naturel de l'Alt Pirineu offre un large éventail d'options écotouristiques tout au long de l'année :     découvrir de magnifiques lacs de haute montagne, profiter de l'éclat de la floraison printanière ou des couleurs de l'automne en vous promenant sur des sentiers historiques, visiter des musées qui présentent  la vie actuelle et passée des habitants d'un territoire de montagne, respirer la solitude des montagnes hivernales à travers une promenade en raquettes, ou profiter de vues panoramiques spectaculaires depuis un belvédère.
 
       Pour accéder à l'intérieur de l'espace, vous devez emprunter des routes de montagne ou des pistes forestières non goudronnées, pour lesquelles vous devez utiliser un véhicule privé (de préférence avec un châssis haut) ou, si les transports en commun sont préférés, des taxis tout-terrain locaux. Alternativement, il est recommandé d'accéder au parc à pied ou en VTT, en utilisant le vaste réseau routier existant qui commence souvent dans les villages environnants.
+    url: https://www.catalunya.com/parc-naturel-de-lalt-pirineu-17-17001-573523?language=fr
   - title: Les Valls d'Àneu
     description: "Les valls d'Àneu és una subcomarca natural situada al nord-oest
       del Pallars Sobirà, un territori d'alta muntanya encisador, ubicat al nord
