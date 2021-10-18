@@ -41,16 +41,18 @@ options:
       Pour accéder à l'intérieur de l'espace, vous devez emprunter des routes de montagne ou des pistes forestières non goudronnées, pour lesquelles vous devez utiliser un véhicule privé (de préférence avec un châssis haut) ou, si les transports en commun sont préférés, des taxis tout-terrain locaux. Alternativement, il est recommandé d'accéder au parc à pied ou en VTT, en utilisant le vaste réseau routier existant qui commence souvent dans les villages environnants.
     url: https://www.catalunya.com/parc-naturel-de-lalt-pirineu-17-17001-573523?language=fr
   - title: Les Valls d'Àneu
-    description: "Les valls d'Àneu és una subcomarca natural situada al nord-oest
-      del Pallars Sobirà, un territori d'alta muntanya encisador, ubicat al nord
-      del Pallars Sobirà, amb pobles de pedra i pissarra i cims que toquen el
-      cel. Està format pels municipis d'Alt Àneu, Esterri d'Àneu, la Guingueta
-      d'Àneu i Espot. Limita a l'oest amb la Vall d'Aran, a nord amb França, a
-      l'est amb la Vall de Cardós i al sud amb Llavorsí. El riu Noguera
-      Pallaresa creua tota la vall i és l'artèria fluvial més important de la
-      zona. Esterri és el centre neuràlgic, tant per la seva condició de nucli
-      comercial com per ser el lloc on conflueixen les principals valls: la vall
-      d'Isil, la vall d'Unarre i la vall de la Bonaigua. A la població d'Espot
-      trobem una de les entrades al Parc Nacional d'Aigüestortes i Estany de
-      Sant Maurici ."
+    description: "Les Valls d' Àneu est une sous-région naturelle située au
+      nord-ouest du Pallars Sobirà, un charmant territoire de haute montagne,
+      situé au nord du Pallars Sobirà, avec des villages en pierre et en ardoise
+      et des sommets qui touchent le ciel. Elle est composée des municipalités
+      d'Alt Àneu, Esterri d'Àneu, la Guingueta d'Àneu et Espot. Elle est bordée
+      à l'ouest par la vallée d'Aran, au nord par la France, à l'est par la
+      vallée de Cardós et au sud par Llavorsí. La rivière Noguera Pallaresa
+      traverse toute la vallée et constitue l'artère fluviale la plus importante
+      de la région. Esterri est le centre névralgique, à la fois parce que c'est
+      un centre commercial et parce que c'est le lieu où convergent les
+      principales vallées : la vallée de l'Isil, la vallée de l'Unarre et la
+      vallée de la Bonaigua. Dans la ville d'Espot se trouve l'une des entrées
+      du Parc National d'Aigüestortes et le lac Sant Maurici."
+    url: https://www.catalunya.com/une-journee-en-famille-au-valls-daneu-1-4-445765?language=fr
 ---
