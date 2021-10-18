@@ -5,29 +5,26 @@ description: Camping situé dans l'environnement naturel du Parc National
   d'Aigüestortes et le lac de Sant Maurici, , lieu idéal pour se détendre, jouir
   des paysages favoris  vous offre des emplacements spacieux, herbeux et ombreux
   , des  petits appartements familiaux confortables et spacieux et de  bungalows
-summary: L'encant dels preciosos paisatges de les Valls d'Àneu, riuets, fonts,
-  barrancs, salts d'aigua i l'autenticitat de la seva gent fan d'aquest entorn
-  un bell paratge que no deixa ningú indiferent.
+summary: Le charme des beaux paysages des Valls d'Àneu, ruisseaux, fontaines,
+  ravins, cascades et l'authenticité de ses habitants font de cet environnement
+  un endroit magnifique qui ne laisse personne indifférent.
 options:
-  - title: Parc Nacional d'Aigüestortes i Estany de Sant Maurici
+  - title: Parc National d' Aigüestortes et le lac Sant Maurici
     description: >-
-      Situat al bell mig de la serralada dels Pirineus, entre el Pallars Sobirà,
-      la Val d'Aran i l'Alta Ribagorça és l'únic parc nacional de Catalunya i
-      centre d'un Espai Natural Protegit de grans dimensions amb més de 200
-      estanys, essent l'aigua la principal protagonista, amb nombrosos rius,
-      barrancs i zones humides que, junt amb la riquesa i majestuositat dels
-      seus paisatges, flora i fauna, esdevé la representació més genuïna de
-      l'alta muntanya .
+      Situé au cœur des Pyrénées, entre le Pallars Sobirà, le Val d'Aran et
+      l'Alta Ribagorza, c'est le seul parc national de Catalogne et le centre
+      d'un vaste espace naturel protégé avec plus de 200 étangs, l'eau est le
+      protagoniste principal, avec de nombreuses rivières, ravins et zones
+      humides qui, avec la richesse et la majesté de ses paysages, sa flore et
+      sa faune, deviennent la représentation la plus authentique de la haute
+      montagne.
 
+      Les Encantats sont l'un des sommets les plus emblématiques formés par des calcaires métamorphisés qui proviennent de la transformation des roches sédimentaires dues aux conditions de température et de pression auxquelles elles ont été soumises par les glaciers.
 
-      Els Encantats són un dels cims més emblemàtics formats per calcàries metamorfitzades que provenen de la transformació de roques sedimentàries a causa de les condicions de temperatura i pressió a què es van veure sotmeses pels glacials.
+      Actuellement, la seule utilisation traditionnelle et centenaire est le maintien de l'élevage extensif des bovins locaux de Boí et d'Espot.
 
-
-      Actualment, l'únic aprofitament tradicional i centenari és el manteniment de les explotacions extensives ramaderes per part del bestiar local de Boí i Espot.
-
-
-      El Parc rep més de mig milió de visitants cada any: un dels seus principals objectius és fer compatible l'accés de les persones amb la conservació íntegra de tots els seus valors naturals. Aquest objectiu és impossible d'assolir sense la implicació efectiva de tots els seus visitants. Per això, és molt important la vostra col·laboració i respecte per la normativa de protecció establerta.
-    url: https://www.miteco.gob.es/es/red-parques-nacionales/nuestros-parques/aiguestortes/guia-visitante/default.aspx
+      Le Parc reçoit plus d'un demi-million de visiteurs chaque année : l'un de ses principaux objectifs est de rendre l'accès des personnes compatible avec la pleine conservation de toutes ses valeurs naturelles. Cet objectif est impossible à atteindre sans l'implication effective de tous les visiteurs. Par conséquent, votre collaboration et votre respect des règles de protection établies sont très importants.
+    url: http://parcsnaturals.gencat.cat/fr/xarxa-de-parcs/aiguestortes/inici/index.html
   - title: Parc Natural de l'Alt Pirineu
     description: >-
       El Parc Natural de l'Alt Pirineu, declarat el 2003, és l'espai natural
