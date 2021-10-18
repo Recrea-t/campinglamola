@@ -1,7 +1,7 @@
 ---
 templateKey: services-page
 title: Facilities
-description: Càmping located at the entrance of the Aigüestortes and Lake Sant
+description: Campsite located at the entrance of the Aigüestortes and Lake Sant
   Maurici National Park offer spacious bungalows and green and shady camping
   pitches
 services:
