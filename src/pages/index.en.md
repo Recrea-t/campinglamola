@@ -1,23 +1,24 @@
 ---
 templateKey: index-page
 summary: >-
-  En l'immillorable entorn natural del Parc Nacional d'Aigüestortes i Estany de
-  Sant Maurici, al nord del Pallars Sobirà, l'enclavament ideal per relaxar-se i
-  gaudir de privilegiats paisatges, el Càmping la Mola, un càmping petit i
-  familiar, els ofereix àmplies parcel·les amb gespa i ombra, espaiosos i
-  confortables bungalous i acollidors gaials (petits allotjaments familiars), un
-  lloc perfecte per a gaudir de les  vacances al Pirineu de Lleida.
+  In the unbeatable natural environment of the Aigüestortes and Lake Sant
+  Maurici National Park, north of the Pallars Sobirà, the ideal place to relax
+  and enjoy a favourite scenery and every kind of activity and excursions that
+  are typical for a mountain region, camping site la Mola, a family campsite,
+  offers spacious, green and shady pitches, gaials (comfortable and spacious
+  family apartments) and bungalows, all equipped for 4 or 6 persons.
 
-  Recomanat a qualsevol persona que estima la natura, l'esport li la tranquil·litat.
+  Recommended to anyone who loves nature, sport and silence.
 
-  Sempre treballant per millorar. Els nostres clients repeteixen i ens recomanen.
+  Our faithful and regular customers recommend us.
 servicesSummary: Sempre treballant per millorar. Els nostres clients repeteixen i ens recomanen.
 environmentSummary: Recomanat a qualsevol persona que estima la natura, l'esport
   i la tranquil·litat.
-title: Camping in Espot
-description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
-  de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats
-  paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i
-  espaiosos bungalows
-
+title: Campsite in Espot Aiguestortes charme camping Leridan Pyrenees
+description: Càmping located at the entrance of the Aigüestortes and Lake Sant
+  Maurici National Park offer spacious bungalows and green and shady camping
+  pitches
+offer:
+  title: dd
+  active: false
 ---
