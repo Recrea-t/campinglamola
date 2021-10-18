@@ -10,7 +10,7 @@ services:
       ….Terrace.                                                                             Open
       during the summer season and Easter holidays.
     image: /images/01Pic_Bar_Cafeteria.svg
-  - title: Zona WIFI
+  - title: WIFI-area
     description: ""
     image: /images/02Pic_Wifi.svg
   - title: " Little shop"
