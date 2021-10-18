@@ -1,7 +1,7 @@
 ---
 templateKey: environment-page
 title: Surroundings
-description: Càmping located at the entrance of the Aigüestortes and Lake Sant
+description: Campsite located at the entrance of the Aigüestortes and Lake Sant
   Maurici National Park offer spacious bungalows and green and shady camping
   pitches
 summary: L'encant dels preciosos paisatges de les Valls d'Àneu, riuets, fonts,
