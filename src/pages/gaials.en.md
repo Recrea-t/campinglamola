@@ -54,7 +54,7 @@ images:
   - /images/gaials6.jpg
   - /images/gaials7.jpg
   - /images/gaials8.jpg
-description: Càmping located at the entrance of the Aigüestortes and Lake Sant
+description: Campsite located at the entrance of the Aigüestortes and Lake Sant
   Maurici National Park offer spacious bungalows and green and shady camping
   pitches
 pricingNotes: >-
