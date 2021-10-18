@@ -25,21 +25,20 @@ options:
 
       Le Parc reçoit plus d'un demi-million de visiteurs chaque année : l'un de ses principaux objectifs est de rendre l'accès des personnes compatible avec la pleine conservation de toutes ses valeurs naturelles. Cet objectif est impossible à atteindre sans l'implication effective de tous les visiteurs. Par conséquent, votre collaboration et votre respect des règles de protection établies sont très importants.
     url: http://parcsnaturals.gencat.cat/fr/xarxa-de-parcs/aiguestortes/inici/index.html
-  - title: Parc Natural de l'Alt Pirineu
+  - title: Parc Naturel de l' Alt Pirineu
     description: >-
-      El Parc Natural de l'Alt Pirineu, declarat el 2003, és l'espai natural
-      protegit més extens de Catalunya, amb una superfície de gairebé 80.000 ha.
-      Sota el cim més alt del Pirineu català, la Pica d'Estats (3.143 m), aquest
-      territori singular és una reserva del patrimoni natural i cultural
-      pirinenc. Destaca per les extenses pastures *mantingudes* per l'acció del
-      bestiar i animals tan emblemàtics com el gall fer, el trencalòs o l'ós
-      bru.
+      Le Parc Naturel de l'Alt Pirineu, déclaré en 2003, est le plus grand
+      espace naturel protégé de Catalogne, avec une superficie de près de 80 000
+      ha. Sous le plus haut sommet des Pyrénées catalanes, la Pica d'Estats (3
+      143 m), ce territoire unique est une réserve du patrimoine naturel et
+      culturel pyrénéen. Il se distingue par les vastes pâturages entretenus par
+      l'action du bétail et d'animaux emblématiques comme le tétras, le gypaète
+      barbu ou l'ours brun.
 
 
-      El Parc Natural de l'Alt Pirineu permet, durant tot l'any, múltiples opcions per practicar l'ecoturisme: descobrir magnífics estanys d'alta muntanya, gaudir de l'esclat de floració de primavera o dels colors de tardor tot recorrent camins històrics, visitar museus que mostren la forma de vida present i passada dels habitants d'un territori de muntanya, respirar la solitud de la muntanya hivernal mitjançant una passejada amb raquetes de neu, o bé gaudir d'espectaculars vistes panoràmiques des d'un mirador.
+      Le Parc Naturel de l'Alt Pirineu offre un large éventail d'options écotouristiques tout au long de l'année :     découvrir de magnifiques lacs de haute montagne, profiter de l'éclat de la floraison printanière ou des couleurs de l'automne en vous promenant sur des sentiers historiques, visiter des musées qui présentent  la vie actuelle et passée des habitants d'un territoire de montagne, respirer la solitude des montagnes hivernales à travers une promenade en raquettes, ou profiter de vues panoramiques spectaculaires depuis un belvédère.
 
-
-      Per accedir a l'interior de l'espai s'ha de recórrer carreteres de muntanya o pistes forestals no pavimentades, per a la qual cosa cal utilitzar vehicle privat (preferentment de xassís alt) o, si es prefereix el transport públic, taxis tot-terreny locals. Alternativament, es recomana accedir al Parc a peu o en bicicleta de muntanya, utilitzant l'extensa xarxa de camins existent que, sovint, té el seu inici en els pobles de l'entorn.
+      Pour accéder à l'intérieur de l'espace, vous devez emprunter des routes de montagne ou des pistes forestières non goudronnées, pour lesquelles vous devez utiliser un véhicule privé (de préférence avec un châssis haut) ou, si les transports en commun sont préférés, des taxis tout-terrain locaux. Alternativement, il est recommandé d'accéder au parc à pied ou en VTT, en utilisant le vaste réseau routier existant qui commence souvent dans les villages environnants.
   - title: Les Valls d'Àneu
     description: "Les valls d'Àneu és una subcomarca natural situada al nord-oest
       del Pallars Sobirà, un territori d'alta muntanya encisador, ubicat al nord
