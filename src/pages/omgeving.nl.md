@@ -1,10 +1,10 @@
 ---
 templateKey: environment-page
 title: Omgeving
-description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
-  de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats
-  paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i
-  espaiosos bungalows
+description: In de nabijheid van het Nationaal Park van Aigüestortes en het Meer
+  van San Mauricio, de uitgelezen plek om tot rust te komen en van een
+  bevoorrecht landschap te genieten, biedt camping La Mola ruime kampeerplaatsen
+  met veel gras en schaduw aan en confortabele en ruime bungalows
 summary: L'encant dels preciosos paisatges de les Valls d'Àneu, riuets, fonts,
   barrancs, salts d'aigua i l'autenticitat de la seva gent fan d'aquest entorn
   un bell paratge que no deixa ningú indiferent.
