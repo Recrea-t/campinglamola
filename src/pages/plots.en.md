@@ -1,6 +1,6 @@
 ---
 templateKey: plots-page
-title: Plots
+title: Plots Pitches
 description: Campsite located at the entrance of the Aigüestortes and Lake Sant
   Maurici National Park offer spacious bungalows and green and shady camping
   pitches
