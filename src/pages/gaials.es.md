@@ -42,7 +42,7 @@ regulation: >-
 
   * Hora de salida: Antes de las 11:00.
 formName: gaials-form
-title: Gaials, apartamentos
+title: Gaials
 images:
   - /images/gaials1.jpg
   - /images/gaials2.jpg
