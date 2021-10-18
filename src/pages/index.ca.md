@@ -21,7 +21,7 @@ summary: >-
 
   Recomanat a qualsevol persona que estima la natura, l'esport i el silenci.
 
-  Sempre treballant per millorar. Els nostres clients repeteixen i ens recomanen.
+  Sempre treballant per millorar.                                                                                                                                   Els nostres clients repeteixen i ens recomanen.
 bungalowsImage: /images/bungalows1.jpg
 servicesSummary: Sempre treballant per millorar. Els nostres clients repeteixen i ens recomanen.
 plotsImage: /images/parceles1.jpg
