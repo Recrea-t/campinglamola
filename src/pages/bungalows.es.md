@@ -53,7 +53,7 @@ regulation: >-
 
   * Hora de salida: Antes de las 11:00.
 formName: bungalows-form
-title: Bungalows, cabañas
+title: Bungalows
 conditions: >-
   #### Pagos
 
