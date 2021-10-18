@@ -1,10 +1,9 @@
 ---
 templateKey: plots-page
 title: Plots
-description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
-  de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats
-  paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i
-  espaiosos bungalows
+description: Càmping located at the entrance of the Aigüestortes and Lake Sant
+  Maurici National Park offer spacious bungalows and green and shady camping
+  pitches
 summary: >-
   * De 70 a 120m2.
 
