@@ -117,7 +117,9 @@ activities:
 
       * ***[Centre d'Interpretation à Tavascan](https://tavascan.wixsite.com/tavascan)*, La forçe de l'eau**
 
-        **LA GASTRONOMIE**
+
+      **LA GASTRONOMIE**
+
 
       La meilleure façon de goûter le Pallars Sobirà est de goûter les produits fabriqués dans la région. N'hésitez pas à rendre visite à nos producteurs locaux, qui vous proposeront leurs meilleurs produits locaux, et vous expliqueront comment ils les fabriquent : Fromages, yaourts artisanals, saucissons…
 
