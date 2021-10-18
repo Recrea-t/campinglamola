@@ -6,17 +6,17 @@ description: Campsite located at the entrance of the Aigüestortes and Lake Sant
   pitches
 services:
   - title: Bar cafeteria
-    description: |-
-      Esmorzars, entrepans, pizzes, hamburgueses…Terrassa.
-
-      Obert els mesos d'estiu i Setmana Santa.
+    description: Breakfast, sandwiches, pizzas, hamburgers
+      ….Terrace.                                                                             Open
+      during the summer season and Easter holidays.
     image: /images/01Pic_Bar_Cafeteria.svg
   - title: Zona WIFI
     description: ""
     image: /images/02Pic_Wifi.svg
-  - title: Supermercat
-    description: Alimentació en general. Servei diari de pa i brioixeria. Càmping
-      Gas. Venda de gel. Congelació d’ acumuladors. Obert els mesos d’estiu.
+  - title: " Little shop"
+    description: The usual food products. Fresh bread and croissants on a daily
+      basis. Camping Gaz. Ice (packs). Freezing of ice accumulators. Open during
+      the summer season.
     image: /images/03Pic_supermercat.svg
   - title: Sanitaris
     description: Dos edificis de serveis amb lavabos, dutxes, aigüers i safaretjos.
