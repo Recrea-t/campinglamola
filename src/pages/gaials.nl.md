@@ -1,20 +1,5 @@
 ---
 templateKey: gaials-page
-formName: "gaials-form"
-title: Gaials
-description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
-  de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats
-  paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i
-  espaiosos bungalows
-images:
-  - /images/gaials1.jpg
-  - /images/gaials2.jpg
-  - /images/gaials3.jpg
-  - /images/gaials4.jpg
-  - /images/gaials5.jpg
-  - /images/gaials6.jpg
-  - /images/gaials7.jpg
-  - /images/gaials8.jpg
 summary: >-
   Els gaials són uns petits i funcionals allotjaments de dues plantes ubicats a
   la part superior de l'edifici principal del càmping. No estan a peu de carrer,
@@ -46,14 +31,6 @@ pricing:
   - highSeason: 110
     title: 6 pax
     lowSeason: 85
-pricingNotes: >-
-  Preus per nit. IVA inclòs.
-
-
-  Impost sobre les estades en establiments turístics no inclòs : 0,60€ .Tarifa per persona (+ 16 anys ) i dia, amb un màxim de 7 dies.
-
-
-  * Llençols i tovalloles no inclosos. Lloguer opcional 6€ per persona i estada.
 regulation: >-
   * És **OBLIGATÒRIA** la presentació de DNI o passaport de tots els ocupants
   majors de 14 anys a l’ arribada al Càmping i registrar tots els vehicles,
@@ -66,6 +43,29 @@ regulation: >-
   * Hora d'entrada: Entre les 16:00 i les 21:00 (consultar altres opcions).
 
   * Hora de sortida: Abans de les 11:00
+formName: gaials-form
+title: Gaials
+images:
+  - /images/gaials1.jpg
+  - /images/gaials2.jpg
+  - /images/gaials3.jpg
+  - /images/gaials4.jpg
+  - /images/gaials5.jpg
+  - /images/gaials6.jpg
+  - /images/gaials7.jpg
+  - /images/gaials8.jpg
+description: In de nabijheid van het Nationaal Park van Aigüestortes en het Meer
+  van San Mauricio, de uitgelezen plek om tot rust te komen en van een
+  bevoorrecht landschap te genieten, biedt camping La Mola ruime kampeerplaatsen
+  met veel gras en schaduw aan en confortabele en ruime bungalows
+pricingNotes: >-
+  Preus per nit. IVA inclòs.
+
+
+  Impost sobre les estades en establiments turístics no inclòs : 0,60€ .Tarifa per persona (+ 16 anys ) i dia, amb un màxim de 7 dies.
+
+
+  * Llençols i tovalloles no inclosos. Lloguer opcional 6€ per persona i estada.
 conditions: >-
   #### Pagaments
 
