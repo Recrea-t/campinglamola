@@ -56,7 +56,7 @@ activities:
       National Park and the closest, just 5 minutes from the campsite.
   - title: Cultural heritage
     description: >-
-      * Romanesque
+      ROMANESQUE
 
 
       ThePallars Sobirà, and especially the Àneu valleys, is a land of churches, hermitages and monasteries, with tall bell towers crowned with slate slabs that stand out above the villages and small hermitages hidden among the hills and mountains.
@@ -70,41 +70,45 @@ activities:
 
       * Sant Pere del Burgal, in Escaló
 
-      * **Festes i tradicions**
 
-      * ***[Falles d'Isil](http://www.fallesisil.cat/)*,** Festa declarada d'Interès Nacional el juny de 2010 i Patrimoni Immaterial de la Humanitat per la UNESCO, el 2015.
-
-      * **Setmana Santa**, Viacrucis i la Passió a Esterri d'Àneu.
-
-      * ***[Festival Esbaiola't](https://festivalesbaiolat.cat/)*,** a Esterri d'Àneu, arts escèniques al carrer i per a tots els públics***.***
-
-      * ***[Curtàneu](https://www.curtaneu.cat/)*,** Mostra Internacional de curtmetratges a les Valls d'Àneu, al Pallars Sobirà. La mostra forma part de Catalunya Film Festivals, la coordinadora de festivals de Catalunya
-
-      * **Museus i centres d'interpretació**
+      FESTIVALS AND TRADITIONS
 
 
-      Una cultura ben viva i sorprenent que podeu conèixer gràcies a la divulgació i protecció del nostre patrimoni històric.
+      * [Falles d'Isil](http://www.fallesisil.cat/), Festivity declared of National Interest in June 2010 and Intangible Heritage of Humanity by UNESCO in 2015.
+
+      * Setmana Santa (Holy Week), Viacrucis i la Passión, in Esterri d'Àneu.
+
+      * E[sbaiola't Festival](https://festivalesbaiolat.cat/), in Esterri d'Aneu, street performing arts I for all audiences.
+
+      * [Curtàneu](https://www.curtaneu.cat/), International Short Film Festival in les Valls d'Àneu, Pallars Sobirà. The festival is part of the Catalonia Film Festivals.
 
 
-      * **[Ecomuseu de les Valls d'Àneu](http://www.ecomuseu.com/), a Esterri d'Àneu**
-
-      * **La Casa de l'Ós dels Pirineus, a Isil**
-
-      * ***[Museu de les Papallones de Catalunya](https://www.papallones.net/)*, a Ribera de Cardós**
-
-      * **Casa del Parc Nacional, a Espot**
-
-      * ***[Món Natura Pirineus](https://monnaturapirineus.com/)*, a les Planes de Son**
-
-      * ***[Espai Museístic del ferro, Casa Sintet](https://www.facebook.com/casasintet/)*, a Alins**
-
-      * ***[Centre d'Interpretació de Tavascan](https://tavascan.wixsite.com/tavascan)*, La força de l'aigua**
-
-      * **Gastrononia**
+      MUSEUMS AND INTERPRETATION CENTERS
 
 
-      La millor manera d'assaborir el Pallars Sobirà és tastar els productes elaborats al territori. No deixi de visitar els nostres productors locals, que li oferiran els seus millors productes de proximitat, i li explicaran com els elaboren: Formatges, iogurts, embotits…
+      A living and surprising culture that you can get to know thanks to the dissemination and protection of our historical heritage.
 
 
-      Als restaurants de la comarca podrà tastar tot el sabor dels Pirineus damunt la taula: Bolets, carn de caça, carns a la brasa, vianda o escudella, girella…
+      * [Ecomuseu de les Valls d'Àneu](http://www.ecomuseu.com/), in Esterri d'Àneu
+
+      * La Casa de l'Ós dels Pirineus (Pyrenean Bear House), in Isil
+
+      * [The butterfly museum of Catalonia](https://www.papallones.net/) , in Ribera de Cardós
+
+      * House of the National Park, in Espot
+
+      * [Món Natura Pirineus](https://monnaturapirineus.com/), in les Planes de Son
+
+      * [Espai Museístic del ferro, Casa Sintet](https://www.facebook.com/casasintet/), in Alins
+
+      * [Tavascan Interpretation Centre,](https://tavascan.wixsite.com/tavascan) The power of wáter
+
+
+      GASTRONOMY
+
+
+      The best way to savour Pallars Sobirà is to try the products produced in the area. Be sure to visit our local producers, who will offer you their best local products, and explain how they make them: cheeses, yoghurts, sausages...
+
+
+       In the restaurants of the region you can taste all the flavour of the Pyrenees on the table: mushrooms, game meat, grilled meats, vianda or escudella (catalan soup with pasta, rice or both), girella (lam sausages), trinxat del Pallars...
 ---
