@@ -4,9 +4,7 @@ title: Contact
 description: Campsite located at the entrance of the Aigüestortes and Lake Sant
   Maurici National Park offer spacious bungalows and green and shady camping
   pitches
-summary: Ens trobem en l'àrea d'influència del Parc Nacional d'Aigüestortes i
-  Estany de Sant Maurici, (Pirineus Catalans), al marge esquerre del riu Escrita
-  a 1,8 km abans d'arribar al poble d'Espot, un dels més emblemàtics paratges de
-  les Valls d'Àneu dins de la comarca del Pallars Sobirà a la província de
-  Lleida.
+summary: >-2
+   We are on the gate-way of the Aigüestortes and Sant Maurici Lake National Park, in the Catalan Pyrenees, on the left bank of the Escrita river, at 1.8 km before arriving at the village of Espot, in one of the most symbolic places of the Àneu Valleys in the Pallars Sobirà region, in the province of  Lleida.
+  Our environment offers infinite possibilities for numerous excursions, for practicing adventure sports, for cultural and gastronomic routes .... relaxation etc.
 ---
