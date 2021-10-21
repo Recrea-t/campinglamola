@@ -4,55 +4,52 @@ title: Surroundings
 description: Campsite located at the entrance of the Aigüestortes and Lake Sant
   Maurici National Park offer spacious bungalows and green and shady camping
   pitches
-summary: L'encant dels preciosos paisatges de les Valls d'Àneu, riuets, fonts,
-  barrancs, salts d'aigua i l'autenticitat de la seva gent fan d'aquest entorn
-  un bell paratge que no deixa ningú indiferent.
+summary: The charm of the beautiful landscapes of the Valls d'Aneu, streams,
+  springs, ravines, waterfalls and the authenticity of its people make this
+  environment a beautiful place that leaves no one indifferent.
 options:
-  - title: Parc Nacional d'Aigüestortes i Estany de Sant Maurici
+  - title: Aigüestortes i Estany de Sant Maurici National Park
     description: >-
-      Situat al bell mig de la serralada dels Pirineus, entre el Pallars Sobirà,
-      la Val d'Aran i l'Alta Ribagorça és l'únic parc nacional de Catalunya i
-      centre d'un Espai Natural Protegit de grans dimensions amb més de 200
-      estanys, essent l'aigua la principal protagonista, amb nombrosos rius,
-      barrancs i zones humides que, junt amb la riquesa i majestuositat dels
-      seus paisatges, flora i fauna, esdevé la representació més genuïna de
-      l'alta muntanya .
+      Located in the middle of the Pyrenees mountain range, between Pallars
+      Sobirà, Val d'Aran and Alta Ribagorza, it is the only national park in
+      Catalonia and the centre of a large Protected Natural Area with more than
+      200 lakes. Water is the main protagonist, with numerous rivers, ravines
+      and wetlands which, together with the richness and majesty of its
+      landscapes, flora and fauna, make it the most genuine representation of
+      the high mountains.
 
+      Los Encantats is one of the most emblematic peaks formed by metamorphosed limestone from the transformation of sedimentary rocks due to the temperature and pressure conditions to which they were subjected by glaciers.
 
-      Els Encantats són un dels cims més emblemàtics formats per calcàries metamorfitzades que provenen de la transformació de roques sedimentàries a causa de les condicions de temperatura i pressió a què es van veure sotmeses pels glacials.
+      Currently, the only traditional and centuries-old use is the maintenance of extensive livestock farming by the local cattle of Boí and Espot.
 
-
-      Actualment, l'únic aprofitament tradicional i centenari és el manteniment de les explotacions extensives ramaderes per part del bestiar local de Boí i Espot.
-
-
-      El Parc rep més de mig milió de visitants cada any: un dels seus principals objectius és fer compatible l'accés de les persones amb la conservació íntegra de tots els seus valors naturals. Aquest objectiu és impossible d'assolir sense la implicació efectiva de tots els seus visitants. Per això, és molt important la vostra col·laboració i respecte per la normativa de protecció establerta.
-    url: https://www.miteco.gob.es/es/red-parques-nacionales/nuestros-parques/aiguestortes/guia-visitante/default.aspx
-  - title: Parc Natural de l'Alt Pirineu
+      The Park receives more than half a million visitors every year: one of its main objectives is to make people's access compatible with the full conservation of all its natural values. This objective is impossible to achieve without the effective involvement of all its visitors. For this reason, their collaboration and respect for the established protection regulations is very important.
+    url: http://parcsnaturals.gencat.cat/en/xarxa-de-parcs/aiguestortes/inici/index.html
+  - title: Alt Pirineu Natural Park
     description: >-
-      El Parc Natural de l'Alt Pirineu, declarat el 2003, és l'espai natural
-      protegit més extens de Catalunya, amb una superfície de gairebé 80.000 ha.
-      Sota el cim més alt del Pirineu català, la Pica d'Estats (3.143 m), aquest
-      territori singular és una reserva del patrimoni natural i cultural
-      pirinenc. Destaca per les extenses pastures *mantingudes* per l'acció del
-      bestiar i animals tan emblemàtics com el gall fer, el trencalòs o l'ós
-      bru.
+      The Alt Pirineu Natural Park, declared in 2003, is the largest protected
+      natural area in Catalonia, with a surface area of almost 80,000 ha.
+      Beneath the highest peak of the Catalan Pyrenees, the Pica d'Estats (3,143
+      m), this unique territory is a reserve of Pyrenean natural and cultural
+      heritage. It stands out for its extensive pastures maintained by the
+      action of livestock and emblematic animals such as the capercaillie, the
+      bearded vulture and the brown bear.
 
+      The Alt Pirineu Natural Park offers a wide range of options for ecotourism all year round: discover magnificent high mountain lakes, enjoy the burst of spring flowers or the colours of autumn on historic trails, visit museums that show the present and past way of life of the inhabitants of a mountain territory, breathe in the solitude of the winter mountain on snowshoe trails, or enjoy spectacular panoramic views from a viewpoint.
 
-      El Parc Natural de l'Alt Pirineu permet, durant tot l'any, múltiples opcions per practicar l'ecoturisme: descobrir magnífics estanys d'alta muntanya, gaudir de l'esclat de floració de primavera o dels colors de tardor tot recorrent camins històrics, visitar museus que mostren la forma de vida present i passada dels habitants d'un territori de muntanya, respirar la solitud de la muntanya hivernal mitjançant una passejada amb raquetes de neu, o bé gaudir d'espectaculars vistes panoràmiques des d'un mirador.
-
-
-      Per accedir a l'interior de l'espai s'ha de recórrer carreteres de muntanya o pistes forestals no pavimentades, per a la qual cosa cal utilitzar vehicle privat (preferentment de xassís alt) o, si es prefereix el transport públic, taxis tot-terreny locals. Alternativament, es recomana accedir al Parc a peu o en bicicleta de muntanya, utilitzant l'extensa xarxa de camins existent que, sovint, té el seu inici en els pobles de l'entorn.
+      To access the interior of the area you must travel along mountain roads or unpaved forest tracks, for which you must use a private vehicle (preferably with a high chassis) or, if you prefer public transport, local all-terrain taxis. Alternatively, it is recommended to access the Park on foot or by mountain bike, using the extensive network of existing trails that often start in the surrounding villages.
+    url: http://parcsnaturals.gencat.cat/en/xarxa-de-parcs/alt-pirineu/inici/index.html
   - title: Les Valls d'Àneu
-    description: "Les valls d'Àneu és una subcomarca natural situada al nord-oest
-      del Pallars Sobirà, un territori d'alta muntanya encisador, ubicat al nord
-      del Pallars Sobirà, amb pobles de pedra i pissarra i cims que toquen el
-      cel. Està format pels municipis d'Alt Àneu, Esterri d'Àneu, la Guingueta
-      d'Àneu i Espot. Limita a l'oest amb la Vall d'Aran, a nord amb França, a
-      l'est amb la Vall de Cardós i al sud amb Llavorsí. El riu Noguera
-      Pallaresa creua tota la vall i és l'artèria fluvial més important de la
-      zona. Esterri és el centre neuràlgic, tant per la seva condició de nucli
-      comercial com per ser el lloc on conflueixen les principals valls: la vall
-      d'Isil, la vall d'Unarre i la vall de la Bonaigua. A la població d'Espot
-      trobem una de les entrades al Parc Nacional d'Aigüestortes i Estany de
-      Sant Maurici ."
+    description: "Les Valls d' Àneu is a natural sub-region located in the northwest
+      of Pallars Sobirà, a charming high mountain territory, located in the
+      north of Pallars Sobirà, with stone and slate villages and peaks that
+      touch the sky. It is composed by the municipalities  of Alt Àneu, Esterri
+      d'Àneu, la Guingueta d'Àneu and Espot. It is bordered to the west by the
+      Aran Valley, to the north by France, to the east by the Cardós Valley and
+      to the south by Llavorsí. The river Noguera Pallaresa crosses the whole
+      valley and is the most important fluvial artery in the area. Esterri is
+      the nerve centre, both because it is a commercial centre and because it is
+      the place where the main valleys converge: the Isil valley, the Unarre
+      valley and the Bonaigua valley. In the town of Espot we find one of the
+      entrances to the Aigüestortes and Sant Maurici Lake National Park."
+    url: https://www.rutaspirineos.org/rutas/vall-d-aneu
 ---
