@@ -37,7 +37,7 @@ pricingNotes: >-
   Taxe de séjour pas comprise: 0,66 € par personne (+16 ans) et par jour, avec un maximum de 7 jours.
 
 
-  * Capacité maximum: 6 personnes.
+  * Capacité maximale d'un emplacement: 6 personnes.
 
   * Le prix de la parcelle comprend l'unité de camping (tente, caravane, camping-car ...) et un véhicule, qui est garé sur la parcelle.
 
