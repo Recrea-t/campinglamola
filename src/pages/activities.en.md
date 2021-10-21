@@ -101,7 +101,7 @@ activities:
 
       * *[Espai Museístic del ferro, Casa Sintet](https://www.facebook.com/casasintet/)*, in Alins
 
-      * *[Tavascan Interpretation Centre,](https://tavascan.wixsite.com/tavascan)* The power of wáter
+      * *[Tavascan Interpretation Centre,](https://tavascan.wixsite.com/tavascan)* The power of water
 
 
       GASTRONOMY
