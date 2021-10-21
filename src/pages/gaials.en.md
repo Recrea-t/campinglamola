@@ -1,28 +1,42 @@
 ---
 templateKey: gaials-page
 summary: >-
-  Els gaials són uns petits i funcionals allotjaments de dues plantes ubicats a
-  la part superior de l'edifici principal del càmping. No estan a peu de carrer,
-  però compten amb una terrassa moblada que només es comparteix amb altres
-  gaials i cada gaial té la seva pròpia taula i cadires.
+  
+  •	
+
+  •	TV.
+
+  •	
+
+  •	
+
+  •	Blankets and pillows.
+
+  •	Sheets and towels are not included. They can be rented at reception.
+
+  •	Pets are not allowed.
 
 
-  Tots tenen la cuina-menjador i el bany a la planta inferior i la distribució de les habitacions varia segons el gaial. Les habitacions són sota teulada; els de 4 persones tenen dues habitacions i els de 6 persones en tenen 3.
 
 
-  * Cuina equipada (placa vitroceràmica, forn, microones, nevera, cafetera, parament, vaixella...)
+  For 4 or 6 people
+   The gaials are small and functional two-storey accommodations located in the upper part of the main building of the campsite. They are not at street level, but have a furnished terrace which is only shared with other gaials and each gaial has its own table and chairs.
+  They all have the kitchen-dining room and bathroom on the lower floor and the layout of the rooms varies according to the gaial. The rooms are attic rooms; the four person gaials have two rooms and the six person ones have three.
+
+
+  * Fully equipped kitchen (ceramic hob, oven, microwave, fridge, coffee maker, kitchenware, crockery...). Cuina equipada (placa vitroceràmica, forn, microones, nevera, cafetera, parament, vaixella...)
 
   * TV.
 
-  * Aigua calenta i calefacció.
+  * Hot water and heating.
 
-  * Bany complet.
+  * Complete bathroom.
 
-  * Mantes i coixins.
+  * Blankets and pillows.              
 
-  * No inclouen llençols ni tovalloles. Es poden llogar a recepció.
+  * Sheets and towels are not included. They can be rented at reception.
 
-  * No s'hi admeten animals de companyia.
+  * Pets are not allowed.
 pricing:
   - title: 4 pax
     description: null
