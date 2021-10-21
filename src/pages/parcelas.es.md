@@ -44,7 +44,7 @@ pricingNotes: >-
   Impuesto sobre las estancias en establecimientos turísticos no incluido: 0,66 €. Tarifa por persona (+16 años) y día, con un máximo de 7 días.
 
 
-  * Ocupación máxima: 6 personas. 
+  * Ocupación máxima de la parcela: 6 personas. 
 
   * El precio de la parcela incluye la unidad de acampada (tienda, caravana, autocaravana ...) y un vehículo,      que se aparca en la parcela.
 
