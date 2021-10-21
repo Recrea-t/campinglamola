@@ -1,26 +1,10 @@
 ---
 templateKey: gaials-page
 summary: >-
-  
-  •	
-
-  •	TV.
-
-  •	
-
-  •	
-
-  •	Blankets and pillows.
-
-  •	Sheets and towels are not included. They can be rented at reception.
-
-  •	Pets are not allowed.
-
-
-
-
   For 4 or 6 people
-   The gaials are small and functional two-storey accommodations located in the upper part of the main building of the campsite. They are not at street level, but have a furnished terrace which is only shared with other gaials and each gaial has its own table and chairs.
+
+  The gaials are small and functional two-storey accommodations located in the upper part of the main building of the campsite. They are not at street level, but have a furnished terrace which is only shared with other gaials and each gaial has its own table and chairs.
+
   They all have the kitchen-dining room and bathroom on the lower floor and the layout of the rooms varies according to the gaial. The rooms are attic rooms; the four person gaials have two rooms and the six person ones have three.
 
 
