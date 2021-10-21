@@ -47,7 +47,7 @@ activities:
         * *[Routes of the Centre BTT de les Valles d' Àneu](http://www.vallsdaneu.org/btt-cicloturisme/)*. 211 km of signposted routes of different levels. 
         * *[Bike & Run routes of Càmping la Mola](https://ca.wikiloc.com/wikiloc/map.do?sw=-89.9993295%2C-179.999&ne=89.999%2C179.999&loop=1&q=C%C3%A0mping%20la%20Mola&place=C%C3%A0mping%20la%20Mola&fitMapToTrails=1&uid=1782701&page=1)*. All of them start and finish at the campsite.
   - title: Winter activities
-    description: Alpine, Nordic and mountain skiing, together with snowshoeing, are
+    description: Alpine, nordic and mountain skiing, together with snowshoeing, are
       one of the best ways to enjoy the landscapes of the Alt Pirineu Natural
       Park and the Aigüestortes and Sant Maurici Lake National Park. A total of
       5 ski resorts (Espot Esquí, Port Ainé, Tavasacan, Virós-Vall Ferrera and
