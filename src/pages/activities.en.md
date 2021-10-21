@@ -2,77 +2,73 @@
 templateKey: activities-page
 title: Activities
 description: Campsite located at the entrance of the Aigüestortes and Lake Sant
-  Maurici National Park offer spacious bungalows and green and shady camping
+  Maurici National Park offer spacious bungalows and big green and shady camping
   pitches
 activities:
-  - title: Muntanya
+  - title: Mountain
     description: >-
-      * **Senderisme** 
+      * **Hiking**
 
 
-      Tant dins del Parc Nacional d'Aigüestortes i Estany de Sant Maurici com en la zona perifèrica, sempre trobarà un sender a la seva mida: des de petits recorreguts familiars fins a llargues travesses d'alta muntanya.
+      Both inside the Aigüestortes i Estany de Sant Maurici National Park and in the surrounding area, you will always find a trail to suit you: from short family walks to long mountain hikes.
 
 
-      Consulti el *[Plànol guia](http://parcsnaturals.gencat.cat/web/.content/Xarxa-de-parcs/aiguestortes/El-parc/mapa-del-parc/PNASM_planol_guia_LRv4.pdf)* i el *[Fullet d'itineraris recomanats](http://parcsnaturals.gencat.cat/web/.content/Xarxa-de-parcs/aiguestortes/gaudeix-del-parc/guia-de-visita/Propostes-itineraris-per-dies/Pdf/itineraris_valls_aneu_cat11.pdf)*
+      Consult[*the Guide Map* ](http://parcsnaturals.gencat.cat/web/.content/Xarxa-de-parcs/aiguestortes/Inici/PDF/PNASM_planol_guia_LRv4_ENG_FRE.pdf)and the *[Brochure of recommended itineraries](http://parcsnaturals.gencat.cat/web/.content/Xarxa-de-parcs/aiguestortes/gaudeix-del-parc/guia-de-visita/Propostes-itineraris-per-dies/Pdf/itineraris_valls_aneu_en11.pdf)*.
 
 
-      * **Excursions 4x4**
+      * **4x4 Excursions** 
 
 
-      Excursions en 4x4 al cor del Parc Nacional d'Aigüestortes i Estany de Sant Maurici. *[Més informació](https://www.taxisespot.com/excursions)*
-  - title: Aventura
+      4x4 excursions in the heart of the Aigüestortes and Sant Maurici Lake National Park. *[More information about](https://www.taxisespot.com/home)*
+  - title: Adventure
     description: >-
-      
+      For those who want to feel a strong adrenaline rush and connect with
+      nature at the same time.
 
-      Per qui vulgui sentir una forta descàrrega d'adrenalina i connectar amb la naturalesa al mateix temps.
+      In the area there is a wide range of specialised companies that offer adventure sports in a safe way, providing the necessary equipment and a qualified guide or instructor.
 
-
-      A la zona hi ha una ampla oferta d’ empreses especialitzades que ofereixen esports d’ aventura de forma segura, proporcionant l’equipament necessari i un guia o monitor qualificat.
-
-
-      Importants descomptes exclusius per als nostres clients en moltes de les activitat d'aventura. A recepció l'informarem.
+      Important exclusive discounts for our clients in many of the adventure activities. We will inform you at reception.
 
 
-      * Ràfting
+      * Rafting
 
-      * Descens de barrancs
+      * Canyoning (descent along canyons)
 
-      * Caiac
+      * kayak
 
-      * Hípica
+      * Horse riding
 
-      * Puenting
+      * Bungee jumping
 
-      * Cicuits d'aventura als arbres
+      * Adventure circuits in the trees
 
-      * BTT
-        * *[Rutes del Centre BTT de les Valls d’Àneu.](http://www.vallsdaneu.org/btt-cicloturisme/)* 211 Km de rutes senyalitzades de diferents nivells. (aquest enllaç no funciona perque estan refent la página)
+      * BTT (mountainbike)
 
-        * *[Rutes Bike & Run de Camping la Mola](https://ca.wikiloc.com/wikiloc/map.do?sw=-89.9993295%2C-179.999&ne=89.999%2C179.999&loop=1&q=C%C3%A0mping%20la%20Mola&place=C%C3%A0mping%20la%20Mola&fitMapToTrails=1&uid=1782701&page=1)*. Totes surten i arriben al càmping.
-  - title: Activitats d'hivern
-    description: L'esquí alpí, nòrdic i de muntanya, juntament amb les raquetes de
-      neu, són una de les millors maneres de gaudir dels paisatges del Parc
-      Natural de l'Alt Pirineu i el Parc Nacional d'Aigüestortes i Estany de
-      Sant Maurici. Un total de 5 estacions d'esquí (Espot Esquí, Portainé,
-      Tavasacan, Virós-Vall Farrera i Baqueira-Bonaigua) ofereixen una gran
-      quantitat d'opcions per viure la neu al màxim, sent l'estació d'Espot
-      l'única situada al costat d'un Parc Nacional i la més propera, a tan sols
-      5 minuts del càmping.
-  - title: Patrimoni cultural
+        * *[Routes of the Centre BTT de les Valles d' Àneu](http://www.vallsdaneu.org/btt-cicloturisme/)*. 211 km of signposted routes of different levels. 
+        * *[Bike & Run routes of Càmping la Mola](https://ca.wikiloc.com/wikiloc/map.do?sw=-89.9993295%2C-179.999&ne=89.999%2C179.999&loop=1&q=C%C3%A0mping%20la%20Mola&place=C%C3%A0mping%20la%20Mola&fitMapToTrails=1&uid=1782701&page=1)*. All of them start and finish at the campsite.
+  - title: Winter activities
+    description: Alpine, Nordic and mountain skiing, together with snowshoeing, are
+      one of the best ways to enjoy the landscapes of the Alt Pirineu Natural
+      Park and the Aigüestortes and Sant Maurici Lake National Park. A total of
+      5 ski resorts (Espot Esquí, Port Ainé, Tavasacan, Virós-Vall Ferrera and
+      Baqueira-Bonaigua) offer a wide range of options to experience the snow to
+      the full, with the Espot resort being the only one located next to a
+      National Park and the closest, just 5 minutes from the campsite.
+  - title: Cultural heritage
     description: >-
-      * **Romànic**
+      * Romanesque
 
 
-      El Pallars Sobirà, i molt especialment les Valls d'Àneu, és terra d'esglésies, ermites i monestirs, amb alts campanars coronats amb lloses de pissarra que destaquen per damunt dels poblets i petites ermites que s'amaguen entre els turons i les muntanyes.
+      ThePallars Sobirà, and especially the Àneu valleys, is a land of churches, hermitages and monasteries, with tall bell towers crowned with slate slabs that stand out above the villages and small hermitages hidden among the hills and mountains.
 
 
-      * Santa Maria d'Àneu, a Escalarre
+      * Santa Maria d'Àneu, in Escalarre
 
-      * Sant Just i Sant Pastor de Son
+      * Sant Just i Sant Pastor in Son
 
       * Sant Joan d'Isil 
 
-      * Sant Pere del Burgal, a Escaló
+      * Sant Pere del Burgal, in Escaló
 
       * **Festes i tradicions**
 
