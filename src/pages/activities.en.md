@@ -74,11 +74,11 @@ activities:
       FESTIVALS AND TRADITIONS
 
 
-      * [Falles d'Isil](http://www.fallesisil.cat/), Festivity declared of National Interest in June 2010 and Intangible Heritage of Humanity by UNESCO in 2015.
+      * *[Falles d'Isil](http://www.fallesisil.cat/),* Festivity declared of National Interest in June 2010 and Intangible Heritage of Humanity by UNESCO in 2015.
 
       * Setmana Santa (Holy Week), Viacrucis i la Passión, in Esterri d'Àneu.
 
-      * E[sbaiola't Festival](https://festivalesbaiolat.cat/), in Esterri d'Aneu, street performing arts I for all audiences.
+      * *E[sbaiola't Festival](https://festivalesbaiolat.cat/)*, in Esterri d'Aneu, street performing arts I for all audiences.
 
       * [Curtàneu](https://www.curtaneu.cat/), International Short Film Festival in les Valls d'Àneu, Pallars Sobirà. The festival is part of the Catalonia Film Festivals.
 
@@ -89,19 +89,19 @@ activities:
       A living and surprising culture that you can get to know thanks to the dissemination and protection of our historical heritage.
 
 
-      * [Ecomuseu de les Valls d'Àneu](http://www.ecomuseu.com/), in Esterri d'Àneu
+      * *[Ecomuseu de les Valls d'Àneu](http://www.ecomuseu.com/)*, in Esterri d'Àneu
 
       * La Casa de l'Ós dels Pirineus (Pyrenean Bear House), in Isil
 
-      * [The butterfly museum of Catalonia](https://www.papallones.net/) , in Ribera de Cardós
+      * *[The butterfly museum of Catalonia](https://www.papallones.net/)* , in Ribera de Cardós
 
       * House of the National Park, in Espot
 
-      * [Món Natura Pirineus](https://monnaturapirineus.com/), in les Planes de Son
+      * *[Món Natura Pirineus](https://monnaturapirineus.com/)*, in les Planes de Son
 
-      * [Espai Museístic del ferro, Casa Sintet](https://www.facebook.com/casasintet/), in Alins
+      * *[Espai Museístic del ferro, Casa Sintet](https://www.facebook.com/casasintet/)*, in Alins
 
-      * [Tavascan Interpretation Centre,](https://tavascan.wixsite.com/tavascan) The power of wáter
+      * *[Tavascan Interpretation Centre,](https://tavascan.wixsite.com/tavascan)* The power of wáter
 
 
       GASTRONOMY
