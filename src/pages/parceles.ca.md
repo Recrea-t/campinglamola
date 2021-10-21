@@ -49,7 +49,7 @@ pricingNotes: >-
   Impost sobre les estades en establiments turístics no inclòs : 0,66€ .Tarifa per persona (+16 anys) i dia, amb un màxim de 7 dies.
 
 
-  • Ocupació màxima: 6 persones.\
+  • Ocupació màxima de la parcel·la: 6 persones.\
 
   • El preu de la parcel·la inclou la unitat d'acampada (tenda, caravana, autocaravana...) i un vehicle, que s'aparca a la parcel·la.\
 
