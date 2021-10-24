@@ -12,9 +12,8 @@ summary: >-
   Recomendado a cualquier persona que ama la naturaleza, el deporte y el silencio.
 
   Siempre trabajando para mejorar. Nuestros clientes repiten y nos recomiendan.
-servicesSummary: Sempre treballant per millorar. Els nostres clients repeteixen i ens recomanen.
-environmentSummary: Recomanat a qualsevol persona que estima la natura, l'esport
-  i la tranquil·litat.
+servicesSummary: Siempre trabajando para mejorar. Nuestros clientes repiten y nos recomiendan
+environmentSummary: Recomendado a cualquier persona que ama la naturaleza, el deporte y el silencio
 title: Camping en Espot
 description: Cámping situado en la zona del Parque Nacional de Aiguestortes i
   Estany de Sant Maurici, el enclave ideal para relajarse y disfrutar de

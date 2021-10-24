@@ -11,9 +11,8 @@ summary: >-
   Recommended to anyone who loves nature, sport and silence.
 
   Our faithful and regular customers recommend us.
-servicesSummary: Sempre treballant per millorar. Els nostres clients repeteixen i ens recomanen.
-environmentSummary: Recomanat a qualsevol persona que estima la natura, l'esport
-  i la tranquil·litat.
+servicesSummary: Always working to improve. Our customers repeat and recommend us
+environmentSummary: Recommended to anyone who loves nature, sport and silence
 title: Campsite Campground in Espot Aiguestortes charme camping Leridan Pyrenees
 description: Càmping located at the entrance of the Aigüestortes and Lake Sant
   Maurici National Park offer spacious bungalows and green and shady camping

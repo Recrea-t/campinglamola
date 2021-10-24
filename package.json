@@ -19,6 +19,7 @@
     "@emotion/styled": "^11.3.0",
     "@fontsource/poppins": "^4.5.0",
     "@react-icons/all-files": "^4.1.0",
+    "assert": "^2.0.0",
     "axios": "^0.22.0",
     "browser-lang": "^0.1.0",
     "cross-env": "^7.0.3",

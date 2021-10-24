@@ -11,9 +11,8 @@ summary: >-
   Recomanat a qualsevol persona que estima la natura, l'esport li la tranquil·litat.
 
   Sempre treballant per millorar. Els nostres clients repeteixen i ens recomanen.
-servicesSummary: Sempre treballant per millorar. Els nostres clients repeteixen i ens recomanen.
-environmentSummary: Recomanat a qualsevol persona que estima la natura, l'esport
-  i la tranquil·litat.
+servicesSummary: Altijd werken om te verbeteren. Onze klanten komen terug en bevelen ons aan
+environmentSummary: Aanbevolen voor iedereen die van de natuur, de sport en de stilte houdt
 title: Camping en Espot, Catalaanse Pyreneeën
 description: In de nabijheid van het Nationaal Park van Aigüestortes en het Meer
   van San Mauricio, de uitgelezen plek om tot rust te komen en van een
