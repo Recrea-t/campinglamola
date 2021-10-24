@@ -15,21 +15,21 @@ summary: |-
 pricing:
   - title: Adult
     price: 6.4
-  - title: Nens de 5 a 11 anys
+  - title: Child (aged from 5 to 11)
     price: 5.8
-  - title: De pas (1 persona a peu)
+  - title: On Foot (1 person)
     price: 10
-  - title: Parcel.la Standard 60/70 m2 (màx. 6 persones i 1 vehicle)
+  - title: Standard Pitch 60/70 m2 120m2 (max. 6 persons and 1 vehicle)
     price: 14.5
-  - title: Parcel.la XL 120 m2 (màx. 6 persones i 1 vehicle)
+  - title: Pitch XL 120m2 (max. 6 persons and 1 vehicle)
     price: 21.5
-  - title: Cotxe extra
+  - title: "Extra car "
     price: 6.4
-  - title: Electricitat
+  - title: Power supply
     price: 6
-  - title: Mascota (gos)
+  - title: Pet (Dog)
     price: 3
-  - title: Visita (màxim 4 hores)
+  - title: Visit (max. 4 h.)
     price: 3
 pricingNotes: >-
   Preus per nit. IVA inclòs.
@@ -47,6 +47,38 @@ pricingNotes: >-
   • Es pot afegir màxim un segon cotxe a la parcel·la, però s'ha de registrar i abonar segons la tarifa vigent, i haurà d'estacionar-se dins dels límits de la parcel·la. En el cas que s'aparqui en una altra parcel·la s'haurà de pagar la tarifa de la parcel·la extra que estigui ocupant.
 regulation: >-
   * Ocupació màxima: 6 persones.
+
+  *   
+     
+
+    Prices per night. VAT included.
+
+    Tax on stays in tourist establishments not included: €0.66 Rate per day per person aged over 16, with a maximum of 7 days.
+
+    \- Maximum occupancy: 6 people.
+
+    \- The price of the pitch includes the camping unit (tent, caravan, motorhome...) and a vehicle, which is parked on the pitch.
+
+    \- Auxiliary tents (igloo type) can be added free of charge, if they are set  within the boundaries of the pitch.
+
+    \- A maximum of one second car can be added to the pitch, but it must be registered and paid according to  the current rate, and it must be parked within the boundaries of the pitch. If you park on another pitch you will have to pay the rate of the extra pitch you are occupying.
+
+     
+
+    <!--EndFragment-->
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
+
+  *
 
   * El preu de la parcel·la inclou la unitat d'acampada (tenda, caravana, auto-caravana...) i un vehicle, que s'aparca a la parcel·la.
 
