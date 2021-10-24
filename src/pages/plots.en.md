@@ -48,9 +48,6 @@ regulation: >-
   * It is MANDATORY for all travellers over 14 years of age to present their ID
   card or passport at the entrance to the campsite.
 
-
-
-
   * Check-in time: from 11:00 to 21:30 (consult other options).
 
   * Departure time: before 13:00. Later departure without prior notification to reception will incur the cost of an additional night.
