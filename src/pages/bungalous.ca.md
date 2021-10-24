@@ -64,10 +64,24 @@ images:
   - /images/bungalows12.jpg
   - /images/bungalows13.jpg
 pricingNotes: >-
-  Preus per nit. IVA inclòs.
+  Preus per nit. IVA inclòs. Impost sobre les estades en establiments turístics
+  no inclòs : 0,66€ per persona (+16 anys) i dia, amb un màxim de 7 dies.
 
 
-  Impost sobre les estades en establiments turístics no inclòs : 0,66€ .Tarifa per persona (+16 anys) i dia, amb un màxim de 7 dies.
+  **TEMPORADA ALTA**
+
+
+  * Del 15 de juliol al 27 d'agost, estada mínima de 7 nits.
+
+  * Festes de Nadal, Setmana Santa i Ponts, estada mínima de 4 nits.
+
+
+  **TEMPORADA BAIXA**
+
+
+  * De l'1 al 14 de juliol, estada mínima de 7 nits.
+
+  * Juny i setembre, estada mínima de 4 nits.
 conditions: >-
   #### Pagaments
 
