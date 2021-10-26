@@ -40,6 +40,22 @@ pricingNotes: >-
   Precios por noche. IVA incluido.
 
   Impuesto sobre las estancias en establecimientos turísticos no incluido: 0,66 €. Tarifa por persona (+16 años) y día, con un máximo de 7 días.
+
+
+  **TEMPORADA ALTA**
+
+
+  * Del 15 de julio al 27 de agosto, estancia mínima de 7 noches.
+
+  * Fiestas de Navidad, Semana Santa y Puentes, estancia mínima de 3 o 4 noches según festivos
+
+
+  **TEMPORADA BAJA**
+
+
+  * Del 1 al 14 de julio, estancia mínima de 7 noches.
+
+  * Junio ​​y septiembre, estancia mínima de 4 noches.
 regulation: >-
   * Es **OBLIGATORIA** la presentación de DNI o pasaporte de todos los ocupantes
   mayores de 14 años a la llegada al cámping y registrar todos los vehículos,
