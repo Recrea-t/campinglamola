@@ -79,9 +79,9 @@ pricingNotes: >-
 
   * De l'1 al 14 de juliol, estada mínima de 4 nits.
 
-  * Juny i setembre, estada mínima de 4 nits.
+  * Juny i setembre, estada mínima de 4 nits. 
 
-    ######   c
+    Consultar altres opcions
 conditions: >-
   #### Pagaments
 
