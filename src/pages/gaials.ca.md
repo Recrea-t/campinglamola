@@ -71,7 +71,7 @@ pricingNotes: >-
 
   * Del 15 de juliol al 27 d'agost, estada mínima de 6 nits.
 
-  * Festes de Nadal, Setmana Santa i Ponts, estada mínima de 4 nits.
+  * Festes de Nadal, Setmana Santa i Ponts, estada mínima de 3 o 4 nits segons festius.
 
 
   **TEMPORADA BAIXA**
