@@ -4,30 +4,29 @@ description: Campsite located at the entrance of the Aigüestortes and Lake Sant
   Maurici National Park offer spacious bungalows and green and shady camping
   pitches
 summary: >-
-  Un concepte diferent del tradicional bungalou, amb grans finestrals, bona llum
-  natural, molt d’ espai interior i una ampla terrassa amb porxo .
+  A different concept from the traditional bungalow, with large windows, good
+  natural light, lots of interior space and a large covered terrace.
 
 
-  Per a 4 i 6 persones. Els de 6 persones tenen un altell amb una habitació més.
+  * For 4 and 6 people. Those for 6 people have an attic with an extra bedroom.
 
+  * Double bedroom with a bed of 1,50m x 2,00m.
 
-  * Dormitori de matrimoni amb un llit de 1,50 x 2,00m.
+  * Bedroom with two single beds of 0,90m x 2,00m.
 
-  * Dormitori amb dos llits individuals de 0,90 x 2,00m.
+  * Duvets and duvet covers.
 
-  * Edredons nòrdics i fundes .
+  * Towels.
 
-  * Tovalloles.
+  * Dining room with 33' TV.
 
-  * Menjador amb TV de 33’.
+  * Kitchen equipped with ceramic hob, microwave, fridge, dishwasher, Nespresso coffee machine, toaster, juicer, blender, kitchenware and crockery.
 
-  * Cuina equipada amb vitroceràmica, microones, nevera, renta-vaixelles, cafetera *Nespreso*, torradora, espremedor, batedora, parament i vaixella.
+  * Full bathroom with shower and hairdryer.
 
-  * Bany complet amb dutxa.
+  * Heating.
 
-  * Calefacció .
-
-  * No s'hi admeten animals de companyia.
+  * Pets (dogs) are not allowed.
 pricing:
   - title: 4 pax
     description: null
