@@ -61,6 +61,24 @@ pricingNotes: >-
   Tax on stays in tourist establishments not included: €0.66 Rate per day per person aged over 16, with a maximum of 7 days.
 
   Sheets and towels not included. Optional rental 6 € per person and stay.
+
+
+  **HIGH SEASON**
+
+
+  * From July 15 to August 27, minimum stay of 6 nights.
+
+  * Christmas and Easter , minimum stay of 4 nights .
+
+  * Long Weekends, minimum stay of 3 or 4 nights depending on holidays.
+
+
+  **LOW SEASON** 
+
+
+  * From July 1 to July 14, minimum stay of 4 nights.
+
+  * June and September, minimum stay of 4 nights.
 conditions: >-
   
   **Payments** 
