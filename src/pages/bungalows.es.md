@@ -47,7 +47,9 @@ pricingNotes: >-
 
   * Del 15 de julio al 27 de agosto, estancia mínima de 7 noches.
 
-  * Fiestas de Navidad, Semana Santa y Puentes, estancia mínima de 3 o 4 noches según festivos
+  * Fiestas de Navidad y Semana Santa, estancia mínima de 4 noches. 
+
+  * Puentes, estancia mínima de 3 o 4 noches según festivos.
 
 
   **TEMPORADA BAJA**
