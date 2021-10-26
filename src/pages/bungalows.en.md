@@ -57,17 +57,17 @@ pricingNotes: >-
 
   * June and September, minimum stay of 4 nights.
 regulation: >-
-  * És **OBLIGATÒRIA** la presentació de DNI o passaport de tots els ocupants
-  majors de 14 anys a l’ arribada al Càmping i registrar tots els vehicles,
-  indicant la matrícula i el model.
+  * It is **MANDATORY** to present the ID card or passport of all occupants aged
+  over 14 on arrival at the campsite and to register all vehicles, indicating
+  the car registration number and model.
 
-  * La capacitat màxima indicada per a cada allotjament no podrà ser mai superada sense autorització.
+  * The maximum capacity indicated for each accommodation may never be exceeded without authorisation.
 
-  * S'admet un vehicle per allotjament de 4 persones i 2 vehicles per allotjament de 6 persones inclosos en el preu. Tot vehicle suplementari haurà de ser registrat i abonat segons tarifa en vigor.
+  * One vehicle is allowed for 4-person accommodation and 2 vehicles for 6-person accommodation are included in the price. Any additional vehicle must be registered and paid for in accordance with the current rates.
 
-  * Hora d'entrada: Entre les 16:00 i les 21:00 (consultar altres opcions).
+  * Check-in time: Between 16:00 and 21:00 (check other options).
 
-  * Hora de sortida: Abans de les 11:00
+  * Check-out time: Before 11:00 a.m.
 formName: bungalows-form
 title: Bungalows
 conditions: >-
