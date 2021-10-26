@@ -61,7 +61,25 @@ pricingNotes: >-
 
   Impuesto sobre las estancias en establecimientos turísticos no incluido: 0,66 €. Tarifa por persona (+16 años) y día, con un máximo de 7 días.
 
-  • Sábanas y toallas no incluidos. Alquiler opcional 6 € por persona y estancia.
+  • Sábanas y toallas no incluidos. Alquiler opcional 6,50€ por persona y estancia.
+
+
+  **TEMPORADA ALTA**
+
+
+  * Del 15 de julio al 27 de agosto, estancia mínima de 6 noches.
+
+  * Fiestas de Navidad y Semana Santa, estancia mínima de 4 noches.
+
+  * Puentes, estancia mínima de 3 o 4 noches según festivos.
+
+
+  **TEMPORADA BAJA**
+
+
+  * Del 1 al 14 de julio, estancia mínima de 4 noches.
+
+  * Junio ​​y septiembre, estancia mínima de 4 noches.
 conditions: >-
   #### Pagos
 
