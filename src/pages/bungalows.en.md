@@ -37,10 +37,25 @@ pricing:
     title: 6 pax
     lowSeason: 130
 pricingNotes: >-
-  Preus per nit. IVA inclòs.
+  Prices per night. VAT included. Tax on stays in tourist establishments not
+  included: €0.66 Rate per day per person aged over 16, with a maximum of 7
+  days.
 
 
-  Impost sobre les estades en establiments turístics no inclòs : 0,60€ .Tarifa per persona (+ 16 anys ) i dia, amb un màxim de 7 dies.
+  **HIGH SEASON**
+
+
+  * From July 15 to August 27, minimum stay of 7 nights.
+
+  * Christmas and Easter , minimum stay of 4 nights .
+
+  * Long Weekends, minimum stay of 3 or 4 nights depending on holidays.
+
+   **LOW SEASON** 
+
+  * From July 1 to July 14, minimum stay of 7 nights.
+
+  * June and September, minimum stay of 4 nights.
 regulation: >-
   * És **OBLIGATÒRIA** la presentació de DNI o passaport de tots els ocupants
   majors de 14 anys a l’ arribada al Càmping i registrar tots els vehicles,
