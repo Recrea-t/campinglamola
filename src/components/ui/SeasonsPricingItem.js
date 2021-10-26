@@ -1,6 +1,6 @@
 import React from "react"
 
-import { Heading, Table, Tbody, Tr, Td } from "@chakra-ui/react"
+import { Heading, Table, Tbody, Tr, Td, Box } from "@chakra-ui/react"
 
 import useTranslations from "../useTranslations"
 
@@ -67,7 +67,9 @@ const SeasonsPricingItem = ({ title, details, notes, size = "md" }) => {
         </Tbody>
       </Table>
 
-      <ReactMarkdown components={ChakraUIRenderer()} children={notes} />
+      <Box fontSize="xs">
+        <ReactMarkdown components={ChakraUIRenderer()} children={notes} />
+      </Box>
     </>
   )
 }
