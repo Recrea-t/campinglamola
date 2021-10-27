@@ -62,9 +62,25 @@ pricingNotes: >-
   Taxe de séjour pas comprise: 0,66 € par personne (+16 ans) et par jour, avec un maximum de 7 jours.*
 
 
-  Draps et serviettes ne sont pas inclus.
+  Draps et serviettes ne sont pas inclus. Location facultative: 6 € par personne et par séjour.
 
-  Location facultative: 6 € par personne et par séjour.
+
+  HAUTE SAISON
+
+
+  * Du 15 juillet au 27 août, séjour minimum de 6 nuits.
+
+  * Vacances de Noël et de Pâques, séjour minimum de 4 nuits.
+
+  * Longs week-ends, séjour minimum de 3 ou 4 nuits selon les jours fériés
+
+
+  BASSE SAISON
+
+
+  * Du 1er au 14 juillet, séjour minimum de 7 nuits.
+
+  * Juin et septembre, séjour minimum de 4 nuits.
 conditions: >-
   #### Paiements
 
