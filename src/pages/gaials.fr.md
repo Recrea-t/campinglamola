@@ -57,12 +57,9 @@ description: Camping situé dans l'environnement naturel du Parc National
   des paysages favoris  vous offre des emplacements spacieux, herbeux et ombreux
   , des  petits appartements familiaux confortables et spacieux et de  bungalows
 pricingNotes: >-
-  Animaux pas admis  
+  *Prix par nuit. TVA incluse.
 
-
-  Prix par nuit. TVA incluse.
-
-  Taxe de séjour pas comprise: 0,66 € par personne (+16 ans) et par jour, avec un maximum de 7 jours.
+  Taxe de séjour pas comprise: 0,66 € par personne (+16 ans) et par jour, avec un maximum de 7 jours.*
 
 
   Draps et serviettes ne sont pas inclus.
