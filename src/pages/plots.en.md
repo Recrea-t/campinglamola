@@ -14,15 +14,15 @@ summary: |-
   * Dogs are allowed, except the ones considered as potentially dangerous.
 pricing:
   - title: Adult
-    price: 6.4
+    price: 6
   - title: Child (aged from 5 to 11)
-    price: 5.8
+    price: 5
   - title: On Foot (1 person)
     price: 10
   - title: Standard Pitch 60/70 m2 120m2 (max. 6 persons and 1 vehicle)
-    price: 14.5
+    price: 14
   - title: Pitch XL 120m2 (max. 6 persons and 1 vehicle)
-    price: 21.5
+    price: 24
   - title: "Extra car "
     price: 6.4
   - title: Power supply
