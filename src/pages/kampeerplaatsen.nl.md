@@ -20,23 +20,23 @@ summary: >-
 
   * S'admeten animals domèstics, a excepció dels gossos considerats com potencialment perillosos·
 pricing:
-  - title: Adult
-    price: 6.4
-  - title: Nens de 5 a 11 anys
-    price: 5.8
-  - title: De pas (1 persona a peu)
+  - title: Volwassene
+    price: 6.55
+  - title: Kind (van 5 tot 11 jaar)
+    price: 5
+  - title: Te voet (1 volwassene)
     price: 10
-  - title: Parcel.la Standard 60/70 m2 (màx. 6 persones i 1 vehicle)
-    price: 14.5
-  - title: Parcel.la XL 120 m2 (màx. 6 persones i 1 vehicle)
-    price: 21.5
-  - title: Cotxe extra
+  - title: Standaard Standplaats 60/70m2 (max. 6 volwassenen)
+    price: 15.7
+  - title: XL Standplaats 120 m2 (max. 6 volwassenen)
+    price: 24
+  - title: Extra auto
     price: 6.4
-  - title: Electricitat
+  - title: "Aansluiting electriciteit "
     price: 6
-  - title: Mascota (gos)
+  - title: "Huisdier "
     price: 3
-  - title: Visita (màxim 4 hores)
+  - title: "Gast (max 4 uur) "
     price: 3
 pricingNotes: >-
   Preus per nit. IVA inclòs.
