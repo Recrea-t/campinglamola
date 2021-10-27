@@ -36,9 +36,9 @@ pricing:
     title: 6 pax
     lowSeason: 130
 pricingNotes: >-
-  Prices per night. VAT included. Tax on stays in tourist establishments not
+  *Prices per night. VAT included. Tax on stays in tourist establishments not
   included: €0.66 Rate per day per person aged over 16, with a maximum of 7
-  days.
+  days.*
 
 
   **HIGH SEASON**
@@ -50,8 +50,7 @@ pricingNotes: >-
 
   * Long Weekends, minimum stay of 3 or 4 nights depending on holidays.
 
-   **LOW SEASON** 
-
+    **LOW SEASON** 
   * From July 1 to July 14, minimum stay of 7 nights.
 
   * June and September, minimum stay of 4 nights.
