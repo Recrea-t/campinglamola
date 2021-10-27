@@ -40,11 +40,6 @@ pricingNotes: >-
   *Prix par nuit. TVA incluse.
 
   Taxe de séjour pas comprise: 0,66 € par personne (+16 ans) et par jour, avec un maximum de 7 jours.*
-
-
-  Draps et serviettes ne sont pas inclus.
-
-  Location facultative: 6 € par personne et par séjour.
 regulation: >-
   * Il est **OBLIGATOIRE** de présenter la Carte d’identité ou le passeport de
   tous les voyageurs de plus de 14 ans à l'entrée du camping et d'enregistrer
