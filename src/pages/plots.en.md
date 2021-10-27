@@ -19,7 +19,7 @@ pricing:
     price: 5
   - title: On Foot (1 person)
     price: 10
-  - title: Standard Pitch 60/70 m2 120m2 (max. 6 persons and 1 vehicle)
+  - title: Standard Pitch 60/70 m2 (max. 6 persons and 1 vehicle)
     price: 14
   - title: Pitch XL 120m2 (max. 6 persons and 1 vehicle)
     price: 24
@@ -32,9 +32,9 @@ pricing:
   - title: Visit (max. 4 h.)
     price: 3
 pricingNotes: >-
-  Prices per night. VAT included.
+  *Prices per night. VAT included.
 
-  Tax on stays in tourist establishments not included: €0.66 Rate per day per person aged over 16, with a maximum of 7 days.
+  Tax on stays in tourist establishments not included: €0.66 Rate per day per person aged over 16, with a maximum of 7 days*.
 
 
   * Maximum occupancy per pitch: 6 people.
