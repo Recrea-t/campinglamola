@@ -40,6 +40,24 @@ pricingNotes: >-
   *Prix par nuit. TVA incluse.
 
   Taxe de séjour pas comprise: 0,66 € par personne (+16 ans) et par jour, avec un maximum de 7 jours.*
+
+
+  HAUTE SAISON
+
+
+  * Du 15 juillet au 27 août, séjour minimum de 7 nuits.
+
+  * Vacances de Noël et de Pâques, séjour minimum de 4 nuits.
+
+  * Longs week-ends, séjour minimum de 3 ou 4 nuits selon les jours fériés
+
+
+  BASSE SAISON
+
+
+  *  Du 1er au 14 juillet, séjour minimum de 7 nuits.
+
+  *  Juin et septembre, séjour minimum de 4 nuits.
 regulation: >-
   * Il est **OBLIGATOIRE** de présenter la Carte d’identité ou le passeport de
   tous les voyageurs de plus de 14 ans à l'entrée du camping et d'enregistrer
