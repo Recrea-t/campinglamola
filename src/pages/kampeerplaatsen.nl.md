@@ -39,10 +39,9 @@ pricing:
   - title: "Gast (max 4 uur) "
     price: 3
 pricingNotes: >-
-  Preus per nit. IVA inclòs.
+  *Prijzen/nacht incl. BTW*\
 
-
-  Impost sobre les estades en establiments turístics no inclòs : 0,60€ .Tarifa per persona (+ 16 anys ) i dia, amb un màxim de 7 dies.
+  *Verblijfstaks niet inbegrepen: 0,66€ per persoon (+16 jaar) en per dag, met een maximum van 7 dagen.*
 
 
   • Ocupació màxima: 6 persones.\
@@ -53,15 +52,8 @@ pricingNotes: >-
 
   • Es pot afegir màxim un segon cotxe a la parcel·la, però s'ha de registrar i abonar segons la tarifa vigent, i haurà d'estacionar-se dins dels límits de la parcel·la. En el cas que s'aparqui en una altra parcel·la s'haurà de pagar la tarifa de la parcel·la extra que estigui ocupant.
 regulation: >-
-  * Ocupació màxima: 6 persones.
-
-  * El preu de la parcel·la inclou la unitat d'acampada (tenda, caravana, auto-caravana...) i un vehicle, que s'aparca a la parcel·la.
-
-  * Es poden afegir tendes auxiliars (tipus iglú) sense cap cost, a condició que estiguin dins dels límits de la parcel·la.
-
-  * Es pot afegir màxim un segon cotxe a la parcel·la, però s'ha de registrar i abonar segons la tarifa vigent, i haurà d'estacionar-se dins dels límits de la parcel·la. En el cas que s'aparqui en una altra parcel·la s'haurà de pagar la tarifa de la parcel·la extra que estigui ocupant.
-
-  * És **OBLIGATÒRIA** la presentació de DNI o passaport de tots els viatgers majors de 14 anys a l'entrada al Càmping.
+  * És **OBLIGATÒRIA** la presentació de DNI o passaport de tots els viatgers
+  majors de 14 anys a l'entrada al Càmping.
 
   * Hora d'entrada: de 11:00 a 21:30 (consultar altres opcions).
 
