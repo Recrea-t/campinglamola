@@ -56,9 +56,9 @@ description: Campsite located at the entrance of the Aigüestortes and Lake Sant
   Maurici National Park offer spacious bungalows and green and shady camping
   pitches
 pricingNotes: >-
-  Prices per night. VAT included.
+  *Prices per night. VAT included.
 
-  Tax on stays in tourist establishments not included: €0.66 Rate per day per person aged over 16, with a maximum of 7 days.
+  Tax on stays in tourist establishments not included: €0.66 Rate per day per person aged over 16, with a maximum of 7 days.*
 
   Sheets and towels not included. Optional rental 6 € per person and stay.
 
