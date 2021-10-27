@@ -32,9 +32,9 @@ pricing:
   - title: Visite (max 4 h.)
     price: 3
 pricingNotes: >-
-  Prix par nuit. TVA incluse.
+  *Prix par nuit. TVA incluse.
 
-  Taxe de séjour pas comprise: 0,66 € par personne (+16 ans) et par jour, avec un maximum de 7 jours.
+  Taxe de séjour pas comprise: 0,66 € par personne (+16 ans) et par jour, avec un maximum de 7 jours.*
 
 
   * Capacité maximale d'un emplacement: 6 personnes.
