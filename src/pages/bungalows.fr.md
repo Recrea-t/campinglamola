@@ -37,12 +37,9 @@ pricing:
     title: 6 pax
     lowSeason: 130
 pricingNotes: >-
-  Animaux pas admis  
+  *Prix par nuit. TVA incluse.
 
-
-  Prix par nuit. TVA incluse.
-
-  Taxe de séjour pas comprise: 0,66 € par personne (+16 ans) et par jour, avec un maximum de 7 jours.
+  Taxe de séjour pas comprise: 0,66 € par personne (+16 ans) et par jour, avec un maximum de 7 jours.*
 
 
   Draps et serviettes ne sont pas inclus.
