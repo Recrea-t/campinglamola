@@ -65,7 +65,7 @@ pricingNotes: >-
   Draps et serviettes ne sont pas inclus. Location facultative: 6 € par personne et par séjour.
 
 
-  HAUTE SAISON
+  **HAUTE SAISON**
 
 
   * Du 15 juillet au 27 août, séjour minimum de 6 nuits.
@@ -75,7 +75,7 @@ pricingNotes: >-
   * Longs week-ends, séjour minimum de 3 ou 4 nuits selon les jours fériés
 
 
-  BASSE SAISON
+  **BASSE SAISON**
 
 
   * Du 1er au 14 juillet, séjour minimum de 7 nuits.
