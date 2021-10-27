@@ -43,10 +43,10 @@ pricing:
   - title: Visita (màxim 4 hores)
     price: 3
 pricingNotes: >-
-  Preus per nit. IVA inclòs.
-
-
-  Impost sobre les estades en establiments turístics no inclòs : 0,66€ .Tarifa per persona (+16 anys) i dia, amb un màxim de 7 dies.
+  *Preus per nit. IVA
+  inclòs.                                                                                                                                         Impost
+  sobre les estades en establiments turístics no inclòs : 0,66€ .Tarifa per
+  persona (+16 anys) i dia, amb un màxim de 7 dies.*
 
 
   • Ocupació màxima de la parcel·la: 6 persones.\
