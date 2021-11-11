@@ -91,7 +91,7 @@ conditions: >-
 
   * Il n'y aura aucun remboursement si le jour d'arrivée est retardé ou si le jour du départ est anticipé.
 
-  * Paiements avec carte de paiement bancaire seulement possible pendant les mois de juillet et août. Il y a aussi la possibilité de faire un virement bancaire.
+  * Nous acceptons liquide. Paiements avec carte de paiement bancaire seulement possible pendant les mois de juillet et août. Il y a aussi la possibilité de faire un virement bancaire.
 
 
   **Annulations**
