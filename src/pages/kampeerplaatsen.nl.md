@@ -81,13 +81,12 @@ regulation: >-
 
   * De eigenaar van het huisdier zal verantwoordelijk zijn voor de schade die het kan veroorzaken zowel aan de andere kampeerders en hun goederen als aan de installaties van de camping.
 conditions: >-
-  Si fan la reserva d'una parcel·la directament amb nosaltres mitjançant el web
-  o per telèfon, no cal fer cap pagament avançat. Només necessitem saber el dia
-  d'arribada, el nombre de persones, parcel·les i durada aproximada de l'estada.
+  Als U rechtstreeks met ons via de website of per telefoon een kampeerplaats
+  reserveert dan moet er niks op voorhand betaald worden. Wij hoeven dan enkel
+  maar de dag van aankomst, het aantal personen, percelen en de geschatte duur
+  van uw verblijf te kennen.\
 
+  Wij reserveren geen enkele specifieke kampeerplaats. De reservatie geeft U enkel de garantie dat U een kampeerplaats zal hebben ingeval de camping volzet zou zijn.\
 
-  No reservem cap parcel·la en concret. La reserva només li assegura tenir lloc en el cas que el càmping estigués complet.
-
-
-  Tots els clients poden escollir la parcel·la del tipus reservat que més els hi agradi entre totes les disponibles, únicament en el moment de la seva arribada.
+  Alle klanten kunnen enkel op het ogenblik dat ze aankomen het type perceel dat ze gereserveerd hebben dat hen het meest bevalt onder de beschikbare plaatsen uitkiezen.
 ---
