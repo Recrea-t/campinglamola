@@ -5,8 +5,8 @@ description: Camping situé dans l'environnement naturel du Parc National
   des paysages favoris  vous offre des emplacements spacieux, herbeux et ombreux
   , des  petits appartements familiaux confortables et spacieux et de  bungalows
 summary: >-
-  Un concept qui diffère du bungalow traditionnel, avec beaucoup d’espace
-  intérieur et une grande terrasse couverte.
+  Un concept qui diffère du bungalow traditionnel, avec de grandes fenêtres,
+  avec beaucoup d’espace intérieur et une grande terrasse avec porche.
 
   Pour 4 et 6 personnes. Ceux de 6 personnes ont une chambre supplémentaire dans le granier.
 
@@ -23,7 +23,7 @@ summary: >-
 
   * Cuisine équippée de: plaque de cuisson céramique, micro-onde, réfrigérateur, lave-vaisselle, cafétière électrique Nespreso, grille-pain, centrifugeuse, mixer, équipements ménagers, vaiselle
 
-  * Bain avec douche et sèche-cheveux
+  * Bain avec douche et avec sèche-cheveux
 
   * Chauffage
 
@@ -76,7 +76,7 @@ conditions: >-
   #### Paiements
 
 
-  * Les réservations ne sont effectives qu´à partir de la réception d´un acompte équivalent à 40% de la somme total du séjour. Les paiements seront effectués par virement sur le numéro du compte bancaire qui vous sera communiqué au moment de la réservation officielle.
+  * Les réservations ne sont effectives qu´à partir de la réception d´un acompte équivalent à 40% de la somme total du séjour. Les montants seront payés dans un délai de 3 jours à partir de la demande de réservation  et   les paiements seront effectués par virement sur le numéro du compte bancaire qui vous sera communiqué au moment de la réservation officielle.
 
   * Le paiement intégral du séjour doit être effectué à l´arrivée.
 
