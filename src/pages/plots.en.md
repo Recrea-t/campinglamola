@@ -7,10 +7,10 @@ description: Campsite located at the entrance of the Aigüestortes and Lake Sant
 summary: |-
   * From 70 to 120 m2
   * All with shade and grassy soil.
-  * Drinking water fountains near each plot.
+  * Waterpoints with drinking water near each plot.
   * Possibility to choose the plot you like the most.
   * Separate area for groups.
-  * Option of plot for the whole summer (consult us).
+  * Option of a plot for the whole summer (consult us).
   * Dogs are allowed, except the ones considered as potentially dangerous.
 pricing:
   - title: Adult
@@ -39,16 +39,16 @@ pricingNotes: >-
 
   * Maximum occupancy per pitch: 6 people.
 
-  * The price of the pitch includes the camping unit (tent, caravan, motorhome...) and a vehicle, which is parked on the pitch.
+  * The price of the plot includes the camping unit (tent, caravan, motorhome...) and a vehicle, which is parked on the pitch.
 
-  * Auxiliary tents (igloo type) can be added free of charge, if they are set  within the boundaries of the pitch.
+  * Additional tents (igloo type) can be added free of charge, if they are set  within the boundaries of the plot.
 
-  * A maximum of one second car can be added to the pitch, but it must be registered and paid according to  the current rate, and it must be parked within the boundaries of the pitch. If you park on another pitch you will have to pay the rate of the extra pitch you are occupying.
+  * A maximum of one second car can be put on the plot, but it must be registered and paid for according to  the current rate, and it must be parked within the boundaries of the plot. If you park on another plot you will have to pay the rate of the extra plot you are occupying.
 regulation: >-
   * It is MANDATORY for all travellers over 14 years of age to present their ID
-  card or passport at the entrance to the campsite.
+  card or passport at the entrance of the campsite.
 
-  * Check-in time: from 11:00 to 21:30 (consult other options).
+  * Check-in time: from 11:00 to 21:30 (see other options).
 
   * Departure time: before 13:00. Later departure without prior notification to reception will incur the cost of an additional night.
 
@@ -70,15 +70,15 @@ regulation: >-
 
   * Dogs are not allowed inside the buildings, accommodation, children's playground and swimming pool.
 
-  * Dogs must be taken to relieve themselves outside the campsite. In any case, the owners must collect the excrements of their animals and deposit them in a bag in the waste container.
+  * Pets must answer nature’s call outside the camping perimeter. In any case the owners are to collect the droppings of their animals and deposit them in a bag in the waste container. 
 
   * The owner of the animal will be responsible for any damage it may cause to the rest of the campers and their property as well as to the campsite facilities.
 conditions: >-
-  If you book a pitch directly with us via the website or by telephone, no
-  advance payment is required. We only need to know the day of arrival, the
-  number of people, plots and the approximate length of stay.
+  If you book a plot directly with us via the website or by telephone, no
+  advance payment is required. We only need to know your day of arrival, the
+  number of people and plots and the approximate length of your stay.
 
-  We do not reserve any specific pitches. The reservation only assures you of a place in case the campsite is full.
+  We do not reserve any specific plots. The reservation only assures you of a place in case the campsite is full.
 
-  All customers can choose the pitch of the booked type they like best from all available pitches only at the time of their arrival.
+  All customers can choose the plot of the booked type they like best from all available plots only at the time of their arrival.
 ---
