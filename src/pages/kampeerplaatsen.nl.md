@@ -22,64 +22,64 @@ summary: >-
 pricing:
   - title: Volwassene
     price: 6.55
-  - title: Kind (van 5 tot 11 jaar)
-    price: 5
-  - title: Te voet (1 volwassene)
+  - title: "Kinderen van 5 tot 11 "
+    price: 6
+  - title: "Transit (1 pers. te voet)\t"
     price: 10
-  - title: Standaard Standplaats 60/70m2 (max. 6 volwassenen)
+  - title: Standaard standplaats 60/70 m2 (max. 6 pers.+ 1 voertuig)
     price: 15.7
-  - title: XL Standplaats 120 m2 (max. 6 volwassenen)
+  - title: XL standplaats 120 m2  (max. 6 pers. + 1 voertuig)
     price: 24
   - title: Extra auto
     price: 6.4
-  - title: "Aansluiting electriciteit "
-    price: 6
+  - title: Elektriciteit
+    price: 5
   - title: "Huisdier "
     price: 3
   - title: "Gast (max 4 uur) "
     price: 3
 pricingNotes: >-
-  *Prijzen/nacht incl. BTW*\
+  *Prijzen per nacht incl. BTW.
 
-  *Verblijfstaks niet inbegrepen: 0,66€ per persoon (+16 jaar) en per dag, met een maximum van 7 dagen.*
+  Verblijfstaks niet inbegrepen: 0,66 €. Tarief per pers. (+16 j) en per dag met een maximum van 7 dagen.*
 
 
-  • Ocupació màxima: 6 persones.\
+  • Maximum capaciteit : 6 personen.\
 
-  • El preu de la parcel·la inclou la unitat d'acampada (tenda, caravana, autocaravana...) i un vehicle, que s'aparca a la parcel·la.\
+  • De prijs van het perceel omvat de kampeereenheid (tent, caravan, camper …) en één voertuig, dat op het perceel geparkeerd staat.\
 
-  • Es poden afegir tendes auxiliars (tipus iglú) sense cap cost, a condició que estiguin dins dels límits de la parcel·la.\
+  • Er kunnen bijkomende tenten (type igloo) gratis bijgezet worden op voorwaarde dat ze binnen de omtrek van het perceel staan.\
 
-  • Es pot afegir màxim un segon cotxe a la parcel·la, però s'ha de registrar i abonar segons la tarifa vigent, i haurà d'estacionar-se dins dels límits de la parcel·la. En el cas que s'aparqui en una altra parcel·la s'haurà de pagar la tarifa de la parcel·la extra que estigui ocupant.
+  • Er kan maximaal een tweede voertuig op het perceel staan maar dit moet geregistreerd en betaald worden volgens het van kracht zijnde tarief en moet binnen de omtrek van het perceel gestationeerd worden. Indien het op een ander perceel gestationeerd staat zal het tarief van het bezette extra-perceel moeten betaald worden.
 regulation: >-
-  * És **OBLIGATÒRIA** la presentació de DNI o passaport de tots els viatgers
-  majors de 14 anys a l'entrada al Càmping.
+  * **VERPLICHT** vertoon aan de ingang van de camping van identiteitskaart of
+  paspoort van alle reizigers ouder dan 14 jaar.
 
-  * Hora d'entrada: de 11:00 a 21:30 (consultar altres opcions).
+  * Aankomsttijd: van 11:00 tot 21:30 u (raadpleeg andere opties).
 
-  * Hora de sortida: abans de les 13:00. La sortida posterior sense prèvia comunicació a recepció, comporta el cost d'una nit addicional.
+  * Vertrektijd: vóór 13:00 u. Een vertrek na 13:00 u zonder voorafgaande mededeling aan het onthaal brengt de betaling van een bijkomende nacht met zich mee.
 
-  * Horari de silenci: de 23:00 a 7:00. Prohibida la circulació de vehicles: de 23:00 a 7:00.
+  * Gelieve uw voertuig niet te verplaatsen binnen de camping indien niet strikt noodzakelijk.
 
-  * No desplaçar-se per dins del càmping amb el vehicle si no és estrictament necessari.
-
-
-  #### **Animals de companyia**
+  * Stille uren: van 23:00 tot 7:00 u. Verkeer van voertuigen op de camping verboden van 23:00 tot 7:00 u.
 
 
-  * Si ve amb animals, comuniqui-ho a recepció. Tots els gossos hauran d'estar registrats en el moment del check-in, i la seva estada resta subjecta al pagament de la tarifa corresponent.
+  **Huisdieren** 
 
-  * Dins del càmping, els gossos han d'estar lligats i controlats en tot moment i mai podran ocupar o passar per una parcel·la que no correspongui al seu amo.
 
-  * S'ha d'evitar que la mascota emeti lladrucs injustificats a qualsevol hora i menys en les hores de descans.
+  * Verwittig de receptie als er huisdieren meereizen. Alle honden zullen moeten geregistreerd worden bij de check-in en hun verblijf is onderworpen aan de betaling van het overeenstemmende tarief.
 
-  * El client es compromet a què el seu gos estigui vacunat i compleixi amb les condicions fitosanitàries establertes per llei.
+  * Binnen de camping moeten honden aan de leiband lopen en op elk ogenblik gecontroleerd worden; ze mogen nooit op een ander perceel dan dat van hun baasjes gaan liggen of een ander perceel doorkruisen.
 
-  * Queda prohibit l'accés del gos a l’ interior dels edificis, allotjaments i piscina.
+  *  Er moet vermeden worden dat huisdieren op eender welk ogenblik te veel ongeoorloofd lawaai maken en nog minder in de stille uren.
 
-  * S'han de portar a fer les seves necessitats fora del recinte del càmping. En tot cas, els propietaris hauran de recollir els excrements dels seus animals i dipositar-los dins d'una bossa al contenidor del rebuig.
+  * De klant verplicht zich ertoe dat z’n hond gevaccineerd is en dat hij de door de wet vastgelegde fytosanitaire voorwaarden in acht neemt.
 
-  * El propietari de l'animal serà responsable dels danys que aquest pugui ocasionar tant a la resta dels campistes i als seus béns com a les instal·lacions del Càmping.
+  * Huisdieren zijn niet toegelaten binnen in de gebouwen, logies en zwembad.
+
+  * Huisdieren moeten hun behoefte doen buiten de omsloten ruimte van de camping. De eigenaars moeten in ieder geval de uitwerpselen van hun dieren oprapen en ze in een zak in de restafval-container deponeren.
+
+  * De eigenaar van het huisdier zal verantwoordelijk zijn voor de schade die het kan veroorzaken zowel aan de andere kampeerders en hun goederen als aan de installaties van de camping.
 conditions: >-
   Si fan la reserva d'una parcel·la directament amb nosaltres mitjançant el web
   o per telèfon, no cal fer cap pagament avançat. Només necessitem saber el dia
