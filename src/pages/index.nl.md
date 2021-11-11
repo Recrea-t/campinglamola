@@ -1,16 +1,16 @@
 ---
 templateKey: index-page
 summary: >-
-  En l'immillorable entorn natural del Parc Nacional d'Aigüestortes i Estany de
-  Sant Maurici, al nord del Pallars Sobirà, l'enclavament ideal per relaxar-se i
-  gaudir de privilegiats paisatges, el Càmping la Mola, un càmping petit i
-  familiar, els ofereix àmplies parcel·les amb gespa i ombra, espaiosos i
-  confortables bungalous i acollidors gaials (petits allotjaments familiars), un
-  lloc perfecte per a gaudir de les  vacances al Pirineu de Lleida.
+  In de onovertrefbare natuurlijke omgeving van het Nationaal Park van
+  AigüesTortes en het Meer van San Mauricio, ten noorden van de Pallars Sobirà,
+  biedt de kleine familie-camping la Mola U ruime kampeerplaatsen met veel gras
+  en schaduw aan, ruime en comfortabele appartementen in bungalowstijl en
+  gezellige kleine familielogies (chalets), een ideale plek om te genieten van
+  een vakantie in de Leridaanse Pyreneeën. 
 
-  Recomanat a qualsevol persona que estima la natura, l'esport li la tranquil·litat.
+  Aanbevolen aan iedereen die van de natuur, de sport en de stilte houdt.
 
-  Sempre treballant per millorar. Els nostres clients repeteixen i ens recomanen.
+  Altijd strevend naar verbeteringen, aangeprezen door onze vaste en trouwe klanten
 servicesSummary: Altijd werken om te verbeteren. Onze klanten komen terug en bevelen ons aan
 environmentSummary: Aanbevolen voor iedereen die van de natuur, de sport en de stilte houdt
 title: Camping en Espot, Catalaanse Pyreneeën
