@@ -59,7 +59,7 @@ activities:
       ROMANESQUE
 
 
-      ThePallars Sobirà, and especially the Àneu valleys, is a land of churches, hermitages and monasteries, with tall bell towers crowned with slate slabs that stand out above the villages and small hermitages hidden among the hills and mountains.
+      El Pallars Sobirà, and especially the Àneu valleys, is a region of churches, secluded chapels and monasteries, with tall bell towers crowned with slate slabs that stand out above the villages and small hermitages hidden among the hills and mountains.
 
 
       * Santa Maria d'Àneu, in Escalarre
@@ -76,7 +76,7 @@ activities:
 
       * *[Falles d'Isil](http://www.fallesisil.cat/),* Festivity declared of National Interest in June 2010 and Intangible Heritage of Humanity by UNESCO in 2015.
 
-      * Setmana Santa (Holy Week), Viacrucis i la Passión, in Esterri d'Àneu.
+      * Setmana Santa (Holy Week), the Stations of the Cross and the Passion of Christ  in Esterri d'Àneu.
 
       * *E[sbaiola't Festival](https://festivalesbaiolat.cat/)*, in Esterri d'Aneu, street performing arts I for all audiences.
 
@@ -93,7 +93,7 @@ activities:
 
       * La Casa de l'Ós dels Pirineus (Pyrenean Bear House), in Isil
 
-      * *[The butterfly museum of Catalonia](https://www.papallones.net/)* , in Ribera de Cardós
+      * *[Butterfly museum of Catalonia](https://www.papallones.net/)* , in Ribera de Cardós
 
       * House of the National Park, in Espot
 
@@ -107,8 +107,8 @@ activities:
       GASTRONOMY
 
 
-      The best way to savour Pallars Sobirà is to try the products produced in the area. Be sure to visit our local producers, who will offer you their best local products, and explain how they make them: cheeses, yoghurts, sausages...
+      The best way to savour Pallars Sobirà is to try the local products that are manufactured in the area. Be sure to visit our local producers, who will offer you their best local products, and explain how they make them: cheeses, yoghurts, sausages...
 
 
-       In the restaurants of the region you can taste all the flavour of the Pyrenees on the table: mushrooms, game meat, grilled meats, vianda or escudella (catalan soup with pasta, rice or both), girella (lam sausages), trinxat del Pallars...
+       In the restaurants of the region you can taste all the flavours of the Pyrenees on the table: mushrooms, game meat, grilled meats, vianda or escudella (catalan soup with pasta, rice or both), girella (lam sausages), trinxat del Pallars...
 ---
