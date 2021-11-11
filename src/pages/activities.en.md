@@ -10,16 +10,16 @@ activities:
       * **Hiking**
 
 
-      Both inside the Aigüestortes i Estany de Sant Maurici National Park and in the surrounding area, you will always find a trail to suit you: from short family walks to long mountain hikes.
+      Both inside the Aigüestortes and Lake Sant Maurici National Park and in the surrounding area, you will always find a trail that suits you: from short family walks to long mountain hikes.
 
 
-      Consult[*the Guide Map* ](http://parcsnaturals.gencat.cat/web/.content/Xarxa-de-parcs/aiguestortes/Inici/PDF/PNASM_planol_guia_LRv4_ENG_FRE.pdf)and the *[Brochure of recommended itineraries](http://parcsnaturals.gencat.cat/web/.content/Xarxa-de-parcs/aiguestortes/gaudeix-del-parc/guia-de-visita/Propostes-itineraris-per-dies/Pdf/itineraris_valls_aneu_en11.pdf)*.
+      Consult [*the Guide Map* ](http://parcsnaturals.gencat.cat/web/.content/Xarxa-de-parcs/aiguestortes/Inici/PDF/PNASM_planol_guia_LRv4_ENG_FRE.pdf)and the *[Brochure of recommended itineraries](http://parcsnaturals.gencat.cat/web/.content/Xarxa-de-parcs/aiguestortes/gaudeix-del-parc/guia-de-visita/Propostes-itineraris-per-dies/Pdf/itineraris_valls_aneu_en11.pdf)*.
 
 
       * **4x4 Excursions** 
 
 
-      4x4 excursions in the heart of the Aigüestortes and Sant Maurici Lake National Park. *[More information about](https://www.taxisespot.com/home)*
+      4x4 excursions in the heart of the Aigüestortes and Lake Sant Maurici National Park. *[More information ](https://www.taxisespot.com/home)*
   - title: Adventure
     description: >-
       For those who want to feel a strong adrenaline rush and connect with
