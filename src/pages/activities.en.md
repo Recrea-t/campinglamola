@@ -25,9 +25,9 @@ activities:
       For those who want to feel a strong adrenaline rush and connect with
       nature at the same time.
 
-      In the area there is a wide range of specialised companies that offer adventure sports in a safe way, providing the necessary equipment and a qualified guide or instructor.
+      In the area there is a wide range of specialised companies that offer adventure sports in all safety by providing the necessary equipment and a qualified guide or instructor.
 
-      Important exclusive discounts for our clients in many of the adventure activities. We will inform you at reception.
+      Important exclusive discounts for our clients in many of the adventure activities. We will give you more info at the reception.
 
 
       * Rafting
