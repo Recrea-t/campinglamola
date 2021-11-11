@@ -4,8 +4,8 @@ description: Campsite located at the entrance of the Aigüestortes and Lake Sant
   Maurici National Park offer spacious bungalows and green and shady camping
   pitches
 summary: >-
-  A different concept from the traditional bungalow, with large windows, good
-  natural light, lots of interior space and a large covered terrace.
+  A different concept from the traditional bungalow, with big windows, a lot of
+  natural light, lots of space inside and a large terrace with porch. 
 
 
   * For 4 and 6 people. Those for 6 people have an attic with an extra bedroom.
