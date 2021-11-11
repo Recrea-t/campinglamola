@@ -3,12 +3,12 @@ templateKey: gaials-page
 summary: >-
   For 4 or 6 people
 
-  The gaials are small and functional two-storey accommodations located in the upper part of the main building of the campsite. They are not at street level, but have a furnished terrace which is only shared with other gaials and each gaial has its own table and chairs.
+  The gaials (appartments) are small and functional two-storey accommodations located in the upper part of the main building (attached to it) of the campsite . They are not at street level, but have a furnished terrace which is to be shared with other appartments and each appartment has its own table and chairs.
 
-  They all have the kitchen-dining room and bathroom on the lower floor and the layout of the rooms varies according to the gaial. The rooms are attic rooms; the four person gaials have two rooms and the six person ones have three.
+  They all have the kitchen-dining room and bathroom on the lower floor and the layout of the rooms varies according to the appartment. The rooms are attic rooms; the four person appartments have two rooms and the six person ones have three.
 
 
-  * Fully equipped kitchen (ceramic hob, oven, microwave, fridge, coffee maker, kitchenware, crockery...). Cuina equipada (placa vitroceràmica, forn, microones, nevera, cafetera, parament, vaixella...)
+  * Fully equipped kitchen (ceramic hob, oven, microwave, fridge, coffee-maker, kitchenware, crockery...). Cuina equipada (placa vitroceràmica, forn, microones, nevera, cafetera, parament, vaixella...)
 
   * TV.
 
@@ -36,7 +36,7 @@ regulation: >-
 
   * The maximum capacity indicated for each accommodation may never be exceeded without authorisation.
 
-  * One vehicle is allowed for 4-person accommodation and 2 vehicles for 6-person accommodation are included in the price. Any additional vehicle must be registered and paid for in accordance with the current rates.
+  * One vehicle is allowed for 4-person accommodation and 2 vehicles for 6-person accommodation which are included in the price. Any additional vehicle must be registered and paid for in accordance with the current rates.
 
   * Check-in time: Between 16:00 and 21:00 (check other options).
 
@@ -60,7 +60,7 @@ pricingNotes: >-
 
   Tax on stays in tourist establishments not included: €0.66 Rate per day per person aged over 16, with a maximum of 7 days.*
 
-  Sheets and towels not included. Optional rental 6 € per person and stay.
+  Sheets and towels not included. Optional renting 6 € per person and stay.
 
 
   **HIGH SEASON**
@@ -80,17 +80,16 @@ pricingNotes: >-
 
   * June and September, minimum stay of 4 nights.
 conditions: >-
-  
   **Payments** 
 
 
-  * In order to make a reservation, the campsite will ask for a deposit which, depending on the season, can be up to 40% of the total cost of the stay.
+  * In order to make a reservation, the campsite will ask for a deposit which, depending on the season, can be up to 40% of the total sum of the stay.
 
   * The amounts will be paid within a period not exceeding 3 days from the date of the request and will be made by transfer to the account that will be communicated at the time of formalising the reservation. The remaining amount will be settled on arrival at the campsite.
 
   * There will be no reimbursement in case of late arrival or early departure.
 
-  * Cash is accepted. Card payments are only available during the months of July and August. There is also the possibility of making a bank transfer.
+  * Cash is accepted. Card payments are only available during the months of July and August. It is also possible to make a bank transfer.
 
 
   **Cancellation procedure**
@@ -106,5 +105,6 @@ conditions: >-
 
   * If the clients, without prior notice, do not arrive at the campsite before 21.00 h on the day of arrival, the booking will be considered cancelled.
 
-  * Only if the booking is affected by the mobility restrictions imposed by the Government in relation to Covid-19, 100% of the deposit will be refunded.
+  * Only when dealing with a cancellation due to mobility restrictions imposed by the Government with regard to Covid-19, 100% of the deposit will be refunded. 
+    For all other reasons our General Cancellation stipulations will be applied
 ---
