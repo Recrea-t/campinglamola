@@ -5,55 +5,56 @@ description: In de nabijheid van het Nationaal Park van Aigüestortes en het Mee
   van San Mauricio, de uitgelezen plek om tot rust te komen en van een
   bevoorrecht landschap te genieten, biedt camping La Mola ruime kampeerplaatsen
   met veel gras en schaduw aan en confortabele en ruime bungalows
-summary: L'encant dels preciosos paisatges de les Valls d'Àneu, riuets, fonts,
-  barrancs, salts d'aigua i l'autenticitat de la seva gent fan d'aquest entorn
-  un bell paratge que no deixa ningú indiferent.
+summary: De charme van de prachtige landschappen van de valleien van Àneu, de
+  beken, bronnen, ravijnen, watervallen en de authenticiteit van de hun bewoners
+  maken van deze omgeving een mooie plek die niemand onverschillig laat.
 options:
-  - title: Parc Nacional d'Aigüestortes i Estany de Sant Maurici
+  - title: Nationaal Park van Aigüestortes en het Meer van San Mauricio)
     description: >-
-      Situat al bell mig de la serralada dels Pirineus, entre el Pallars Sobirà,
-      la Val d'Aran i l'Alta Ribagorça és l'únic parc nacional de Catalunya i
-      centre d'un Espai Natural Protegit de grans dimensions amb més de 200
-      estanys, essent l'aigua la principal protagonista, amb nombrosos rius,
-      barrancs i zones humides que, junt amb la riquesa i majestuositat dels
-      seus paisatges, flora i fauna, esdevé la representació més genuïna de
-      l'alta muntanya .
+      Gesitueerd in het centrum van de Pyreneese bergketen, tussen de streken
+      Pallars Sobirà, de vallei van Aran en de Alta Ribagorza is dit het enige
+      Nationaal Park van Catalonië en het centrum van een ruime beschermde
+      natuurlijke ruimte met meer dan 200 meren, met het water als voornaamste
+      protagonist, met talrijke rivieren, ravijnen en vochtige gebieden die
+      samen met de rijkdom en de pracht van hun landschappen, fauna en flora de
+      zuiverste voorstelling van het hooggebergte worden. 
+
+      De Encantats (los Encantados) zijn een van de meest kenmerkende bergpieken die gevormd werden door metamorfe kalkgesteenten die ontstaan zijn uit de transformatie van sedimentgesteenten vanwege de omstandigheden van temperatuur en druk waaraan ze zich door de gletsjers onderworpen zagen.
 
 
-      Els Encantats són un dels cims més emblemàtics formats per calcàries metamorfitzades que provenen de la transformació de roques sedimentàries a causa de les condicions de temperatura i pressió a què es van veure sotmeses pels glacials.
+      Tegenwoordig bestaat de traditionele en eeuwenoude exploitatie uit de instandhouding van de extensieve lokale runderveeteelt van Boí y Espot.
 
 
-      Actualment, l'únic aprofitament tradicional i centenari és el manteniment de les explotacions extensives ramaderes per part del bestiar local de Boí i Espot.
-
-
-      El Parc rep més de mig milió de visitants cada any: un dels seus principals objectius és fer compatible l'accés de les persones amb la conservació íntegra de tots els seus valors naturals. Aquest objectiu és impossible d'assolir sense la implicació efectiva de tots els seus visitants. Per això, és molt important la vostra col·laboració i respecte per la normativa de protecció establerta.
+      Het Park ontvangt elk jaar meer dan een half miljoen bezoekers: een van zijn voornaamste doelstellingen is de toegang van personen verenigbaar te maken met het volledige behoud van zijn natuurlijke waarden. Dit doel kan onmogelijk bereikt worden zonder de effectieve betrokkenheid van al zijn bezoekers. Daarom is hun medewerking en hun respect voor het geheel van de vastgelegde regels zo belangrijk.
     url: https://www.miteco.gob.es/es/red-parques-nacionales/nuestros-parques/aiguestortes/guia-visitante/default.aspx
-  - title: Parc Natural de l'Alt Pirineu
+  - title: Natuurpark van de Hoge Pyreneeën
     description: >-
-      El Parc Natural de l'Alt Pirineu, declarat el 2003, és l'espai natural
-      protegit més extens de Catalunya, amb una superfície de gairebé 80.000 ha.
-      Sota el cim més alt del Pirineu català, la Pica d'Estats (3.143 m), aquest
-      territori singular és una reserva del patrimoni natural i cultural
-      pirinenc. Destaca per les extenses pastures *mantingudes* per l'acció del
-      bestiar i animals tan emblemàtics com el gall fer, el trencalòs o l'ós
-      bru.
+      Het Parque Natural del Alt Pirineu, dat ontstaan is in 2003, is de
+      grootste beschermde natuurlijke ruimte van Catalonië met een oppervlakte
+      van bijna 80.000 hectaren. Onder de hoogste bergtop van de Catalaanse
+      Pyreneeën, de Pica d’Estats (3.143 m.) is dit unieke gebied een reservaat
+      van het Pyreneese natuur- en kultuurpatrimonium. Het valt op omwille van
+      de uitgestrekte weidegronden die door invloed van het vee en van typerende
+      dieren zoals de auerhaan, de lammergier of de bruine beer in stand
+      gehouden worden. 
+
+      Het Parque Natural del Alt Pirineu biedt gedurende het ganse jaar een brede waaier van alternatieven aan om het ecotoerisme te beoefenen: ontdekt de prachtige meren van het hooggebergte, geniet van de pracht van de voorjaarsbloei of van de herfstkleuren bij wandelingen langs historische wegen, bezoekt musea die U een beeld kunnen geven van de manier waarop de bewoners van een berggebied vroeger leefden en nu, adem de eenzaamheid van een winters berglandschap in door middel van een wandeling met sneeuwraketten of geniet van spectaculaire panorama’s vanop een belvédère. 
 
 
-      El Parc Natural de l'Alt Pirineu permet, durant tot l'any, múltiples opcions per practicar l'ecoturisme: descobrir magnífics estanys d'alta muntanya, gaudir de l'esclat de floració de primavera o dels colors de tardor tot recorrent camins històrics, visitar museus que mostren la forma de vida present i passada dels habitants d'un territori de muntanya, respirar la solitud de la muntanya hivernal mitjançant una passejada amb raquetes de neu, o bé gaudir d'espectaculars vistes panoràmiques des d'un mirador.
-
-
-      Per accedir a l'interior de l'espai s'ha de recórrer carreteres de muntanya o pistes forestals no pavimentades, per a la qual cosa cal utilitzar vehicle privat (preferentment de xassís alt) o, si es prefereix el transport públic, taxis tot-terreny locals. Alternativament, es recomana accedir al Parc a peu o en bicicleta de muntanya, utilitzant l'extensa xarxa de camins existent que, sovint, té el seu inici en els pobles de l'entorn.
-  - title: Les Valls d'Àneu
-    description: "Les valls d'Àneu és una subcomarca natural situada al nord-oest
-      del Pallars Sobirà, un territori d'alta muntanya encisador, ubicat al nord
-      del Pallars Sobirà, amb pobles de pedra i pissarra i cims que toquen el
-      cel. Està format pels municipis d'Alt Àneu, Esterri d'Àneu, la Guingueta
-      d'Àneu i Espot. Limita a l'oest amb la Vall d'Aran, a nord amb França, a
-      l'est amb la Vall de Cardós i al sud amb Llavorsí. El riu Noguera
-      Pallaresa creua tota la vall i és l'artèria fluvial més important de la
-      zona. Esterri és el centre neuràlgic, tant per la seva condició de nucli
-      comercial com per ser el lloc on conflueixen les principals valls: la vall
-      d'Isil, la vall d'Unarre i la vall de la Bonaigua. A la població d'Espot
-      trobem una de les entrades al Parc Nacional d'Aigüestortes i Estany de
-      Sant Maurici ."
+      Om toegang te krijgen binnen het park moet U langs bergwegen of niet verharde bospaden lopen waarbij U een privé-voertuig (bij voorkeur met een hoog chassis) kan gebruiken of, als U openbaar transport verkiest plaatselijke alle-terrein taxi’s. Een aan te raden alternatief is het Park te voet of met een alle-terrein-fiets (mountain bike) te verkennen door gebruik te maken van het bestaande uitgebreide wegennet dat dikwijls in de dorpen in de omgeving begint
+  - title: De Valleien van Àneu
+    description: "De Valls d’ Àneu is een natuurlijk subgewest gelegen in het
+      noordwesten van de Pallars Sobirá, een betoverende streek in het
+      hooggebergte, gelegen ten noorden van de Pallars Sobirà met dorpjes van
+      steen en leisteen en bergtoppen die de hemel raken. Het is samengesteld
+      uit de gemeenten van Alt Àneu, Esterri d'Àneu, la Guingueta d'Àneu en
+      Espot. Het wordt in het westen begrensd door de Vallei van Arán, in het
+      noorden door Frankrijk, in het oosten door de Vallei van Cardós en in het
+      zuiden door Llavorsí. De Noguera Pallaresa rivier die de hele vallei
+      doorkruist is de belangrijkste waterweg van de streek. Esterri is het
+      knooppunt omdat het zowel het commercieel centrum als de plaats is waar de
+      voornaamste valleien samenkomen: de vallei van Isil, de vallei van Unarre
+      en de vallei van de Bonaigua. In het dorp Espot vinden wij een van de
+      ingangen tot het Nationaal Park van Aigüestortes en het Meer van San
+      Mauricio."
 ---
