@@ -6,19 +6,19 @@ description: In de nabijheid van het Nationaal Park van Aigüestortes en het Mee
   bevoorrecht landschap te genieten, biedt camping La Mola ruime kampeerplaatsen
   met veel gras en schaduw aan en confortabele en ruime bungalows
 summary: >-
-  * De 70 a 120m2.
+  * Van 70 tot 100 m2
 
-  * Totes amb ombra i sòl herbós.
+  * Alle plaatsen met schaduw en rijk met gras begroeid
 
-  * Fonts d'aigua potable prop de cada parcel·la.
+  * Waterpunten met drinkbaar water in de nabijheid van elk perceel
 
-  * Possibilitat d'escollir la parcel·la que més li agradi.
+  * Kies zelf de kampeerplaats die je het meest bevalt
 
-  * Zona separada per grups.
+  * Aparte kampeerzone voor groepen
 
-  * Opció de parcel·la per tot l'estiu (consulti'ns)
+  * Optie voor een kampeerplaats voor de hele zomer (raadpleeg ons)
 
-  * S'admeten animals domèstics, a excepció dels gossos considerats com potencialment perillosos·
+  * Huisdieren toegelaten met uitzondering van honden die als potentieel gevaarlijk beschouwd worden
 pricing:
   - title: Volwassene
     price: 6.55
