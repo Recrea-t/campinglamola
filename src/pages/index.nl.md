@@ -10,7 +10,7 @@ summary: >-
 
   Aanbevolen aan iedereen die van de natuur, de sport en de stilte houdt.
 
-  Altijd strevend naar verbeteringen, aangeprezen door onze vaste en trouwe klanten
+  Altijd strevend naar verbeteringen, aangeprezen door onze vaste en trouwe klanten.
 servicesSummary: Altijd werken om te verbeteren. Onze klanten komen terug en bevelen ons aan
 environmentSummary: Aanbevolen voor iedereen die van de natuur, de sport en de stilte houdt
 title: Camping en Espot, Catalaanse Pyreneeën
