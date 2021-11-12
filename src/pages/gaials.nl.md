@@ -1,28 +1,26 @@
 ---
 templateKey: gaials-page
 summary: >-
-  Els gaials són uns petits i funcionals allotjaments de dues plantes ubicats a
-  la part superior de l'edifici principal del càmping. No estan a peu de carrer,
-  però compten amb una terrassa moblada que només es comparteix amb altres
-  gaials i cada gaial té la seva pròpia taula i cadires.
+  Voor 4 of 6 personen
+
+  De gaial zijn kleine en functionele logies met 2 verdiepingen die op het hogere gedeelte van de camping (aangebouwd aan het hoofdgebouw) gelegen zijn. Ze liggen niet op dezelfde hoogte als de hoofdweg maar ze hebben een gemeubileerd terras dat wel moet gedeeld worden met de andere appartementen maar elk appartement heeft z’n eigen genummerde tafel en stoelen. 
+
+  Alle gaial hebben een eetkamer-keuken en een bad op de onderste verdieping en de indeling van de kamers varieert per appartement. De kamers liggen onder een schuin aflopend dak; de appartementen voor 4 personen hebben 2 slaapkamers en die voor 6 personen hebben er 3. 
 
 
-  Tots tenen la cuina-menjador i el bany a la planta inferior i la distribució de les habitacions varia segons el gaial. Les habitacions són sota teulada; els de 4 persones tenen dues habitacions i els de 6 persones en tenen 3.
-
-
-  * Cuina equipada (placa vitroceràmica, forn, microones, nevera, cafetera, parament, vaixella...)
+  * Uitgeruste keuken (vitrokeramische kookplaats, oven, microgolf, ijskast, koffiezetapparaat, keukengerei, vaatwerk …) 
 
   * TV.
 
-  * Aigua calenta i calefacció.
+  * Warm water en verwarming.
 
-  * Bany complet.
+  * Volledige badkamer.
 
-  * Mantes i coixins.
+  * Dekens en hoofdkussens.
 
-  * No inclouen llençols ni tovalloles. Es poden llogar a recepció.
+  * Beddelakens en handdoeken niet inbegrepen. Deze kunnen op de receptie gehuurd worden.
 
-  * No s'hi admeten animals de companyia.
+  * Geen huisdieren toegelaten.
 pricing:
   - title: 4 pax
     description: null
