@@ -58,9 +58,27 @@ description: In de nabijheid van het Nationaal Park van Aigüestortes en het Mee
   met veel gras en schaduw aan en confortabele en ruime bungalows
 pricingNotes: >-
   Prijzen per nacht incl. BTW. Verblijfstaks niet inbegrepen: 0,60€. Tarief per
-  persoon (+16 jaar) en per dag, met een maximum van 7 dagen.
+  persoon (+16 jaar) en per dag, met een maximum van 7
+  dagen.                                                                                                                                         Lakens
+  en handdoeken niet inbegrepen. Huuroptie 6 € per persoon en per verblijf.
 
-  • Lakens en handdoeken niet inbegrepen. Huuroptie 6 € per persoon en per verblijf.
+
+  **HOOGSEIZOEN**                   
+
+
+  * Van 15 juli tot 29 augustus  (minimumverblijf 6 nachten)                           
+
+  * Paasvakantie en Kerstmis  (minimumverblijf 4 nachten)
+
+  * Brugdagen (minimumverblijf 3 nachten)
+
+   ** LAAGSEIZOEN**
+
+  * Van 1  tot 14 juli (minimumverblijf 4 nachten)             
+
+  * Juni en september (minimumverblijf 4 nachten)
+
+    Raadpleeg andere opties
 conditions: >-
   #### Pagaments
 
