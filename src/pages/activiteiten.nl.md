@@ -46,66 +46,70 @@ activities:
       * Mountain bike circuits                                                                                                                             * [Routes van het mountain bike Centrum van de Valleien van Àneu.](http://www.vallsdaneu.org/btt-cicloturisme/)* 211 km aangegeven routes van verschillende niveau’s. (De koppeling functioneert niet omwille van het vernieuwen van de webpagina).
 
         [*Routes Bike & Run van Camping la Mola*.](https://ca.wikiloc.com/wikiloc/map.do?sw=-89.9993295%2C-179.999&ne=89.999%2C179.999&loop=1&q=C%C3%A0mping%20la%20Mola&place=C%C3%A0mping%20la%20Mola&fitMapToTrails=1&uid=1782701&page=1) Alle routes vertrekken en komen aan in de camping.
-  - title: Activitats d'hivern
-    description: L'esquí alpí, nòrdic i de muntanya, juntament amb les raquetes de
-      neu, són una de les millors maneres de gaudir dels paisatges del Parc
-      Natural de l'Alt Pirineu i el Parc Nacional d'Aigüestortes i Estany de
-      Sant Maurici. Un total de 5 estacions d'esquí (Espot Esquí, Portainé,
-      Tavasacan, Virós-Vall Farrera i Baqueira-Bonaigua) ofereixen una gran
-      quantitat d'opcions per viure la neu al màxim, sent l'estació d'Espot
-      l'única situada al costat d'un Parc Nacional i la més propera, a tan sols
-      5 minuts del càmping.
-  - title: Patrimoni cultural
+  - title: Winteractiviteiten
+    description: Alpineskiën, langlaufen en ski-alpinisme zijn, samen met de
+      sneeuwraketten, één van de beste manieren om te genieten van de
+      landschappen van het Natuurpark van de Alto Pirineo en het Nationaal Park
+      van Aigüestortes en het meer van San Mauricio. In totaal bieden 5
+      ski-stations (Espot Esquí, Port Ainé, Tavasacan, Virós-Vall Ferrera en
+      Baqueira-Bonaigua) een groot aantal opties aan om ten volle van de sneeuw
+      te genieten, waarbij het ski-oord van Espot de enige wintersportplaats is
+      die juist naast een Nationaal Park gelegen is en het meest dichtbije op
+      slechts 5 minuten van de camping.
+  - title: "Kultureel erfgoed "
     description: >-
-      * **Romànic**
+      **Romaans erfgoed**
 
 
-      El Pallars Sobirà, i molt especialment les Valls d'Àneu, és terra d'esglésies, ermites i monestirs, amb alts campanars coronats amb lloses de pissarra que destaquen per damunt dels poblets i petites ermites que s'amaguen entre els turons i les muntanyes.
+      De Pallars Sobirà, en vooral de valleien van Àneu is een streek van kerken, afgelegen kapellen en kloosters, met hoge klokketorens, die afgewerkt zijn met leistenen die opvallen boven de dorpen en kleine afgelegen kapellen die tussen de heuvels en de bergen verborgen liggen.
 
 
-      * Santa Maria d'Àneu, a Escalarre
+      * Santa Maria d’Àneu, in Escalarre
 
-      * Sant Just i Sant Pastor de Son
+      * Sant Just i Sant Pastor van Son del Pi
 
       * Sant Joan d'Isil 
 
-      * Sant Pere del Burgal, a Escaló
-
-      * **Festes i tradicions**
-
-      * ***[Falles d'Isil](http://www.fallesisil.cat/)*,** Festa declarada d'Interès Nacional el juny de 2010 i Patrimoni Immaterial de la Humanitat per la UNESCO, el 2015.
-
-      * **Setmana Santa**, Viacrucis i la Passió a Esterri d'Àneu.
-
-      * ***[Festival Esbaiola't](https://festivalesbaiolat.cat/)*,** a Esterri d'Àneu, arts escèniques al carrer i per a tots els públics***.***
-
-      * ***[Curtàneu](https://www.curtaneu.cat/)*,** Mostra Internacional de curtmetratges a les Valls d'Àneu, al Pallars Sobirà. La mostra forma part de Catalunya Film Festivals, la coordinadora de festivals de Catalunya
-
-      * **Museus i centres d'interpretació**
+      * Sant Pere del Burgal, in Escaló
 
 
-      Una cultura ben viva i sorprenent que podeu conèixer gràcies a la divulgació i protecció del nostre patrimoni històric.
+      **Festiviteiten/vieringen en Tradities**
+
+
+      * ***[Falles d'Isil](http://www.fallesisil.cat/)*,** (verbranding van een houtstapel) als nationaal belangrijke viering uitgeroepen in juni 2010 en als Geestelijk Patrimonium van de Mensheid door de UNESCO in 2015. 
+
+      * **Setmana Santa**, (Goede Week), Kruisweg en het Lijden van Christus in Esterri d’Àneu.
+
+      * ***[Festival Esbaiola't](https://festivalesbaiolat.cat/)*,** in Esterri d’ Aneu, straattoneel kunsten in de calle I en voor alle publiek.
+
+      * ***[Curtàneu](https://www.curtaneu.cat/)*,** Internationaal Kortfilm Festival in de valleien van Àneu, Pallars Sobirà. Het festival maakt deel uit van de Film Festivals van Catalonië.
+
+
+      **Musea en informatiecentra**
+
+
+      Een levendige en verrassende kultuur die U kan leren kennen dank zij de verspreiding en bescherming van ons historisch patrimonium. 
 
 
       * **[Ecomuseu de les Valls d'Àneu](http://www.ecomuseu.com/), a Esterri d'Àneu**
 
-      * **La Casa de l'Ós dels Pirineus, a Isil**
+      * **La Casa de l'Ós dels Pirineus,** (Het Huis van de Beer van de Pyreneeën) in Isil
 
-      * ***[Museu de les Papallones de Catalunya](https://www.papallones.net/)*, a Ribera de Cardós**
+      * ***[Museu de les Papallones de Catalunya](https://www.papallones.net/)*,** (Vlindermuseum van Catalonië) in  **Ribera de Cardós**
 
-      * **Casa del Parc Nacional, a Espot**
+      * **Casa del Parc Nacional,** (Informatiecentrum van het Nationaal Park) in **Espot**
 
-      * ***[Món Natura Pirineus](https://monnaturapirineus.com/)*, a les Planes de Son**
+      * ***[Món Natura Pirineus](https://monnaturapirineus.com/)*, in les Planes de Son**
 
-      * ***[Espai Museístic del ferro, Casa Sintet](https://www.facebook.com/casasintet/)*, a Alins**
+      * ***[Espai Museístic del ferro, Casa Sintet](https://www.facebook.com/casasintet/)*, in Alins**
 
-      * ***[Centre d'Interpretació de Tavascan](https://tavascan.wixsite.com/tavascan)*, La força de l'aigua**
-
-      * **Gastrononia**
+      * ***[Centre d'Interpretació de Tavascan](https://tavascan.wixsite.com/tavascan)*,** (Informatiecentrum van Tavascan, De kracht van water)
 
 
-      La millor manera d'assaborir el Pallars Sobirà és tastar els productes elaborats al territori. No deixi de visitar els nostres productors locals, que li oferiran els seus millors productes de proximitat, i li explicaran com els elaboren: Formatges, iogurts, embotits…
+      **Gastronomie**
 
 
-      Als restaurants de la comarca podrà tastar tot el sabor dels Pirineus damunt la taula: Bolets, carn de caça, carns a la brasa, vianda o escudella, girella…
+      De beste manier om te genieten van de Pallars Sobirà is de lokale streekprodukten te proeven. Aarzelt niet om onze lokale producenten te bezoeken, die U hun beste produkten van dichtbij zullen aanbieden en U zullen uitleggen hoe ze geproduceerd worden: kazen, yoghurts, worsten …
+
+      In de restaurants in de streek zal U alle smaken van de Pyreneeën op de tafel kunnen proeven: paddestoelen, wild, gegrild geroosterd vlees, Catalaanse soep met pasta of rijst of beide, lamsworst, worsten uit de Pallars streek …
 ---
