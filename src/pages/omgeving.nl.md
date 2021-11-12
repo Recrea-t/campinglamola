@@ -42,6 +42,7 @@ options:
 
 
       Om toegang te krijgen binnen het park moet U langs bergwegen of niet verharde bospaden lopen waarbij U een privé-voertuig (bij voorkeur met een hoog chassis) kan gebruiken of, als U openbaar transport verkiest plaatselijke alle-terrein taxi’s. Een aan te raden alternatief is het Park te voet of met een alle-terrein-fiets (mountain bike) te verkennen door gebruik te maken van het bestaande uitgebreide wegennet dat dikwijls in de dorpen in de omgeving begint
+    url: http://parcsnaturals.gencat.cat/en/xarxa-de-parcs/alt-pirineu/inici/index.html
   - title: De Valleien van Àneu
     description: "De Valls d’ Àneu is een natuurlijk subgewest gelegen in het
       noordwesten van de Pallars Sobirá, een betoverende streek in het
