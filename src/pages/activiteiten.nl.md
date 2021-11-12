@@ -21,20 +21,36 @@ activities:
 
 
       Excursies met 4x4 in het hart van het Nationaal Park van Aigüestortes en het Meer van San Mauricio. *[Meer informatie](https://www.taxisespot.com/excursions).*
-  - title: Aventura
+  - title: Avontuur
     description: >-
-      
+      Voor wie een stevige adrenaline-stoot wil voelen en zich tegelijk met de
+      natuur wil verbinden. 
 
-      Per qui vulgui sentir una forta descàrrega d'adrenalina i connectar amb la naturalesa al mateix temps.
+      In de streek is er een ruim aanbod van gespecialiseerde ondernemingen die avontuurlijke sporten in alle veiligheid aanbieden door de nodige uitrusting te leveren en een gekwalificeerde gids of monitor.\
 
-
-      A la zona hi ha una ampla oferta d’ empreses especialitzades que ofereixen esports d’ aventura de forma segura, proporcionant l’equipament necessari i un guia o monitor qualificat.
-
-
-      Importants descomptes exclusius per als nostres clients en moltes de les activitat d'aventura. A recepció l'informarem.
+      Belangrijke exclusieve kortingen voor onze klanten op een groot aantal avontuurlijke activiteiten. Meer informatie hierover op de receptie.
 
 
-      * Ràfting
+      * Rafting
+
+      * Canyoning (Afdaling langs ravijnen)
+
+      * Kayak
+
+      * Paardrijden
+
+      * Puenting (brugslingeren of benji-springen)
+
+      * Avontuurlijke circuits in bomen 
+
+      * Mountain bike circuits                                                                                                                             * [Routes van het mountain bike Centrum van de Valleien van Àneu.](http://www.vallsdaneu.org/btt-cicloturisme/)* 211 km aangegeven routes van verschillende niveau’s. (De koppeling functioneert niet omwille van het vernieuwen van de webpagina).
+
+        *Routes Bike & Run van Camping la Mola*. Alle routes vertrekken en komen aan in de camping. 
+
+
+
+      Ràfting
+
 
       * Descens de barrancs
 
@@ -47,8 +63,8 @@ activities:
       * Cicuits d'aventura als arbres
 
       * BTT
-        * *[Rutes del Centre BTT de les Valls d’Àneu.](http://www.vallsdaneu.org/btt-cicloturisme/)* 211 Km de rutes senyalitzades de diferents nivells. (aquest enllaç no funciona perque estan refent la página)
 
+        * *[Rutes del Centre BTT de les Valls d’Àneu.](http://www.vallsdaneu.org/btt-cicloturisme/)* 211 Km de rutes senyalitzades de diferents nivells. (aquest enllaç no funciona perque estan refent la página)
         * *[Rutes Bike & Run de Camping la Mola](https://ca.wikiloc.com/wikiloc/map.do?sw=-89.9993295%2C-179.999&ne=89.999%2C179.999&loop=1&q=C%C3%A0mping%20la%20Mola&place=C%C3%A0mping%20la%20Mola&fitMapToTrails=1&uid=1782701&page=1)*. Totes surten i arriben al càmping.
   - title: Activitats d'hivern
     description: L'esquí alpí, nòrdic i de muntanya, juntament amb les raquetes de
