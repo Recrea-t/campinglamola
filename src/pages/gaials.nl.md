@@ -30,17 +30,19 @@ pricing:
     title: 6 pax
     lowSeason: 85
 regulation: >-
-  * És **OBLIGATÒRIA** la presentació de DNI o passaport de tots els ocupants
-  majors de 14 anys a l’ arribada al Càmping i registrar tots els vehicles,
-  indicant la matrícula i el model.
+  * **VERPLICHT** vertoon bij aankomst in de camping van identiteitskaart of
+  paspoort van alle reizigers ouder dan 14 jaar en registratie van alle
+  voertuigen door middel van de nummerplaat en het model.
 
-  * La capacitat màxima indicada per a cada allotjament no podrà ser mai superada sense autorització.
+  * Het maximum aantal personen dat voor elk appartement aangeduid is kan nooit overschreden worden zonder toelating.
 
-  * S'admet un vehicle per allotjament de 4 persones i 2 vehicles per allotjament de 6 persones inclosos en el preu. Tot vehicle suplementari haurà de ser registrat i abonat segons tarifa en vigor.
+  * Eén voertuig wordt toegelaten voor een appartement van 4 personen en 2 voertuigen voor een appartement van 6 personen die in de prijs zijn inbegrepen. Elk bijkomend voertuig zal geregistreerd en betaald moeten worden volgens het geldige tarief.
 
-  * Hora d'entrada: Entre les 16:00 i les 21:00 (consultar altres opcions).
+  * Uur van aankomst: tussen 16:00 21:00 u (raadpleeg andere opties)
 
   * Hora de sortida: Abans de les 11:00
+
+  * Uur van vertrek: vóór 11:00 u.
 formName: gaials-form
 title: Gaials
 images:
