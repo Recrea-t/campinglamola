@@ -58,4 +58,5 @@ options:
       en de vallei van de Bonaigua. In het dorp Espot vinden wij een van de
       ingangen tot het Nationaal Park van Aigüestortes en het Meer van San
       Mauricio."
+    url: https://bergwijzer.nl/vakantietip/familievakantie-de-catalaanse-pyrenee%C3%ABn
 ---
