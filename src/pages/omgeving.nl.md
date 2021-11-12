@@ -9,7 +9,7 @@ summary: De charme van de prachtige landschappen van de valleien van Àneu, de
   beken, bronnen, ravijnen, watervallen en de authenticiteit van de hun bewoners
   maken van deze omgeving een mooie plek die niemand onverschillig laat.
 options:
-  - title: Nationaal Park van Aigüestortes en het Meer van San Mauricio)
+  - title: Nationaal Park van Aigüestortes en het Meer van San Mauricio
     description: >-
       Gesitueerd in het centrum van de Pyreneese bergketen, tussen de streken
       Pallars Sobirà, de vallei van Aran en de Alta Ribagorza is dit het enige
