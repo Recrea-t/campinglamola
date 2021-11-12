@@ -98,7 +98,7 @@ conditions: >-
 
   * Voor een annulering van minder dan 7 dagen vóór uw aankomst wordt geen borgsom terugbetaald.
 
-  * Ingeval klanten zonder voorafgaande kennisgeving niet vóór 22.00 u op de dag van aankomst op de camping arriveren dan zal de reservering als geannuleerd beschouwd worden. 
+  * Ingeval klanten zonder voorafgaande kennisgeving niet vóór 21.00 u op de dag van aankomst op de camping arriveren dan zal de reservering als geannuleerd beschouwd worden. 
 
   * Enkel wanneer het gaat over een gedwongen annulering die te wijten is aan de mobiliteitsbeperkingen die door de regeringen in verband met Covid-19 opgelegd zijn zal de totale borgsom terugbetaald worden. Voor andere redenen zullen onze Algemene Annuleringsvoorwaarden toegepast worden.
 ---
