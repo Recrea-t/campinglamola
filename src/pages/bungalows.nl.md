@@ -75,32 +75,30 @@ regulation: >-
 formName: bungalows-form
 title: Bungalows
 conditions: >-
-  #### Pagaments
+  **Betalingen**
 
 
-  * Per efectuar una reserva, el càmping li demanarà una paga i senyal que, depenent de la temporada, pot arribar a ser del 40% sobre el total de l'estada.
+  * Om te reserveren zal de camping U een betaling van een voorschot vragen, dat afhankelijk is van het seizoen en dat tot 40% van het totale bedrag van het verblijf kan bedragen.
 
-  * Els imports han de ser abonats en un termini no superior a 3 dies a comptar de la data de la sol·licitud i es realitzaran mitjançant transferència al compte que es comunicarà en el moment de formalitzar la reserva. La quantitat restant es liquidarà a l'arribada al càmping.
+  * De bedragen zullen betaald worden binnen een termijn van 3 dagen, te rekenen vanaf de datum van de aanvraag en zullen gedaan worden door middel van overboeking op het bankrekeningnummer dat U op het ogenblik van de officiële reservering zal medegedeeld worden. Het resterende saldo zal contant afgerekend worden bij aankomst in de camping.
 
-  * No hi haurà cap reemborsament en cas d'endarrerir el dia d'arribada o anticipar el dia de sortida.
+  * Er zal geen enkele terugbetaling gebeuren indien men op een latere datum (dan degene die afgesproken is) aankomt of op een vroegere datum (dan degene die afgesproken is) vertrekt. 
 
-  * S'accepta efectiu. Només disposem del servei de pagament amb targeta durant els mesos de Juliol i Agost. Existeix també la possibilitat de realitzar una transferència bancària .
-
-
-  #### Anul·lacions
+  * Wij aanvaarden contant geld. Wij beschikken enkel over een betalingsdienst met bankkaart gedurende de maanden juli en augustus. Er bestaat ook een mogelijkheid om een bankoverschrijving te doen.
 
 
-  * La cancel·lació de la seva reserva s'haurà de sol·licitar per escrit mitjançant correu electrònic a *[info@campinglamola.com](mailto:info@campinglamola.com)*
+  **Annulaties**
 
-  * Si s'anul·la amb més de 15 dies d'anticipació de l'arribada del client, es retorna el 90% de la fiança.
 
-  * Si s'anul·la entre 7 i 15 dies abans de l'arribada, es retorna el 50% de la fiança.
+  * De annulering van uw reservering zal schriftelijk moeten aangevraagd worden via e-mail naar *[info@campinglamola.com](mailto:info@campinglamola.com)*
 
-  * Si s'anul·la amb menys de 7 dies no es retorna la fiança.
+  * Voor een annulering van meer dan 15 dagen vóór uw aankomst zal 90% van de borgsom terugbetaald worden.
 
-  * Si els clients, sense previ avís, no arriben al càmping abans de les 22.00 h. del dia d'arribada, s'entendrà cancel·lada la reserva.
+  * Voor een annulering tussen 7 en 15 dagen vóór uw aankomst wordt 50% van de brog terugbetaald.
 
-  * Si la reserva es veu afectada per les restriccions de mobilitat imposades pel Govern en relació al Covid-19, es reemborsarà del 100% del dipòsit entregat. 
+  * Voor een annulering van minder dan 7 dagen vóór uw aankomst wordt geen borgsom terugbetaald.
 
-  * Per a qualsevol cancel·lació per conveniència personal, s'aplicaran les nostres Condicions Generals d'anul·lació.
+  * Ingeval klanten zonder voorafgaande kennisgeving niet vóór 22.00 u op de dag van aankomst op de camping arriveren dan zal de reservering als geannuleerd beschouwd worden. 
+
+  * Enkel wanneer het gaat over een gedwongen annulering die te wijten is aan de mobiliteitsbeperkingen die door de regeringen in verband met Covid-19 opgelegd zijn zal de totale borgsom terugbetaald worden. Voor andere redenen zullen onze Algemene Annuleringsvoorwaarden toegepast worden.
 ---
