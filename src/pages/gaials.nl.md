@@ -74,9 +74,11 @@ pricingNotes: >-
 
   * Brugdagen (minimumverblijf 3 nachten)
 
-   ** LAAGSEIZOEN**
 
-  * Van 1  tot 14 juli (minimumverblijf 4 nachten)             
+  **LAAGSEIZOEN**
+
+
+  * Van 1 tot 14 juli (minimumverblijf 4 nachten)             
 
   * Juni en september (minimumverblijf 4 nachten)
 
