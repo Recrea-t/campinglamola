@@ -45,27 +45,7 @@ activities:
 
       * Mountain bike circuits                                                                                                                             * [Routes van het mountain bike Centrum van de Valleien van Àneu.](http://www.vallsdaneu.org/btt-cicloturisme/)* 211 km aangegeven routes van verschillende niveau’s. (De koppeling functioneert niet omwille van het vernieuwen van de webpagina).
 
-        *Routes Bike & Run van Camping la Mola*. Alle routes vertrekken en komen aan in de camping. 
-
-
-
-      Ràfting
-
-
-      * Descens de barrancs
-
-      * Caiac
-
-      * Hípica
-
-      * Puenting
-
-      * Cicuits d'aventura als arbres
-
-      * BTT
-
-        * *[Rutes del Centre BTT de les Valls d’Àneu.](http://www.vallsdaneu.org/btt-cicloturisme/)* 211 Km de rutes senyalitzades de diferents nivells. (aquest enllaç no funciona perque estan refent la página)
-        * *[Rutes Bike & Run de Camping la Mola](https://ca.wikiloc.com/wikiloc/map.do?sw=-89.9993295%2C-179.999&ne=89.999%2C179.999&loop=1&q=C%C3%A0mping%20la%20Mola&place=C%C3%A0mping%20la%20Mola&fitMapToTrails=1&uid=1782701&page=1)*. Totes surten i arriben al càmping.
+        [*Routes Bike & Run van Camping la Mola*.](https://ca.wikiloc.com/wikiloc/map.do?sw=-89.9993295%2C-179.999&ne=89.999%2C179.999&loop=1&q=C%C3%A0mping%20la%20Mola&place=C%C3%A0mping%20la%20Mola&fitMapToTrails=1&uid=1782701&page=1) Alle routes vertrekken en komen aan in de camping.
   - title: Activitats d'hivern
     description: L'esquí alpí, nòrdic i de muntanya, juntament amb les raquetes de
       neu, són una de les millors maneres de gaudir dels paisatges del Parc
