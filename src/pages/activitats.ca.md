@@ -18,7 +18,7 @@ activities:
       Tant dins del Parc Nacional d'Aigüestortes i Estany de Sant Maurici com en la zona perifèrica, sempre trobarà un sender a la seva mida: des de petits recorreguts familiars fins a llargues travesses d'alta muntanya.
 
 
-      Consulti el *[Plànol guia](http://parcsnaturals.gencat.cat/web/.content/Xarxa-de-parcs/aiguestortes/El-parc/mapa-del-parc/PNASM_planol_guia_LRv4.pdf)* i el *[Fullet d'itineraris recomanats](http://parcsnaturals.gencat.cat/web/.content/Xarxa-de-parcs/aiguestortes/gaudeix-del-parc/guia-de-visita/Propostes-itineraris-per-dies/Pdf/itineraris_valls_aneu_cat11.pdf)*
+      Consulti el *[Plànol guia](http://parcsnaturals.gencat.cat/web/.content/Xarxa-de-parcs/aiguestortes/Inici/PDF/PNASM_planol_guia_LRv4.pdf)* i el *[Fullet d'itineraris recomanats](http://parcsnaturals.gencat.cat/web/.content/Xarxa-de-parcs/aiguestortes/gaudeix-del-parc/guia-de-visita/Propostes-itineraris-per-dies/Pdf/itineraris_valls_aneu_cat11.pdf)*
 
 
       * **Excursions 4x4**
