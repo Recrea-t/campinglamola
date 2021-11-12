@@ -1,6 +1,6 @@
 ---
 templateKey: services-page
-title: Voorzieningen
+title: Diensten
 description: In de nabijheid van het Nationaal Park van Aigüestortes en het Meer
   van San Mauricio, de uitgelezen plek om tot rust te komen en van een
   bevoorrecht landschap te genieten, biedt camping La Mola ruime kampeerplaatsen
