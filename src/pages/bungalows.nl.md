@@ -5,30 +5,29 @@ description: In de nabijheid van het Nationaal Park van Aigüestortes en het Mee
   bevoorrecht landschap te genieten, biedt camping La Mola ruime kampeerplaatsen
   met veel gras en schaduw aan en confortabele en ruime bungalows
 summary: >-
-  Un concepte diferent del tradicional bungalou, amb grans finestrals, bona llum
-  natural, molt d’ espai interior i una ampla terrassa amb porxo .
+  Een concept dat verschilt van de traditionele bungalow, met grote ramen, veel
+  hemellicht, veel binnenruimte en een ruim terras met voorportaal.
 
 
-  Per a 4 i 6 persones. Els de 6 persones tenen un altell amb una habitació més.
+  * Voor 4 en 6 personen. Die voor 6 personen hebben een bijkomende kamer op de zolder. 
 
+  * Slaapkamer met dubbel bed van 1,50 m x 2,00 m.
 
-  * Dormitori de matrimoni amb un llit de 1,50 x 2,00m.
+  * Slaapkamer met twee eenpersoonsbedden van 0,90m x 2,00m.
 
-  * Dormitori amb dos llits individuals de 0,90 x 2,00m.
+  * Donsdekbedden en overtrekken.
 
-  * Edredons nòrdics i fundes .
+  * Handdoeken.
 
-  * Tovalloles.
+  * Woonkamer met TV 33 '.
 
-  * Menjador amb TV de 33’.
+  * Keuken uitgerust met vitrokeramische kookplaat, microgolf, ijskast, vaatwasser, koffiezetmachine Nespreso, broodrooster, citruspers, mixer, huisraad en vaatwerk.
 
-  * Cuina equipada amb vitroceràmica, microones, nevera, renta-vaixelles, cafetera *Nespreso*, torradora, espremedor, batedora, parament i vaixella.
+  * Bad met douche en haardroger.
 
-  * Bany complet amb dutxa.
+  * Verwarming.
 
-  * Calefacció .
-
-  * No s'hi admeten animals de companyia.
+  * Geen huisdieren toegelaten.
 pricing:
   - title: 4 pax
     description: null
