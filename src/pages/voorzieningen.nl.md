@@ -6,57 +6,59 @@ description: In de nabijheid van het Nationaal Park van Aigüestortes en het Mee
   bevoorrecht landschap te genieten, biedt camping La Mola ruime kampeerplaatsen
   met veel gras en schaduw aan en confortabele en ruime bungalows
 services:
-  - title: Bar cafeteria
+  - title: Bar cafetaria
     description: |-
-      Esmorzars, entrepans, pizzes, hamburgueses…Terrassa.
-
-      Obert els mesos d'estiu i Setmana Santa.
+      Ontbijt, sandwiches, pizza’s, hamburgers... Terras
+      Open gedurende de zomermaanden en de Paasvakantie.
     image: /images/01Pic_Bar_Cafeteria.svg
-  - title: Zona WIFI
+  - title: Wifi zone
     description: ""
     image: /images/02Pic_Wifi.svg
-  - title: Supermercat
-    description: Alimentació en general. Servei diari de pa i brioixeria. Càmping
-      Gas. Venda de gel. Congelació d’ acumuladors. Obert els mesos d’estiu.
+  - title: Winkel
+    description: De gebruikelijke voedingswaren. Elke dag vers brood en croissants.
+      Camping gas. Verkoop van ijs. Invriezen van ijsblokken. Open tijdens de
+      zomermaanden.
     image: /images/03Pic_supermercat.svg
-  - title: Sanitaris
-    description: Dos edificis de serveis amb lavabos, dutxes, aigüers i safaretjos.
-      WC Químic. Bany adaptat per a minusvàlids. Banyera per a nadons. Bany
-      privat amb dutxa, lavabo i wc, ideal per a nens, sempre acompanyats d’ un
-      adult (cal demanar la clau a recepció).
+  - title: Sanitair
+    description: Twee sanitaire gebouwen met toiletten, douches, afwasbakken en
+      wasbakken. Chemisch toilet. Aangepast bad voor gehandicapten. Baby-badje.
+      Privé-bad met douche, wastafel en wc, ideaal voor kinderen, altijd
+      vergezeld van een volwassene (vraag de sleutel op de receptie).
     image: /images/04Pic_Sanitaris.svg
-  - title: Sala de jocs
-    description: Billar, futbolí, jocs de taula.
+  - title: Speelzaal
+    description: Biljart, tafelvoetbal, gezelschapsspellen.
     image: /images/05Pic_SalaJocs.svg
-  - title: Sala d'estar
-    description: Acollidora sala d’ estar amb TV i wifi.
+  - title: Zitkamer
+    description: Gezellige kamer met TV en wifi.
     image: /images/06Pic_Saleta.svg
-  - title: Parc infantil
-    description: Una zona pels més petits i una altra per nens de 6 a 12 anys.
+  - title: Kinderspeeltuin
+    description: Een ruimte voor de kleinste kindjes en een andere voor kinderen van
+      6 tot 12 jaar.
     image: /images/07Pic_infantil.svg
-  - title: Tenis i ping-pong
-    description: Possiblitat de llogar raquetes.
+  - title: "Tennis en tafeltennis "
+    description: Verhuur van rackets.
     image: /images/08Pic_Tenis.svg
-  - title: Piscina
-    description: Piscina exterior  de 18m x 10m,  per poder gaudir d’un bon bany
-      durant la seva estada. Els nens hauran d’ accedir sempre acompanyats d’ un
-      adult responsable.
+  - title: Zwembad
+    description: Prachtig buitenzwembad van 18m x 10m, om af te koelen tijdens uw
+      verblijf. Kinderen moeten altijd vergezeld zijn van een verantwoordelijke
+      volwassene.
     image: /images/09Pic_Piscina.svg
-  - title: Bugaderia
-    description: Rentadora i secadora. Per utilitzar-les cal comprar una fitxa a
-      recepció. Servei disponible cada dia.
+  - title: Wasserette
+    description: Wasmachine en droogkast. Functioneren met fiches die te koop zijn
+      op de receptie. Alle dagen beschikbaar.
     image: /images/10Pic_Bugaderia.svg
-  - title: Zona coberta amb taules de pic-nic
-    description: Perfecte pels dies de pluja.
+  - title: Overdekte picknick plaats met tafel
+    description: Perfect op regenachtige dagen.
     image: /images/11Pic_PicNic.svg
-  - title: Barbacoes
-    description: Obligatori l'ús de carbó. Està permesa la barbacoa a la
-      parcel·la.  Està prohibit fer foc al terra.
+  - title: Barbecue roosters
+    description: Verplicht gebruik van houtskool. Op de kampeerstandplaatsen mag
+      gebarbecued worden. Verboden op de grond een vuur te maken.
     image: /images/12Pic_Barbacoa.svg
-  - title: Lloguer de mantes
+  - title: Verhuur van dekens
     description: ""
     image: /images/13Pic_Mantes.svg
-  - title: Lloguer de neveres
-    description: Neveres elèctriques de 85 l. (amb reserva previa).
+  - title: Verhuur van ijskasten
+    description: Electrische ijskasten van 85 l (Neveras eléctricas de 85 l. (vooraf
+      reserveren).
     image: /images/14Pic_Neveres.svg
 ---
