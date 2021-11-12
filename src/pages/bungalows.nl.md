@@ -37,10 +37,29 @@ pricing:
     title: 6 pax
     lowSeason: 130
 pricingNotes: >-
-  Preus per nit. IVA inclòs.
+  
+
+  Prijzen per nacht incl. BTW. Verblijfstaks niet inbegrepen: 0,60€. Tarief per persoon (+16 jaar) en per dag, met een maximum van 7 dagen.                                                                                                                                         Lakens en handdoeken niet inbegrepen. Huuroptie 6 € per persoon en per verblijf.
 
 
-  Impost sobre les estades en establiments turístics no inclòs : 0,60€ .Tarifa per persona (+ 16 anys ) i dia, amb un màxim de 7 dies.
+  **HOOGSEIZOEN**                   
+
+
+  * Van 15 juli tot 29 augustus  (minimumverblijf 7 nachten)                           
+
+  * Paasvakantie en Kerstmis  (minimumverblijf 4 nachten)
+
+  * Brugdagen (minimumverblijf 3 nachten)
+
+
+  **LAAGSEIZOEN**
+
+
+  * Van 1  tot 14 juli (minimumverblijf 7 nachten)             
+
+  * Juni en september (minimumverblijf 4 nachten)
+
+    Raadpleeg andere opties
 regulation: >-
   * És **OBLIGATÒRIA** la presentació de DNI o passaport de tots els ocupants
   majors de 14 anys a l’ arribada al Càmping i registrar tots els vehicles,
