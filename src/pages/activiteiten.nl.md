@@ -6,21 +6,21 @@ description: In de nabijheid van het Nationaal Park van Aigüestortes en het Mee
   bevoorrecht landschap te genieten, biedt camping La Mola ruime kampeerplaatsen
   met veel gras en schaduw aan en confortabele en ruime bungalows
 activities:
-  - title: Muntanya
+  - title: Bergen
     description: >-
-      * **Senderisme** 
+      * **Wandelsport**
 
 
-      Tant dins del Parc Nacional d'Aigüestortes i Estany de Sant Maurici com en la zona perifèrica, sempre trobarà un sender a la seva mida: des de petits recorreguts familiars fins a llargues travesses d'alta muntanya.
+      Zowel binnen het Nationaal Park van Aigüestortes en het Meer van San Mauricio als in de perifere zone vindt je altijd een pad op maat: van kleine familie-routes tot lange overtochten in het hooggebergte. 
 
 
-      Consulti el *[Plànol guia](http://parcsnaturals.gencat.cat/web/.content/Xarxa-de-parcs/aiguestortes/El-parc/mapa-del-parc/PNASM_planol_guia_LRv4.pdf)* i el *[Fullet d'itineraris recomanats](http://parcsnaturals.gencat.cat/web/.content/Xarxa-de-parcs/aiguestortes/gaudeix-del-parc/guia-de-visita/Propostes-itineraris-per-dies/Pdf/itineraris_valls_aneu_cat11.pdf)*
+      Raadpleeg de *[Plano guía](http://parcsnaturals.gencat.cat/web/.content/Xarxa-de-parcs/aiguestortes/Inici/PDF/PNASM_planol_guia_LRv4.pdf)* (Gids met kaart) en de*[ Folleto de itinerarios](http://parcsnaturals.gencat.cat/web/.content/Xarxa-de-parcs/aiguestortes/gaudeix-del-parc/guia-de-visita/Propostes-itineraris-per-dies/Pdf/itineraris_valls_aneu_cat11.pdf)* (Folder met aanbevolen routes).
 
 
-      * **Excursions 4x4**
+      * **Excursies 4x4**
 
 
-      Excursions en 4x4 al cor del Parc Nacional d'Aigüestortes i Estany de Sant Maurici. *[Més informació](https://www.taxisespot.com/excursions)*
+      Excursies met 4x4 in het hart van het Nationaal Park van Aigüestortes en het Meer van San Mauricio. *[Meer informatie](https://www.taxisespot.com/excursions).*
   - title: Aventura
     description: >-
       
