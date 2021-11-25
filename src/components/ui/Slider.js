@@ -1,6 +1,6 @@
 import React, { useEffect, useState, useRef } from "react"
 import { GatsbyImage, getImage } from "gatsby-plugin-image"
-import { Box, Center, Image, Text } from "@chakra-ui/react"
+import { Box, Center, Image } from "@chakra-ui/react"
 
 const BackgroundSlider = ({
   callbacks = {},
@@ -75,8 +75,6 @@ const BackgroundSlider = ({
     })
 
     callbacks.onChange = (prevIndex, newIndex) => {
-      console.log("onchange")
-      console.log(buttonRefs)
       if (buttonRefs[prevIndex].current) {
         buttonRefs[newIndex].current.style.color = "#005321"
       }
@@ -88,8 +86,6 @@ const BackgroundSlider = ({
     const length = bgWrappers.length
 
     const changeIndex = newIndex => {
-      console.log("changeIndex")
-      console.log(buttonRefs)
       const index = indexRef.current
       clearTimeout(timeoutHandleRef.current)
 

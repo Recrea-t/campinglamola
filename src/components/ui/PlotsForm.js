@@ -67,6 +67,8 @@ const PlotsForm = () => {
           body: encode({
             "form-name": name,
             ...values,
+            dataArribada: values.dataArribada.toLocaleDateString("ca-ES"),
+            dataSortida: values.dataSortida.toLocaleDateString("ca-ES"),
           }),
         })
           .then(() => {
