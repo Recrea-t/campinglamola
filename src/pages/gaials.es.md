@@ -8,7 +8,7 @@ summary: >-
   Todos tienen la cocina-comedor y el baño en la planta inferior y la distribución de las habitaciones varía según el gaial. Las habitaciones son abuhardilladas; los de 4 personas tienen dos habitaciones y los de 6 personas tienen 3.
 
 
-  * Cocina equipada (placa vitrocerámica, horno, microondas, nevera, cafetera, menaje, vajilla ...)
+  * Cocina equipada (placa vitrocerámica, horno, microondas, nevera, cafetera, menaje, vajilla...)
 
   * TV.
 
