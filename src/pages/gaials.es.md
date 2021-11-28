@@ -77,9 +77,9 @@ pricingNotes: >-
   **TEMPORADA BAJA**
 
 
-  * Del 1 al 14 de julio, estancia mínima de 4 noches.
+  * Junio, del 1 al 14 de julio y septiembre: estancia mínima de 4 noches.
 
-  * Junio ​​y septiembre, estancia mínima de 4 noches.
+  * Otras fechas: consultar
 conditions: >-
   #### Pagos
 
