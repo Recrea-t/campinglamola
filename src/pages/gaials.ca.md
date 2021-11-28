@@ -79,11 +79,9 @@ pricingNotes: >-
   **TEMPORADA BAIXA**
 
 
-  * De l'1 al 14 de juliol, estada mínima de 4 nits.
+  * Juny, de l'1 al 14 de juliol i setembre: estada mínima de 4 nits.
 
-  * Juny i setembre, estada mínima de 4 nits. 
-
-    Consultar altres opcions
+  * Resta de dates: estada mínima de 2 nits.
 conditions: >-
   #### Pagaments
 
