@@ -7,21 +7,26 @@ import {
   DrawerCloseButton,
   DrawerBody,
   Center,
+  HStack,
 } from "@chakra-ui/react"
 
 import HamburgerIcon from "../../images/HamburgerIcon.svg"
 import CloseIcon from "../../images/CloseIcon.svg"
 
 import useTranslations from "../useTranslations"
+import useSiteMetadata from "../siteMetadata"
+import SocialLink from "../ui/SocialLink"
 import Languages from "../ui/Languages"
 
 import { MotionIconButton, MotionText, EASINGS } from "../../theme/utils"
+import { FaFacebook } from "@react-icons/all-files/fa/FaFacebook"
 
 const ToggleMenu = props => {
   const { isOpen, onOpen, onClose, children, controls } = props
   const btnRef = React.useRef()
 
   const { menuTitle } = useTranslations()
+  const { social } = useSiteMetadata()
 
   const toggleVariants = {
     visible: {
@@ -156,6 +161,20 @@ const ToggleMenu = props => {
               {children}
 
               <Languages />
+
+              <HStack
+                w="full"
+                spacing={4}
+                alignSelf="center"
+                justify="center"
+                py={4}
+              >
+                <SocialLink
+                  color="paleGrey.500"
+                  item={social.facebook}
+                  icon={FaFacebook}
+                />
+              </HStack>
             </DrawerBody>
           </Center>
         </DrawerContent>

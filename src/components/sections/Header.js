@@ -1,22 +1,27 @@
 import React from "react"
 import useMenu from "../useMenu"
+import useSiteMetadata from "../siteMetadata"
 import useTranslations from "../useTranslations"
 
 import { Link as GatsbyLink } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
-import { Flex, Box, useDisclosure, Link } from "@chakra-ui/react"
+import { Flex, Box, useDisclosure, Link, HStack } from "@chakra-ui/react"
 import { Menu, MenuButton, MenuList, MenuItem } from "@chakra-ui/react"
 import { TriangleDownIcon } from "@chakra-ui/icons"
 
 import NavLink from "../ui/NavLink"
 import ToggleMenu from "../ui/ToggleMenu"
+import SocialLink from "../ui/SocialLink"
 import LocalizedLink from "../ui/LocalizedLink"
 
 import { EASINGS } from "../../theme/utils"
 import Languages from "../ui/Languages"
 
+import { FaFacebook } from "@react-icons/all-files/fa/FaFacebook"
+
 const Header = () => {
   const menuItems = useMenu()
+  const { social } = useSiteMetadata()
   const { home, menuTitle } = useTranslations()
   const { isOpen, onOpen, onClose } = useDisclosure()
 
@@ -142,6 +147,14 @@ const Header = () => {
           })}
           <Languages />
         </Flex>
+
+        <HStack spacing={2} display={{ base: "none", md: "inherit" }}>
+          <SocialLink
+            color="dullBrown.500"
+            item={social.facebook}
+            icon={FaFacebook}
+          />
+        </HStack>
       </Flex>
     </Box>
   )
