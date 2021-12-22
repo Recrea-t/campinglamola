@@ -62,7 +62,7 @@ pricingNotes: >-
   Taxe de séjour pas comprise: 0,66 € par personne (+16 ans) et par jour, avec un maximum de 7 jours.*
 
 
-  Draps et serviettes ne sont pas inclus. Location facultative: 6,5 € par personne et par séjour.
+  Draps et serviettes ne sont pas inclus. Location facultative: 6,50 € par personne et par séjour.
 
 
   **HAUTE SAISON**
