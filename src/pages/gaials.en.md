@@ -60,7 +60,7 @@ pricingNotes: >-
 
   Tax on stays in tourist establishments not included: €0.66 Rate per day per person aged over 16, with a maximum of 7 days.*
 
-  Sheets and towels not included. Optional renting 6 € per person and stay.
+  Sheets and towels not included. Optional renting 6,5 € per person and stay.
 
 
   **HIGH SEASON**
