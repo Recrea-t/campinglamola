@@ -24,11 +24,11 @@ summary: >-
 pricing:
   - title: 4 pax
     description: null
-    highSeason: 100
-    lowSeason: 75
-  - highSeason: 110
-    title: 6 pax
+    highSeason: 105
     lowSeason: 85
+  - highSeason: 113
+    title: 6 pax
+    lowSeason: 94
 regulation: >-
   * Il est **OBLIGATOIRE** de présenter la Carte d’identité ou le passeport de
   tous les voyageurs de plus de 14 ans à l'entrée du camping et d'enregistrer
