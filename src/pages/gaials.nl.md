@@ -62,7 +62,7 @@ pricingNotes: >-
   Prijzen per nacht incl. BTW. Verblijfstaks niet inbegrepen: 0,66 €. Tarief per
   persoon (+16 jaar) en per dag, met een maximum van 7
   dagen.                                                                                                                                         Lakens
-  en handdoeken niet inbegrepen. Huuroptie 6,5 € per persoon en per verblijf.
+  en handdoeken niet inbegrepen. Huuroptie 6,50 € per persoon en per verblijf.
 
 
   **HOOGSEIZOEN**                   
