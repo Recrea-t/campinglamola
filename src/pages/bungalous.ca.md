@@ -27,11 +27,11 @@ summary: >-
   * No s'hi admeten animals de companyia.
 pricing:
   - title: 4 pax
-    highSeason: 150
-    lowSeason: 110
-  - highSeason: 175
+    highSeason: 160
+    lowSeason: 115
+  - highSeason: 180
     title: 6 pax
-    lowSeason: 130
+    lowSeason: 135
 regulation: >-
   * És **OBLIGATÒRIA** la presentació de DNI o passaport de tots els ocupants
   majors de 14 anys a l’ arribada al Càmping i registrar tots els vehicles,
