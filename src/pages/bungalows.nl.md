@@ -31,11 +31,11 @@ summary: >-
 pricing:
   - title: 4 pax
     description: null
-    highSeason: 150
-    lowSeason: 110
-  - highSeason: 175
+    highSeason: 160
+    lowSeason: 115
+  - highSeason: 180
     title: 6 pax
-    lowSeason: 130
+    lowSeason: 135
 pricingNotes: >-
   
 
