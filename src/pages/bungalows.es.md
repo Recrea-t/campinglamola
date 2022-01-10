@@ -31,9 +31,9 @@ summary: >-
   * No se admiten mascotas.
 pricing:
   - title: 4 pax
-    highSeason: 150
+    highSeason: 160
     lowSeason: 115
-  - highSeason: 170
+  - highSeason: 180
     title: 6 pax
     lowSeason: 135
 pricingNotes: >-
