@@ -149,11 +149,11 @@ module.exports = {
       },
     },
     "gatsby-plugin-netlify-cms",
-    {
-      resolve: "gatsby-plugin-webpack-bundle-analyser-v2",
-      options: {
-        devMode: false,
-      },
-    },
+    //{
+    //resolve: "gatsby-plugin-webpack-bundle-analyser-v2",
+    //options: {
+    //devMode: false,
+    //},
+    //},
   ],
 }
