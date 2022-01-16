@@ -18,7 +18,7 @@ summary: >-
 
   * Menjador amb TV de 33’.
 
-  * Cuina equipada amb vitroceràmica, microones, nevera, renta-vaixelles, cafetera *Nespreso*, torradora, espremedor, batedora, parament i vaixella.
+  * Cuina equipada amb vitroceràmica, microones, nevera, renta-vaixelles, cafetera Nespreso, torradora, espremedor, batedora, parament i vaixella.
 
   * Bany complet amb dutxa i assecador.
 
