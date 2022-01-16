@@ -24,6 +24,7 @@
     "axios": "^0.24.0",
     "browser-lang": "^0.1.0",
     "cross-env": "^7.0.3",
+    "deepmerge": "^4.2.2",
     "formik": "^2.2.9",
     "framer-motion": "^5.6.0",
     "gatsby": "^4.5.2",
