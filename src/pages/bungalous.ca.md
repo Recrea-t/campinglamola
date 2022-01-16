@@ -56,7 +56,6 @@ images:
   - /images/bungalows4.jpg
   - /images/bungalows5.jpg
   - /images/bungalows6.jpg
-  - /images/bungalows7.jpg
   - /images/bungalows8.jpg
   - /images/bungalows9.jpg
   - /images/bungalows10.jpg
