@@ -1,6 +1,5 @@
 import React, { useEffect } from "react"
 import { Link as GatsbyLink } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
 import {
   Box,
   Modal,

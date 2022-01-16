@@ -18,12 +18,7 @@ function variantButton(props) {
     }
   }
 
-  const {
-    bg = `${c}.500`,
-    color = "paleGrey.500",
-    hoverBg = `${c}.600`,
-    activeBg = `${c}.700`,
-  } = {}
+  const { bg = `${c}.500`, color = "paleGrey.500", activeBg = `${c}.700` } = {}
 
   const background = mode(bg, `${c}.200`)(props)
 
