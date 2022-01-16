@@ -1,6 +1,6 @@
 ---
 templateKey: contact-page
-title: Contacto
+title: Contacte
 description: Cámping situado en la zona del Parque Nacional de Aiguestortes i
   Estany de Sant Maurici, el enclave ideal para relajarse y disfrutar de
   privilegiados paisajes. Ofrecemos amplias parcelas con césped y sombra, así
