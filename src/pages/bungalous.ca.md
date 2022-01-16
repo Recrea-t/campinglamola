@@ -29,7 +29,7 @@ pricing:
   - title: 4 pax
     highSeason: 160
     lowSeason: 115
-  - highSeason: 180
+  - highSeason: 185
     title: 6 pax
     lowSeason: 135
 regulation: >-
