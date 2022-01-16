@@ -27,8 +27,8 @@ summary: >-
   * No s'hi admeten animals de companyia.
 pricing:
   - title: 4 pax
-    highSeason: 161
-    lowSeason: 116
+    highSeason: 160
+    lowSeason: 115
   - highSeason: 180
     title: 6 pax
     lowSeason: 135
