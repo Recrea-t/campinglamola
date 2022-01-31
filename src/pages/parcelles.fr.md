@@ -14,19 +14,19 @@ summary: |-
   * Les animaux domestiques tenus en laisse sont admis.
 pricing:
   - title: Adulte
-    price: 5
+    price: 6.55
   - title: Enfant (de 5 à 11 ans)
-    price: 5
+    price: 6
   - title: À pied (1 personne)
     price: 10
   - title: Emplacement Standard 60/70m2 (max 6 personnes et 1 voiture)
     price: 15.7
   - title: Emplacement XL 120m2 (max 6 personnes et 1 voiture)
-    price: 23
+    price: 24
   - title: Voiture supplémentaire
     price: 6.4
   - title: "Connection électricité "
-    price: 5
+    price: 7
   - title: Animal domestique (chien)
     price: 3
   - title: Visite (max 4 h.)
