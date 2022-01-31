@@ -33,7 +33,7 @@ pricing:
   - title: Extra auto
     price: 6.4
   - title: Elektriciteit
-    price: 5
+    price: 7
   - title: "Huisdier "
     price: 3
   - title: "Gast (max 4 uur) "
