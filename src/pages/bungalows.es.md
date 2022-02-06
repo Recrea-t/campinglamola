@@ -57,7 +57,7 @@ pricingNotes: >-
 
   * Del 1 al 14 de julio, estancia mínima de 7 noches.
 
-  * Junio ​​y septiembre, estancia mínima de 4 noches.
+  * Junio, septiembre y resto del año, estancia mínima de 4 noches.
 regulation: >-
   * Es **OBLIGATORIA** la presentación de DNI o pasaporte de todos los ocupantes
   mayores de 14 años a la llegada al cámping y registrar todos los vehículos,
