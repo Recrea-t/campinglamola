@@ -148,6 +148,7 @@ module.exports = {
         ],
       },
     },
+    "gatsby-plugin-netlify",
     "gatsby-plugin-netlify-cms",
     //{
     //resolve: "gatsby-plugin-webpack-bundle-analyser-v2",
