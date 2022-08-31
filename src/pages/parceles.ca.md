@@ -31,9 +31,9 @@ pricing:
   - title: De pas (1 persona a peu)
     price: 10
   - title: Parcel.la Standard 60/70 m2 (màx. 6 persones i 1 vehicle)
-    price: 15.7
+    price: 10
   - title: Parcel.la XL 120 m2 (màx. 6 persones i 1 vehicle)
-    price: 24
+    price: 20
   - title: Cotxe extra
     price: 6.4
   - title: Electricitat (6 ampers)
