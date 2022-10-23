@@ -55,9 +55,11 @@ pricingNotes: >-
   **TEMPORADA BAJA**
 
 
+  * Del 20 al 30 de junio y del 28 de agosto al 11 de septiembre, estancia mínima de 4 noches.
+
   * Del 1 al 14 de julio, estancia mínima de 7 noches.
 
-  * Junio, septiembre y resto del año, estancia mínima de 4 noches.
+    Consultar otras opciones
 regulation: >-
   * Es **OBLIGATORIA** la presentación de DNI o pasaporte de todos los ocupantes
   mayores de 14 años a la llegada al cámping y registrar todos los vehículos,
