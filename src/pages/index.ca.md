@@ -33,8 +33,17 @@ parcNacionalImage: /images/Entorn01.jpg
 parcNaturalImage: /images/Entorn02.jpg
 aneuImage: /images/Entorn03.jpg
 offer:
-  active: false
-  title: Títol de l'oferta
-  subtitle: 2x1
-  description: Descripció de l'oferta, característiques, data de caducitat, etc...1
+  active: true
+  title: Setmana Santa
+  subtitle: De l'1 al 10 d' abril 2023
+  description: |-
+    **P﻿arcel·la Standard    13,00 €/nit** 
+
+    **P﻿arcel.la XL (120m2) 19,00 €/nit**
+
+    A﻿plicable en estades a partir de 2 nits
+
+    R﻿eserva i no paguis fins el dia de sortida
+
+    i﻿nfo@campinglamola.com
 ---
