@@ -33,7 +33,7 @@ parcNacionalImage: /images/Entorn01.jpg
 parcNaturalImage: /images/Entorn02.jpg
 aneuImage: /images/Entorn03.jpg
 offer:
-  active: true
+  active: false
   title: Setmana Santa
   subtitle: De l'1 al 10 d' abril 2023
   description: |-
