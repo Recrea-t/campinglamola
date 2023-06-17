@@ -69,8 +69,6 @@ regulation: >-
   * Horari de silenci: de 23:00 a 7:00. Prohibida la circulació de vehicles: de 23:00 a 7:00.
 
 
-
-
   ##### **Animals de companyia**
 
 
@@ -80,7 +78,7 @@ regulation: >-
 
   * S'ha d'evitar que la mascota emeti lladrucs injustificats a qualsevol hora i menys en les hores de descans.
 
-  * El client es compromet a què el seu gos estigui vacunat i compleixi amb les condicions fitosanitàries establertes per llei.
+  * El client es compromet a què el seu gos estigui vacunat i compleixi amb les condicions higienicosanitàries   establertes per llei. 
 
   * Queda prohibit l'accés del gos a l’ interior dels edificis, allotjaments, piscina i parc infantil.
 
