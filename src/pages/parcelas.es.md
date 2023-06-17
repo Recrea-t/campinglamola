@@ -64,8 +64,6 @@ regulation: >-
   * Horario de silencio: de 23:00 a 7:00. Prohibida la circulación de vehículos: de 23:00 a 7:00.
 
 
-
-
   #### **Animales de compañía**
 
 
@@ -75,7 +73,7 @@ regulation: >-
 
   * Hay que evitar que la mascota emita ladridos injustificados a cualquier hora y menos en las horas de descanso.
 
-  * El cliente se compromete a que su perro esté vacunado y cumpla con las condiciones fitosanitarias establecidas por ley.
+  * El cliente se compromete a que su perro esté vacunado y cumpla con las condiciones higiénico-sanitarias  establecidas por ley.
 
   * Queda prohibido el acceso del perro en el interior de los edificios, alojamientos, parque infantil y piscina.
 
