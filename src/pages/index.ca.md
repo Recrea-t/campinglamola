@@ -7,7 +7,6 @@ description: Càmping a Espot situat a la zona del Parc Nacional d'Aigüestortes
   còmodes i espaiosos bungalows
 images:
   - /images/dji_0054-2.jpg
-  - /images/Inici02.jpg
   - /images/dji_0194.jpg
   - /images/piscina-zoom.jpg
   - /images/img_1218.jpg
