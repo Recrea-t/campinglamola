@@ -6,11 +6,10 @@ description: Càmping a Espot situat a la zona del Parc Nacional d'Aigüestortes
   privilegiats paisatges. Oferim àmplies parcel·les amb gespa i ombra, així com
   còmodes i espaiosos bungalows
 images:
-  - /images/Inici03.jpg
-  - /images/Inici01.jpg
-  - /images/Inici04.jpg
-  - /images/Inici02.jpg
   - /images/dji_0054-2.jpg
+  - /images/Inici02.jpg
+  - /images/img_1218.jpg
+  - /images/img_9854.jpg
 summary: >-
   En l'immillorable entorn natural del Parc Nacional d'Aigüestortes i Estany de
   Sant Maurici, al nord del Pallars Sobirà, l'enclavament ideal per relaxar-se i
