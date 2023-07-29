@@ -10,7 +10,6 @@ images:
   - /images/Inici01.jpg
   - /images/Inici04.jpg
   - /images/Inici02.jpg
-  - /images/Inici05.jpg
   - /images/dji_0054-2.jpg
 summary: >-
   En l'immillorable entorn natural del Parc Nacional d'Aigüestortes i Estany de
