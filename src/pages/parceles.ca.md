@@ -8,7 +8,6 @@ description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estan
 images:
   - /images/parceles1.jpg
   - /images/parceles2.jpg
-  - /images/parceles3.jpg
 summary: >-
   * De 70 a 120m2.
 
