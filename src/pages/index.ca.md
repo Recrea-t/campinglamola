@@ -9,9 +9,9 @@ images:
   - /images/dji_0054-2.jpg
   - /images/dji_0194.jpg
   - /images/img_3503.jpg
-  - /images/img_9864.jpg
   - /images/img_1218.jpg
   - /images/img_9752.jpg
+  - /images/28338385-eb47-4cf7-bb99-bdaf45a5dff2.jpeg
 summary: >-
   En l'immillorable entorn natural del Parc Nacional d'Aigüestortes i Estany de
   Sant Maurici, al nord del Pallars Sobirà, l'enclavament ideal per relaxar-se i
