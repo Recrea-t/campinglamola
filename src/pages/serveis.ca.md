@@ -10,6 +10,7 @@ images:
   - /images/serveis3.jpg
   - /images/img_9830.jpg
   - /images/taburets-wifi.jpg
+  - /images/28338385-eb47-4cf7-bb99-bdaf45a5dff2.jpeg
 services:
   - title: Bar cafeteria
     description: |-
