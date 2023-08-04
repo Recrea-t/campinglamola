@@ -7,6 +7,7 @@ description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estan
   espaiosos bungalows
 images:
   - /images/img_1262.jpg
+  - /images/img_4806.jpg
   - /images/parceles2.jpg
 summary: >-
   * De 70 a 120m2.
