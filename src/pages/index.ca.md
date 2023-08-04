@@ -9,7 +9,7 @@ images:
   - /images/dji_0054-2.jpg
   - /images/dji_0194.jpg
   - /images/img_3503.jpg
-  - /images/9488fd92-bfa2-4232-805f-269336d57259.jpeg
+  - /images/img_9864.jpg
   - /images/img_1218.jpg
   - /images/img_9752.jpg
 summary: >-
