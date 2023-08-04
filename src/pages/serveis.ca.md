@@ -9,9 +9,10 @@ images:
   - /images/lavabos-t..jpg
   - /images/serveis3.jpg
   - /images/img_1177.jpg
+  - /images/img_3412.jpg
   - /images/img_9830.jpg
-  - /images/taburets-wifi.jpg
   - /images/28338385-eb47-4cf7-bb99-bdaf45a5dff2.jpeg
+  - /images/taburets-wifi.jpg
 services:
   - title: Bar cafeteria
     description: |-
