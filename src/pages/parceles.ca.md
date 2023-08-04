@@ -6,6 +6,7 @@ description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estan
   paisatges. Oferim àmplies parcel·les amb gespa i ombra, així com còmodes i
   espaiosos bungalows
 images:
+  - /images/img_1262.jpg
   - /images/parceles1.jpg
   - /images/parceles2.jpg
 summary: >-
