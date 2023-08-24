@@ -51,9 +51,10 @@ description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estan
   gaudir de privilegiats paisatges. Oferim àmplies parcel·les amb gespa i ombra,
   així com còmodes i espaiosos bungalows
 images:
+  - /images/img_4242.jpg
   - /images/img_7946.jpg
   - /images/img_4255.jpg
-  - /images/img_4242.jpg
+  - /images/img_4283.jpg
 pricingNotes: >-
   *Preus per nit. IVA inclòs. Impost sobre les estades en establiments turístics
   no inclòs : 0,66€ per persona (+16 anys) i dia, amb un màxim de 7 dies.*
