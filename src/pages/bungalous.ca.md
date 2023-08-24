@@ -53,7 +53,6 @@ description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estan
 images:
   - /images/img_4242.jpg
   - /images/img_7946.jpg
-  - /images/img_4255.jpg
   - /images/img_4283.jpg
 pricingNotes: >-
   *Preus per nit. IVA inclòs. Impost sobre les estades en establiments turístics
