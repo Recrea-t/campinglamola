@@ -50,18 +50,7 @@ description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estan
   de Sant Maurici- Espot- Pallars Sobirà- l'enclavament ideal per relaxar-se i
   gaudir de privilegiats paisatges. Oferim àmplies parcel·les amb gespa i ombra,
   així com còmodes i espaiosos bungalows
-images:
-  - /images/bungalows1.jpg
-  - /images/bungalows2.jpg
-  - /images/bungalows4.jpg
-  - /images/bungalows5.jpg
-  - /images/bungalows6.jpg
-  - /images/bungalows8.jpg
-  - /images/bungalows9.jpg
-  - /images/bungalows10.jpg
-  - /images/bungalows11.jpg
-  - /images/bungalows12.jpg
-  - /images/bungalows13.jpg
+images: []
 pricingNotes: >-
   *Preus per nit. IVA inclòs. Impost sobre les estades en establiments turístics
   no inclòs : 0,66€ per persona (+16 anys) i dia, amb un màxim de 7 dies.*
