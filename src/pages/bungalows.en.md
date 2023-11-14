@@ -31,10 +31,10 @@ pricing:
   - title: 4 pax
     description: null
     highSeason: 160
-    lowSeason: 115
-  - highSeason: 185
+    lowSeason: 120
+  - highSeason: 190
     title: 6 pax
-    lowSeason: 135
+    lowSeason: 140
 pricingNotes: >-
   *Prices per night. VAT included. Tax on stays in tourist establishments not
   included: €0.66 Rate per day per person aged over 16, with a maximum of 7
