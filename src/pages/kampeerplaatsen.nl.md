@@ -21,23 +21,23 @@ summary: >-
   * Huisdieren toegelaten met uitzondering van honden die als potentieel gevaarlijk beschouwd worden
 pricing:
   - title: Volwassene
-    price: 6.95
+    price: 7
   - title: "Kinderen van 5 tot 15 "
     price: 6
   - title: "Transit (1 pers. te voet)\t"
     price: 10
   - title: Standaard standplaats 60/70 m2 (max. 6 pers.+ 1 voertuig)
-    price: 16.5
+    price: 17
   - title: XL standplaats 120 m2  (max. 6 pers. + 1 voertuig)
-    price: 25
+    price: 26
   - title: Extra auto
     price: 6.4
   - title: Elektriciteit
     price: 7.5
   - title: "Huisdier "
-    price: 4.2
+    price: 4.5
   - title: "Gast (max 4 uur) "
-    price: 3
+    price: 4
 pricingNotes: >-
   *Prijzen per nacht incl. BTW.
 
