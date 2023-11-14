@@ -21,23 +21,23 @@ summary: >-
   * Se admiten animales domésticos, a excepción de los perros considerados como potencialmente peligrosos.
 pricing:
   - title: Adulto
-    price: 6.95
+    price: 7
   - title: Niños de 5 a 15 años
     price: 6
   - title: De paso (1 persona a pie)
     price: 10
   - title: Parcela Standard 60/70 m2 (máx. 6 personas y 1 vehículo)
-    price: 16.5
+    price: 17
   - title: Parcel.la XL 120 m2 (máx. 6 personas y 1 vehículo)
-    price: 25
+    price: 26
   - title: Cotxe extra
     price: 6.4
   - title: Electricidad (6 ampers)
     price: 7.5
   - title: Mascota (perro)
-    price: 4.2
+    price: 4.5
   - title: Visita (máxim 4 horas)
-    price: 3
+    price: 4
 pricingNotes: >-
   *Precios por noche. IVA incluido.
 
