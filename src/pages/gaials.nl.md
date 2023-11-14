@@ -24,11 +24,11 @@ summary: >-
 pricing:
   - title: 4 pax
     description: null
-    highSeason: 105
-    lowSeason: 85
-  - highSeason: 115
+    highSeason: 110
+    lowSeason: 90
+  - highSeason: 125
     title: 6 pax
-    lowSeason: 95
+    lowSeason: 100
 regulation: >-
   * **VERPLICHT** vertoon bij aankomst in de camping van identiteitskaart of
   paspoort van alle reizigers ouder dan 14 jaar en registratie van alle
