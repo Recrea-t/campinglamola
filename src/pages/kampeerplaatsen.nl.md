@@ -55,9 +55,9 @@ regulation: >-
   * **VERPLICHT** vertoon aan de ingang van de camping van identiteitskaart of
   paspoort van alle reizigers ouder dan 14 jaar.
 
-  * Aankomsttijd: van 11:00 tot 21:30 u (raadpleeg andere opties).
+  * Aankomsttijd: van 11:00 tot 21:00 u (raadpleeg andere opties).
 
-  * Vertrektijd: vóór 13:00 u. Een vertrek na 13:00 u zonder voorafgaande mededeling aan het onthaal brengt de betaling van een bijkomende nacht met zich mee.
+  * Vertrektijd: vóór 12:00 u. Een vertrek na 13:00 u zonder voorafgaande mededeling aan het onthaal brengt de betaling van een bijkomende nacht met zich mee.
 
   * Gelieve uw voertuig niet te verplaatsen binnen de camping indien niet strikt noodzakelijk.
 
@@ -71,7 +71,7 @@ regulation: >-
 
   * Binnen de camping moeten honden aan de leiband lopen en op elk ogenblik gecontroleerd worden; ze mogen nooit op een ander perceel dan dat van hun baasjes gaan liggen of een ander perceel doorkruisen.
 
-  *  Er moet vermeden worden dat huisdieren op eender welk ogenblik te veel ongeoorloofd lawaai maken en nog minder in de stille uren.
+  * Er moet vermeden worden dat huisdieren op eender welk ogenblik te veel ongeoorloofd lawaai maken en nog minder in de stille uren.
 
   * De klant verplicht zich ertoe dat z’n hond gevaccineerd is en dat hij de door de wet vastgelegde fytosanitaire voorwaarden in acht neemt.
 
