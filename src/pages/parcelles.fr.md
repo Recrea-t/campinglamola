@@ -49,9 +49,9 @@ regulation: >-
   tous les voyageurs de plus de 14 ans à l'entrée du camping et d'enregistrer
   tous les véhicules, en indiquant le numéro d'immatriculation et le modèle.
 
-  * Heure d'arrivée: de 11:00h à 21:30h (voir autres options).
+  * Heure d'arrivée: de 11:00h à 21:00h (voir autres options).
 
-  * Heure de départ: avant 13:00h, à partir de ces heures on comptera un séjour de plus.
+  * Heure de départ: avant 12:00h, à partir de ces heures on comptera un séjour de plus.
 
   * Il est recommandé d’utiliser son véhicule le moins possible dans le camping et de ne jamais rouler à plus de 10km/h.                                                                 
 
@@ -70,13 +70,13 @@ regulation: >-
 
   * Il est nécessaire d'empêcher l'animal d'aboyer de manière injustifiée pendant les heures de repos.
 
-  *  Le client accepte que son chien soit vacciné et respecte les conditions phytosanitaires établies par la loi.
+  * Le client accepte que son chien soit vacciné et respecte les conditions phytosanitaires établies par la loi.
 
   * Les chiens ne sont pas autorisés à l'intérieur des bâtiments, des hébergements, de l' aire de jeux et de la piscine.
 
   * Les animaux doivent faire leurs besoins à l'extérieur du camping. Dans tous les cas, les propriétaires doivent collecter les excréments de leurs animaux et les déposer dans un sac à la poubelle.
 
-  *  Le propriétaire de l'animal sera responsable de tout dommage qu'il pourrait causer au reste des campeurs et à leur propriété ainsi qu'aux installations du camping.
+  * Le propriétaire de l'animal sera responsable de tout dommage qu'il pourrait causer au reste des campeurs et à leur propriété ainsi qu'aux installations du camping.
 conditions: >-
   Si vous réservez une parcelle directement avec nous via web ou par e-mail,
   aucun paiement anticipé n'est requis. Il suffit de connaître le jour
