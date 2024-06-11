@@ -59,9 +59,9 @@ regulation: >-
   * És **OBLIGATÒRIA** la presentació de DNI o passaport de tots els viatgers
   majors de 14 anys a l'entrada al Càmping.
 
-  * Hora d'entrada: de 11:00 a 21:30 (consultar altres opcions).
+  * Hora d'entrada: de 11:00 a 21:00 (consultar altres opcions).
 
-  * Hora de sortida: abans de les 13:00. La sortida posterior sense prèvia comunicació a recepció, comporta el cost d'una nit addicional.
+  * Hora de sortida: abans de les 12:00. La sortida posterior sense prèvia comunicació a recepció, comporta el cost d'una nit addicional.
 
   * No desplaçar-se per dins del càmping amb el vehicle si no és estrictament necessari.
 
