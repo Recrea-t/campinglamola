@@ -22,4 +22,25 @@ description: Cámping situado en la zona del Parque Nacional de Aiguestortes i
 offer:
   title: Oferta
   active: false
+  description: >-
+    **O﻿FERTA TEMPORADA BAJA**
+
+
+    * **Parcela Standard:** 13 €/noche
+
+    * **Parcela XL:** 19 €/noche
+
+
+    **Condiciones:**
+
+
+    * **Ocupación máxima:** 6 personas por parcela.
+
+    * **Incluye:** Unidad de acampada (tienda, caravana, autocaravana) y un vehículo estacionado en la parcela.
+
+    * **Extras:**
+
+      * Tiendas auxiliares (tipo iglú) sin coste adicional, siempre que estén dentro de los límites de la parcela.
+      * Segundo vehículo permitido con registro y pago según la tarifa vigente, debe estacionarse en la misma parcela.
+  subtitle: A partir del 28 de Agosto
 ---
