@@ -35,16 +35,26 @@ parcNaturalImage: /images/Entorn02.jpg
 aneuImage: /images/Entorn03.jpg
 offer:
   active: false
-  title: Setmana Santa
-  subtitle: De l'1 al 10 d' abril 2023
-  description: |-
-    **P﻿arcel·la Standard    13,00 €/nit** 
+  title: "Temporada Baixa "
+  subtitle: Del 28 d' Agost  al 15 de Setembre
+  description: >-
+    **O﻿FERTA TEMPORADA BAIXA**
 
-    **P﻿arcel.la XL (120m2) 19,00 €/nit**
 
-    A﻿plicable en estades a partir de 2 nits
+    * **Parcel·la Standard:** 13 €/nit
 
-    R﻿eserva i no paguis fins el dia de sortida
+    * **Parcel·la XL:** 19 €/nit
 
-    i﻿nfo@campinglamola.com
+
+    **Condicions:**
+
+
+    * **Ocupació màxima:** 6 persones per parcel·la.
+
+    * **Inclou:** Unitat d'acampada (tenda, caravana, autocaravana) i un vehicle estacionat a la parcel·la.
+
+    * **Extres:**
+
+      * Tendes auxiliars (tipus iglú) sense cost addicional, sempre que estiguin dins dels límits de la parcel·la.
+      * Segon vehicle permès amb registre i pagament segons la tarifa vigent, ha d'estacionar-se a la mateixa parcel·la.
 ---
