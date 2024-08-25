@@ -35,8 +35,8 @@ parcNaturalImage: /images/Entorn02.jpg
 aneuImage: /images/Entorn03.jpg
 offer:
   active: false
-  title: "Temporada Baixa "
-  subtitle: Del 28 d' Agost  al 15 de Setembre
+  title: Tarifa especial final de temporada
+  subtitle: A partir del 28 d' Agost
   description: >-
     **O﻿FERTA TEMPORADA BAIXA**
 
