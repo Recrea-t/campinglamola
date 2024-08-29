@@ -40,21 +40,23 @@ offer:
   description: >-
     **O﻿FERTA TEMPORADA BAIXA**
 
+     **   Parcel·la Standard:**  13 €/nit
 
-    * **Parcel·la Standard:** 13 €/nit
+     **   Parcel·la XL:** 19 €/nit
 
-    * **Parcel·la XL:** 19 €/nit
+     ﻿  ** Adults:** 6 €/nit
 
+     ﻿   **Nens:** 5 €/nit
 
     **Condicions:**
 
+     **   Ocupació màxima:** 6 persones per parcel·la.
 
-    * **Ocupació màxima:** 6 persones per parcel·la.
+     **   Inclou:** Unitat d'acampada (tenda, caravana, autocaravana) i un vehicle estacionat a la parcel·la.
 
-    * **Inclou:** Unitat d'acampada (tenda, caravana, autocaravana) i un vehicle estacionat a la parcel·la.
+     **   Extres:**
 
-    * **Extres:**
+    * Tendes auxiliars (tipus iglú) sense cost addicional, sempre que estiguin dins dels límits de la parcel·la.
 
-      * Tendes auxiliars (tipus iglú) sense cost addicional, sempre que estiguin dins dels límits de la parcel·la.
-      * Segon vehicle permès amb registre i pagament segons la tarifa vigent, ha d'estacionar-se a la mateixa parcel·la.
+    * Segon vehicle permès amb registre i pagament segons la tarifa vigent, ha d'estacionar-se a la mateixa parcel·la.
 ---
