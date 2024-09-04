@@ -65,7 +65,5 @@ offer:
     ```
 
 
-    * Tendes auxiliars (tipus iglú) sense cost addicional, sempre que estiguin dins dels límits de la parcel·la.
-
     * Segon vehicle permès amb registre i pagament segons la tarifa vigent, ha d'estacionar-se a la mateixa parcel·la.
 ---
