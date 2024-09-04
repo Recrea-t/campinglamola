@@ -36,11 +36,11 @@ aneuImage: /images/Entorn03.jpg
 offer:
   active: true
   title: Tarifa especial final de temporada
-  subtitle: A partir del 5 de Setembre
-  description: >-
+  subtitle: A partir del 5 de setembre
+  description: |-
     **O﻿FERTA TEMPORADA BAIXA**
 
-     **Adults:** 7 €/nit
+     **Adults:** 6 €/nit
 
      **Parcel·la Standard:**  13 €/nit
 
@@ -50,20 +50,12 @@ offer:
 
     **Condicions:**
 
-
     ```
-
     OFERTA TEMPORADA BAIXA
 
-
     Adults: 7 €/nit
-
     Parcel·la Standard: 13 €/nit
        o
     Parcel·la XL: 19 €/nit
-
     ```
-
-
-    * Segon vehicle permès amb registre i pagament segons la tarifa vigent, ha d'estacionar-se a la mateixa parcel·la.
 ---
