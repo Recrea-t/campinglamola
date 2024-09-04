@@ -25,18 +25,20 @@ offer:
   description: >-
     **O﻿FERTA TEMPORADA BAJA**
 
+     **\    A﻿dulto:** 7 €/noche  
 
-    * **Parcela Standard:** 13 €/noche
+     **\    +**
 
-    * **Parcela XL:** 19 €/noche
+     **\    Parcela Standard:**  13 €/noche
 
+    \    o
+
+     **\    Parcela XL:** 19 €/noche
 
     **Condiciones:**
 
 
     * **Ocupación máxima:** 6 personas por parcela.
-
-    * **Incluye:** Unidad de acampada (tienda, caravana, autocaravana) y un vehículo estacionado en la parcela.
 
     * **Extras:**
 
