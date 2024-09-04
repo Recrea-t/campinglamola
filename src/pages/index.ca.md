@@ -36,21 +36,25 @@ aneuImage: /images/Entorn03.jpg
 offer:
   active: true
   title: Tarifa especial final de temporada
-  subtitle: A partir del 28 d' Agost
+  subtitle: A partir del 5 de Setembre
   description: >-
     **O﻿FERTA TEMPORADA BAIXA**
 
-      **  Parcel·la Standard:**  13 €/nit
+     **﻿   Adults: 7** €/nit
 
-      **  Parcel·la XL:** 19 €/nit
+    \    +
+
+       ** Parcel·la Standard:**  13 €/nit
+
+    \    o
+
+       ** Parcel·la XL:** 19 €/nit
 
     **Condicions:**
 
-      **  Ocupació màxima:** 6 persones per parcel·la.
+       ** Ocupació màxima:** 6 persones per parcel·la.
 
-      **  Inclou:** Unitat d'acampada (tenda, caravana, autocaravana) i un vehicle estacionat a la parcel·la.
-
-      **  Extres:**
+       ** Extres:**
 
     * Tendes auxiliars (tipus iglú) sense cost addicional, sempre que estiguin dins dels límits de la parcel·la.
 
