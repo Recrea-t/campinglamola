@@ -60,7 +60,7 @@ offer:
 
     Parcel·la Standard: 13 €/nit
        o
-    Parcel·la XL:** 19 €/nit
+    Parcel·la XL: 19 €/nit
 
     ```
 
