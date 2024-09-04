@@ -40,7 +40,7 @@ offer:
   description: >-
     **O﻿FERTA TEMPORADA BAIXA**
 
-     ﻿   Adults: 7 €/nit
+     **Adults:** 7 €/nit
 
      **Parcel·la Standard:**  13 €/nit
 
