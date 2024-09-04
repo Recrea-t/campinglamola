@@ -40,21 +40,21 @@ offer:
   description: >-
     **O﻿FERTA TEMPORADA BAIXA**
 
-     **﻿   Adults: 7** €/nit
+     ﻿**   Adults: 7** €/nit
 
-    \    +
+     +
 
-       ** Parcel·la Standard:**  13 €/nit
+        **Parcel·la Standard:**  13 €/nit
 
-    \    o
+       o
 
-       ** Parcel·la XL:** 19 €/nit
+        **Parcel·la XL:** 19 €/nit
 
     **Condicions:**
 
-       ** Ocupació màxima:** 6 persones per parcel·la.
+        **Ocupació màxima:** 6 persones per parcel·la.
 
-       ** Extres:**
+        **Extres:**
 
     * Tendes auxiliars (tipus iglú) sense cost addicional, sempre que estiguin dins dels límits de la parcel·la.
 
