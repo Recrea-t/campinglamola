@@ -50,6 +50,8 @@ offer:
 
     **Condicions:**
 
+    **Ocupació màxima:** 6 persones per parcel·la
+
     ```
     OFERTA TEMPORADA BAIXA
 
