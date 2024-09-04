@@ -48,7 +48,6 @@ offer:
 
     * **Extras:**
 
-      * Tiendas auxiliares (tipo iglú) sin coste adicional, siempre que estén dentro de los límites de la parcela.
       * Segundo vehículo permitido con registro y pago según la tarifa vigente, debe estacionarse en la misma parcela.
   subtitle: A partir del 28 de Agosto
 ---
