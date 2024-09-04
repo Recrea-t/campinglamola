@@ -25,15 +25,21 @@ offer:
   description: >-
     **O﻿FERTA TEMPORADA BAJA**
 
-     **\    A﻿dulto:** 7 €/noche  
 
-     **\    +**
+    **A﻿dulto:** 7 €/noche  
 
-     **\    Parcela Standard:**  13 €/noche
 
-    \    o
+    +﻿
 
-     **\    Parcela XL:** 19 €/noche
+
+    **Parcela Standard:**  13 €/noche
+
+
+    o﻿
+
+
+    **Parcela XL:** 19 €/noche
+
 
     **Condiciones:**
 
