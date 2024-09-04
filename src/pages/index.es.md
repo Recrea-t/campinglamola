@@ -22,32 +22,21 @@ description: Cámping situado en la zona del Parque Nacional de Aiguestortes i
 offer:
   title: Tarifa especial final de temporada
   active: true
-  description: >-
+  description: |-
     **O﻿FERTA TEMPORADA BAJA**
 
-
-    **A﻿dulto:** 7 €/noche  
-
+    **A﻿dulto:** 6 €/noche  
 
     +﻿
 
-
     **Parcela Standard:**  13 €/noche
-
 
     o﻿
 
-
     **Parcela XL:** 19 €/noche
-
 
     **Condiciones:**
 
-
     * **Ocupación máxima:** 6 personas por parcela.
-
-    * **Extras:**
-
-      * Segundo vehículo permitido con registro y pago según la tarifa vigente, debe estacionarse en la misma parcela.
-  subtitle: A partir del 28 de Agosto
+  subtitle: A partir del 5 de  Septiembre
 ---
