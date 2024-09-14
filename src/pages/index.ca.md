@@ -34,7 +34,7 @@ parcNacionalImage: /images/Entorn01.jpg
 parcNaturalImage: /images/Entorn02.jpg
 aneuImage: /images/Entorn03.jpg
 offer:
-  active: true
+  active: false
   title: Tarifa especial final de temporada
   subtitle: A partir del 5 de setembre
   description: |-
