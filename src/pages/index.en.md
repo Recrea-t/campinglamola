@@ -1,15 +1,14 @@
 ---
 templateKey: index-page
-summary: >-
-  In the unbeatable natural environment of the Aigüestortes and lake Sant
-  Maurici National Park, in the north of Pallars Sobirà, Camping la Mola, a
-  small family campsite, offers spacious green and shady pitches, spacious and
-  comfortable bungalow, and cozy gaials (small family accommodation), a perfect
-  place to enjoy your vacations in the Lleida Pyrenees.
-
-  Recommended to anyone who loves nature, sports and tranquility.
-
-  Always working to improve. Our customers repeat and recommend us.
+summary: Located in the heart of the stunning Aigüestortes and Lake Sant Maurici
+  National Park, in northern Pallars Sobirà, Camping La Mola is the ideal choice
+  for **camping in Espot.** Our family-run campsite offers spacious, shaded
+  pitches, comfortable bungalows, and cozy gaials—perfect for a relaxing getaway
+  in the breathtaking Lleida Pyrenees. Whether you’re a nature lover, adventure
+  sports enthusiast, or simply seeking tranquility, Camping La Mola is your
+  perfect destination. We are committed to continuous improvement, and our
+  guests often return and recommend us. Come and enjoy an unforgettable
+  experience surrounded by nature!
 servicesSummary: Always working to improve. Our customers repeat and recommend us
 environmentSummary: Recommended to anyone who loves nature, sport and silence
 title: Campsite Campground in Espot Aiguestortes charme camping Leridan Pyrenees
