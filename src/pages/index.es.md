@@ -21,7 +21,7 @@ description: Cámping situado en la zona del Parque Nacional de Aiguestortes i
   como cómodos y espaciosos bungalows.
 offer:
   title: Tarifa especial final de temporada
-  active: true
+  active: false
   description: |-
     **O﻿FERTA TEMPORADA BAJA**
 
