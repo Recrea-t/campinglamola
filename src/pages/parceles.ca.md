@@ -27,23 +27,23 @@ summary: >-
   * S'admeten animals domèstics, a excepció dels gossos considerats com potencialment perillosos·
 pricing:
   - title: Adult
-    price: 7
+    price: 7.2
   - title: Nens de 5 a 15 anys
-    price: 6
+    price: 6.1
   - title: De pas (1 persona a peu)
     price: 10
   - title: Parcel.la Standard 60/70 m2 (màx. 6 persones i 1 vehicle)
     price: 17
   - title: Parcel.la XL 120 m2 (màx. 6 persones i 1 vehicle)
-    price: 26
+    price: 26.5
   - title: Cotxe extra
-    price: 6.4
+    price: 6.5
   - title: Electricitat (6 ampers)
     price: 7.5
   - title: Mascota (gos)
-    price: 4.5
+    price: 5.6
   - title: Visita (màxim 4 hores)
-    price: 4
+    price: 5
 pricingNotes: >-
   *Preus per nit. IVA
   inclòs.                                                                                                                                         Impost
