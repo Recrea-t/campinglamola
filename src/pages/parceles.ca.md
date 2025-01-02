@@ -41,7 +41,7 @@ pricing:
   - title: Electricitat (6 ampers)
     price: 7.5
   - title: Mascota (gos)
-    price: 5.6
+    price: 4.6
   - title: Visita (màxim 4 hores)
     price: 5
 pricingNotes: >-
