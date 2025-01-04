@@ -24,14 +24,14 @@ summary: >-
 
   * Calefacció.
 
-  * No s'hi admeten animals de companyia.
+  * NO s'hi admeten animals de companyia.
 pricing:
   - title: 4 pax
     highSeason: 160
-    lowSeason: 120
+    lowSeason: 125
   - highSeason: 190
     title: 6 pax
-    lowSeason: 140
+    lowSeason: 145
 regulation: >-
   * És **OBLIGATÒRIA** la presentació de DNI o passaport de tots els ocupants
   majors de 14 anys a l’ arribada al Càmping i registrar tots els vehicles,
@@ -109,7 +109,7 @@ conditions: >-
 
   * Si els clients, sense previ avís, no arriben al càmping abans de les 21:00 h. del dia d'arribada, s'entendrà cancel·lada la reserva.
 
-  * Si la reserva es veu afectada per les restriccions de mobilitat imposades pel Govern en relació al Covid-19, es reemborsarà el 100% del dipòsit entregat. 
+  * Si la reserva es veu afectada per  restriccions de mobilitat imposades pel Govern, es reemborsarà el 100% del dipòsit entregat. 
 
   * Per a qualsevol altre motiu de cancel·lació, s'aplicaran les nostres Condicions Generals d'anul·lació.
 ---
