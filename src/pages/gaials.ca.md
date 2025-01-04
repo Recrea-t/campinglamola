@@ -28,7 +28,7 @@ pricing:
     description: null
     highSeason: 110
     lowSeason: 90
-  - highSeason: 125
+  - highSeason: 135
     title: 6 pax
     lowSeason: 100
 regulation: >-
@@ -61,7 +61,7 @@ pricingNotes: >-
   no inclòs : 0,66€ per persona (+16 anys) i dia, amb un màxim de 7 dies.*
 
 
-  Llençols i tovalloles no inclosos. Lloguer opcional 6,50€ per persona i estada.
+  Llençols i tovalloles no inclosos. Lloguer opcional 8,50€ per persona i estada.
 
 
   **TEMPORADA ALTA**
@@ -106,7 +106,7 @@ conditions: >-
 
   * Si els clients, sense previ avís, no arriben al càmping abans de les 22.00 h. del dia d'arribada, s'entendrà cancel·lada la reserva.
 
-  * Si la reserva es veu afectada per les restriccions de mobilitat imposades pel Govern en relació al Covid-19, es reemborsarà del 100% del dipòsit entregat. 
+  * Si la reserva es veu afectada per restriccions de mobilitat imposades pel Govern, es reemborsarà del 100% del dipòsit entregat. 
 
   * Per a qualsevol cancel·lació per altres motius, s'aplicaran les nostres Condicions Generals d'anul·lació.
 ---
