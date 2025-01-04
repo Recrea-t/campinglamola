@@ -30,7 +30,7 @@ pricing:
     lowSeason: 90
   - highSeason: 135
     title: 6 pax
-    lowSeason: 100
+    lowSeason: 105
 regulation: >-
   * És **OBLIGATÒRIA** la presentació de DNI o passaport de tots els ocupants
   majors de 14 anys a l’ arribada al Càmping i registrar tots els vehicles,
