@@ -62,7 +62,7 @@ pricingNotes: >-
   Taxe de séjour pas comprise: 0,66 € par personne (+16 ans) et par jour, avec un maximum de 7 jours.*
 
 
-  Draps et serviettes ne sont pas inclus. Location facultative: 6,50 € par personne et par séjour.
+  Draps et serviettes ne sont pas inclus. Location facultative: 8,50 € par personne et par séjour.
 
 
   **HAUTE SAISON**
@@ -107,5 +107,5 @@ conditions: >-
 
   * Si les clients, sans préavis, n'arrivent pas au camping avant 21h le jour de l'arrivée, la réservation sera considérée comme annulée.
 
-  * Seulement en cas d'annulation forcée due à des restrictions de mobilité imposées par les gouvernements, causées par Covid-19, le dépôt total sera remboursé.
+  * Seulement en cas d'annulation forcée due à des restrictions de mobilité imposées par les gouvernements, le dépôt total sera remboursé.
 ---
