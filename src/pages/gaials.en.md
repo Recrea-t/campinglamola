@@ -60,7 +60,7 @@ pricingNotes: >-
 
   Tax on stays in tourist establishments not included: € 0.66 Rate per day per person aged over 16, with a maximum of 7 days.*
 
-  Sheets and towels not included. Optional renting € 6,50  per person and stay.
+  Sheets and towels not included. Optional renting € 8,50  per person and stay.
 
 
   **HIGH SEASON**
@@ -105,6 +105,6 @@ conditions: >-
 
   * If the clients, without prior notice, do not arrive at the campsite before 21.00 h on the day of arrival, the booking will be considered cancelled.
 
-  * Only when dealing with a cancellation due to mobility restrictions imposed by the Government with regard to Covid-19, 100% of the deposit will be refunded. 
+  * Only when dealing with a cancellation due to mobility restrictions imposed by the Government, 100% of the deposit will be refunded. 
     For all other reasons our General Cancellation stipulations will be applied
 ---
