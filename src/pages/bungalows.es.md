@@ -32,10 +32,10 @@ summary: >-
 pricing:
   - title: 4 pax
     highSeason: 160
-    lowSeason: 120
+    lowSeason: 125
   - highSeason: 190
     title: 6 pax
-    lowSeason: 140
+    lowSeason: 145
 pricingNotes: >-
   *Precios por noche. IVA incluido.
 
