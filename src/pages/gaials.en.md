@@ -26,9 +26,9 @@ pricing:
     description: null
     highSeason: 110
     lowSeason: 90
-  - highSeason: 125
+  - highSeason: 135
     title: 6 pax
-    lowSeason: 100
+    lowSeason: 105
 regulation: >-
   * It is MANDATORY to present the ID card or passport of all occupants aged
   over 14 on arrival at the campsite and to register all vehicles, indicating
