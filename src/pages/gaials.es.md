@@ -26,9 +26,9 @@ pricing:
     description: null
     highSeason: 110
     lowSeason: 90
-  - highSeason: 125
+  - highSeason: 135
     title: 6 pax
-    lowSeason: 100
+    lowSeason: 105
 regulation: >-
   
 
