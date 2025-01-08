@@ -61,7 +61,7 @@ pricingNotes: >-
 
   Impuesto sobre las estancias en establecimientos turísticos no incluido: 0,66 €. Tarifa por persona (+16 años) y día, con un máximo de 7 días.*
 
-  • Sábanas y toallas no incluidas. Alquiler opcional 6,50€ por persona y estancia.
+  • Sábanas y toallas no incluidas. Alquiler opcional 8,50€ por persona y estancia.
 
 
   **TEMPORADA ALTA**
@@ -106,5 +106,5 @@ conditions: >-
 
   * Si los clientes, sin previo aviso, no llegan al camping antes de las 21.00h. del día de llegada, se entenderá cancelada la reserva.
 
-  * **Sólo** si la reserva se ve afectada por las **restricciones de movilidad impuestas por el Gobierno** en relación al Covid-19, se reembolsará el 100% del depósito entregado. Por otros motivos se aplicarán nuestras Condiciones Generales de anulación.
+  * **Sólo** si la reserva se ve afectada por las **restricciones de movilidad impuestas por el Gobierno**, se reembolsará el 100% del depósito entregado. Por otros motivos se aplicarán nuestras Condiciones Generales de anulación.
 ---
