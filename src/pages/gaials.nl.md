@@ -62,7 +62,7 @@ pricingNotes: >-
   Prijzen per nacht incl. BTW. Verblijfstaks niet inbegrepen: 0,66 €. Tarief per
   persoon (+16 jaar) en per dag, met een maximum van 7
   dagen.                                                                                                                                         Lakens
-  en handdoeken niet inbegrepen. Huuroptie 6,50 € per persoon en per verblijf.
+  en handdoeken niet inbegrepen. Huuroptie 8,50 € per persoon en per verblijf.
 
 
   **HOOGSEIZOEN**                   
@@ -109,5 +109,5 @@ conditions: >-
 
   * Ingeval klanten zonder voorafgaande kennisgeving niet vóór 21.00 u op de dag van aankomst op de camping arriveren dan zal de reservering als geannuleerd beschouwd worden. 
 
-  * Enkel wanneer het gaat over een gedwongen annulering die te wijten is aan de mobiliteitsbeperkingen die door de regeringen in verband met Covid-19 opgelegd zijn zal de totale borgsom terugbetaald worden. Voor andere redenen zullen onze Algemene Annuleringsvoorwaarden toegepast worden.
+  * Enkel wanneer het gaat over een gedwongen annulering die te wijten is aan mobiliteitsbeperkingen opgelegd door de autoriteiten, zal de totale borgsom terugbetaald worden. Voor andere redenen zullen onze Algemene Annuleringsvoorwaarden toegepast worden.
 ---
