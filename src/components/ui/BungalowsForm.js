@@ -197,7 +197,7 @@ const BungalowsForm = ({ name }) => {
             <GridItem
               rowSpan={3}
               colStart={[1, null, 2]}
-              rowStart={[7, null, 3]}
+              rowStart={[7, null, 2]}
             >
               <Field name="comentaris">
                 {({ field, form }) => (
