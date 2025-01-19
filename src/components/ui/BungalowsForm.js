@@ -12,7 +12,8 @@ import PhoneInput from "./PhoneInput"
 import EmailInput from "./EmailInput"
 import CountryInput from "./CountryInput"
 import DatePickerInput from "./DatePickerInput"
-import NumberPeopleInput from "./NumberPeopleInput"
+import NumberAdultsInput from "./NumberAdultsInput
+import NumberChildrenInput from "./NumberChildrenInput"
 import CommentsInput from "./CommentsInput"
 import ConditionsInput from "./ConditionsInput"
 
@@ -172,15 +173,25 @@ const BungalowsForm = ({ name }) => {
               </HStack>
             </GridItem>
 
-            <GridItem colStart={[1, null, 2]} rowStart={[6, null, 2]}>
-              <Field name="numeroPersones">
-                {({ field, form }) => (
-                  <NumberPeopleInput
-                    field={field}
-                    placeholderStyles={placeholderStyles}
-                  />
-                )}
-              </Field>
+            <GridItem colStart={[1, null, 2]} rowStart={[6, null, 1]}>
+              <HStack spacing={4}>
+                <Field name="numeroAdults">
+                  {({ field, form }) => (
+                    <NumberAdultsInput
+                      field={field}
+                      placeholderStyles={placeholderStyles}
+                    />
+                  )}
+                </Field>
+                <Field name="numeroNens">
+                  {({ field, form }) => (
+                    <NumberChildrenInput
+                      field={field}
+                      placeholderStyles={placeholderStyles}
+                    />
+                  )}
+                </Field>
+              </HStack>
             </GridItem>
 
             <GridItem
