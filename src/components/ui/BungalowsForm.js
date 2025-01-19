@@ -12,7 +12,7 @@ import PhoneInput from "./PhoneInput"
 import EmailInput from "./EmailInput"
 import CountryInput from "./CountryInput"
 import DatePickerInput from "./DatePickerInput"
-import NumberAdultsInput from "./NumberAdultsInput
+import NumberAdultsInput from "./NumberAdultsInput"
 import NumberChildrenInput from "./NumberChildrenInput"
 import CommentsInput from "./CommentsInput"
 import ConditionsInput from "./ConditionsInput"
