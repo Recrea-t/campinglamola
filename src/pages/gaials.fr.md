@@ -78,9 +78,7 @@ pricingNotes: >-
   **BASSE SAISON**
 
 
-  * Du 1er au 14 juillet, séjour minimum de 7 nuits.
-
-  * Juin et septembre, séjour minimum de 4 nuits.
+  * Juin, du 1er au 14 juillet et septembre : séjour minimum de 4 nuits.
 conditions: >-
   #### Paiements
 
