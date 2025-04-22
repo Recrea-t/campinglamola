@@ -59,8 +59,8 @@ description: In de nabijheid van het Nationaal Park van Aigüestortes en het Mee
   bevoorrecht landschap te genieten, biedt camping La Mola ruime kampeerplaatsen
   met veel gras en schaduw aan en confortabele en ruime bungalows
 pricingNotes: >-
-  Prijzen per nacht incl. BTW. Verblijfstaks niet inbegrepen: 0,66 €. Tarief per
-  persoon (+16 jaar) en per dag, met een maximum van 7
+  Prijzen per nacht incl. BTW. Verblijfstaks niet inbegrepen: *1,32 €*. Tarief
+  per persoon (+16 jaar) en per dag, met een maximum van 7
   dagen.                                                                                                                                         Lakens
   en handdoeken niet inbegrepen. Huuroptie 8,50 € per persoon en per verblijf.
 
