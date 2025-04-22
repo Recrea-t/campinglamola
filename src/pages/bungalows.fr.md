@@ -39,7 +39,7 @@ pricing:
 pricingNotes: >-
   *Prix par nuit. TVA incluse.
 
-  Taxe de séjour pas comprise: 0,66 € par personne (+16 ans) et par jour, avec un maximum de 7 jours.*
+  Taxe de séjour pas comprise: 1,32€ par personne (+16 ans) et par jour, avec un maximum de 7 jours.*
 
 
   **HAUTE SAISON**
