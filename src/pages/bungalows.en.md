@@ -37,7 +37,7 @@ pricing:
     lowSeason: 145
 pricingNotes: >-
   *Prices per night. VAT included. Tax on stays in tourist establishments not
-  included: €0.66 Rate per day per person aged over 16, with a maximum of 7
+  included: €1,32. Rate per day per person aged over 16, with a maximum of 7
   days.*
 
 
