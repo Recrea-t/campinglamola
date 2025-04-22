@@ -58,7 +58,7 @@ images:
   - /images/gaials6.jpg
 pricingNotes: >-
   *Preus per nit. IVA inclòs. Impost sobre les estades en establiments turístics
-  no inclòs : 0,66€ per persona (+16 anys) i dia, amb un màxim de 7 dies.*
+  no inclòs : 1,32€ per persona (+16 anys) i dia, amb un màxim de 7 dies.* 
 
 
   Llençols i tovalloles no inclosos. Lloguer opcional 8,50€ per persona i estada.
