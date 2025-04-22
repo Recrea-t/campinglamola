@@ -47,7 +47,7 @@ pricing:
 pricingNotes: >-
   *Preus per nit. IVA
   inclòs.                                                                                                                                         Impost
-  sobre les estades en establiments turístics no inclòs : 0,66€ .Tarifa per
+  sobre les estades en establiments turístics no inclòs : 1,32€ .Tarifa per
   persona (+16 anys) i dia, amb un màxim de 7 dies.*
 
 
