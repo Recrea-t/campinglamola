@@ -59,7 +59,7 @@ description: Camping situado en la zona del Parque Nacional de Aiguestortes i
 pricingNotes: >-
   *Precios por noche. IVA incluido.
 
-  Impuesto sobre las estancias en establecimientos turísticos no incluido: 0,66 €. Tarifa por persona (+16 años) y día, con un máximo de 7 días.*
+  Impuesto sobre las estancias en establecimientos turísticos no incluido: 1,32 €. Tarifa por persona (+16 años) y día, con un máximo de 7 días.*
 
   • Sábanas y toallas no incluidas. Alquiler opcional 8,50€ por persona y estancia.
 
