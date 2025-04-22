@@ -41,7 +41,7 @@ pricing:
 pricingNotes: >-
   *Prijzen per nacht incl. BTW.
 
-  Verblijfstaks niet inbegrepen: 0,66 €. Tarief per pers. (+16 j) en per dag met een maximum van 7 dagen.*
+  Verblijfstaks niet inbegrepen: 1,32€. Tarief per pers. (+16 j) en per dag met een maximum van 7 dagen.*
 
 
   • Maximum capaciteit : 6 personen.\
