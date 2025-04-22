@@ -59,7 +59,7 @@ description: Camping situé dans l'environnement naturel du Parc National
 pricingNotes: >-
   *Prix par nuit. TVA incluse.
 
-  Taxe de séjour pas comprise: 0,66 € par personne (+16 ans) et par jour, avec un maximum de 7 jours.*
+  Taxe de séjour pas comprise: 1,32€ par personne (+16 ans) et par jour, avec un maximum de 7 jours.*
 
 
   Draps et serviettes ne sont pas inclus. Location facultative: 8,50 € par personne et par séjour.
