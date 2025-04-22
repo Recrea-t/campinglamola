@@ -34,7 +34,7 @@ pricing:
 pricingNotes: >-
   *Prices per night. VAT included.
 
-  Tax on stays in tourist establishments not included: €0.66 Rate per day per person aged over 16, with a maximum of 7 days*.
+  Tax on stays in tourist establishments not included: €1,32. Rate per day per person aged over 16, with a maximum of 7 days*.
 
 
   * Maximum occupancy per pitch: 6 people.
