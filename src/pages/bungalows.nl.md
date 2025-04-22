@@ -37,9 +37,10 @@ pricing:
     title: 6 pax
     lowSeason: 145
 pricingNotes: >-
-  
-
-  Prijzen per nacht incl. BTW. Verblijfstaks niet inbegrepen: 0,60€. Tarief per persoon (+16 jaar) en per dag, met een maximum van 7 dagen.                                                                                                                                         Lakens en handdoeken niet inbegrepen. Huuroptie 6 € per persoon en per verblijf.
+  Prijzen per nacht incl. BTW. Verblijfstaks niet inbegrepen: *1,32€*. Tarief
+  per persoon (+16 jaar) en per dag, met een maximum van 7
+  dagen.                                                                                                                                         Lakens
+  en handdoeken niet inbegrepen. Huuroptie 6 € per persoon en per verblijf.
 
 
   **HOOGSEIZOEN**                   
