@@ -62,7 +62,7 @@ images:
   - /images/dji_019.jpg
 pricingNotes: >-
   *Preus per nit. IVA inclòs. Impost sobre les estades en establiments turístics
-  no inclòs : 0,66€ per persona (+16 anys) i dia, amb un màxim de 7 dies.*
+  no inclòs : 1,32€ per persona (+16 anys) i dia, amb un màxim de 7 dies.*
 
 
   **TEMPORADA ALTA**
