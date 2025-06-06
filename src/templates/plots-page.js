@@ -42,7 +42,7 @@ const Content = ({ title, content }) => (
 
 const PlotsPage = props => {
   const { frontmatter } = props.data.default
-  const { summary, pricing, regulation, conditions, reservations } =
+  const { summary, regulation, conditions, reservations } =
     useTranslations()
 
   return (
@@ -55,16 +55,6 @@ const PlotsPage = props => {
           <CustomAccordionItem
             title={summary}
             content={<Content content={frontmatter.summary} />}
-          />
-          <CustomAccordionItem
-            title={pricing}
-            content={
-              <PricingItem
-                size="sm"
-                details={frontmatter.pricing}
-                notes={frontmatter.pricingNotes}
-              />
-            }
           />
           <CustomAccordionItem
             title={regulation}
@@ -83,7 +73,7 @@ const PlotsPage = props => {
           colorScheme="paleGrey"
         >
           <TabList w="40%">
-            {[summary, pricing, regulation, conditions].map((option, index) => (
+            {[summary, regulation, conditions].map((option, index) => (
               <Tab key={index} justifyContent="space-between" mb={1}>
                 <Text>{option}</Text>
                 <Icon
@@ -100,16 +90,9 @@ const PlotsPage = props => {
               <Content title={summary} content={frontmatter.summary} />
             </TabPanel>
             <TabPanel key={1}>
-              <PricingItem
-                title={pricing}
-                details={frontmatter.pricing}
-                notes={frontmatter.pricingNotes}
-              />
-            </TabPanel>
-            <TabPanel key={2}>
               <Content title={regulation} content={frontmatter.regulation} />
             </TabPanel>
-            <TabPanel key={3}>
+            <TabPanel key={2}>
               <Content title={conditions} content={frontmatter.conditions} />
             </TabPanel>
           </TabPanels>
@@ -142,11 +125,6 @@ export const query = graphql`
         title
         description
         summary
-        pricing {
-          title
-          price
-        }
-        pricingNotes
         regulation
         conditions
       }

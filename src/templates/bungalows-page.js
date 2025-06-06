@@ -42,7 +42,7 @@ const Content = ({ title, content }) => (
 
 const BungalowsPage = props => {
   const { frontmatter } = props.data.default
-  const { summary, pricing, regulation, conditions, reservations } =
+  const { summary, regulation, conditions, reservations } =
     useTranslations()
 
   return (
@@ -55,16 +55,6 @@ const BungalowsPage = props => {
           <CustomAccordionItem
             title={summary}
             content={<Content content={frontmatter.summary} />}
-          />
-          <CustomAccordionItem
-            title={pricing}
-            content={
-              <SeasonsPricingItem
-                size="sm"
-                details={frontmatter.pricing}
-                notes={frontmatter.pricingNotes}
-              />
-            }
           />
           <CustomAccordionItem
             title={regulation}
@@ -83,7 +73,7 @@ const BungalowsPage = props => {
           colorScheme="paleGrey"
         >
           <TabList w="40%">
-            {[summary, pricing, regulation, conditions].map((option, index) => (
+            {[summary, regulation, conditions].map((option, index) => (
               <Tab key={index} justifyContent="space-between" mb={1}>
                 <Text>{option}</Text>
                 <Icon
@@ -98,13 +88,6 @@ const BungalowsPage = props => {
           <TabPanels bg="paleGrey.500" ml={8}>
             <TabPanel>
               <Content title={summary} content={frontmatter.summary} />
-            </TabPanel>
-            <TabPanel>
-              <SeasonsPricingItem
-                title={pricing}
-                details={frontmatter.pricing}
-                notes={frontmatter.pricingNotes}
-              />
             </TabPanel>
             <TabPanel>
               <Content title={regulation} content={frontmatter.regulation} />
@@ -144,12 +127,6 @@ export const query = graphql`
         title
         description
         summary
-        pricing {
-          title
-          highSeason
-          lowSeason
-        }
-        pricingNotes
         regulation
         conditions
       }
