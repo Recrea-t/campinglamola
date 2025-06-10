@@ -12,13 +12,15 @@ import {
   TabPanels,
   Tab,
   TabPanel,
+  Box,
 } from "@chakra-ui/react"
 import { TriangleDownIcon } from "@chakra-ui/icons"
 
 import SEO from "../components/SEO/seo"
 import CustomAccordionItem from "../components/ui/CustomAccordionItem"
 import SeasonsPricingItem from "../components/ui/SeasonsPricingItem"
-import BungalowsForm from "../components/ui/BungalowsForm"
+
+import { MotionLink } from "../theme/utils"
 
 import useTranslations from "../components/useTranslations"
 
@@ -99,8 +101,20 @@ const BungalowsPage = props => {
         </Tabs>
 
         <Heading my={[4, null, 8]}>{reservations}</Heading>
+        <Box w="full" my={4} textAlign="center">
+          <MotionLink
+            href="https://campinglamola.com/entorn"
+            title={reservations}
+            variant="button"
+            colorScheme="dullBrown"
+            whileHover={{ scale: 1.05 }}
+            whileTap={{ scale: 0.95 }}
+            isExternal
+          >
+            {reservations}
+          </MotionLink>
+        </Box>
 
-        <BungalowsForm name={frontmatter.formName} />
       </Container>
     </>
   )
