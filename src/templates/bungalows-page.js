@@ -103,7 +103,7 @@ const BungalowsPage = props => {
         <Heading my={[4, null, 8]}>{reservations}</Heading>
         <Box w="full" my={4} textAlign="center">
           <MotionLink
-            href="https://campinglamola.com/entorn"
+            href="https://booking.campinglamola.com/"
             title={reservations}
             variant="button"
             colorScheme="dullBrown"

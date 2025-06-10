@@ -12,13 +12,15 @@ import {
   TabPanels,
   Tab,
   TabPanel,
+  Box,
 } from "@chakra-ui/react"
 import { TriangleDownIcon } from "@chakra-ui/icons"
 
 import SEO from "../components/SEO/seo"
 import PricingItem from "../components/ui/PricingItem"
-import PlotsForm from "../components/ui/PlotsForm"
 import CustomAccordionItem from "../components/ui/CustomAccordionItem"
+
+import { MotionLink } from "../theme/utils"
 
 import useTranslations from "../components/useTranslations"
 
@@ -99,7 +101,19 @@ const PlotsPage = props => {
         </Tabs>
         <Heading my={[4, null, 8]}>{reservations}</Heading>
 
-        <PlotsForm name={frontmatter.title} />
+        <Box w="full" my={4} textAlign="center">
+          <MotionLink
+            href="https://booking.campinglamola.com/"
+            title={reservations}
+            variant="button"
+            colorScheme="dullBrown"
+            whileHover={{ scale: 1.05 }}
+            whileTap={{ scale: 0.95 }}
+            isExternal
+          >
+            {reservations}
+          </MotionLink>
+        </Box>
       </Container>
     </>
   )
