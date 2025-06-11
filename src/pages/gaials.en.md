@@ -85,8 +85,9 @@ conditions: >-
 
   * In order to make a reservation, the campsite will ask for a deposit which, depending on the season, can be up to 40% of the total sum of the stay.
 
-  * The amounts will be paid within a period not exceeding 3 days from the date of the request and will be made by transfer to the account that will be communicated at the time of formalising the reservation. The remaining amount will be settled on arrival at the campsite.
-
+  * If you choose bank transfer as your method of payment, the reservation will only be confirmed upon receipt of the deposit.
+    This deposit must be paid within a maximum of 3 calendar days from the date of the booking request.
+    The necessary bank details will be provided at the time of the official booking confirmation
   * There will be no reimbursement in case of late arrival or early departure.
 
   * Cash is accepted. Card payments are only available during the months of July and August. It is also possible to make a bank transfer.
