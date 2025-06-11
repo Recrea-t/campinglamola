@@ -83,8 +83,9 @@ conditions: >-
   #### Paiements
 
 
-  * Les réservations ne sont effectives qu´à partir de la réception d´un acompte équivalent à 40% de la somme total du séjour. Les paiements seront effectués par virement sur le numéro du compte bancaire qui vous sera communiqué au moment de la réservation officielle.
-
+  * Si vous choisissez le virement bancaire comme mode de paiement, la réservation ne sera effective qu’à partir de la réception d’un acompte équivalent à 40 % du montant total du séjour.
+    Cet acompte devra être réglé dans un délai maximum de 3 jours calendaires à compter de la date de la demande.
+    Les informations bancaires nécessaires vous seront communiquées au moment de la réservation.
   * Le paiement intégral du séjour doit être effectué à l´arrivée.
 
   * Il n'y aura aucun remboursement si le jour d'arrivée est retardé ou si le jour du départ est anticipé.
