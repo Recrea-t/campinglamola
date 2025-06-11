@@ -59,19 +59,42 @@ pricingNotes: >-
 
   • Es pot afegir màxim un segon cotxe a la parcel·la, però s'ha de registrar i abonar segons la tarifa vigent, i haurà d'estacionar-se dins dels límits de la parcel·la. En el cas que s'aparqui en una altra parcel·la s'haurà de pagar la tarifa de la parcel·la extra que estigui ocupant.
 regulation: >-
-  * És **OBLIGATÒRIA** la presentació de DNI o passaport de tots els viatgers
-  majors de 14 anys a l'entrada al Càmping.
-
-  * Hora d'entrada: de 11:00 a 21:00 (consultar altres opcions).
-
-  * Hora de sortida: abans de les 12:00. La sortida posterior sense prèvia comunicació a recepció, comporta el cost d'una nit addicional.
-
-  * No desplaçar-se per dins del càmping amb el vehicle si no és estrictament necessari.
-
-  * Horari de silenci: de 23:00 a 7:00. Prohibida la circulació de vehicles: de 23:00 a 7:00.
+  **CHECK-IN I REGISTRE DE VIATGERS**
 
 
-  ##### **Animals de companyia**
+  Per tal d’agilitzar el check-in i evitar aglomeracions, us demanem que tingueu preparades les següents dades obligatòries de totes les persones allotjades, inclosos els menors d’edat:
+
+  Document d’identitat (DNI, passaport, NIE, etc.) per a persones a partir de 14 anys.
+
+  •	Adreça de residència habitual.
+
+  •	Telèfon de contacte i correu electrònic.
+
+   **Informació específica per a menors d’edat:**
+
+  •	El telèfon i el correu electrònic no són obligatoris.
+
+  •	És imprescindible indicar la relació de l’adult responsable amb el menor (mare, pare, tutor legal, etc.).
+
+
+  **HOARARIS**
+
+  •	Hora d'entrada: de 12:30 a 21:00 (consultar altres opcions).
+
+  •	Hora de sortida: abans de les 12:00. La sortida posterior sense prèvia comunicació a recepció, comporta el cost d'una nit addicional.
+
+  •	Horari de silenci: de 23:00 a 7:00. 
+
+  **VEHICLES**
+
+  •	Prohibit circular per dins del càmping entre les 23:00 i les 7:00.
+
+  •	La velocitat màxima permesa dins del recinte és de 10 km/h.
+
+  •	No utilitzar el vehicle per a desplaçaments interns, utilitzeu-lo només per entrar o sortir del recinte.
+
+
+  **ANIMALS DE COMPANYIA**
 
 
   * Si ve amb animals, comuniqui-ho a recepció. Tots els gossos hauran d'estar registrats en el moment del check-in, i la seva estada resta subjecta al pagament de la tarifa corresponent.
@@ -88,13 +111,16 @@ regulation: >-
 
   * El propietari de l'animal serà responsable dels danys que aquest pugui ocasionar tant a la resta dels campistes i als seus béns com a les instal·lacions del càmping.
 conditions: >-
-  Si fan la reserva d'una parcel·la directament amb nosaltres mitjançant el web
-  o per telèfon, no cal fer cap pagament avançat. Només necessitem saber el dia
-  d'arribada, el nombre de persones, parcel·les i durada aproximada de l'estada.
+  * Per confirmar la reserva, cal abonar 20€ com a paga i senyal. En cas de
+  sol·licitar la cancel·lació amb més de 15 dies d'antelació respecte a la data
+  d'arribada, es retornarà el 90% d'aquest import. No es reemborsarà res en cas
+  de cancel·lació amb menys de 15 dies d'antelació o no-presentació.
 
+  * En el moment de fer la reserva, el càmping assigna una parcel·la del tipus escollit per assegurar-ne la reserva. Tot i això, a la seva arribada, i sempre que hi hagi opcions disponibles, el client podrà triar una altra parcel·la dins de la mateixa categoria reservada.
 
-  No reservem cap parcel·la en concret. La reserva només li assegura tenir lloc en el cas que el càmping estigués complet.
+  * Es recomana fer reserva prèvia per a estades compreses entre el 25 de juliol i el 15 d’agost.
 
+  * Per a reserves de dues o més parcel·les juntes cal fer  sol·licitud per correu electrònic.
 
-  Tots els clients poden escollir la parcel·la del tipus reservat que més els hi agradi entre totes les disponibles, únicament en el moment de la seva arribada.
+  * Les reserves de parcel·la es mantenen fins a les 18:00 h del dia d’arribada. Si teniu previst arribar més tard, cal que ens ho comuniqueu prèviament. En cas contrari, la reserva no queda garantida.
 ---
