@@ -81,12 +81,16 @@ regulation: >-
 
   * De eigenaar van het huisdier zal verantwoordelijk zijn voor de schade die het kan veroorzaken zowel aan de andere kampeerders en hun goederen als aan de installaties van de camping.
 conditions: >-
-  Als U rechtstreeks met ons via de website of per telefoon een kampeerplaats
-  reserveert dan moet er niks op voorhand betaald worden. Wij hoeven dan enkel
-  maar de dag van aankomst, het aantal personen, percelen en de geschatte duur
-  van uw verblijf te kennen.\
+  * Om de reservering te bevestigen, dient een aanbetaling van €20 te worden
+  voldaan. Bij annulering meer dan 10 dagen vóór de aankomstdatum wordt 90% van
+  dit bedrag terugbetaald. Bij annulering minder dan 10 dagen voor aankomst of
+  bij niet verschijnen, wordt er geen restitutie verleend.
 
-  Wij reserveren geen enkele specifieke kampeerplaats. De reservatie geeft U enkel de garantie dat U een kampeerplaats zal hebben ingeval de camping volzet zou zijn.\
+  * Bij het maken van de reservering wijst de camping een staanplaats van het gekozen type toe om de reservering te garanderen. Bij aankomst, en indien beschikbaar, kan de klant een andere staanplaats kiezen binnen dezelfde gereserveerde categorie.
 
-  Alle klanten kunnen enkel op het ogenblik dat ze aankomen het type perceel dat ze gereserveerd hebben dat hen het meest bevalt onder de beschikbare plaatsen uitkiezen.
+  * Het wordt aangeraden om vooraf te reserveren voor verblijven tussen 25 juli en 15 augustus.
+
+  * Voor reserveringen van twee of meer aangrenzende staanplaatsen, verzoeken wij u vriendelijk een aanvraag per e-mail te sturen.
+
+  * Staanplaatsen worden vastgehouden tot 18:00 uur op de dag van aankomst. Als u later aankomt, verzoeken wij u ons dit vooraf te laten weten. Anders is de reservering niet gegarandeerd.
 ---
