@@ -74,11 +74,14 @@ regulation: >-
 
   * The owner of the animal will be responsible for any damage it may cause to the rest of the campers and their property as well as to the campsite facilities.
 conditions: >-
-  If you book a plot directly with us via the website or by telephone, no
-  advance payment is required. We only need to know your day of arrival, the
-  number of people and plots and the approximate length of your stay.
+  * To confirm the booking, a deposit of €20 is required. If you cancel more
+  than 15 days before the arrival date, 90% of this amount will be refunded.
+    No refund will be given in case of cancellation within 15 days of arrival or no-show.
+  * At the time of booking, the campsite assigns a pitch of the selected type to guarantee the reservation. However, upon arrival, and subject to availability, guests may choose a different pitch within the same reserved category.
 
-  We do not reserve any specific plots. The reservation only assures you of a place in case the campsite is full.
+  * It is recommended to book in advance for stays between July 25 and August 15.
 
-  All customers can choose the plot of the booked type they like best from all available plots only at the time of their arrival.
+  * For bookings of two or more adjacent pitches, please send a request by email.
+
+  * Pitch reservations are held until 6:00 p.m. on the day of arrival. If you plan to arrive later, please inform us in advance, otherwise, the reservation cannot be guaranteed.
 ---
