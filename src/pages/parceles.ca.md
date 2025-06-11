@@ -24,7 +24,7 @@ summary: >-
 
   * Opció de parcel·la per tot l'estiu (consulti'ns)
 
-  * S'admeten animals domèstics, a excepció dels gossos considerats com potencialment perillosos·
+  * S’admeten animals de companyia. En el cas dels gossos PPP, la seva estada està permesa sempre que compleixin la normativa vigent (llicència, ús de morrió, assegurança, etc.).
 pricing:
   - title: Adult
     price: 7.2
