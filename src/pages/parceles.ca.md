@@ -55,7 +55,7 @@ pricingNotes: >-
 
   • El preu de la parcel·la inclou la unitat d'acampada (tenda, caravana, autocaravana...) i un vehicle, que s'aparca a la parcel·la.\
 
-  • Es poden afegir tendes auxiliars (tipus iglú) sense cap cost, a condició que estiguin dins dels límits de la parcel·la.\
+  • Es poden afegir tendes auxiliars sense cap cost, a condició que estiguin dins dels límits de la parcel·la.\
 
   • Es pot afegir màxim un segon cotxe a la parcel·la, però s'ha de registrar i abonar segons la tarifa vigent, i haurà d'estacionar-se dins dels límits de la parcel·la. En el cas que s'aparqui en una altra parcel·la s'haurà de pagar la tarifa de la parcel·la extra que estigui ocupant.
 regulation: >-
@@ -80,7 +80,7 @@ regulation: >-
   * És imprescindible indicar la relació de l’adult responsable amb el menor (mare, pare, tutor legal, etc.).
 
 
-  **HOARARIS**
+  **HORARIS**
 
 
   * Hora d'entrada: de 12:30 a 21:00 (consultar altres opcions).
@@ -120,7 +120,7 @@ conditions: >-
   * Per confirmar la reserva, cal abonar 20€ com a paga i senyal. En cas de
   sol·licitar la cancel·lació amb més de 15 dies d'antelació respecte a la data
   d'arribada, es retornarà el 90% d'aquest import. No es reemborsarà res en cas
-  de cancel·lació amb menys de 15 dies d'antelació o no-presentació.
+  de cancel·lació amb menys de 10 dies d'antelació o no-presentació.
 
   * En el moment de fer la reserva, el càmping assigna una parcel·la del tipus escollit per assegurar-ne la reserva. Tot i això, a la seva arribada, i sempre que hi hagi opcions disponibles, el client podrà triar una altra parcel·la dins de la mateixa categoria reservada.
 
