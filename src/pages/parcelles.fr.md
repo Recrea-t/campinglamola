@@ -78,12 +78,16 @@ regulation: >-
 
   * Le propriétaire de l'animal sera responsable de tout dommage qu'il pourrait causer au reste des campeurs et à leur propriété ainsi qu'aux installations du camping.
 conditions: >-
-  Si vous réservez une parcelle directement avec nous via web ou par e-mail,
-  aucun paiement anticipé n'est requis. Il suffit de connaître le jour
-  d'arrivée, le nombre de personnes, les emplacements et la durée approximative
-  du séjour.
+  * Pour confirmer la réservation, un acompte de 20 € est requis. En cas
+  d’annulation plus de 10 jours avant la  date d’arrivée, 90 % de ce montant
+  sera remboursé. Aucun remboursement ne sera effectué en cas d’annulation moins
+  de 10 jours avant l’arrivée ou en cas de non-présentation. 
 
-  Nous ne réservons aucune parcelle spécifique. La réservation est uniquement pour garantir que vous trouverez une place au cas où le camping est complet.
+  * Lors de la réservation, le camping attribue un emplacement du type choisi afin d’en garantir la disponibilité. Toutefois, à votre arrivée, et sous réserve de disponibilité, vous pourrez choisir un autre emplacement dans la même catégorie réservée.
 
-  Tous les clients peuvent choisir la parcelle du type réservé qui leur plaît le plus parmi toutes les disponibles, uniquement au moment de l’arrivée.
+  * Il est recommandé de réserver à l’avance pour des séjours entre le 25 juillet et le 15 août.
+
+  * Pour les réservations de deux emplacements ou plus côte à côte, veuillez nous contacter par e-mail.
+
+  * Les emplacements sont réservés jusqu’à 18h le jour de l’arrivée. Si vous prévoyez d’arriver plus tard, merci de nous en informer à l’avance, sinon, la réservation ne sera pas garantie.
 ---
