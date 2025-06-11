@@ -87,9 +87,10 @@ conditions: >-
   **Betalingen**
 
 
-  * Om te reserveren zal de camping U een betaling van een voorschot vragen, dat afhankelijk is van het seizoen en dat tot 40% van het totale bedrag van het verblijf kan bedragen.
-
-  * De bedragen zullen betaald worden binnen een termijn van 3 dagen, te rekenen vanaf de datum van de aanvraag en zullen gedaan worden door middel van overboeking op het bankrekeningnummer dat U op het ogenblik van de officiële reservering zal medegedeeld worden. Het resterende saldo zal contant afgerekend worden bij aankomst in de camping.
+  * Als u kiest voor bankoverschrijving als betaalmethode, wordt de reservering pas bevestigd na ontvangst van een aanbetaling van 40% van het totale bedrag van het verblijf.
+    Deze aanbetaling moet binnen maximaal 3 kalenderdagen na de datum van de reserveringsaanvraag worden voldaan.
+    De benodigde bankgegevens worden verstrekt op het moment van de officiële bevestiging van de reservering.
+  * Het resterende saldo zal contant afgerekend worden bij aankomst in de camping.
 
   * Er zal geen enkele terugbetaling gebeuren indien men op een latere datum (dan degene die afgesproken is) aankomt of op een vroegere datum (dan degene die afgesproken is) vertrekt. 
 
