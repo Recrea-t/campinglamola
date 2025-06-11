@@ -64,34 +64,40 @@ regulation: >-
 
   Per tal d’agilitzar el check-in i evitar aglomeracions, us demanem que tingueu preparades les següents dades obligatòries de totes les persones allotjades, inclosos els menors d’edat:
 
-  Document d’identitat (DNI, passaport, NIE, etc.) per a persones a partir de 14 anys.
 
-  •	Adreça de residència habitual.
+  * Document d’identitat (DNI, passaport, NIE, etc.) per a persones a partir de 14 anys.
 
-  •	Telèfon de contacte i correu electrònic.
+  * Adreça de residència habitual.	
 
-   **Informació específica per a menors d’edat:**
+  * Telèfon de contacte i correu electrònic
 
-  •	El telèfon i el correu electrònic no són obligatoris.
 
-  •	És imprescindible indicar la relació de l’adult responsable amb el menor (mare, pare, tutor legal, etc.).
+  **Informació específica per a menors d’edat:**
+
+
+  * El telèfon i el correu electrònic no són obligatoris.
+
+  * És imprescindible indicar la relació de l’adult responsable amb el menor (mare, pare, tutor legal, etc.).
 
 
   **HOARARIS**
 
-  •	Hora d'entrada: de 12:30 a 21:00 (consultar altres opcions).
 
-  •	Hora de sortida: abans de les 12:00. La sortida posterior sense prèvia comunicació a recepció, comporta el cost d'una nit addicional.
+  * Hora d'entrada: de 12:30 a 21:00 (consultar altres opcions).
 
-  •	Horari de silenci: de 23:00 a 7:00. 
+  * Hora de sortida: abans de les 12:00. La sortida posterior sense prèvia comunicació a recepció, comporta el cost d'una nit addicional.
+
+  * Horari de silenci: de 23:00 a 7:00.
+
 
   **VEHICLES**
 
-  •	Prohibit circular per dins del càmping entre les 23:00 i les 7:00.
 
-  •	La velocitat màxima permesa dins del recinte és de 10 km/h.
+  * Prohibit circular per dins del càmping entre les 23:00 i les 7:00.
 
-  •	No utilitzar el vehicle per a desplaçaments interns, utilitzeu-lo només per entrar o sortir del recinte.
+  * La velocitat màxima permesa dins del recinte és de 10 km/h.
+
+  * No utilitzar el vehicle per a desplaçaments interns, utilitzeu-lo només per entrar o sortir del recinte.
 
 
   **ANIMALS DE COMPANYIA**
