@@ -86,8 +86,9 @@ conditions: >-
 
   * Para efectuar una reserva, el camping le pedirá una paga y señal que, dependiendo de la temporada, puede llegar a ser del 40% sobre el total de la estancia.
 
-  * Los importes serán abonados en un plazo no superior a 3 días a contar de la fecha de la solicitud y se realizarán mediante transferencia a la cuenta que se comunicará en el momento de formalizar la reserva. La cantidad restante se liquidará a la llegada al cámping.
-
+  * En caso de elegir la transferencia bancaria como método de pago, será necesario abonar los importes correspondientes en un plazo máximo de 3 días naturales desde la fecha de la solicitud.
+    La transferencia deberá realizarse a la cuenta bancaria que se facilitará en el momento de formalizar la reserva.
+    El importe restante deberá abonarse a la llegada al camping.
   * No habrá ningún reembolso en caso de retrasar el día de llegada o anticipar el día de salida.
 
   * Se acepta efectivo. Sólo disponemos del servicio de pago con tarjeta durante los meses de Julio y Agosto. Existe también la posibilidad de realizar una transferencia bancaria.
