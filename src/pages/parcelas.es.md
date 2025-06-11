@@ -81,13 +81,17 @@ regulation: >-
 
   * El propietario del animal será responsable de los daños que éste pueda ocasionar tanto al resto de los campistas y sus bienes como en las instalaciones del cámping.
 conditions: >-
-  Si hacen la reserva de una parcela directamente con nosotros mediante la web o
-  por teléfono, no hay que hacer ningún pago adelantado. Sólo necesitamos saber
-  el día de llegada, el número de personas, parcelas y la duración aproximada de
-  la estancia.
+  * Para confirmar la reserva, es necesario abonar 20 € en concepto de paga y
+  señal. En caso de solicitar la cancelación con más de 10 días de antelación
+  respecto a la fecha de llegada, se devolverá el 90 % de dicho importe. No se
+  reembolsará nada en caso de cancelación con menos de 10 días de antelación o
+  en caso de no presentarse.
 
+  * En el momento de hacer la reserva, el camping asigna una parcela del tipo escogido para garantizar la reserva. Sin embargo, a su llegada, y siempre que haya opciones disponibles, el cliente podrá elegir otra parcela dentro de la misma categoría reservada.
 
-  No reservamos ninguna parcela en concreto. La reserva sólo le asegura tener lugar en el caso de que el cámping estuviera completo.
+  * Se recomienda reservar con antelación para estancias entre el 25 de julio y el 15 de agosto.
 
-  Todos los clientes pueden elegir la parcela del tipo reservado que más les guste de entre todas las disponibles únicamente en el momento de su llegada.
+  * Para reservas de dos o más parcelas juntas, es necesario hacer la solicitud por correo electrónico.
+
+  * Las reservas de parcela se mantienen hasta las 18:00 h del día de llegada. Si tienen previsto llegar más tarde, es imprescindible que nos lo comuniquen con antelación. En caso contrario, la reserva no queda garantizada.
 ---
