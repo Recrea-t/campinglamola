@@ -89,8 +89,8 @@ conditions: >-
 
   * Per efectuar una reserva, el càmping li demanarà una paga i senyal que, depenent de la temporada, pot arribar a ser del 40% sobre el total de l'estada.
 
-  * Els imports han de ser abonats en un termini no superior a 3 dies a comptar de la data de la sol·licitud i es realitzaran mitjançant transferència al compte que es comunicarà en el moment de formalitzar la reserva. La quantitat restant es liquidarà a l'arribada al càmping.
-
+  * En cas de triar la transferència bancària com a mètode de pagament, caldrà abonar els imports corresponents en un termini màxim de 3 dies naturals a partir de la data de la sol·licitud. La transferència s’haurà de realitzar al compte bancari que es facilitarà en el moment de formalitzar la reserva.
+    La quantitat restant es podrà liquidar a l’arribada al càmping.
   * No hi haurà cap reemborsament en cas d'endarrerir el dia d'arribada o anticipar el dia de sortida.
 
   * S'accepta efectiu. Només disposem del servei de pagament amb targeta durant els mesos de Juliol i Agost. Existeix també la possibilitat de realitzar una transferència bancària .
