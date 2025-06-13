@@ -102,8 +102,6 @@ const GaialsPage = props => {
           </TabPanels>
         </Tabs>
 
-        <Heading my={[4, null, 8]}>{reservations}</Heading>
-
         <Box w="full" my={4} textAlign="center">
           <MotionLink
             href={`https://booking.campinglamola.com/search?lang=${locale}`}

@@ -101,7 +101,6 @@ const PlotsPage = props => {
             </TabPanel>
           </TabPanels>
         </Tabs>
-        <Heading my={[4, null, 8]}>{reservations}</Heading>
 
         <Box w="full" my={4} textAlign="center">
           <MotionLink
