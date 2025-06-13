@@ -8,11 +8,13 @@ import {
   DrawerBody,
   Center,
   HStack,
+  Link,
 } from "@chakra-ui/react"
 
 import HamburgerIcon from "../../images/HamburgerIcon.svg"
 import CloseIcon from "../../images/CloseIcon.svg"
 
+import { useLocale } from "../../hooks/locale"
 import useTranslations from "../useTranslations"
 import useSiteMetadata from "../siteMetadata"
 import SocialLink from "../ui/SocialLink"
@@ -25,8 +27,9 @@ const ToggleMenu = props => {
   const { isOpen, onOpen, onClose, children, controls } = props
   const btnRef = React.useRef()
 
-  const { menuTitle } = useTranslations()
+  const { menuTitle, bookings } = useTranslations()
   const { social } = useSiteMetadata()
+  const { locale } = useLocale()
 
   const toggleVariants = {
     visible: {
@@ -159,6 +162,15 @@ const ToggleMenu = props => {
               </MotionText>
 
               {children}
+
+              
+		<Box><Link
+                href={`https://booking.campinglamola.com/search?lang=${locale}`}
+	  	variant="nav-link"
+	  	align="center"
+              >
+	  {bookings}
+              </Link></Box>
 
               <Languages />
 

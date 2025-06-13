@@ -57,7 +57,8 @@ const query = graphql`
 
             callUs
             writeUs
-
+	    
+	    bookings
             reservations
             name
             email

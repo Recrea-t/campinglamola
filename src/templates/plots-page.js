@@ -22,6 +22,7 @@ import CustomAccordionItem from "../components/ui/CustomAccordionItem"
 
 import { MotionLink } from "../theme/utils"
 
+import { useLocale } from "../hooks/locale"
 import useTranslations from "../components/useTranslations"
 
 import ReactMarkdown from "react-markdown"
@@ -43,6 +44,7 @@ const Content = ({ title, content }) => (
 )
 
 const PlotsPage = props => {
+  const { locale } = useLocale()
   const { frontmatter } = props.data.default
   const { summary, regulation, conditions, reservations } =
     useTranslations()
@@ -103,7 +105,7 @@ const PlotsPage = props => {
 
         <Box w="full" my={4} textAlign="center">
           <MotionLink
-            href="https://booking.campinglamola.com/"
+            href={`https://booking.campinglamola.com/search?lang=${locale}`}
             title={reservations}
             variant="button"
             colorScheme="dullBrown"

@@ -16,13 +16,15 @@ import LocalizedLink from "../ui/LocalizedLink"
 
 import { EASINGS } from "../../theme/utils"
 import Languages from "../ui/Languages"
+import { useLocale } from "../../hooks/locale"
 
 import { FaFacebook } from "@react-icons/all-files/fa/FaFacebook"
 
 const Header = () => {
   const menuItems = useMenu()
+  const { locale } = useLocale()
   const { social } = useSiteMetadata()
-  const { home, menuTitle } = useTranslations()
+  const { home, menuTitle, bookings } = useTranslations()
   const { isOpen, onOpen, onClose } = useDisclosure()
 
   const menuVariants = {
@@ -145,6 +147,12 @@ const Header = () => {
               </NavLink>
             )
           })}
+              <Link
+                href={`https://booking.campinglamola.com/search?lang=${locale}`}
+                variant="nav-link-lg"
+              >
+	  {bookings}
+              </Link>
           <Languages />
         </Flex>
 
