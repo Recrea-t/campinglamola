@@ -88,21 +88,6 @@ const PlotsPage = props => {
                 />
               </Tab>
             ))}
-          </TabList>
-          <TabPanels bg="paleGrey.500" ml={8}>
-            <TabPanel key={0}>
-              <Content title={summary} content={frontmatter.summary} />
-            </TabPanel>
-            <TabPanel key={1}>
-              <Content title={regulation} content={frontmatter.regulation} />
-            </TabPanel>
-            <TabPanel key={2}>
-              <Content title={conditions} content={frontmatter.conditions} />
-            </TabPanel>
-          </TabPanels>
-        </Tabs>
-        <Heading my={[4, null, 8]}>{reservations}</Heading>
-
         <Box w="full" my={4} textAlign="center">
           <MotionLink
             href={`https://booking.campinglamola.com/search?lang=${locale}`}
@@ -116,6 +101,19 @@ const PlotsPage = props => {
             {reservations}
           </MotionLink>
         </Box>
+          </TabList>
+          <TabPanels bg="paleGrey.500" ml={8}>
+            <TabPanel key={0}>
+              <Content title={summary} content={frontmatter.summary} />
+            </TabPanel>
+            <TabPanel key={1}>
+              <Content title={regulation} content={frontmatter.regulation} />
+            </TabPanel>
+            <TabPanel key={2}>
+              <Content title={conditions} content={frontmatter.conditions} />
+            </TabPanel>
+          </TabPanels>
+        </Tabs>
       </Container>
     </>
   )

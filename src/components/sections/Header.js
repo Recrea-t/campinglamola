@@ -150,6 +150,7 @@ const Header = () => {
               <Link
                 href={`https://booking.campinglamola.com/search?lang=${locale}`}
                 variant="nav-link-lg"
+	  	isExternal
               >
 	  {bookings}
               </Link>
