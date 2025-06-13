@@ -88,20 +88,6 @@ const BungalowsPage = props => {
                 />
               </Tab>
             ))}
-        <Box w="full" my={4} textAlign="center">
-          <MotionLink
-            href={`https://booking.campinglamola.com/search?lang=${locale}`}
-            title={reservations}
-            variant="button"
-            colorScheme="dullBrown"
-	    w="full"
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-            isExternal
-          >
-            {reservations}
-          </MotionLink>
-        </Box>
           </TabList>
           <TabPanels bg="paleGrey.500" ml={8}>
             <TabPanel>
@@ -116,6 +102,20 @@ const BungalowsPage = props => {
           </TabPanels>
         </Tabs>
 
+        <Heading my={[4, null, 8]}>{reservations}</Heading>
+        <Box w="full" my={4} textAlign="center">
+          <MotionLink
+            href={`https://booking.campinglamola.com/search?lang=${locale}`}
+            title={reservations}
+            variant="button"
+            colorScheme="dullBrown"
+            whileHover={{ scale: 1.05 }}
+            whileTap={{ scale: 0.95 }}
+            isExternal
+          >
+            {reservations}
+          </MotionLink>
+        </Box>
 
       </Container>
     </>
