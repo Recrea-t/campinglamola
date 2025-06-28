@@ -55,7 +55,7 @@ regulation: >-
   * **VERPLICHT** vertoon aan de ingang van de camping van identiteitskaart of
   paspoort van alle reizigers ouder dan 14 jaar.
 
-  * Aankomsttijd: van 11:00 tot 21:00 u (raadpleeg andere opties).
+  * Aankomsttijd: van 12:00 tot 14:00 en van 16:00 tot 21:00 (vraag naar andere mogelijkheden).
 
   * Vertrektijd: vóór 12:00 u. Een vertrek na 13:00 u zonder voorafgaande mededeling aan het onthaal brengt de betaling van een bijkomende nacht met zich mee.
 
