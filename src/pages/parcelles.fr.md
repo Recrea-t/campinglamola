@@ -49,7 +49,7 @@ regulation: >-
   tous les voyageurs de plus de 14 ans à l'entrée du camping et d'enregistrer
   tous les véhicules, en indiquant le numéro d'immatriculation et le modèle.
 
-  * Heure d'arrivée: de 11:00h à 21:00h (voir autres options).
+  * Heure d'arrivée: de 12:00h à 14:00h et de 16:00h à 21:00h (veuillez consulter pour d'autres options).
 
   * Heure de départ: avant 12:00h, à partir de ces heures on comptera un séjour de plus.
 
