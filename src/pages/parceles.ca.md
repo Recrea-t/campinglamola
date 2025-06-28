@@ -83,17 +83,17 @@ regulation: >-
   **HORARIS**
 
 
-  * Hora d'entrada: de 12:00 a 14:00 i de 16:00 a 21:00 (consultar altres opcions).
+  * Hora d'entrada: de 12h a 14h i de 16h a 21h (consultar altres opcions).
 
-  * Hora de sortida: abans de les 12:00. La sortida posterior sense prèvia comunicació a recepció, comporta el cost d'una nit addicional.
+  * Hora de sortida: abans de les 12h. La sortida posterior sense prèvia comunicació a recepció, comporta el cost d'una nit addicional.
 
-  * Horari de silenci: de 23:00 a 7:00.
+  * Horari de silenci: de 23h a 7h
 
 
   **VEHICLES**
 
 
-  * Prohibit circular per dins del càmping entre les 23:00 i les 7:00.
+  * Prohibit circular per dins del càmping entre les 23h i les 7h.
 
   * La velocitat màxima permesa dins del recinte és de 10 km/h.
 
