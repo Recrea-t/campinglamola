@@ -12,13 +12,13 @@ images:
   - /images/img_1262.jpg
   - /images/img_4806.jpg
 summary: >-
-  * De 70 a 120m2.
+  * De 60, 90 i 120m2.
 
   * Totes amb ombra i sòl herbós.
 
   * Fonts d'aigua potable prop de cada parcel·la.
 
-  * Possibilitat d'escollir la parcel·la que més li agradi.
+  * Possibilitat d'escollir parcel·la (segons disponibilitat).
 
   * Zona separada per grups.
 
