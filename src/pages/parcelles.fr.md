@@ -6,7 +6,7 @@ description: Camping situé dans l'environnement naturel du Parc National
   des paysages favoris  vous offre des emplacements spacieux, herbeux et ombreux
   , des  petits appartements familiaux confortables et spacieux et de  bungalows
 summary: |-
-  * Dimensions: 70 à 120 m2
+  * Dimensions: 60 à 120 m2
   * Toutes les parcelles ombragées et sur un sol herbeux.
   * Points d’eau potable près de chaque parcelle.
   * Choisissez la parcelle qui vous plaît le mieux.
@@ -49,7 +49,7 @@ regulation: >-
   tous les voyageurs de plus de 14 ans à l'entrée du camping et d'enregistrer
   tous les véhicules, en indiquant le numéro d'immatriculation et le modèle.
 
-  * Heure d'arrivée: de 12:00h à 14:00h et de 16:00h à 21:00h (veuillez consulter pour d'autres options).
+  * Heure d'arrivée: de 12:00h à 14:00h et de 16:00h à 20:00h (veuillez consulter pour d'autres options).
 
   * Heure de départ: avant 12:00h, à partir de ces heures on comptera un séjour de plus.
 
