@@ -6,13 +6,13 @@ description: Cámping situado en la zona del Parque Nacional de Aiguestortes i
   privilegiados paisajes. Ofrecemos amplias parcelas con césped así como cómodos
   i espaciosos bungalows
 summary: >-
-  * De 70 a 120m2.
+  * De 60, 90 y 120 m2
 
   * Todas con sombra y suelo herboso.
 
   * Fuentes de agua potable cerca de cada parcela.
 
-  * Posibilidad de escoger la parcela que más le guste.
+  * Posibilidad de escoger la parcela (según disponibilidad).
 
   * Zona separada para grupos.
 
