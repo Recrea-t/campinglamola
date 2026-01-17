@@ -83,7 +83,7 @@ regulation: >-
   **HORARIS**
 
 
-  * Hora d'entrada: de 12h a 14h i de 16h a 21h (consultar altres opcions).
+  * Hora d'entrada: de 12h a 14h i de 16h a 20h (consultar altres opcions).
 
   * Hora de sortida: abans de les 12h. La sortida posterior sense prèvia comunicació a recepció, comporta el cost d'una nit addicional.
 
