@@ -6,7 +6,7 @@ description: In de nabijheid van het Nationaal Park van Aigüestortes en het Mee
   bevoorrecht landschap te genieten, biedt camping La Mola ruime kampeerplaatsen
   met veel gras en schaduw aan en confortabele en ruime bungalows
 summary: >-
-  * Van 70 tot 100 m2
+  * Van 60 tot 100 m2
 
   * Alle plaatsen met schaduw en rijk met gras begroeid
 
@@ -55,7 +55,7 @@ regulation: >-
   * **VERPLICHT** vertoon aan de ingang van de camping van identiteitskaart of
   paspoort van alle reizigers ouder dan 14 jaar.
 
-  * Aankomsttijd: van 12:00 tot 14:00 en van 16:00 tot 21:00 (vraag naar andere mogelijkheden).
+  * Aankomsttijd: van 12:00 tot 14:00 en van 16:00 tot 20:00 (vraag naar andere mogelijkheden).
 
   * Vertrektijd: vóór 12:00 u. Een vertrek na 13:00 u zonder voorafgaande mededeling aan het onthaal brengt de betaling van een bijkomende nacht met zich mee.
 
