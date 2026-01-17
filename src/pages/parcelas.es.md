@@ -55,7 +55,7 @@ regulation: >-
   * Es **OBLIGATORIA** la presentación de DNI o pasaporte de todos los viajeros
   mayores de 14 años a la entrada al Camping.
 
-  * Hora de entrada: de 12:00 a 14:00 y de 16:00 a 21:00 (consultar otras opciones).
+  * Hora de entrada: de 12:00 a 14:00 y de 16:00 a 20:00 (consultar otras opciones).
 
   * Hora de salida: antes de las 12:00. La salida posterior sin previa comunicación a recepción, conlleva el coste de una noche adicional.
 
