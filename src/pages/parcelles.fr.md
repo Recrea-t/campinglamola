@@ -10,8 +10,8 @@ summary: |-
   * Toutes les parcelles ombragées et sur un sol herbeux.
   * Points d’eau potable près de chaque parcelle.
   * Choisissez la parcelle qui vous plaît le mieux.
-  * Parcelles séparées pour groupes
-  * Les animaux domestiques tenus en laisse sont admis.
+  * Parcelles séparées pour groupes.
+  * Les animaux de compagnie sont admis.
 pricing:
   - title: Adulte
     price: 7.2
