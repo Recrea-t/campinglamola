@@ -4,14 +4,20 @@ title: "Plots "
 description: Campsite located at the entrance of the Aigüestortes and Lake Sant
   Maurici National Park offer spacious bungalows and green and shady camping
   pitches
-summary: |-
+summary: >-
   * From 60 to 120 m2
+
   * All with shade and grassy soil.
+
   * Waterpoints with drinking water near each plot.
+
   * Possibility to choose the plot you like the most.
+
   * Separate area for groups.
+
   * Option of a plot for the whole summer (consult us).
-  * Dogs are allowed, except the ones considered as potentially dangerous.
+
+  * Pets are allowed. In the case of PPP dogs, their stay is permitted as long as they comply with current regulations: licence, use of a muzzle, insurance, etc.
 pricing:
   - title: Adult
     price: 7.2
