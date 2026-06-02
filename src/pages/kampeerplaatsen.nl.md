@@ -18,7 +18,7 @@ summary: >-
 
   * Optie voor een kampeerplaats voor de hele zomer (raadpleeg ons)
 
-  * Huisdieren toegelaten met uitzondering van honden die als potentieel gevaarlijk beschouwd worden
+  * Huisdieren zijn toegestaan. In het geval van honden die als potentieel gevaarlijk worden beschouwd, is hun verblijf toegestaan zolang zij voldoen aan de geldende regelgeving: vergunning, gebruik van een muilkorf, verzekering, enz.
 pricing:
   - title: Volwassene
     price: 7.2
