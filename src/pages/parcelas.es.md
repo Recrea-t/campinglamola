@@ -18,7 +18,7 @@ summary: >-
 
   * Opción de parcela para todo el verano (consúltenos).
 
-  * Se admiten animales de compañía. En el caso de los perros PPP, su estancia está permitida siempre que cumplan con la normativa vigente: licencia, uso de bozal, seguro, etc.
+  * Se admiten animales de compañía. En el caso de los perros PPP, su estancia está permitida siempre que cumplan con la normativa vigente: licencia, uso de bozal, seguro, etc .
 pricing:
   - title: Adulto
     price: 7.2
