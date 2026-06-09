@@ -50,7 +50,7 @@ pricingNotes: >-
 
   * Se pueden añadir tiendas auxiliares (tipo iglú) sin coste, a condición de que estén dentro de los límites de la parcela.
 
-  * Se puede añadir máximo un segundo coche en la parcela, pero tiene que registrarse y abonar según la  tarifa vigente, y deberá estacionarse dentro de los límites de la parcela. En caso de que se aparque en otra    deberá pagar la tarifa de la parcela extra que esté ocupando.
+  * Se puede añadir máximo un segundo coche en la parcela, pero tiene que registrarse y abonar según la  tarifa vigente, y deberá estacionarse dentro de los límites de la parcela. En caso de que se aparque en otra,    deberá pagar la tarifa de la parcela extra que esté ocupando.
 regulation: >-
   * Es **OBLIGATORIA** la presentación de DNI o pasaporte de todos los viajeros
   mayores de 14 años a la entrada al Camping.
