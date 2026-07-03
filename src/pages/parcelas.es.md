@@ -81,12 +81,10 @@ regulation: >-
 
   * El propietario del animal será responsable de los daños que éste pueda ocasionar tanto al resto de los campistas y sus bienes como en las instalaciones del cámping.
 conditions: >-
-  * Para confirmar la reserva, es necesario abonar 20 € en concepto de paga y
-  señal. En caso de solicitar la cancelación con más de 10 días de antelación
-  respecto a la fecha de llegada, se devolverá el 90 % de dicho importe. No se
-  reembolsará nada en caso de cancelación con menos de 10 días de antelación o
-  en caso de no presentarse.
+  * Para confirmar la reserva, será necesario abonar un depósito de 20 €, que se
+  descontará del importe total de la estancia a la llegada al camping.
 
+    Este importe permite garantizar la reserva y no será reembolsable en caso de anulación o cancelación.
   * En el momento de hacer la reserva, el camping asigna una parcela del tipo escogido para garantizar la reserva. Sin embargo, a su llegada, y siempre que haya opciones disponibles, el cliente podrá elegir otra parcela dentro de la misma categoría reservada.
 
   * Se recomienda reservar con antelación para estancias entre el 25 de julio y el 15 de agosto.
