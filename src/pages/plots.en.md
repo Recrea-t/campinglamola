@@ -80,9 +80,10 @@ regulation: >-
 
   * The owner of the animal will be responsible for any damage it may cause to the rest of the campers and their property as well as to the campsite facilities.
 conditions: >-
-  * To confirm the booking, a deposit of €20 is required. If you cancel more
-  than 10 days before the arrival date, 90% of this amount will be refunded.
-    No refund will be given in case of cancellation within 10 days of arrival or no-show
+  * To confirm the booking, a €20 deposit must be paid. This amount will be
+  deducted from the total cost of the stay upon arrival at the campsite.
+
+    This deposit guarantees the booking and is non-refundable in the event of cancellation.
   * At the time of booking, the campsite assigns a pitch of the selected type to guarantee the reservation. However, upon arrival, and subject to availability, guests may choose a different pitch within the same reserved category.
 
   * It is recommended to book in advance for stays between July 25 and August 15.
