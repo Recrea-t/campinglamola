@@ -78,11 +78,10 @@ regulation: >-
 
   * Le propriétaire de l'animal sera responsable de tout dommage qu'il pourrait causer au reste des campeurs et à leur propriété ainsi qu'aux installations du camping.
 conditions: >-
-  * Pour confirmer la réservation, un acompte de 20 € est requis. En cas
-  d’annulation plus de 10 jours avant la  date d’arrivée, 90 % de ce montant
-  sera remboursé. Aucun remboursement ne sera effectué en cas d’annulation moins
-  de 10 jours avant l’arrivée ou en cas de non-présentation. 
+  * Pour confirmer la réservation, il sera nécessaire de verser un dépôt de 20
+  €, qui sera déduit du montant total du séjour à l’arrivée au camping.
 
+    Ce montant permet de garantir la réservation et ne sera pas remboursable en cas d’annulation.
   * Lors de la réservation, le camping attribue un emplacement du type choisi afin d’en garantir la disponibilité. Toutefois, à votre arrivée, et sous réserve de disponibilité, vous pourrez choisir un autre emplacement dans la même catégorie réservée.
 
   * Il est recommandé de réserver à l’avance pour des séjours entre le 25 juillet et le 15 août.
