@@ -81,11 +81,11 @@ regulation: >-
 
   * De eigenaar van het huisdier zal verantwoordelijk zijn voor de schade die het kan veroorzaken zowel aan de andere kampeerders en hun goederen als aan de installaties van de camping.
 conditions: >-
-  * Om de reservering te bevestigen, dient een aanbetaling van €20 te worden
-  voldaan. Bij annulering meer dan 10 dagen vóór de aankomstdatum wordt 90% van
-  dit bedrag terugbetaald. Bij annulering minder dan 10 dagen voor aankomst of
-  bij niet verschijnen, wordt er geen restitutie verleend.
+  * Om de reservering te bevestigen, dient er een aanbetaling van €20 te worden
+  betaald. Dit bedrag wordt bij aankomst op de camping in mindering gebracht op
+  het totale bedrag van het verblijf.
 
+    Deze aanbetaling garandeert de reservering en wordt niet terugbetaald in geval van annulering.
   * Bij het maken van de reservering wijst de camping een staanplaats van het gekozen type toe om de reservering te garanderen. Bij aankomst, en indien beschikbaar, kan de klant een andere staanplaats kiezen binnen dezelfde gereserveerde categorie.
 
   * Het wordt aangeraden om vooraf te reserveren voor verblijven tussen 25 juli en 15 augustus.
