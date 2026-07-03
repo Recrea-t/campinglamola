@@ -117,11 +117,10 @@ regulation: >-
 
   * El propietari de l'animal serà responsable dels danys que aquest pugui ocasionar tant a la resta dels campistes i als seus béns com a les instal·lacions del càmping.
 conditions: >-
-  * Per confirmar la reserva, cal abonar 20€ com a paga i senyal. En cas de
-  sol·licitar la cancel·lació amb més de 15 dies d'antelació respecte a la data
-  d'arribada, es retornarà el 90% d'aquest import. No es reemborsarà res en cas
-  de cancel·lació amb menys de 10 dies d'antelació o no-presentació.
+  * Per confirmar la reserva, cal abonar un dipòsit de 20 €, que es descomptarà
+  de l’import total de l’estada a l’arribada al càmping.
 
+    Aquest import permet garantir la reserva i no serà reemborsable en cas d’anul·lació o cancel·lació.
   * En el moment de fer la reserva, el càmping assigna una parcel·la del tipus escollit per assegurar-ne la reserva. Tot i això, a la seva arribada, i sempre que hi hagi opcions disponibles, el client podrà triar una altra parcel·la dins de la mateixa categoria reservada.
 
   * Es recomana fer reserva prèvia per a estades compreses entre el 25 de juliol i el 15 d’agost.
