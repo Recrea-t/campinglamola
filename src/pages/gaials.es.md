@@ -100,7 +100,7 @@ conditions: >-
   La cancelación o modificación de vuestra reserva se deberá solicitar por escrito mediante correo electrónico a [info@campinglamola.com](mailto:info@campinglamola.com)
 
 
-  **Modificaciones y e:stancias**
+  **Modificaciones y estancias**
 
 
   * Si los clientes, sin aviso previo, no llegan al camping antes de las 21:00 h del día de llegada, se entenderá cancelada la reserva sin derecho a reembolso.
