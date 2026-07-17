@@ -1,5 +1,17 @@
 ---
 templateKey: gaials-page
+title: Gaials
+description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
+  de Sant Maurici- Espot- Pallars Sobirà- l'enclavament ideal per relaxar-se i
+  gaudir de privilegiats paisatges. Oferim àmplies parcel·les amb gespa i ombra,
+  així com còmodes i espaiosos bungalows
+images:
+  - /images/fullsizerender-16-.jpg
+  - /images/fullsizerender-14-.jpg
+  - /images/fullsizerender-15-.jpg
+  - /images/gaials1.jpg
+  - /images/img_0251.jpg
+  - /images/gaials6.jpg
 summary: >-
   Els gaials són uns petits i funcionals allotjaments de dues plantes ubicats a
   la part superior de l'edifici principal del càmping. No estan a peu de carrer,
@@ -44,18 +56,6 @@ regulation: >-
 
   * Hora de sortida: Abans de les 11:00
 formName: gaials-form
-title: Gaials
-description: Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany
-  de Sant Maurici- Espot- Pallars Sobirà- l'enclavament ideal per relaxar-se i
-  gaudir de privilegiats paisatges. Oferim àmplies parcel·les amb gespa i ombra,
-  així com còmodes i espaiosos bungalows
-images:
-  - /images/fullsizerender-16-.jpg
-  - /images/fullsizerender-14-.jpg
-  - /images/fullsizerender-15-.jpg
-  - /images/gaials1.jpg
-  - /images/img_0251.jpg
-  - /images/gaials6.jpg
 pricingNotes: >-
   *Preus per nit. IVA inclòs. Impost sobre les estades en establiments turístics
   no inclòs : 1,32€ per persona (+16 anys) i dia, amb un màxim de 7 dies.* 
@@ -93,20 +93,23 @@ conditions: >-
   * S'accepta efectiu. Només disposem del servei de pagament amb targeta durant els mesos de Juliol i Agost. Existeix també la possibilitat de realitzar una transferència bancària .
 
 
-  #### Anul·lacions
+  #### Anul·lacions i Modificacions
 
 
-  * La cancel·lació de la seva reserva s'haurà de sol·licitar per escrit mitjançant correu electrònic a *[info@campinglamola.com](mailto:info@campinglamola.com)*
+  La cancel·lació o modificació de la vostra reserva s'haurà de sol·licitar per escrit mitjançant correu electrònic a [info@campinglamola.com](mailto:info@campinglamola.com)
 
-  * Si s'anul·la amb més de 15 dies d'anticipació de l'arribada del client, es retorna el 90% de la fiança.
 
-  * Si s'anul·la entre 7 i 15 dies abans de l'arribada, es retorna el 50% de la fiança.
+  * Si els clients, sense avís previ, no arriben al càmping abans de les 21:00 h del dia d'arribada, s'entendrà cancel·lada la reserva sense dret a reemborsament.
 
-  * Si s'anul·la amb menys de 7 dies no es retorna la fiança.
+  * No hi haurà cap reemborsament per modificacions d’ última hora (retardar l'arribada o anticipar la sortida). Les condicions meteorològiques adverses, com ara pluja o fred, no es consideren causa de força major i, per tant, no donen dret a cap reemborsament, excepte en cas d'alarma meteorològica oficial.
 
-  * Si els clients, sense previ avís, no arriben al càmping abans de les 22.00 h. del dia d'arribada, s'entendrà cancel·lada la reserva.
 
-  * Si la reserva es veu afectada per restriccions de mobilitat imposades pel Govern, es reemborsarà del 100% del dipòsit entregat. 
+  **Condicions d'anul·lació:**
 
-  * Per a qualsevol cancel·lació per altres motius, s'aplicaran les nostres Condicions Generals d'anul·lació.
+
+  * Si s'anul·la amb més de 15 dies d'antelació a l'arribada del client, es retornarà el 90% del dipòsit de reserva.
+
+  * Si s'anul·la entre 7 i 15 dies abans de l'arribada, es retornarà el 50%.
+
+  * Si s'anul·la amb menys de 7 dies, no hi haurà cap reemborsament.
 ---
