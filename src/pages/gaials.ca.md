@@ -103,10 +103,7 @@ conditions: >-
 
   * No hi haurà cap reemborsament per modificacions d’ última hora (retardar l'arribada o anticipar la sortida). Les condicions meteorològiques adverses, com ara pluja o fred, no es consideren causa de força major i, per tant, no donen dret a cap reemborsament, excepte en cas d'alarma meteorològica oficial.
 
-
-  **Condicions d'anul·lació:**
-
-
+    **Condicions d'anul·lació:**
   * Si s'anul·la amb més de 15 dies d'antelació a l'arribada del client, es retornarà el 90% del dipòsit de reserva.
 
   * Si s'anul·la entre 7 i 15 dies abans de l'arribada, es retornarà el 50%.
