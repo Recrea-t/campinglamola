@@ -1,5 +1,10 @@
 ---
 templateKey: gaials-page
+title: Gaials
+description: Camping situado en la zona del Parque Nacional de Aiguestortes i
+  Estany de Sant Maurici, el enclave ideal para relajarse y disfrutar de
+  privilegiados paisajes. Ofrecemos amplias parcelas con césped y sombra, así
+  como cómodos y espaciosos bungalows
 summary: >-
   Para 4 o 6 personas
 
@@ -29,33 +34,6 @@ pricing:
   - highSeason: 135
     title: 6 pax
     lowSeason: 105
-regulation: >-
-  
-
-  * Es **OBLIGATORIA** la presentación de DNI o pasaporte de todos los ocupantes mayores de 14 años a la llegada al cámping y registrar todos los vehículos, indicando la matrícula y el modelo.
-
-  * La capacidad máxima indicada para cada alojamiento no podrá ser nunca superada sin autorización.
-
-  * Se admite un vehículo para alojamiento de 4 personas y 2 vehículos para alojamiento de 6 personas incluidos en el precio. Todo vehículo suplementario deberá ser registrado y abonado según tarifa en vigor.
-
-  * Hora de entrada: Entre las 16:00 y las 21:00 (consultar otras opciones).
-
-  * Hora de salida: Antes de las 11:00.
-formName: gaials-form
-title: Gaials
-images:
-  - /images/gaials1.jpg
-  - /images/gaials2.jpg
-  - /images/gaials3.jpg
-  - /images/gaials4.jpg
-  - /images/gaials5.jpg
-  - /images/gaials6.jpg
-  - /images/gaials7.jpg
-  - /images/gaials8.jpg
-description: Camping situado en la zona del Parque Nacional de Aiguestortes i
-  Estany de Sant Maurici, el enclave ideal para relajarse y disfrutar de
-  privilegiados paisajes. Ofrecemos amplias parcelas con césped y sombra, así
-  como cómodos y espaciosos bungalows
 pricingNotes: >-
   *Precios por noche. IVA incluido.
 
@@ -80,6 +58,28 @@ pricingNotes: >-
   * Junio, del 1 al 14 de julio y septiembre: estancia mínima de 4 noches.
 
   * Otras fechas: consultar
+regulation: >-
+  
+
+  * Es **OBLIGATORIA** la presentación de DNI o pasaporte de todos los ocupantes mayores de 14 años a la llegada al cámping y registrar todos los vehículos, indicando la matrícula y el modelo.
+
+  * La capacidad máxima indicada para cada alojamiento no podrá ser nunca superada sin autorización.
+
+  * Se admite un vehículo para alojamiento de 4 personas y 2 vehículos para alojamiento de 6 personas incluidos en el precio. Todo vehículo suplementario deberá ser registrado y abonado según tarifa en vigor.
+
+  * Hora de entrada: Entre las 16:00 y las 21:00 (consultar otras opciones).
+
+  * Hora de salida: Antes de las 11:00.
+formName: gaials-form
+images:
+  - /images/gaials1.jpg
+  - /images/gaials2.jpg
+  - /images/gaials3.jpg
+  - /images/gaials4.jpg
+  - /images/gaials5.jpg
+  - /images/gaials6.jpg
+  - /images/gaials7.jpg
+  - /images/gaials8.jpg
 conditions: >-
   #### Pagos
 
@@ -97,15 +97,23 @@ conditions: >-
   #### Anulaciones
 
 
-  * La cancelación de su reserva deberá solicitar por escrito mediante correo electrónico a *[info@campinglamola.com](mailto:info@campinglamola.com)*
+  La cancelación o modificación de vuestra reserva se deberá solicitar por escrito mediante correo electrónico a [info@campinglamola.com](mailto:info@campinglamola.com)
 
-  * Si se anula con más de 15 días de anticipación de la fecha de llegada, se devuelve el 90% de la fianza.
 
-  * Si se anula entre 7 y 15 días antes de la llegada, se devuelve el 50% de la fianza.
+  **Modificaciones y e:stancias**
 
-  * Si se anula con menos de 7 días no se devuelve la fianza.
 
-  * Si los clientes, sin previo aviso, no llegan al camping antes de las 21.00h. del día de llegada, se entenderá cancelada la reserva.
+  * Si los clientes, sin aviso previo, no llegan al camping antes de las 21:00 h del día de llegada, se entenderá cancelada la reserva sin derecho a reembolso.
 
-  * **Sólo** si la reserva se ve afectada por las **restricciones de movilidad impuestas por el Gobierno**, se reembolsará el 100% del depósito entregado. Por otros motivos se aplicarán nuestras Condiciones Generales de anulación.
+  * No habrá ningún reembolso por modificaciones de última hora (retrasar la llegada o anticipar la salida). Las condiciones meteorológicas adversas, como lluvia o frío, no se consideran causa de fuerza mayor y, por tanto, no dan derecho a ningún reembolso, excepto en caso de alarma meteorológica oficial.
+
+
+  **Condiciones de anulación:**
+
+
+  * Si se anula con más de 15 días de antelación a la llegada del cliente, se devolverá el 90% del depósito de reserva.
+
+  * Si se anula entre 7 y 15 días antes de la llegada, se devolverá el 50%.
+
+  * Si se anula con menos de 7 días, no habrá ningún reembolso.
 ---
