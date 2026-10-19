@@ -31,7 +31,7 @@ environmentSummary: Recomanat a qualsevol persona que estima la natura, l'esport
 title: Càmping a Espot Parc Nacional d' Aigüestortes i Estany de Sant Maurici
   Pallars Sobirà Valls d'Àneu
 parcNacionalImage: /images/Entorn01.jpg
-parcNaturalImage: /images/Entorn02.jpg
+parcNaturalImage: /images/img_2513.jpeg
 aneuImage: /images/Entorn03.jpg
 offer:
   active: false
