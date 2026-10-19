@@ -7,7 +7,7 @@ description: Cámping situado en la zona del Parque Nacional de Aiguestortes i
   como cómodos y espaciosos bungalows
 images:
   - /images/Entorn01.jpg
-  - /images/Entorn02.jpg
+  - /images/img_2513.jpeg
   - /images/Entorn03.jpg
 summary: L'encant dels preciosos paisatges de les Valls d'Àneu, riuets, fonts,
   barrancs, salts d'aigua i l'autenticitat de la seva gent fan d'aquest entorn
