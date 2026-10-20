@@ -1,4 +1,5 @@
 const config = require("./site-config.json")
+const areaPages = require("./landing-area/pages.json")
 
 console.log(config)
 
@@ -19,7 +20,35 @@ module.exports = {
     "gatsby-plugin-robots-txt",
     "gatsby-plugin-react-helmet",
     "gatsby-plugin-preload-fonts",
-    "gatsby-plugin-sitemap",
+    {
+      resolve: "gatsby-plugin-sitemap",
+      options: {
+        // Páginas que no deben indexarse: 404 por idioma y la shell del modo offline.
+        excludes: ["/*/404/", "/*/offline-plugin-app-shell-fallback"],
+        // La landing del área de autocaravanas vive en static/ (generada por
+        // landing-area/build.py) y Gatsby no la conoce: se añade aquí a mano.
+        resolvePages: ({ allSitePage: { nodes } }) => [
+          ...nodes,
+          ...Object.values(areaPages).map(({ path }) => ({ path })),
+        ],
+        serialize: ({ path }) => {
+          const esArea = Object.values(areaPages).some(p => p.path === path)
+          if (!esArea) return { url: path, changefreq: "daily", priority: 0.7 }
+          return {
+            url: path,
+            changefreq: "weekly",
+            priority: 0.9,
+            links: [
+              ...Object.entries(areaPages).map(([lang, p]) => ({
+                lang,
+                url: p.path,
+              })),
+              { lang: "x-default", url: areaPages.es.path },
+            ],
+          }
+        },
+      },
+    },
     {
       resolve: "gatsby-plugin-manifest",
       options: {
@@ -148,7 +177,17 @@ module.exports = {
         ],
       },
     },
-    "gatsby-plugin-netlify",
+    {
+      resolve: "gatsby-plugin-netlify",
+      options: {
+        headers: {
+          // Landing del área de autocaravanas: imágenes y script con nombre estable o con hash.
+          "/area-assets/*": [
+            "Cache-Control: public, max-age=2592000, stale-while-revalidate=86400",
+          ],
+        },
+      },
+    },
     "gatsby-plugin-netlify-cms",
     //{
     //resolve: "gatsby-plugin-webpack-bundle-analyser-v2",

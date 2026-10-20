@@ -44,7 +44,7 @@ const TemplateWrapper = ({
         )}
         {children}
       </Flex>
-      <Footer title={defaultTitle} />
+      <Footer title={defaultTitle} locale={locale} />
     </Flex>
   )
 }

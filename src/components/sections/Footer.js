@@ -17,8 +17,9 @@ import LocalizedLink from "../ui/LocalizedLink"
 import useTranslations from "../useTranslations"
 
 import useSiteMetadata from "../siteMetadata"
+import areaPages from "../../../landing-area/pages.json"
 
-const Footer = props => {
+const Footer = ({ locale, ...props }) => {
   const { organization, author } = useSiteMetadata()
   const { callUs, writeUs, legalNote, privacyPolicy } = useTranslations()
   return (
@@ -248,6 +249,21 @@ const Footer = props => {
             </Link>
           </Text>
         </Flex>
+        {areaPages[locale] && (
+          // Enlace discreto a la landing del área de autocaravanas (SEO): es una
+          // página estática independiente, por eso un <a> normal y no LocalizedLink.
+          <Text pb={3} fontSize="11px" textAlign="center">
+            <Link
+              href={areaPages[locale].path}
+              title={areaPages[locale].label}
+              color="inherit"
+              opacity={0.7}
+              _hover={{ opacity: 1, textDecoration: "underline" }}
+            >
+              {areaPages[locale].label}
+            </Link>
+          </Text>
+        )}
       </Flex>
     </Box>
   )
