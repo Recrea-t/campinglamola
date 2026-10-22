@@ -58,6 +58,7 @@ export default {
   variants: {
     button: variantButton,
     "nav-link-lg": {
+      whiteSpace: "nowrap",
       color: "dullBrown.500",
       fontSize: "md",
       textDecoration: "none",
@@ -67,8 +68,8 @@ export default {
       _hover: {
         textDecoration: "underline",
       },
-      pr: { base: 2, lg: 8 },
-      pl: { base: 2, lg: 8 },
+      pr: { base: 2, lg: 4, xl: 8 },
+      pl: { base: 2, lg: 4, xl: 8 },
     },
     "nav-link": {
       color: "paleGrey.500",

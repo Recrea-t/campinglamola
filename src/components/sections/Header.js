@@ -59,7 +59,7 @@ const Header = () => {
         justify="space-between"
         mx="auto"
         p={4}
-        wrap="wrap"
+        wrap={{ base: "wrap", md: "nowrap" }}
       >
         <LocalizedLink to="/" title={home} as={GatsbyLink}>
           <StaticImage
@@ -157,7 +157,11 @@ const Header = () => {
           <Languages />
         </Flex>
 
-        <HStack spacing={2} display={{ base: "none", md: "inherit" }}>
+        <HStack
+          spacing={2}
+          flexShrink={0}
+          display={{ base: "none", md: "inherit" }}
+        >
           <SocialLink
             color="dullBrown.500"
             item={social.facebook}

@@ -1,0 +1,7 @@
+{
+  "ca": { "path": "/area-autocaravanes-la-mola-espot/", "label": "Àrea d'autocaravanes a Espot" },
+  "es": { "path": "/es/area-autocaravanas-la-mola-espot/", "label": "Área de autocaravanas en Espot" },
+  "en": { "path": "/en/camper-area-la-mola-espot/", "label": "Motorhome & camper area in Espot" },
+  "fr": { "path": "/fr/aire-camping-car-la-mola-espot/", "label": "Aire de camping-cars à Espot" },
+  "nl": { "path": "/nl/camperplaats-la-mola-espot/", "label": "Camperplaats in Espot" }
+}
