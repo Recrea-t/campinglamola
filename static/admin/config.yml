@@ -17,6 +17,54 @@ show_preview_links: false
 locale: "ca"
 
 collections:
+    #Temporada d'estiu: interruptor de la landing de l'àrea d'autocaravanes (gatsby-node.js, onPostBuild)
+    - name: 'temporada'
+      label: 'Temporada'
+      create: false
+      delete: false
+      editor:
+        preview: false
+      files:
+        - name: 'temporada'
+          label: "Temporada d'estiu"
+          file: 'data/temporada.json'
+          fields:
+            - label: "Temporada d'estiu (funciona com a càmping)"
+              name: verano
+              widget: boolean
+              default: false
+              hint: "Activat: la landing de l'àrea d'autocaravanes mostra el bàner amb un botó a Parcel·les i els botons de check-in surten desactivats. Desactivat: landing normal amb check-in. El canvi es veu a la web en uns minuts, quan acaba la publicació."
+            - label: Català
+              name: ca
+              widget: object
+              fields:
+                - { label: Text del bàner, name: banner, widget: text, hint: "La primera línia surt destacada com a títol; la resta, a sota." }
+                - { label: "Text del botó del bàner", name: boton, widget: string }
+            - label: Castellano
+              name: es
+              widget: object
+              fields:
+                - { label: Text del bàner, name: banner, widget: text, hint: "La primera línia surt destacada com a títol; la resta, a sota." }
+                - { label: "Text del botó del bàner", name: boton, widget: string }
+            - label: English
+              name: en
+              widget: object
+              fields:
+                - { label: Text del bàner, name: banner, widget: text, hint: "La primera línia surt destacada com a títol; la resta, a sota." }
+                - { label: "Text del botó del bàner", name: boton, widget: string }
+            - label: Français
+              name: fr
+              widget: object
+              fields:
+                - { label: Text del bàner, name: banner, widget: text, hint: "La primera línia surt destacada com a títol; la resta, a sota." }
+                - { label: "Text del botó del bàner", name: boton, widget: string }
+            - label: Nederlands
+              name: nl
+              widget: object
+              fields:
+                - { label: Text del bàner, name: banner, widget: text, hint: "La primera línia surt destacada com a títol; la resta, a sota." }
+                - { label: "Text del botó del bàner", name: boton, widget: string }
+
     #Pages
     - name: 'pages-ca'
       label: 'Pàgines (Català)'

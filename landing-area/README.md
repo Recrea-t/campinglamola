@@ -35,6 +35,19 @@ python3 build.py     # requiere Pillow con soporte AVIF
 Luego `git add static landing-area`. Para cambiar textos, edita `src/<idioma>/landing.html`;
 para cambiar una foto, sustituye el fichero en `src/assets/` (mismo nombre).
 
+## Temporada de verano
+
+En verano el camping no funciona como área. En `/admin` → **Temporada** hay un interruptor y, por idioma, el texto
+del bàner y el del botón (se guardan en `data/temporada.json`). Al activarlo, tras la publicación automática de Netlify:
+
+- aparece un bàner amarillo encima de la cabecera (la primera línea del texto es el titular) con un botón a la
+  página de Parcelas del idioma (`parcelas` en [`pages.json`](pages.json));
+- los 4 botones de check-in mantienen su texto pero quedan desactivados (sin enlace y atenuados): el único enlace a
+  Parcelas es el del bàner.
+
+`build.py` deja el bàner oculto y vacío y marca los botones de check-in con `data-checkin`; el
+`onPostBuild` de `gatsby-node.js` lo activa al copiar la landing a `public/`. Con `gatsby develop` no se aplica.
+
 ## Tiempo en directo
 
 El chip de la cabecera llama a `/.netlify/functions/meteo` (`netlify/functions/meteo.js`), que consulta

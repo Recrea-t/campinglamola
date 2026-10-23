@@ -1,7 +1,9 @@
 //const _ = require("lodash")
+const fs = require("fs")
 const path = require("path")
 const webpack = require(`webpack`)
 const locales = require(`./data/i18n`)
+const areaPages = require(`./landing-area/pages.json`)
 const {
   localizedSlug,
   findKey,
@@ -163,4 +165,79 @@ exports.onCreateNode = ({ node, actions }) => {
       value: node.frontmatter.templateKey,
     })
   }
+}
+
+// Temporada de verano (interruptor «Temporada» del CMS, data/temporada.json):
+// las landings del área de autocaravanas muestran el bàner, cuyo botón lleva
+// a Parcelas, y sus botones de check-in quedan desactivados (mismo texto, sin
+// enlace). Las landings son HTML estático de static/ (landing-area/build.py)
+// que ya trae el bàner oculto y vacío y los botones marcados con data-checkin.
+// Se parte siempre de static/, así que apagar el interruptor deja la landing
+// como estaba.
+const escaparHtml = texto =>
+  String(texto || "")
+    .trim()
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+
+const aplicarTemporada = (html, textos = {}) => {
+  // La primera línea del texto del bàner es el titular; el resto, el detalle.
+  const [titulo, ...detalle] = escaparHtml(textos.banner).split(/\s*\n\s*/)
+  const boton = escaparHtml(textos.boton)
+  if (!titulo || !boton) throw new Error("falta el texto del bàner o del botón")
+
+  let botones = 0
+  const resultado = html
+    .replace(/<div class="temporada" hidden>/, () => `<div class="temporada">`)
+    .replace(
+      /<strong class="temporada-titulo"><\/strong><span class="temporada-detalle"><\/span>/,
+      () =>
+        `<strong class="temporada-titulo">${titulo}</strong>` +
+        `<span class="temporada-detalle">${detalle.join("<br>")}</span>`
+    )
+    .replace(
+      /<span class="temporada-boton-texto"><\/span>/,
+      () => `<span class="temporada-boton-texto">${boton}</span>`
+    )
+    // <a class="button" href="https://checkin…" data-checkin> → sin href (no navega) y aria-disabled
+    .replace(/ href="[^"]*" data-checkin>/g, () => {
+      botones++
+      return ` data-checkin role="link" aria-disabled="true">`
+    })
+  if (
+    botones === 0 ||
+    !resultado.includes(`<strong class="temporada-titulo">${titulo}</strong>`)
+  ) {
+    throw new Error(
+      "la landing no trae el marcado de temporada (regenérala con landing-area/build.py)"
+    )
+  }
+  return resultado
+}
+
+exports.onPostBuild = ({ reporter }) => {
+  const temporada = JSON.parse(
+    fs.readFileSync(path.join(__dirname, "data/temporada.json"), "utf8")
+  )
+  Object.entries(areaPages).forEach(([lang, { path: ruta }]) => {
+    const fichero = path.join(ruta, "index.html")
+    let html = fs.readFileSync(path.join(__dirname, "static", fichero), "utf8")
+    if (temporada.verano) {
+      try {
+        html = aplicarTemporada(html, temporada[lang])
+      } catch (e) {
+        reporter.panic(`Temporada de verano (${lang}): ${e.message}`)
+      }
+    }
+    fs.writeFileSync(path.join(__dirname, "public", fichero), html)
+  })
+  reporter.info(
+    `Landing del área: ${
+      temporada.verano
+        ? "temporada de verano (camping)"
+        : "fuera de temporada (check-in)"
+    }`
+  )
 }
