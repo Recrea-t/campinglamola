@@ -136,9 +136,8 @@ def enlazar_camping(html):
 
 def marcar_temporada(lang, html):
     """Temporada de verano: el camping deja de funcionar como área. Aquí solo se deja el marcado (bàner oculto y
-    vacío con el enlace a Parcelas, botones de check-in marcados con data-checkin); gatsby-node.js (onPostBuild)
-    muestra el bàner con los textos de data/temporada.json y desactiva esos botones cuando el interruptor del CMS
-    está encendido."""
+    vacío con el enlace a Parcelas, botones de check-in marcados con data-checkin y nota de estado #estado-area);
+    gatsby-node.js (onPostBuild) lo rellena según data/temporada.json con landing-area/temporada.js."""
     parcelas = PAGES[lang]['parcelas']
     sol = ('<svg class="temporada-icono" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="4.5"></circle>'
            '<path d="M12 2v2.5m0 15V22M2 12h2.5m15 0H22M4.9 4.9l1.8 1.8m10.6 10.6 1.8 1.8M4.9 19.1l1.8-1.8m10.6-10.6 1.8-1.8">'
@@ -153,7 +152,9 @@ def marcar_temporada(lang, html):
     html = html.replace('<header class="header">', banner + '<header class="header">', 1)
     html, n = re.subn(rf'(<a class="button[^"]*" href="https://checkin\.campinglamola\.com/{lang}\?calc")',
                       r'\1 data-checkin', html)
-    assert n == 4 and 'class="temporada"' in html, (lang, n)
+    # Nota del hero: pasa a indicar si el área está abierta o cerrada (landing-area/temporada.js).
+    html, notas = re.subn(r'<p class="hero-note">', '<p class="hero-note estado-area" id="estado-area">', html)
+    assert n == 4 and notas == 1 and 'class="temporada"' in html, (lang, n, notas)
     return html
 
 

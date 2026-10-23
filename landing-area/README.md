@@ -35,18 +35,26 @@ python3 build.py     # requiere Pillow con soporte AVIF
 Luego `git add static landing-area`. Para cambiar textos, edita `src/<idioma>/landing.html`;
 para cambiar una foto, sustituye el fichero en `src/assets/` (mismo nombre).
 
-## Temporada de verano
+## Temporada y estado del área
 
-En verano el camping no funciona como área. En `/admin` → **Temporada** hay un interruptor y, por idioma, el texto
-del bàner y el del botón (se guardan en `data/temporada.json`). Al activarlo, tras la publicación automática de Netlify:
+Todo se controla desde `/admin` → **Temporada** (se guarda en `data/temporada.json`):
 
-- aparece un bàner amarillo encima de la cabecera (la primera línea del texto es el titular) con un botón a la
-  página de Parcelas del idioma (`parcelas` en [`pages.json`](pages.json));
-- los 4 botones de check-in mantienen su texto pero quedan desactivados (sin enlace y atenuados): el único enlace a
-  Parcelas es el del bàner.
+- **Interruptor de temporada de verano.** Activado: bàner amarillo encima de la cabecera (la primera línea del
+  texto es el titular) con un botón a la página de Parcelas del idioma (`parcelas` en [`pages.json`](pages.json));
+  los 4 botones de check-in mantienen su texto pero quedan desactivados, y el schema no lleva horario.
+- **Fechas del área, opcionales** («Oberta des de» / «Oberta fins a», ninguna, una o las dos). Fuera del verano el
+  área está abierta salvo que las fechas digan otra cosa: solo «desde» → abre ese día; solo «hasta» → abierta hasta
+  ese día incluido; las dos → abierta entre ellas, o cerrada entre ellas si «desde» es posterior a «hasta». Cuando
+  está cerrada, el check-in se desactiva. El día se calcula con la hora de Espot.
+- **Nota de estado del hero** (`#estado-area`): «Área abierta…» con punto verde o «Área cerrada…» con punto rojo,
+  con las fechas escritas en cada idioma.
+- **Schema:** `openingHoursSpecification` del `Campground` (todos los días, 09:00–22:00, el horario del check-in)
+  con `validFrom`/`validThrough` según las fechas.
 
-`build.py` deja el bàner oculto y vacío y marca los botones de check-in con `data-checkin`; el
-`onPostBuild` de `gatsby-node.js` lo activa al copiar la landing a `public/`. Con `gatsby develop` no se aplica.
+`build.py` deja el marcado (bàner oculto, nota con id, botones con `data-checkin`) y el `onPostBuild` de
+`gatsby-node.js` lo rellena con [`temporada.js`](temporada.js) al copiar la landing a `public/`. Como el día cambia
+sin volver a publicar, si hay fechas la página lleva un script en línea que repite el cálculo en el navegador y
+actualiza la nota y los botones. Con `gatsby develop` no se aplica nada de esto.
 
 ## Tiempo en directo
 

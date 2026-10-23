@@ -1,5 +1,9 @@
 {
   "verano": false,
+  "area": {
+    "desde": "",
+    "hasta": ""
+  },
   "ca": {
     "banner": "Temporada d'estiu: ara som càmping\nL'àrea d'autocaravanes està tancada i el check-in en línia torna fora de temporada. Si véns amb autocaravana o camper, reserva una parcel·la del càmping.",
     "boton": "Veure parcel·les"

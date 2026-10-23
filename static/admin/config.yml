@@ -34,6 +34,13 @@ collections:
               widget: boolean
               default: false
               hint: "Activat: la landing de l'àrea d'autocaravanes mostra el bàner amb un botó a Parcel·les i els botons de check-in surten desactivats. Desactivat: landing normal amb check-in. El canvi es veu a la web en uns minuts, quan acaba la publicació."
+            - label: "Àrea d'autocaravanes oberta (fora de la temporada d'estiu)"
+              name: area
+              widget: object
+              hint: "Opcional: es pot deixar buit, posar-ne només una o totes dues. Per esborrar una data, buida'n el text. Fora d'aquestes dates la landing indica que l'àrea està tancada i el check-in surt desactivat; el canvi de dia és automàtic, no cal tornar a publicar. Si «Des de» és posterior a «Fins a», l'àrea queda tancada entre totes dues dates."
+              fields:
+                - { label: "Oberta des de", name: desde, widget: datetime, time_format: false, date_format: "DD/MM/YYYY", format: "YYYY-MM-DD", default: "", required: false }
+                - { label: "Oberta fins a (inclòs)", name: hasta, widget: datetime, time_format: false, date_format: "DD/MM/YYYY", format: "YYYY-MM-DD", default: "", required: false }
             - label: Català
               name: ca
               widget: object

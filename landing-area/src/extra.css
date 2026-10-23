@@ -32,7 +32,13 @@
 .lm-landing .temporada-detalle{font-size:15px}
 .lm-landing .temporada-boton{width:100%;justify-content:space-between}
 }
-/* Fuera de servicio en temporada de verano: mismo texto que el check-in, sin enlace y atenuado (gatsby-node.js). */
+/* Nota de estado del área en el hero: abierta (punto verde) o cerrada (rojo). La rellena gatsby-node.js
+   con landing-area/temporada.js; sin ese paso (gatsby develop) conserva el texto original. */
+.lm-landing .estado-area{display:inline-flex;align-items:center;gap:9px;margin-top:18px;padding:6px 14px 6px 12px;background:#fff;border:1px solid var(--line);border-radius:18px;font-size:13px;font-weight:600;line-height:1.4;color:var(--ink)}
+.lm-landing .estado-area:before{content:'';flex-shrink:0;width:9px;height:9px;border-radius:50%;background:#2e9d5b;box-shadow:0 0 0 3px rgba(46,157,91,.18)}
+.lm-landing .estado-cerrada{color:#8a2a1d;background:#fff5f2;border-color:rgba(192,65,43,.35)}
+.lm-landing .estado-cerrada:before{background:#c0412b;box-shadow:0 0 0 3px rgba(192,65,43,.18)}
+/* Check-in fuera de servicio (verano o área cerrada): mismo texto, sin enlace y atenuado. */
 .lm-landing .button[data-checkin]:not([href]){opacity:.4;cursor:not-allowed;filter:grayscale(1)}
 .lm-landing .button[data-checkin]:not([href]):hover{background:var(--green);transform:none}
 @media (prefers-reduced-motion:reduce){.lm-landing .temporada-boton{transition:none}.lm-landing .temporada-boton:hover{transform:none}}
