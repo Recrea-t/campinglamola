@@ -34,16 +34,25 @@ const SEO = ({ title, description, image, isBlogPost, datePublished }) => {
     url: `${siteUrl}${pathname}`,
   }
 
-  const url = pathname.replace(`/${locale}`, "") || "/"
-  const associatedUrls = languageMapping.find(item => {
-    let hasUrl = false
+  // Ruta sin prefijo de idioma ni barra final, como en data/language-mapping
+  const prefix = `/${locale}/`
+  const url = (
+    !locales[locale].default && pathname.startsWith(prefix)
+      ? pathname.slice(prefix.length - 1)
+      : pathname
+  ).replace(/(.)\/$/, "$1")
+  const associatedUrls = languageMapping.find(
+    item => item[locale] && item[locale].link === url
+  )
 
-    Object.entries(item).forEach(([_, value]) => {
-      if (value && value.link === url) return (hasUrl = true)
-    })
-
-    return hasUrl
-  })
+  // Las páginas se publican con barra final: sin ella, la URL hace 301
+  const localizedUrl = (lang, link) => {
+    const path = link === "/" ? "/" : `${link}/`
+    return locales[lang].default
+      ? `${siteUrl}${path}`
+      : `${siteUrl}/${lang}${path}`
+  }
+  const defaultLang = Object.keys(locales).find(lang => locales[lang].default)
 
   return (
     <React.Fragment>
@@ -54,20 +63,23 @@ const SEO = ({ title, description, image, isBlogPost, datePublished }) => {
         <meta name="theme-color" content={color} />
         <link rel="canonical" href={seo.url} />
         {associatedUrls &&
-          Object.keys(associatedUrls).map(lang => {
-            if (lang === locale) return null
-            const href = locales[lang].default
-              ? `${siteUrl}${associatedUrls[lang].link}`
-              : `${siteUrl}/${lang}${associatedUrls[lang].link}`
-            return (
+          Object.keys(associatedUrls)
+            .filter(lang => associatedUrls[lang])
+            .map(lang => (
               <link
                 rel="alternate"
                 hreflang={locales[lang].locale}
-                href={href}
+                href={localizedUrl(lang, associatedUrls[lang].link)}
                 key={lang}
               />
-            )
-          })}
+            ))}
+        {associatedUrls && associatedUrls[defaultLang] && (
+          <link
+            rel="alternate"
+            hreflang="x-default"
+            href={localizedUrl(defaultLang, associatedUrls[defaultLang].link)}
+          />
+        )}
 
         {/* OpenGraph tags */}
         <meta property="og:url" content={seo.url} />

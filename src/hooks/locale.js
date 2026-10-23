@@ -10,8 +10,12 @@ const languages = Object.keys(locales)
 const key = "gastby-language"
 const defaultLang = "ca"
 
-const LocaleProvider = ({ children }) => {
+const LocaleProvider = ({ locale: pageLocale, children }) => {
   const [locale, setLocale] = useState(() => {
+    // El idioma de la página manda: en el render del servidor no hay
+    // window y, sin esto, todas las páginas salían en catalán.
+    if (pageLocale) return pageLocale
+
     let detected = defaultLang
 
     if (typeof window !== "undefined") {
@@ -44,6 +48,7 @@ const LocaleProvider = ({ children }) => {
 }
 
 LocaleProvider.propTypes = {
+  locale: PropTypes.string,
   children: PropTypes.oneOfType([
     PropTypes.arrayOf(PropTypes.node),
     PropTypes.node,
