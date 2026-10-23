@@ -140,7 +140,8 @@ def transformar(lang, html, css, js_url):
     og_img = f'{SITIO}{ASSETS_URL}/{OG_NOMBRE}'
 
     # Identificadores y URLs propias
-    html = html.replace('https://checkin.campinglamola.com/#campground', f'{SITIO}/#area-autocaravanas')
+    # Un solo @id para el área en los 5 idiomas: las fuentes traen #campground-<idioma>
+    html = re.sub(r'https://checkin\.campinglamola\.com/#campground(-[a-z]{2})?', f'{SITIO}/#area-autocaravanas', html)
     html = html.replace(viejo + '#faqs', u + '#faqs')
     for l in LANGS:
         html = html.replace(f'https://checkin.campinglamola.com/{l}/landing.html', url(l))
