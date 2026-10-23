@@ -19,7 +19,7 @@ Las URLs y el texto del enlace del footer están en [`pages.json`](pages.json). 
   las fotos originales y el widget del tiempo (`widget/`).
 - `build.py` genera el resultado en `static/` (Gatsby lo publica tal cual):
   - `static/<ruta de cada idioma>/index.html`: página autocontenida con el CSS purgado e incrustado
-    (~6 KB gzip), canonical/hreflang/JSON-LD con el dominio `www.campinglamola.com`.
+    (~6 KB gzip), canonical/hreflang/JSON-LD con el dominio `campinglamola.com`.
   - `static/area-assets/`: fotos en AVIF + WebP con varios tamaños (`srcset`), imagen Open Graph,
     logo y `meteo.<hash>.js`.
 - **No edites `static/area-assets/` ni los `index.html` a mano**: se regeneran.

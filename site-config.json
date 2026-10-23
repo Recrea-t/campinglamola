@@ -2,7 +2,7 @@
   "title": "Càmping La Mola",
   "titleTemplate": "%s · Càmping La Mola",
   "description": "Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i espaiosos bungalows.",
-  "siteUrl": "https://www.campinglamola.com",
+  "siteUrl": "https://campinglamola.com",
   "image": "/images/Logo.svg",
   "color": "#00ab59",
   "author": {
@@ -12,7 +12,7 @@
   },
   "organization": {
     "name": "Càmping La Mola",
-    "url": "https://www.campinglamola.com",
+    "url": "https://campinglamola.com",
     "logo": "/images/icon.svg",
     "email": "info@campinglamola.com",
     "phones": [

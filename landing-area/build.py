@@ -17,7 +17,7 @@ SRC = AQUI / 'src'
 RAIZ = AQUI.parent
 OUT = pathlib.Path(sys.argv[1]) if len(sys.argv) > 1 else RAIZ / 'static'
 ASSETS_URL = '/area-assets'
-SITIO = 'https://www.campinglamola.com'
+SITIO = 'https://campinglamola.com'
 
 sys.path.insert(0, str(AQUI))
 PAGES = json.loads((AQUI / 'pages.json').read_text(encoding='utf8'))

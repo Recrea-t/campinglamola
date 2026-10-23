@@ -8,9 +8,9 @@ local_backend: true
 media_folder: static/images
 public_folder: /images
 
-site_url: https://www.campinglamola.com
+site_url: https://campinglamola.com
 display_url: https://campinglamola.com
-logo_url: https://www.campinglamola.com/images/logo.svg
+logo_url: https://campinglamola.com/images/logo.svg
 
 show_preview_links: false
 
