@@ -19,7 +19,7 @@ const {
 //}
 
 exports.createPages = ({ actions, graphql }) => {
-  const { createPage } = actions
+  const { createPage, createRedirect } = actions
 
   return graphql(`
     {
@@ -73,6 +73,17 @@ exports.createPages = ({ actions, graphql }) => {
           templateKey,
         },
       })
+
+      // Netlify sirve la 404 de cada idioma con código 404 (no 200), para que
+      // las URLs inexistentes no cuenten como soft 404. Sustituye a la regla
+      // 200 que generaría gatsby-plugin-netlify a partir del matchPath.
+      if (!isDefault && slug === "404") {
+        createRedirect({
+          fromPath: `/${locale}/*`,
+          toPath: `/${locale}/404/`,
+          statusCode: 404,
+        })
+      }
     })
   })
 }

@@ -41,9 +41,10 @@ const SEO = ({ title, description, image, isBlogPost, datePublished }) => {
       ? pathname.slice(prefix.length - 1)
       : pathname
   ).replace(/(.)\/$/, "$1")
-  const associatedUrls = languageMapping.find(
-    item => item[locale] && item[locale].link === url
-  )
+  const is404 = url === "/404"
+  const associatedUrls = is404
+    ? null
+    : languageMapping.find(item => item[locale] && item[locale].link === url)
 
   // Las páginas se publican con barra final: sin ella, la URL hace 301
   const localizedUrl = (lang, link) => {
@@ -61,7 +62,11 @@ const SEO = ({ title, description, image, isBlogPost, datePublished }) => {
         <meta name="description" content={seo.description} />
         <meta name="image" content={seo.image} />
         <meta name="theme-color" content={color} />
-        <link rel="canonical" href={seo.url} />
+        {is404 ? (
+          <meta name="robots" content="noindex" />
+        ) : (
+          <link rel="canonical" href={seo.url} />
+        )}
         {associatedUrls &&
           Object.keys(associatedUrls)
             .filter(lang => associatedUrls[lang])
