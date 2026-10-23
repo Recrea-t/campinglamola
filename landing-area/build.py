@@ -124,6 +124,16 @@ def sincronizar_faq(html):
     return html[:m.start()] + nuevo + html[m.end():]
 
 
+def enlazar_camping(html):
+    """El área forma parte del camping: containedInPlace al Campground que emite el sitio Gatsby (SchemaOrg.js)."""
+    m = re.search(r'(<script type="application/ld\+json">)(.*?)(</script>)', html, flags=re.S)
+    datos = json.loads(m.group(2))
+    area = next(n for n in datos['@graph'] if 'Campground' in n['@type'])
+    area['containedInPlace'] = {'@id': f'{SITIO}/#camping'}
+    nuevo = m.group(1) + '\n' + json.dumps(datos, ensure_ascii=False, indent=2) + '\n' + m.group(3)
+    return html[:m.start()] + nuevo + html[m.end():]
+
+
 def transformar(lang, html, css, js_url):
     u = url(lang)
     viejo = f'https://checkin.campinglamola.com/{lang}/landing.html'
@@ -145,6 +155,7 @@ def transformar(lang, html, css, js_url):
     alt = ''.join(f'\n  <meta property="og:locale:alternate" content="{OG_LOCALE[l]}" />' for l in LANGS if l != lang)
     html = re.sub(r'(<meta property="og:locale" content="[^"]*" />)', lambda m: m.group(1) + alt, html, 1)
     html = sincronizar_faq(html)
+    html = enlazar_camping(html)
     # x-default
     html = re.sub(r'(hreflang="x-default" href=")[^"]+', lambda m: m.group(1) + url(X_DEFAULT), html)
 

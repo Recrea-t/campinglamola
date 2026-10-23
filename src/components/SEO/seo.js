@@ -25,7 +25,14 @@ const SEO = ({ title, description, image, isBlogPost, datePublished }) => {
     social,
   } = useSiteMetadata()
 
-  const { defaultTitle, defaultDescription, ogLanguage } = locales[locale]
+  const {
+    defaultTitle,
+    defaultDescription,
+    ogLanguage,
+    siteLanguage,
+    amenities,
+    petsAllowed,
+  } = locales[locale]
 
   const seo = {
     title: title || defaultTitle,
@@ -122,7 +129,12 @@ const SEO = ({ title, description, image, isBlogPost, datePublished }) => {
         siteUrl={siteUrl}
         author={author}
         organization={organization}
+        social={social}
+        lang={siteLanguage}
         defaultTitle={defaultTitle}
+        defaultDescription={defaultDescription}
+        amenities={amenities}
+        petsAllowed={petsAllowed}
       />
     </React.Fragment>
   )

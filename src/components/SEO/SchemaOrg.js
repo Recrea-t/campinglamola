@@ -3,24 +3,66 @@ import { Helmet } from "react-helmet";
 
 export default React.memo(
   ({
+    amenities,
     author,
     siteUrl,
     datePublished,
     defaultTitle,
+    defaultDescription,
     description,
     image,
     isBlogPost,
+    lang,
     organization,
+    petsAllowed,
+    social,
     title,
     url,
   }) => {
+    // El camping entero. La landing del área de autocaravanas enlaza aquí con
+    // containedInPlace (landing-area/build.py), así que este @id no debe cambiar.
+    const campingId = `${siteUrl}/#camping`;
+
     const baseSchema = [
       {
-        "@context": "http://schema.org",
-        "@type": "WebSite",
-        url,
-        name: title,
-        alternateName: defaultTitle,
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": `${siteUrl}/#website`,
+            url: `${siteUrl}/`,
+            name: organization.name,
+            inLanguage: lang,
+            publisher: { "@id": campingId },
+          },
+          {
+            "@type": ["Campground", "LodgingBusiness", "LocalBusiness"],
+            "@id": campingId,
+            name: organization.name,
+            url: `${siteUrl}/`,
+            description: defaultDescription,
+            email: organization.email,
+            telephone: organization.phones[0].number,
+            contactPoint: organization.phones.map(phone => ({
+              "@type": "ContactPoint",
+              telephone: phone.number,
+              contactType: "customer service",
+            })),
+            logo: `${siteUrl}${organization.logo}`,
+            address: { "@type": "PostalAddress", ...organization.postalAddress },
+            geo: { "@type": "GeoCoordinates", ...organization.geo },
+            hasMap: organization.hasMap,
+            amenityFeature: amenities.map(name => ({
+              "@type": "LocationFeatureSpecification",
+              name,
+              value: true,
+            })),
+            petsAllowed,
+            sameAs: [
+              `${social.facebook.baseUrl}${social.facebook.username}`,
+            ],
+          },
+        ],
       },
     ];
 

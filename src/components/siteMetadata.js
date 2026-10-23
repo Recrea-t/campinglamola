@@ -27,6 +27,18 @@ const useSiteMetadata = () => {
                 title
               }
               address
+              postalAddress {
+                streetAddress
+                addressLocality
+                addressRegion
+                postalCode
+                addressCountry
+              }
+              geo {
+                latitude
+                longitude
+              }
+              hasMap
             }
             social {
               facebook {
