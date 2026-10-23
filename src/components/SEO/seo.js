@@ -48,7 +48,8 @@ const SEO = ({ title, description, image, isBlogPost, datePublished }) => {
       ? pathname.slice(prefix.length - 1)
       : pathname
   ).replace(/(.)\/$/, "$1")
-  const is404 = url === "/404"
+  // La 404 catalana se genera dos veces: /404/ y /404.html (la que sirve Netlify)
+  const is404 = /^\/404(\.html)?$/.test(url)
   const associatedUrls = is404
     ? null
     : languageMapping.find(item => item[locale] && item[locale].link === url)
