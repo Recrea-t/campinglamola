@@ -25,7 +25,14 @@ const SEO = ({ title, description, image, isBlogPost, datePublished }) => {
     social,
   } = useSiteMetadata()
 
-  const { defaultTitle, defaultDescription, ogLanguage } = locales[locale]
+  const {
+    defaultTitle,
+    defaultDescription,
+    ogLanguage,
+    siteLanguage,
+    amenities,
+    petsAllowed,
+  } = locales[locale]
 
   const seo = {
     title: title || defaultTitle,
@@ -34,16 +41,27 @@ const SEO = ({ title, description, image, isBlogPost, datePublished }) => {
     url: `${siteUrl}${pathname}`,
   }
 
-  const url = pathname.replace(`/${locale}`, "") || "/"
-  const associatedUrls = languageMapping.find(item => {
-    let hasUrl = false
+  // Ruta sin prefijo de idioma ni barra final, como en data/language-mapping
+  const prefix = `/${locale}/`
+  const url = (
+    !locales[locale].default && pathname.startsWith(prefix)
+      ? pathname.slice(prefix.length - 1)
+      : pathname
+  ).replace(/(.)\/$/, "$1")
+  // La 404 catalana se genera dos veces: /404/ y /404.html (la que sirve Netlify)
+  const is404 = /^\/404(\.html)?$/.test(url)
+  const associatedUrls = is404
+    ? null
+    : languageMapping.find(item => item[locale] && item[locale].link === url)
 
-    Object.entries(item).forEach(([_, value]) => {
-      if (value && value.link === url) return (hasUrl = true)
-    })
-
-    return hasUrl
-  })
+  // Las páginas se publican con barra final: sin ella, la URL hace 301
+  const localizedUrl = (lang, link) => {
+    const path = link === "/" ? "/" : `${link}/`
+    return locales[lang].default
+      ? `${siteUrl}${path}`
+      : `${siteUrl}/${lang}${path}`
+  }
+  const defaultLang = Object.keys(locales).find(lang => locales[lang].default)
 
   return (
     <React.Fragment>
@@ -52,22 +70,29 @@ const SEO = ({ title, description, image, isBlogPost, datePublished }) => {
         <meta name="description" content={seo.description} />
         <meta name="image" content={seo.image} />
         <meta name="theme-color" content={color} />
-        <link rel="canonical" href={seo.url} />
+        {is404 ? (
+          <meta name="robots" content="noindex" />
+        ) : (
+          <link rel="canonical" href={seo.url} />
+        )}
         {associatedUrls &&
-          Object.keys(associatedUrls).map(lang => {
-            if (lang === locale) return null
-            const href = locales[lang].default
-              ? `${siteUrl}${associatedUrls[lang].link}`
-              : `${siteUrl}/${lang}${associatedUrls[lang].link}`
-            return (
+          Object.keys(associatedUrls)
+            .filter(lang => associatedUrls[lang])
+            .map(lang => (
               <link
                 rel="alternate"
                 hreflang={locales[lang].locale}
-                href={href}
+                href={localizedUrl(lang, associatedUrls[lang].link)}
                 key={lang}
               />
-            )
-          })}
+            ))}
+        {associatedUrls && associatedUrls[defaultLang] && (
+          <link
+            rel="alternate"
+            hreflang="x-default"
+            href={localizedUrl(defaultLang, associatedUrls[defaultLang].link)}
+          />
+        )}
 
         {/* OpenGraph tags */}
         <meta property="og:url" content={seo.url} />
@@ -105,7 +130,12 @@ const SEO = ({ title, description, image, isBlogPost, datePublished }) => {
         siteUrl={siteUrl}
         author={author}
         organization={organization}
+        social={social}
+        lang={siteLanguage}
         defaultTitle={defaultTitle}
+        defaultDescription={defaultDescription}
+        amenities={amenities}
+        petsAllowed={petsAllowed}
       />
     </React.Fragment>
   )

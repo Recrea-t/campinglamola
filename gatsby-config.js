@@ -180,6 +180,9 @@ module.exports = {
     {
       resolve: "gatsby-plugin-netlify",
       options: {
+        // Las 404 por idioma se sirven con código 404 desde gatsby-node.js
+        // (createRedirect); sin esto el plugin añade reglas con código 200.
+        generateMatchPathRewrites: false,
         headers: {
           // Landing del área de autocaravanas: imágenes y script con nombre estable o con hash.
           "/area-assets/*": [

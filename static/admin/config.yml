@@ -8,15 +8,70 @@ local_backend: true
 media_folder: static/images
 public_folder: /images
 
-site_url: https://www.campinglamola.com
+site_url: https://campinglamola.com
 display_url: https://campinglamola.com
-logo_url: https://www.campinglamola.com/images/logo.svg
+logo_url: https://campinglamola.com/images/logo.svg
 
 show_preview_links: false
 
 locale: "ca"
 
 collections:
+    #Temporada d'estiu: interruptor de la landing de l'àrea d'autocaravanes (gatsby-node.js, onPostBuild)
+    - name: 'temporada'
+      label: 'Temporada'
+      create: false
+      delete: false
+      editor:
+        preview: false
+      files:
+        - name: 'temporada'
+          label: "Temporada d'estiu"
+          file: 'data/temporada.json'
+          fields:
+            - label: "Temporada d'estiu (funciona com a càmping)"
+              name: verano
+              widget: boolean
+              default: false
+              hint: "Activat: la landing de l'àrea d'autocaravanes mostra el bàner amb un botó a Parcel·les i els botons de check-in surten desactivats. Desactivat: landing normal amb check-in. El canvi es veu a la web en uns minuts, quan acaba la publicació."
+            - label: "Àrea d'autocaravanes oberta (fora de la temporada d'estiu)"
+              name: area
+              widget: object
+              hint: "Opcional: es pot deixar buit, posar-ne només una o totes dues. Per esborrar una data, buida'n el text. Fora d'aquestes dates la landing indica que l'àrea està tancada i el check-in surt desactivat; el canvi de dia és automàtic, no cal tornar a publicar. Si «Des de» és posterior a «Fins a», l'àrea queda tancada entre totes dues dates."
+              fields:
+                - { label: "Oberta des de", name: desde, widget: datetime, time_format: false, date_format: "DD/MM/YYYY", format: "YYYY-MM-DD", default: "", required: false }
+                - { label: "Oberta fins a (inclòs)", name: hasta, widget: datetime, time_format: false, date_format: "DD/MM/YYYY", format: "YYYY-MM-DD", default: "", required: false }
+            - label: Català
+              name: ca
+              widget: object
+              fields:
+                - { label: Text del bàner, name: banner, widget: text, hint: "La primera línia surt destacada com a títol; la resta, a sota." }
+                - { label: "Text del botó del bàner", name: boton, widget: string }
+            - label: Castellano
+              name: es
+              widget: object
+              fields:
+                - { label: Text del bàner, name: banner, widget: text, hint: "La primera línia surt destacada com a títol; la resta, a sota." }
+                - { label: "Text del botó del bàner", name: boton, widget: string }
+            - label: English
+              name: en
+              widget: object
+              fields:
+                - { label: Text del bàner, name: banner, widget: text, hint: "La primera línia surt destacada com a títol; la resta, a sota." }
+                - { label: "Text del botó del bàner", name: boton, widget: string }
+            - label: Français
+              name: fr
+              widget: object
+              fields:
+                - { label: Text del bàner, name: banner, widget: text, hint: "La primera línia surt destacada com a títol; la resta, a sota." }
+                - { label: "Text del botó del bàner", name: boton, widget: string }
+            - label: Nederlands
+              name: nl
+              widget: object
+              fields:
+                - { label: Text del bàner, name: banner, widget: text, hint: "La primera línia surt destacada com a títol; la resta, a sota." }
+                - { label: "Text del botó del bàner", name: boton, widget: string }
+
     #Pages
     - name: 'pages-ca'
       label: 'Pàgines (Català)'

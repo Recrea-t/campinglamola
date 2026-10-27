@@ -1,0 +1,27 @@
+{
+  "verano": false,
+  "area": {
+    "desde": "",
+    "hasta": ""
+  },
+  "ca": {
+    "banner": "Temporada d'estiu: ara som càmping\nL'àrea d'autocaravanes està tancada i el check-in en línia torna fora de temporada. Si véns amb autocaravana o camper, reserva una parcel·la del càmping.",
+    "boton": "Veure parcel·les"
+  },
+  "es": {
+    "banner": "Temporada de verano: ahora somos camping\nEl área de autocaravanas está cerrada y el check-in online vuelve fuera de temporada. Si vienes en autocaravana o camper, reserva una parcela del camping.",
+    "boton": "Ver parcelas"
+  },
+  "en": {
+    "banner": "Summer season: we are now a campsite\nThe motorhome area is closed and online check-in returns in the off-season. If you are coming with a motorhome or camper, book a pitch at the campsite.",
+    "boton": "See pitches"
+  },
+  "fr": {
+    "banner": "Saison d'été : nous sommes désormais un camping\nL'aire de camping-cars est fermée et le check-in en ligne revient hors saison. Si vous venez en camping-car ou en van, réservez un emplacement au camping.",
+    "boton": "Voir les emplacements"
+  },
+  "nl": {
+    "banner": "Zomerseizoen: we zijn nu een camping\nDe camperplaats is gesloten en online inchecken is buiten het seizoen weer mogelijk. Kom je met een camper, reserveer dan een kampeerplaats op de camping.",
+    "boton": "Bekijk kampeerplaatsen"
+  }
+}

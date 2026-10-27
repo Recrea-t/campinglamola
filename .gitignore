@@ -5,3 +5,4 @@ static/admin/*.bundle.*
 .swp
 .env
 .env.*
+__pycache__/

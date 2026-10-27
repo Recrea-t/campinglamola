@@ -20,7 +20,7 @@ const LON = '1.1101092';
 const ALTITUDE = '1300';
 
 // MET Norway responde 403 sin un User-Agent identificable con contacto real.
-const USER_AGENT = 'LaMolaCheckin/1.0 (https://www.campinglamola.com; info@campinglamola.com)';
+const USER_AGENT = 'LaMolaCheckin/1.0 (https://campinglamola.com; info@campinglamola.com)';
 const UPSTREAM_URL =
   'https://api.met.no/weatherapi/locationforecast/2.0/compact' +
   `?lat=${LAT}&lon=${LON}&altitude=${ALTITUDE}`;

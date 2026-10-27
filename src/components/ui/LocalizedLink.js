@@ -33,11 +33,11 @@ const LocalizedLink = React.forwardRef(
 
     // If it's the default language, don't do anything
     // If it's another language, add the "path"
-    // However, if the homepage/index page is linked don't add the "to"
-    // Because otherwise this would add a trailing slash
-    const path = locales[locale].default
+    // Pages are published with a trailing slash: without it the link gets a 301
+    const localized = locales[locale].default
       ? to
-      : `/${locales[locale].path}${isIndex ? `` : `${to}`}`
+      : `/${locales[locale].path}${to}`
+    const path = localized.endsWith(`/`) ? localized : `${localized}/`
 
     if (!children) {
       children = <span>{title}</span>

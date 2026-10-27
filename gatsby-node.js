@@ -1,7 +1,14 @@
 //const _ = require("lodash")
+const fs = require("fs")
 const path = require("path")
 const webpack = require(`webpack`)
 const locales = require(`./data/i18n`)
+const areaPages = require(`./landing-area/pages.json`)
+const {
+  aplicarTemporada,
+  estadoArea,
+  hoyEnEspot,
+} = require(`./landing-area/temporada`)
 const {
   localizedSlug,
   findKey,
@@ -19,7 +26,7 @@ const {
 //}
 
 exports.createPages = ({ actions, graphql }) => {
-  const { createPage } = actions
+  const { createPage, createRedirect } = actions
 
   return graphql(`
     {
@@ -73,6 +80,17 @@ exports.createPages = ({ actions, graphql }) => {
           templateKey,
         },
       })
+
+      // Netlify sirve la 404 de cada idioma con código 404 (no 200), para que
+      // las URLs inexistentes no cuenten como soft 404. Sustituye a la regla
+      // 200 que generaría gatsby-plugin-netlify a partir del matchPath.
+      if (!isDefault && slug === "404") {
+        createRedirect({
+          fromPath: `/${locale}/*`,
+          toPath: `/${locale}/404/`,
+          statusCode: 404,
+        })
+      }
     })
   })
 }
@@ -152,4 +170,35 @@ exports.onCreateNode = ({ node, actions }) => {
       value: node.frontmatter.templateKey,
     })
   }
+}
+
+// Estado de la landing del área (sección «Temporada» del CMS, data/temporada.json):
+// bàner de verano, nota de abierta/cerrada, botones de check-in y horario del
+// schema. La lógica está en landing-area/temporada.js. Se parte siempre de la
+// landing de static/, así que cambiar el CMS y volver a publicar basta.
+exports.onPostBuild = ({ reporter }) => {
+  const temporada = JSON.parse(
+    fs.readFileSync(path.join(__dirname, "data/temporada.json"), "utf8")
+  )
+  const hoy = hoyEnEspot()
+  Object.entries(areaPages).forEach(([lang, { path: ruta }]) => {
+    const fichero = path.join(ruta, "index.html")
+    let html = fs.readFileSync(path.join(__dirname, "static", fichero), "utf8")
+    try {
+      html = aplicarTemporada(html, lang, temporada, hoy)
+    } catch (e) {
+      reporter.panic(`Landing del área (${lang}): ${e.message}`)
+    }
+    fs.writeFileSync(path.join(__dirname, "public", fichero), html)
+  })
+  const area = temporada.area || {}
+  reporter.info(
+    `Landing del área: ${
+      temporada.verano
+        ? "temporada de verano (camping)"
+        : `área ${estadoArea(area.desde, area.hasta, hoy)} (desde: ${
+            area.desde || "—"
+          }, hasta: ${area.hasta || "—"})`
+    }`
+  )
 }

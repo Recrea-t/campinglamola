@@ -11,3 +11,34 @@
 .lm-landing h1 .h1-kicker{display:block;font-family:inherit;font-size:15px;font-weight:600;letter-spacing:.2px;line-height:1.3;color:var(--green);margin-bottom:12px}
 .lm-landing h1 .h1-kicker:after{content:':';}
 .lm-landing .footer-ayuda a{font-weight:500;color:var(--ink)}
+/* Bàner de temporada de verano: sale oculto; lo muestra gatsby-node.js (onPostBuild) con el interruptor del CMS.
+   Amarillo cálido frente al verde y crema de toda la página, icono de sol y titular grande: es lo primero que se ve. */
+.lm-landing .temporada{background:#f6c445;color:var(--ink);border-bottom:4px solid #d9a21b}
+.lm-landing .temporada[hidden]{display:none}
+.lm-landing .temporada-inner{max-width:1380px;margin:auto;padding:24px 56px;display:flex;flex-wrap:wrap;align-items:center;gap:16px 28px}
+.lm-landing .temporada-icono{width:52px;height:52px;flex-shrink:0;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round}
+.lm-landing .temporada-texto{flex:1 1 420px;margin:0;max-width:78ch}
+.lm-landing .temporada-titulo{display:block;font-family:var(--serif);font-size:28px;font-weight:400;line-height:1.15;letter-spacing:-.3px}
+.lm-landing .temporada-detalle{display:block;margin-top:6px;font-size:16px;font-weight:500;line-height:1.5}
+.lm-landing .temporada-detalle:empty{display:none}
+.lm-landing .temporada-boton{display:inline-flex;align-items:center;gap:16px;flex-shrink:0;margin-left:auto;min-height:56px;padding:14px 26px;background:var(--green);color:#fff;font-size:16px;font-weight:700;border-radius:4px;box-shadow:0 6px 18px rgba(40,60,48,.28);transition:background .2s,transform .2s}
+.lm-landing .temporada-boton:hover{background:var(--green-hover);transform:translateY(-2px)}
+@media (max-width:1100px){.lm-landing .temporada-inner{padding-inline:40px}}
+@media (max-width:600px){
+.lm-landing .temporada-inner{padding:18px 20px 20px;align-items:flex-start;gap:14px}
+.lm-landing .temporada-icono{width:36px;height:36px}
+.lm-landing .temporada-texto{flex-basis:0}
+.lm-landing .temporada-titulo{font-size:23px}
+.lm-landing .temporada-detalle{font-size:15px}
+.lm-landing .temporada-boton{width:100%;justify-content:space-between}
+}
+/* Nota de estado del área en el hero: abierta (punto verde) o cerrada (rojo). La rellena gatsby-node.js
+   con landing-area/temporada.js; sin ese paso (gatsby develop) conserva el texto original. */
+.lm-landing .estado-area{display:inline-flex;align-items:center;gap:9px;margin-top:18px;padding:6px 14px 6px 12px;background:#fff;border:1px solid var(--line);border-radius:18px;font-size:13px;font-weight:600;line-height:1.4;color:var(--ink)}
+.lm-landing .estado-area:before{content:'';flex-shrink:0;width:9px;height:9px;border-radius:50%;background:#2e9d5b;box-shadow:0 0 0 3px rgba(46,157,91,.18)}
+.lm-landing .estado-cerrada{color:#8a2a1d;background:#fff5f2;border-color:rgba(192,65,43,.35)}
+.lm-landing .estado-cerrada:before{background:#c0412b;box-shadow:0 0 0 3px rgba(192,65,43,.18)}
+/* Check-in fuera de servicio (verano o área cerrada): mismo texto, sin enlace y atenuado. */
+.lm-landing .button[data-checkin]:not([href]){opacity:.4;cursor:not-allowed;filter:grayscale(1)}
+.lm-landing .button[data-checkin]:not([href]):hover{background:var(--green);transform:none}
+@media (prefers-reduced-motion:reduce){.lm-landing .temporada-boton{transition:none}.lm-landing .temporada-boton:hover{transform:none}}

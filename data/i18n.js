@@ -11,7 +11,23 @@ module.exports = {
     ogLanguage: `ca_ES`,
     defaultTitle: "Càmping La Mola",
     defaultDescription:
-      "Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i espaiosos bungalows.",
+      "Càmping familiar a Espot, al costat del Parc Nacional d'Aigüestortes i Estany de Sant Maurici (Pirineu de Lleida). Parcel·les amb gespa i ombra, bungalous i gaials.",
+    // Ficha del camping (SchemaOrg.js): servicios y mascotas
+    amenities: [
+      "Piscina exterior",
+      "Zona wifi",
+      "Bar cafeteria (estiu i Setmana Santa)",
+      "Supermercat (estiu)",
+      "Sanitaris amb dutxes i bany adaptat",
+      "Parc infantil",
+      "Tenis i ping-pong",
+      "Sala de jocs",
+      "Sala d'estar",
+      "Bugaderia",
+      "Zona coberta amb taules de pícnic",
+      "Barbacoes",
+    ],
+    petsAllowed: "Sí, a les parcel·les (no als bungalous ni als gaials)",
   },
   es: {
     path: `es`,
@@ -22,7 +38,23 @@ module.exports = {
     ogLanguage: `es_ES`,
     defaultTitle: "Camping La Mola",
     defaultDescription:
-      "Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i espaiosos bungalows.",
+      "Camping familiar en Espot, junto al Parque Nacional de Aigüestortes i Estany de Sant Maurici (Pirineo de Lleida). Parcelas con césped y sombra, bungalows y gaials.",
+    // Ficha del camping (SchemaOrg.js): servicios y mascotas
+    amenities: [
+      "Piscina exterior",
+      "Zona wifi",
+      "Bar cafetería (verano y Semana Santa)",
+      "Supermercado (verano)",
+      "Sanitarios con duchas y baño adaptado",
+      "Parque infantil",
+      "Tenis y ping-pong",
+      "Sala de juegos",
+      "Sala de estar",
+      "Lavandería",
+      "Zona cubierta con mesas de pícnic",
+      "Barbacoas",
+    ],
+    petsAllowed: "Sí, en las parcelas (no en bungalows ni gaials)",
   },
   en: {
     path: `en`,
@@ -33,7 +65,23 @@ module.exports = {
     ogLanguage: `en_GB`,
     defaultTitle: "Camping La Mola",
     defaultDescription:
-      "Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i espaiosos bungalows.",
+      "Family campsite in Espot, next to Aigüestortes i Estany de Sant Maurici National Park (Lleida Pyrenees). Grassy, shaded pitches, bungalows and gaials (apartments).",
+    // Ficha del camping (SchemaOrg.js): servicios y mascotas
+    amenities: [
+      "Outdoor swimming pool",
+      "Wi-Fi area",
+      "Bar cafeteria (summer and Easter)",
+      "Shop (summer)",
+      "Toilets and showers, accessible bathroom",
+      "Playground",
+      "Tennis and table tennis",
+      "Games room",
+      "Living room",
+      "Laundry",
+      "Covered picnic area",
+      "Barbecues",
+    ],
+    petsAllowed: "Yes, on pitches (not in bungalows or gaials)",
   },
   fr: {
     path: `fr`,
@@ -44,7 +92,23 @@ module.exports = {
     ogLanguage: `fr_FR`,
     defaultTitle: "Camping La Mola",
     defaultDescription:
-      "Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i espaiosos bungalows.",
+      "Camping familial à Espot, à côté du Parc national d'Aigüestortes i Estany de Sant Maurici (Pyrénées de Lleida). Emplacements ombragés sur herbe, bungalows et gaials.",
+    // Ficha del camping (SchemaOrg.js): servicios y mascotas
+    amenities: [
+      "Piscine extérieure",
+      "Zone wifi",
+      "Bar cafétéria (été et Pâques)",
+      "Magasin (été)",
+      "Sanitaires avec douches et salle de bain adaptée",
+      "Aire de jeux",
+      "Tennis et tennis de table",
+      "Salle de jeux",
+      "Salon",
+      "Laverie",
+      "Aire de pique-nique couverte",
+      "Barbecues",
+    ],
+    petsAllowed: "Oui, sur les emplacements (pas dans les bungalows ni les gaials)",
   },
   nl: {
     path: `nl`,
@@ -55,6 +119,22 @@ module.exports = {
     ogLanguage: `nl_NL`,
     defaultTitle: "Camping La Mola",
     defaultDescription:
-      "Càmping situat a la zona del Parc Nacional d'Aigüestortes i Estany de Sant Maurici, l'enclavament ideal per relaxar-se i gaudir de privilegiats paisatges. Oferim àmplies parcel·les amb gespa i ombra, aixícom còmodes i espaiosos bungalows.",
+      "Familiecamping in Espot, naast het Nationaal Park Aigüestortes i Estany de Sant Maurici (Pyreneeën van Lleida). Schaduwrijke grasplaatsen, bungalows en gaials.",
+    // Ficha del camping (SchemaOrg.js): servicios y mascotas
+    amenities: [
+      "Buitenzwembad",
+      "Wifi-zone",
+      "Bar-cafetaria (zomer en Pasen)",
+      "Winkel (zomer)",
+      "Sanitair met douches en aangepaste badkamer",
+      "Kinderspeeltuin",
+      "Tennis en tafeltennis",
+      "Speelzaal",
+      "Zitkamer",
+      "Wasserette",
+      "Overdekte picknickplaats",
+      "Barbecues",
+    ],
+    petsAllowed: "Ja, op de kampeerplaatsen (niet in bungalows of gaials)",
   },
 }

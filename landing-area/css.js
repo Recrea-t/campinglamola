@@ -8,7 +8,7 @@ const fs = require('fs');
   const res = await new PurgeCSS().purge({
     content: html.map(f => ({ raw: fs.readFileSync(f, 'utf8'), extension: 'html' })).concat([{ raw: fs.readFileSync(process.env.METEO_JS, 'utf8'), extension: 'js' }]),
     css: files.map(f => ({ raw: fs.readFileSync(f, 'utf8') })),
-    safelist: { standard: [/^meteo-/], greedy: [/\[open\]/] },
+    safelist: { standard: [/^meteo-/, /^estado-/], greedy: [/\[open\]/] },
     keyframes: true, fontFace: true, variables: true,
     // Clases/ids (con los caracteres de Tailwind), palabras sueltas y nombres de etiqueta (br, em, summary…).
     defaultExtractor: c => [

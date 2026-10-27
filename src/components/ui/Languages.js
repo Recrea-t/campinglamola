@@ -20,12 +20,13 @@ const Languages = () => {
 
     localStorage.setItem("gatsby-language", lang)
 
-    const url = window.location.pathname.split("/").pop()
+    // Pages end with "/": take the last non-empty segment
+    const url = window.location.pathname.split("/").filter(Boolean).pop()
 
     if (!url || url === lang)
       return locales[lang].default
         ? navigate(`/`, options)
-        : navigate(`/${lang}`, options)
+        : navigate(`/${lang}/`, options)
 
     const associatedUrls = languageMapping.find(item => {
       let hasUrl = false
@@ -40,11 +41,13 @@ const Languages = () => {
     if (!associatedUrls)
       return locales[lang].default
         ? navigate(`/`, options)
-        : navigate(`/${lang}`, options)
+        : navigate(`/${lang}/`, options)
 
+    const link = associatedUrls[lang].link
+    const path = link === "/" ? "/" : `${link}/`
     return locales[lang].default
-      ? navigate(`${associatedUrls[lang].link}`, options)
-      : navigate(`/${lang}${associatedUrls[lang].link}`, options)
+      ? navigate(path, options)
+      : navigate(`/${lang}${path}`, options)
   }
 
   if (typeof window !== "undefined") {
